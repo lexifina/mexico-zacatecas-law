@@ -493,8 +493,6 @@ Si las aguas son de propiedad federal, se estará a lo dispuesto en la ley respe
 237.- Cuando el mérito artístico de la obra sea inferior en precio a la materia, el dueño de ésta hará suya la nueva especie y tendrá derecho, además, para reclamar indemnización de daños y perjuicios, descontándose del monto de éstos el valor de la obra, a tasación de peritos.
 238.- Si la especificación se hizo de mala fe, el dueño de la materia empleada tiene derecho de quedarse con la obra sin pagar nada al que la hizo, o exigir de éste que le pague el valor de la materia y le indemnice de los daños y perjuicios que se le hayan seguido.
 239.- La mala fe en los casos de mezcla o confusión se calificará conforme a Io dispuesto en los artículos 211 y 212.
-TITULO QUINTO
-DEL USUFRUCTO, DEL USO Y DE LA HABITACION
 CAPITULO SEPTIMO
 DE LA COPROPIEDAD
 240.- Hay copropiedad cuando un bien o una universalidad de bienes y obligaciones apreciables en dinero, pertenecen pro indiviso a dos o más personas.
@@ -556,6 +554,8 @@ VIII.- Cuando la cerca que encierra completamente una propiedad es de distinta e
 280.- La división de bienes inmuebles es nula si no se hace con las mismas formalidades que la ley exige para su venta.
 281.- Son aplicables a la división de herencia, las reglas señaladas en este Capítulo.
 282.- Para todo lo no previsto en este Capítulo, se estará a lo dispuesto en las leyes de propiedad en condominio para el Estado, en cuanto no se opongan a lo perceptuado por este Código.
+TITULO QUINTO
+DEL USUFRUCTO, DEL USO Y DE LA HABITACION
 CAPITULO PRIMERO
 DEL USUFRUCTO EN GENERAL
 283.- El usufructo es un derecho real, temporal, generalmente vitalicio, para usar y disfrutar de los bienes ajenos sin alterar su forma ni sustancia.
@@ -1432,7 +1432,7 @@ IV.- Los que por el mal estado habitual de salud o por no saber leer y escribir,
 V.- Los que tengan a su cargo otro albaceazgo;
 VI.- Los mayores de setenta y cinco años.
 874.- El albacea que estuviere ejerciendo el cargo mientras se decide sobre su excusa, debe desempeñarlo, bajo la pena establecida en el artículo 871.
-875.- El albacea no podrá delegar el cargo que ha recibido, ni por su muerte pasa a sus herederos; pero no está obligado a obrar personalmente, ya que puede hacerlo por mandatarios que obren bajo sus órdenes, respondiendo de los actos de éstos
+875.- El albacea no podrá delegar el cargo que ha recibido, ni por su muerte pasa a sus herederos; pero no está obligado a obrar personalmente, ya que puede hacerlo por mandatarios que obren bajo sus órdenes, respondiendo de los actos de éstos.
 876.- El albacea universal está obligado a entregar al especial las cantidades o bienes necesarios para que cumpla la parte del testamento que estuviere a su cargo.
 877.- Si el cumplimiento del legado dependiere de un término o condición suspensiva, podrá el albacea universal retener el bien o cantidad legada, dando garantía a satisfacción del legatario o del albacea especial, de que la entrega se hará a su debido tiempo.
 878.- El albacea especial podrá también, a nombre del legatario, exigir la constitución de la hipoteca necesaria.
@@ -1471,7 +1471,7 @@ El albacea que no presente la proposición de que se trata, o que durante dos bi
 900.- Las cuentas de albaceazgo, a más de lo relativo a la mera administración del caudal hereditario, deberán referirse a los pagos que se hubieren hecho por concepto de créditos o legados y cuanto se refiere a la gestión el albacea que afecte los bienes o derechos correspondientes a la sucesión.
 901.- La obligación que de rendir cuentas tiene el albacea, pasa a sus herederos.
 902.- Son nulas las disposiciones por las que el testador dispensa al albacea de la obligación de hacer inventario y avalúo o de rendir cuentas.
-903.- Las cuentas deben ser aprobadas por todos los herederos; el que disienta podrá seguir, a su consta, el incidente o juicio respectivo, según se trate de cuenta de mera administración o de cuenta general de albaceazgo.
+903.- Las cuentas deben ser aprobadas por todos los herederos; el que disienta podrá seguir, a su costa, el incidente o juicio respectivo, según se trate de cuenta de mera administración o de cuenta general de albaceazgo.
 904.- Cuando sea heredero el Estado, alguna institución pública educativa, o los herederos fueren incapaces, ausentes o desconocidos, intervendrá el Ministerio Público en la aprobación de las cuentas.
 905.- En la aprobación de las cuentas los interesados pueden celebrar los convenios que quieran.
 En el caso que fueren varios los herederos inconformes, los convenios se harán por mayoría de votos.
@@ -1496,7 +1496,7 @@ Se exceptúan de lo dispuesto en el párrafo anterior, los casos previstos en lo
 920.- Si el testador no señalare la retribución, el albacea cobrará el dos por ciento del importe líquido de los bienes de la herencia, y el cinco por ciento de los frutos de los bienes hereditarios.
 921.- El albacea tiene derecho de elegir entre lo que le deja el testador por el desempeño del cargo y lo que la ley le concede por el mismo motivo.
 922.- Si fueren varios y obran conjuntamente los albaceas, la retribución se repartirá entre todos ellos; si fueren sucesivos, la repartición se hará en proporción al tiempo que cada uno haya administrado y al trabajo que hubiere tenido en la administración.
-923.- Si el testador legó conjuntamente a los albaceas algún bien, por el desempeño de su cargo, la parte de los que no admiten éste, acrercerá a los que lo ejerzan.
+923.- Si el testador legó conjuntamente a los albaceas algún bien, por el desempeño de su cargo, la parte de los que no admiten éste, acrecerá a los que lo ejerzan.
 924.- Los cargos de albacea e inventor acaban:
 I.- Por el término natural del encargo;
 II.- Por muerte;
@@ -1673,7 +1673,7 @@ III.- Analfabetos que no sepan leer ni escribir, cuando se justifique que estamp
 1037.- La acción para pedir la nulidad de un contrato hecho por la violencia, prescribe a los seis meses contados a partir del día en que cese tal vicio del consentimiento.
 1038.- El acto jurídico viciado de nulidad en parte, no es totalmente nulo si las partes que lo integran pueden legalmente subsistir separadas, a menos que se demuestre que al celebrarse el acto se quiso que sólo íntegramente subsistiera.
 1039.- La anulación del acto obliga a las partes a restituirse mutuamente lo que han recibido o percibido en virtud o por consecuencia del acto anulado.
-1040.- Si el acto fuera bilateral y las obligaciones correlativas consisten ambas en sumas de dinero, o en bienes productivos de frutos, no se hará la restitución respectiva de intereses o de frutos sino desde el día de la demanda de nulidad. Los intereses y los frutos percibidos hasta esa época se compensan entre sí.
+1040.- Si el acto fuera bilateral y las obligaciones correlativas consisten ambas en sumas de dinero o en bienes productivos de frutos, no se hará la restitución respectiva de intereses o de frutos sino desde el día de la demanda de nulidad. Los intereses y los frutos percibidos hasta esa época se compensan entre sí.
 1041.- Mientras una de las partes en los actos plurilaterales, no cumpla con la devolución de aquello que en virtud de la declaración de nulidad del acto está obligada a restituir, no puede ser compelida la otra parte a restituir lo que hubiere recibido.
 1042.- Todos los derechos reales o personales transmitidos a terceros sobre un bien, por una persona que ha llegado a ser propietaria de él en virtud de un acto anulado, quedan sin ningún valor y pueden ser reclamados directamente del poseedor actual mientras que no se cumpla la prescripción, exceptuándose el caso de que se perjudiquen los derechos de los terceros adquirientes de buena fe, pues en tal hipótesis se estará a lo dispuesto para la protección reconocida por este Código a dichos terceros.
 1043.- Los efectos restitutorios de la nulidad se sujetarán a las reglas siguientes:
@@ -1723,7 +1723,7 @@ Los derechos personalísimos no son transmisibles ni por contrato ni por sucesi�
 1072.- Es contrato oneroso aquél en que se estipulan provechos y gravámenes recíprocos; y gratuito aquél en que el provecho es solamente para una de las partes.
 1073.- El contrato oneroso es conmutativo cuando las prestaciones que se deben las partes son ciertas, en cuanto a su existencia y cuantía, desde que se celebra el contrato. Es aleatorio cuando las partes o una de ellas desconocen la existencia o cuantía de las prestaciones que deben, por depender tales prestaciones de un acontecimiento futuro.
 1074.- Son contratos consensuales aquéllos que se perfeccionan por el mero consentimiento de las partes y la ley no exige que se prueben por escrito ni que se entregue el bien objeto del contrato para la constitución de éste.
-Se llaman formales los contratos que, perfeccionándose por el mero consentimiento de las partes, deben probarse mediante prueba documental, sea pública o privada, según determine la ley.
+Se llaman formales los contratos que, perfeccionándose por el mero consentimiento de las partes, deben probarse mediante prueba documental , sea pública o privada, según determine la ley.
 El contrato será real cuando la ley exija, para su constitución, que al celebrarse se entregue el bien o bienes que sean objeto de las obligaciones creadas por el contrato.
 1075.- Se llaman contratos de tracto sucesivo aquéllos cuya vigencia tiene una cierta duración, de tal manera que ambas partes o una de ellas van cumpliendo sus obligaciones o ejercitando sus derechos a través de cierto tiempo.
 Los contratos son instantáneos cuando las prestaciones se realizan inmediatamente.
@@ -1981,9 +1981,9 @@ VI.- Si se mejora a expensas del deudor, no tendrá éste otro derecho que el co
 1239.- La facultad de resolver las obligaciones se entiende implícita en las recíprocas, para el caso de que uno de los obligados no cumpla lo que le incumbe.
 El perjudicado podrá escoger entre exigir el cumplimiento o la resolución de la obligación, con el resarcimiento de daños y perjuicios en ambos casos.
 También podrá pedir la resolución aún después de haber optado por el cumplimiento, cuando éste resultare imposible.
-1240.- La resolución del contrato fundada en falta de pago por parte del adquiriente de la propiedad de bienes inmuebles u otro derecho real sobre los mismos, no surtirá efecto contra tercero de buena fe, si no se ha estipulado expresamente y ha sido inscrito en el Reglamento Público en la forma prevenida por la ley.
+1240.- La resolución del contrato fundada en falta de pago por parte del adquiriente de la propiedad de bienes inmuebles u otro derecho real sobre los mismos, no surtirá efecto contra tercero de buena fe, si no se ha estipulado expresamente y ha sido inscrito en el Registro Público en la forma prevenida por la ley.
 1241.- Respecto de bienes muebles no tendrá lugar la rescisión, salvo lo previsto para las ventas en las que se faculte al comprador a pagar el precio en abonos.
-1242.- Si la rescisión del contrato dependiere de un tercero y éste fuera dolosamente inducido a rescindirlo, se tendrá por no rescindido.
+1242.- Si la rescisión del contrato dependiere de un tercero y éste fuere dolosamente inducido a rescindirlo, se tendrá por no rescindido.
 CAPITULO SEGUNDO
 DE LAS OBLIGACIONES A PLAZO
 1243.- Es obligación a plazo aquella para cuyo cumplimiento se ha señalado un día cierto.
@@ -2633,8 +2633,8 @@ DE LA FORMA DEL CONTRATO DE COMPRAVENTA
 1668.- Si alguno de los contratantes no supiere escribir, firmará a su nombre y a su ruego otra persona con capacidad legal, no pudiendo firmar con ese carácter ninguno de los testigos, sino que lo hará a su ruego otra persona y en el documento se imprimirá la huella digital del interesado que no firmó.
 1669.- De dicho instrumento se formularán cinco tantos para distribuirse entre los interesados, Autoridades Fiscales y Registro Público.
 1670.- Si el valor del inmueble excede del equivalente a cien días del salario mínimo vigente en la época de la celebración del contrato, su venta se otorgará en escritura pública.
-(ADICIONADO, P.O. 1 DE MAYO DE 1991)
-Sin embargo cuando se trate de operaciones o contratos otorgados por la Comisión para la Regularización de la Tenencia de la Tierra, podrán hacerse constar en documento privado celebrado ante dos testigos, que contenga además, la constancia a que se refiere el Artículo 2475 fracción III de este Código.
+(ADICIONADO, P.O. 4 DE JULIO DE 2001)
+Sin embargo cuando se trate de operaciones o contratos otorgados por la Comisión para la Regularización de la Tenencia de la Tierra o por el Consejo Promotor de la Vivienda Popular, podrán hacerse constar en documento privado celebrado ante dos testigos, que contenga además la constancia a que se refiere el artículo 2475, fracción III de este Código.
 1671.- La venta de bienes raíces no producirá efectos contra terceros sino después de registrado en los términos prescritos por este Código.
 CAPITULO NOVENO
 DE LAS VENTAS JUDICIALES
@@ -3706,7 +3706,7 @@ La venta extrajudicial de la prenda se hará por conducto de corredor o de comer
 2349.- En cualquiera de los casos mencionados en los artículos anteriores, podrá el deudor hacer suspender la enajenación de la prenda, pagando dentro de los tres días siguientes al de la suspensión.
 2350.- Si el producto de la venta excede a la deuda, se entregará el exceso al deudor; pero si el precio no cubre todo el crédito, tiene derecho el acreedor de demandar al deudor por lo que falte.
 2351.- Es nula toda cláusula que autoriza al acreedor a apropiarse de la prenda, aunque ésta sea de menor valor que la deuda, o a disponer de ella fuera de la manera establecida en los artículos que preceden.
-Es igualmente nula la cláusula que prohíbe al acreedor solicitar la venta del bien dado en prenda.
+Es igualmente nula la cláusula que prohibe al acreedor solicitar la venta del bien dado en prenda.
 2352.- El derecho que da la prenda al acreedor se extiende sobre los siguientes bienes:
 I.- A todas las accesiones del bien;
 II.- A las mejoras hechas por el propietario; y
