@@ -1257,7 +1257,7 @@ III.- Pagar los salarios de los trabajadores en mercancías, vales, fichas, tarj
 IV.- Retener, en todo o en parte los salarios de los trabajadores en concepto de multa, deuda, o por cualquier otro que no esté autorizado legalmente;
 V.- Pagar los salarios de los trabajadores en tabernas, cantinas, prostíbulos o en cualquier otro lugar de vicio;
 VI.- Obligar a los trabajadores a realizar jornadas sin descanso que excedan de once horas en las labores diurnas y de siete en las nocturnas;
-(REFORMADAP.O. 5 DE JULIO DE 1997)
+(REFORMADA P.O. 5 DE JULIO DE 1997)
 VII.- Imponer labores insalubres o peligrosas y trabajos nocturnos a las mujeres y a los jóvenes menores de dieciocho años;
 VIII.- Violar sin causa justificada en perjuicio de los trabajadores, los convenios formalizados ante la Junta de Conciliación y Arbitraje, o ante los funcionarios o empleados de ésta que sean competentes para autorizar semejantes convenios; o
 IX.- Sostener u organizar directa o indirectamente, por sí o por interpósita persona, sindicatos blancos dentro de las negociaciones, o por cualquier otro medio procurar divisiones o discordias entre las organizaciones de trabajadores legalmente reconocidas.
@@ -1370,7 +1370,7 @@ III.- OBSERVADOR ELECTORAL.- La persona que siendo acreditada como tal por la au
 IV.- ENCUESTADOR.- Es la persona física o moral que realice encuestas o sondeos de opinión para conocer la tendencia de la preferencia electoral y los resultados de la misma.
 (REFORMADA, P.O. 22 DE FEBRERO DE 1997)
 V.- DOCUMENTOS PUBLICOS ELECTORALES.- Las actas oficiales de instalación de casillas, las de escrutinio y cómputo municipales, distritales o estatales, listados, boletas electorales, credencial para votar con fotografía, credencial de identidad para funcionarios y observadores electorales, y en general, cualquier documento expedido en el ejercicio de sus funciones por los órganos del Instituto Electoral del Estado de Zacatecas o del Tribunal Estatal Electoral;
-VI.- SON SERVIDORES PUBLICOS.- Los así considerados por la Constitución Política del Estado de Zacatecas y la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Zacatecas; y
+VI.- SON SERVIDORES PUBLICOS.- Los así considerados por la Constitución Política del Estado de Zacatecas y la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Zacatecas;
 (ADICIONADA, P.O. 22 DE FEBRERO DE 1997)
 VII.- CANDIDATOS.- Los ciudadanos registrados formalmente como tales ante la autoridad competente por los partidos políticos.
 (ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O.6 DE MAYO DE 1995)
@@ -1537,7 +1537,7 @@ Comuníquese al Ejecutivo del Estado para su promulgación y publicación.
 D A D O en la Sala de Sesiones de la H. Quincuagésima Primera Legislatura del Estado, a los catorce días del mes de mayo de mil novecientos ochenta y seis:- Diputado Presidente.- Profr. Leobardo Martínez Gallegos.- Diputado Secretario.- Martha Veyna de García.- Diputado Secretario.- Felipe de Jesús Ortiz Herrera.- Rúbricas.
 Y para que llegue a conocimiento de todos y se le dé el debido cumplimiento, mando se imprima, publique y circule.
 Dado en el Despacho del Poder Ejecutivo del Estado, a los quince días del mes de mayo de mil novecientos ochenta y seis.- El Gobernador Constitucional del Estado.- José Guadalupe Cervantes Corona.- Rúbrica.- El Secretario de Gobierno.- Lic. Roberto Almanza Félix.- Rúbrica.
-N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.
+N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A L PRESENTE CODIGO.
 P.O. 30 DE DICIEMBRE DE 1989.
 DECRETO No. 82
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
