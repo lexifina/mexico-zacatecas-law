@@ -900,6 +900,22 @@ ABANDONO DE FAMILIARES
 El abandono en perjuicio de menores de edad que no tuvieren otro u otros familiares que provean a su subsistencia, se perseguirá de oficio y su penalidad será de uno a tres años de prisión y multa de diez a cincuenta cuotas.
 253.- Para que el perdón concedido por el ofendido o su representante pueda producir efectos, el responsable deberá pagar todas las cantidades que hubiere dejado de ministrar por concepto de alimentos y garantizar el pago futuro de los mismos.
 254.- Si del abandono resultare algún daño, ya sea muerte, lesiones o cualquier otro, se aplicarán las sanciones del delito preterintencional.
+(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 22 DE AGOSTO DE 2001)
+CAPITULO VIII
+VIOLENCIA FAMILIAR
+(ADICIONADO, P.O. 22 DE AGOSTO DE 2001)
+254-A.- Violencia familiar es el uso del poder, de la fuerza física o moral, así como la omisión grave, de manera reiterada, en contra de un miembro de la familia por otro integrante de la misma, con la intención de someterla a su dominio, o de dañar su integridad física, psíquica o sexual, independientemente de que pueda o no causar lesiones, o de que resulte cualquier otro delito.
+(ADICIONADO, P.O. 22 DE AGOSTO DE 2001)
+254-B.- Comete el delito de violencia familiar, el cónyuge, concubina o concubinario; pariente consanguíneo en línea recta ascendente o descendente sin limitación de grado; o en línea transversal hasta el cuarto grado; pariente por afinidad hasta el segundo grado; el adoptante o el adoptado, siempre y cuando, habiten en el mismo domicilio.
+(ADICIONADO, P.O. 22 DE AGOSTO DE 2001)
+254-C.- A quien cometa el delito de violencia familiar se le impondrá de seis meses a seis años de prisión, multa de cinco a cincuenta cuotas, y perderá el derecho a pensión alimenticia, en su caso.
+El delito de violencia familiar se perseguirá por querella de la parte ofendida, salvo que la víctima sea menor de edad o incapaz, caso en que se perseguirá de oficio.
+(ADICIONADO, P.O. 22 DE AGOSTO DE 2001)
+254-D.- Se equipara al delito de violencia familiar y se impondrá la misma sanción:
+I.- Cuando la violencia familiar se cometa en contra de los parientes de la concubina o del concubinario, siempre y cuando, lo sean por consanguinidad o por afinidad hasta el segundo grado;
+II.- Cuando sin existir relación de parentesco, el sujeto pasivo sea un menor de edad, incapacitado, discapacitado, anciano, o cualquier otra persona que esté sujeta a la custodia, guarda, protección, educación, instrucción o cuidado, siempre y cuando el autor de la violencia y la víctima habiten en el mismo domicilio.
+(ADICIONADO, P.O. 22 DE AGOSTO DE 2001)
+254-E.- En todos los casos de violencia familiar, el Ministerio Público deberá intervenir, independientemente de que exista o no, querella o denuncia. Exhortará al presunto responsable para que se abstenga de cualquier conducta ofensiva hacia la víctima; acordará las medidas preventivas que estime necesarias para salvaguardar la integridad física y psíquica del agredido, solicitara a la autoridad judicial las medidas precautorias que considere pertinentes y vigilará su cumplimiento.
 TITULO DECIMO CUARTO
 CAPITULO UNICO
 DELITOS EN MATERIA DE INHUMACIONES Y EXHUMACIONES
@@ -1289,7 +1305,7 @@ III.- Pagar los salarios de los trabajadores en mercancías, vales, fichas, tarj
 IV.- Retener, en todo o en parte los salarios de los trabajadores en concepto de multa, deuda, o por cualquier otro que no esté autorizado legalmente;
 V.- Pagar los salarios de los trabajadores en tabernas, cantinas, prostíbulos o en cualquier otro lugar de vicio;
 VI.- Obligar a los trabajadores a realizar jornadas sin descanso que excedan de once horas en las labores diurnas y de siete en las nocturnas;
-(REFORMADA P.O. 5 DE JULIO DE 1997)
+(REFORMADA, P.O. 5 DE JULIO DE 1997)
 VII.- Imponer labores insalubres o peligrosas y trabajos nocturnos a las mujeres y a los jóvenes menores de dieciocho años;
 VIII.- Violar sin causa justificada en perjuicio de los trabajadores, los convenios formalizados ante la Junta de Conciliación y Arbitraje, o ante los funcionarios o empleados de ésta que sean competentes para autorizar semejantes convenios; o
 IX.- Sostener u organizar directa o indirectamente, por sí o por interpósita persona, sindicatos blancos dentro de las negociaciones, o por cualquier otro medio procurar divisiones o discordias entre las organizaciones de trabajadores legalmente reconocidas.
