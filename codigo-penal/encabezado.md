@@ -334,7 +334,7 @@ CAPITULO III
 PERDON DEL OFENDIDO O LEGITIMADO PARA OTORGARLO
 89.- El perdón del ofendido o del legitimado para otorgarlo, extingue la acción penal respecto de los delitos que solamente pueden perseguirse por querella, siempre que se conceda antes de pronunciarse sentencia ejecutoria y el reo no se oponga a su otorgamiento.
 Cuando sean varios los ofendidos y cada uno pueda ejercer separadamente la facultad de perdonar al responsable del delito y al encubridor, el perdón sólo surtirá efectos respecto de quien lo otorga.
-El perdón sólo beneficia al inculpado en cuyo favor se otorga, a menos que el ofendido o el legitimado para otorgarlo, hubiesen obtenido la satisfacción de sus intereses o derechos en cuyo caso beneficiará a todos los inculpados y al encubridor.
+El perdón sólo beneficia al inculpado en cuyo favor se otorga, a menos que el ofendido o el legitimado para otorgarlo, hubiesen obtenido la satisfacción de sus intereses o derechos, en cuyo caso beneficiará a todos los inculpados y al encubridor.
 CAPITULO IV
 INDULTO
 90.- El indulto extingue las penas impuestas en sentencia ejecutoria, salvo el decomiso y la reparación de los daños y perjuicios.
@@ -759,7 +759,7 @@ CAPITULO VII
 USURPACION DE FUNCIONES PUBLICAS O DE PROFESION
 228.- Se sancionará con prisión de tres meses a tres años y multa de cinco a veinticinco cuotas:
 I.- Al que, sin ser servidor público, se atribuya ese carácter y ejerza alguna de las funciones de tal;
-II.- Al que, sin tener título profesional o autorización para ejercer alguna profesión reglamentada, expedidos por autoridad u organismos legalmente capacitados para ello, conforme a las disposiciones reglamentarias del artículo 5º, Constitucional:
+II.- Al que, sin tener título profesional o autorización para ejercer alguna profesión reglamentada, expedidos por autoridad u organismos legalmente capacitados para ello, conforme a las disposiciones reglamentarias del artículo 5º. Constitucional:
 a) Se atribuya el carácter de profesionista;
 b) Realice actos propios de una actividad profesional;
 c) Ofrezca públicamente sus servicios como profesionista;
@@ -881,7 +881,7 @@ III.- Al particular que por medio de la violencia obligue a una persona a tolera
 IV.- Al que de alguna manera viole con perjuicio de otro, los derechos establecidos por la Constitución General de la República o por la Constitución del Estado en favor de las personas.
 266.- Se impondrán de quince a treinta años de prisión y multa de cincuenta a ciento cincuenta cuotas, cuando la detención arbitraria tenga el carácter de plagio o secuestro, en alguna de las formas siguientes:
 I.- Cuando se trate de obtener rescate, o de causar daños o perjuicios al plagiado o a otra persona relacionada con aquél;
-II.- Cuando se haga uso de amenazas graves, de maltrato o de tormento;
+II.- Cuando se haga uso de amenazas graves, de maltrato de tormento;
 III.- Cuando la detención se haga en camino público o en paraje solitario; y
 IV.- Cuando los plagiarios obren en grupo o banda.
 267.- Si el plagiario pone en libertad a la persona secuestrada, espontáneamente, antes de tres días y sin causarle perjuicio alguno, sólo se aplicarán las sanciones que señala el artículo 265.
@@ -926,7 +926,7 @@ Lo prevenido en esta fracción, no comprende el caso en que la imputación sea c
 Cuando el delito sea de los que se persiguen de oficio, solamente podrá acusarse por calumnia.
 Cuando la querella fuere por calumnia, se permitirán al inculpado pruebas de su imputación y si ésta quedare probada se librará a aquél de toda sanción, excepto en el caso del artículo 275.
 284.- No servirá de excusa de la difamación, ni de la calumnia, que el hecho imputado sea notorio, o que el responsable no haya hecho más que reproducir lo ya publicado en la República o en otro país.
-TITULO DECIMO SEPTIMO
+TITULO DECIMOSEPTIMO
 DELITOS CONTRA LA VIDA Y LA INTEGRIDAD CORPORAL
 CAPITULO I
 LESIONES
@@ -1207,3 +1207,7 @@ Comuníquese al Ejecutivo del Estado para su promulgación y publicación.
 D A D O en la Sala de Sesiones de la H. Quincuagésima Primera Legislatura del Estado, a los catorce días del mes de mayo de mil novecientos ochenta y seis:- Diputado Presidente.- Profr. Leobardo Martínez Gallegos.- Diputado Secretario.- Martha Veyna de García.- Diputado Secretario.- Felipe de Jesús Ortiz Herrera.- Rúbricas.
 Y para que llegue a conocimiento de todos y se le dé el debido cumplimiento, mando se imprima, publique y circule.
 Dado en el Despacho del Poder Ejecutivo del Estado, a los quince días del mes de mayo de mil novecientos ochenta y seis.- El Gobernador Constitucional del Estado.- José Guadalupe Cervantes Corona.- Rúbrica.- El Secretario de Gobierno.- Lic. Roberto Almanza Félix.- Rúbrica.
+N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.
+P.O. 30 DE DICIEMBRE DE 1989.
+DECRETO No. 82
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
