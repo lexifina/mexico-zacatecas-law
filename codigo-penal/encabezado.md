@@ -624,7 +624,9 @@ IX.- El director o encargado de cualquier establecimiento destinado a prisión p
 X.- Autorizar expresamente se cometan violaciones a la Constitución Federal, a la del Estado o a las leyes que de ellas emanen;
 XI.- Aprovechar el poder o autoridad propios del empleo, cargo o comisión que desempeñe, para satisfacer indebidamente algún interés propio o de cualquiera otra persona; y
 XII.- El servidor público que teniendo conocimiento de una privación ilegal de libertad, no la haga cesar si esto estuviere dentro de sus atribuciones.
+(REFORMADO, P.O. 30 DE JUNIO DE 2004)
 195.- Al que cometa el delito de abuso de autoridad se le impondrá prisión de seis meses a seis años, multa de cinco a cincuenta cuotas y destitución de empleo.
+Lo anterior sin perjuicio de que se imponga hasta por seis años la pena de inhabilitación para desempeñar cualquier cargo o función pública, estatal o municipal, aún aquéllos de los considerados bajo la naturaleza jurídica de honoríficos.
 (ADICIONADO, P.O. 28 DE MAYO DE 1994)
 195 Bis.- El agente de una corporación de seguridad pública que en ejercicio de sus funciones o con motivo de ellas, haga objeto de vejaciones físicas o verbales a un menor de edad o niegue a éste la protección o el servicio que estuviere obligado a proporcionarle, será sancionado con prisión de uno a tres años, multa de diez a treinta cuotas, o inhabilitación para desempeñar cualquier empleo, cargo o comisión con el carácter de autoridad pública.
 CAPITULO III
@@ -636,11 +638,15 @@ COHECHO
 197.- Comete el delito de cohecho:
 I.- La persona encargada de un servicio público del Estado, o descentralizado, o del municipio, o el funcionario de una empresa en que como accionista o asociado participe el Estado, que por sí o por interpósita persona solicite o reciba indebidamente dinero o cualquier otra dádiva o acepte una promesa, para hacer o dejar de hacer algo lícito o ilícito relacionado con sus funciones; y
 II.- El que dé u ofrezca dinero o cualquiera otra dádiva a la persona encargada de un servicio público del Estado, Municipal o descentralizado o de participación estatal, sea o no servidor público, para que haga u omita un acto lícito o ilícito relacionado con sus funciones.
-198.- El delito de cohecho se sancionará con tres meses a cinco años de prisión y multa equivalente a dos tantos del beneficio obtenido, solicitado u ofrecido; al cohechado se le impondrá además la destitución de su empleo, cargo o comisión, pero el cohechador quedará libre de toda responsabilidad penal, siempre que haya obrado por coacción moral y que dentro de los cinco días siguientes a la comisión del delito ponga los hechos en conocimiento del Ministerio Público y pruebe aquella circunstancia.
+(REFORMADO, P.O. 30 DE JUNIO DE 2004)
+198.- El delito de cohecho se sancionará con uno a seis años de prisión y multa equivalente a dos tantos del beneficio obtenido, solicitado u ofrecido; al cohechado se le impondrá además la destitución de su empleo, cargo o comisión, pero el cohechador quedará libre de toda responsabilidad penal, siempre que haya obrado por coacción moral y que dentro de los cinco días siguientes a la comisión del delito ponga los hechos en conocimiento del Ministerio Público y pruebe aquella circunstancia.
 CAPITULO V
 PECULADO
 199.- Comete el delito de peculado el servidor público del Estado, Municipio u organismo descentralizado, aún cuando sea en comisión por tiempo limitado y no tenga el carácter de funcionario, que, para usos propios o ajenos, distraiga de su objeto, dinero, valores, fincas o cualquier otra cosa perteneciente al Estado, a un Municipio, a un organismo descentralizado, o a un particular, si por razón de su cargo los hubiere recibido en administración, en depósito o por otra causa.
-200.- Al que cometa el delito de peculado se le impondrán de seis meses a seis años de prisión, multa equivalente a dos tantos del beneficio obtenido y destitución de empleo o cargo e inhabilitación para desempeñar otros, de seis meses a tres años si el monto del beneficio obtenido no excede de cien veces el salario mínimo mensual y de tres a diez años si excede de dicho límite.
+(REFORMADO, P.O. 30 DE JUNIO DE 2004)
+200.- Al que cometa el delito de peculado se le impondrán de uno a diez años de prisión, multa equivalente a dos tantos del beneficio obtenido y destitución de empleo o cargo.
+Lo anterior sin perjuicio de que cuando el monto del beneficio obtenido no excediere de cien veces el salario mínimo general mensual se imponga hasta por tres años la pena de inhabilitación para desempeñar cualquier cargo o función pública, estatal o municipal, aún aquellos de los considerados bajo la naturaleza jurídica de honoríficos.
+Si el monto del beneficio obtenido excediere del límite a que se refiere el párrafo anterior, la inhabilitación será de tres a diez años.
 (REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1989)
 201.- La sanción será de tres meses a seis meses de prisión, si dentro de los treinta días siguientes a la denuncia, devolviere el responsable lo sustraído.
 Esta disposición se entiende sin perjuicio de la destitución, de la inhabilitación y de la multa correspondiente.
@@ -657,8 +663,10 @@ II.- Teniendo a su cargo la custodia de documentos o efectos sellados por la aut
 III.- Abrieren o consintieren abrir sin la autorización correspondiente, papeles o documentos cerrados cuya custodia le estuviere confiada.
 CAPITULO VIII
 ENRIQUECIMIENTO ILICITO
+(REFORMADO, P.O. 30 DE JUNIO DE 2004)
 205.- Al servidor público que con motivo de su empleo, cargo o comisión en el servicio público, haya incurrido en enriquecimiento ilícito, se le impondrá de uno a nueve años de prisión y de cincuenta a doscientos cincuenta cuotas, además del decomiso de los bienes cuya procedencia no se logre acreditar.
-Se presumirá que existe enriquecimiento ilícito, cuando el servidor público no pudiere acreditar el legítimo aumento de su patrimonio o la legítima procedencia de los bienes a su nombre o de aquellos respecto de los cuales se conduzca como dueño, en los términos de la Ley de Responsabilidades de los Servidores Públicos.
+Lo anterior sin perjuicio de que se imponga hasta por diez años la pena de inhabilitación para desempeñar cualquier cargo o función pública, estatal o municipal, aún aquéllos de los considerados bajo la naturaleza jurídica de honoríficos.
+Se presumirá que existe enriquecimiento ilícito, cuando el servidor público no pudiere acreditar el legítimo aumento de su patrimonio o la legítima procedencia de los bienes a su nombre (sic) de aquellos respecto de los cuales se conduzca como dueño, en los términos de la Ley de Responsabilidades de los Servidores Públicos.
 La comisión del delito deberá probarse de acuerdo con esta Ley.
 CAPITULO IX
 TRAFICO DE INFLUENCIA Y NEGOCIACIONES ILICITAS
@@ -668,6 +676,8 @@ II.- Indebidamente solicite o promueva cualquier resolución o la realización d
 III.- Otorgue indebidamente contratos, concesiones, permisos, licencias, autorizaciones, franquicias, exenciones o efectúe compras o ventas o realice cualquier acto jurídico, que produzcan beneficios económicos al propio servidor público o a terceros.
 (ADICIONADA, P.O. 29 DE DICIEMBRE DE 1993)
 IV.- Otorgue contratos, concesiones, permisos, licencias, autorizaciones, franquicias, exenciones o efectúe compras, ventas o realice cualquier acto jurídico que produzca y transfiera algún beneficio económico al propio servidor público, a persona con la que tenga parentesco por consanguinidad o afinidad hasta el segundo grado, o relación directa de trabajo; a personas colectivas de las que el servidor público o las personas aludidas formen parte; y a personas que no satisfagan los requisitos legales exigidos para tener derecho al beneficio.
+(ADICIONADO, P.O. 30 DE JUNIO DE 2004)
+Lo anterior sin perjuicio de que se imponga hasta por cuatro años la pena de inhabilitación para desempeñar cualquier cargo o función pública, estatal o municipal aún aquéllos de los considerados bajo la naturaleza jurídica de honoríficos.
 TITULO NOVENO
 CAPITULO I
 DELITOS COMETIDOS EN LA ADMINISTRACION DE JUSTICIA Y EN OTROS RAMOS DEL PODER PUBLICO
