@@ -1193,13 +1193,13 @@ ADMINISTRACION FRAUDULENTA
 Las sanciones para este delito serán las mismas que para el fraude establece el artículo 339 de este Código.
 CAPITULO VI
 USURA
-(REFORMADO, P.O. 29 DE DICIEMBRE DE 1993)
+(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 1996)
 344.- Se impondrá prisión de seis meses a cinco años y multa de cien a doscientas cuotas:
-I.- Al que abusando de la apremiante necesidad, ignorancia o inexperiencia de una persona, realizare cualquier préstamo, aún encubierto con otra contractual, con interés superior al bancario, u obtenga otras ventajas evidentemente desproporcionadas para sí o para otro;
-II.- Al que abusando de la apremiante necesidad ajena, ignorancia o inexperiencia, procurase un préstamo cualquiera cobrando una comisión superior al 5% del monto, para sí o para otros, y
-III.- Al que haya adquirido un préstamo usurario o una comisión usuraria, con conocimiento de causa, para enajenarlo o hacerlo valer.
-Independientemente de los tres incisos anteriores, cuando se fije un interés superior en 30% mensual con referencia al bancario, al momento de celebrar el préstamo, por ese solo hecho se tendrá por comprobada la USURA, siempre y cuando, por cualquier medio se trate de hacer, o se haga efectivo dicho interés.
-A la persona moral responsable de alguno de estos delitos, se le impondrá suspensión de sus actividades hasta por un año, y además serán sancionados penalmente los dirigentes, administradores y mandatarios que ordenen, permitan o ejecuten dichos delitos.
+I.- A la persona que prestare con interés superior al costo porcentual promedio o su equivalente que rija al momento de la celebración del préstamo u obtenga para sí o para otro, ventajas evidentemente desproporcionadas con tal operación;
+II.- A la persona que sirva de intermediario para obtener un préstamo cualquiera en favor de otra y cobre, para sí o para terceros, por su intervención, una comisión superior al tres por ciento con respecto del capital original; y
+III.- Al que con conocimiento de causa, hubiera adquirido para enajenarlos o hacerlos valer un préstamo o una comisión usurarios.
+Se estimarán usurarios el interés de tal préstamo o comisión cuando reúna las condiciones mencionadas en la fracción I de este artículo.
+A la persona moral responsable de alguno de estos delitos, se le impondrá suspensión de sus actividades hasta por un año y además serán sancionados penalmente los dirigentes, administradores y mandatarios que ordenen, permitan o ejecuten dichos delitos.
 CAPITULO VII
 DESPOJO DE INMUEBLES Y AGUAS
 345.- Se aplicarán sanciones de tres meses a tres años de prisión y multa de una a cinco cuotas:

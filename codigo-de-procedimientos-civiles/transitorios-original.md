@@ -1,6 +1,6 @@
 TRANSITORIOS
 1º.- Este Código entrará en vigor 60 días después de su publicación.
-2º.- Con las salvedades que se indican en los artículos siguientes, quedan derogados desde la fecha que entre en vigor este Código, el de Procedimientos Civiles para el Distrito Federal y Territorios de la Baja California expedido el quince de mayo de 1884, adoptado en el Estado. Se derogan, asimismo, todas las demás leyes y disposiciones en cuanto se opongan a la presente.
+2º - Con las salvedades que se indican en los artículos siguientes, quedan derogados desde la fecha que entre en vigor este Código, el de Procedimientos Civiles para el Distrito Federal y Territorios de la Baja California expedido el quince de mayo de 1884, adoptado en el Estado. Se derogan, asimismo, todas las demás leyes y disposiciones en cuanto se opongan a la presente.
 3º.- Todos los juicios terminados, así como sus efectos jurídicos, se rigen por la ley anterior.
 4º.- Respecto a la tramitación de los juicios pendientes, se observarán las siguientes prevenciones:
 I.- Tendrán plena validez y efectos los actos realizados conforme a las leyes derogadas;
