@@ -1,0 +1,26 @@
+LEY DE JUSTICIA COMUNITARIA DEL ESTADO DE ZACATECAS
+Ley publicada en el Suplemento a Periódico Oficial del Estado de Zacatecas, el miércoles 10 de julio de 2002.
+DOCTOR RICARDO MONREAL AVILA, Gobernador del Estado de Zacatecas, a sus habitantes hago saber:
+Que los CC. DIPUTADOS SECRETARIOS de la H. Quincuagésima Séptima Legislatura del Estado, se han servido dirigirme el siguiente
+DECRETO # 86
+LA HONORABLE QUINCUAGESIMA SEPTIMA LEGISLATURA DEL ESTADO LIBRE Y SOBERANO DE ZACATECAS, EN NOMBRE DEL PUEBLO DECRETA
+RESULTANDO PRIMERO.- Con fecha 18 de junio del presente año, el licenciado FELIPE BORREGO, Magistrado Presidente del Tribunal Superior de Justicia, en ejercicio de las facultades que le confieren los artículos 60, fracción III, 98 Y 100, fracción II de la Constitución Política del Estado, presentó Iniciativa de Ley de Justicia Comunitaria del Estado de Zacatecas.
+RESULTANDO SEGUNDO.- Por acuerdo del Presidente de la Mesa Directiva, mediante el memorándum 714 del día 20 de junio del año en curso, y con fundamento en lo dispuesto por los artículos 58, fracción I, de la Ley Orgánica del Poder Legislativo; 56, y 59 párrafo 1, fracción I del Reglamento General, la Iniciativa de referencia fue turnada para su estudio y dictamen a la Comisión Legislativa de Puntos Constituciona1es.
+EXPOSICIÓN DE MOTIVOS:
+El 23 de diciembre de 1999 se publicaron en el Diario Oficial de la Federación, importantes reformas al artículo 115 de la Constitución General de la República, encaminadas al fortalecimiento de los gobiernos municipales.
+En la fracción II, segundo párrafo y en el inciso e) del referido precepto constitucional, se establece que los ayuntamientos expedirán los bandos de policía y gobierno y demás reglamentación que organice la administración pública municipal, regule las materias, procedimientos, funciones y servicios públicos de su competencia y asegure la participación ciudadana y vecinal. Tal facultad reglamentaria se dará con base en las leyes que expidan las Legislaturas de los Estados. Incluso que estos últimos ordenamientos sean de aplicación supletoria a falta de bandos o reglamentos.
+Por otra parte, mediante decreto número 157, publicado en el Periódico Oficial de Gobierno del Estado el 10 de mayo de 2000, se dieron pasos importantes para aproximar los servicios de justicia a los justiciables, al reorganizarse el sistema de juzgados municipales que a partir de la segunda quincena del mes de noviembre de 2001 iniciaron sus funciones, lográndose un importante avance en materia de administración de justicia.
+Sin embargo, aún quedan algunos resquicios por atender en tratándose de faltas o infracciones a los bandos de policía, así como regular con animo conciliatorio, desavenencias familiares y vecinales en materias civil, mercantil y del derecho de familia. La presente Ley de Justicia Comunitaria, pretende colmar tales resquicios, a través del establecimiento de un marco jurídico sustantivo y procesal sencillo pero que a la vez sirva de garantía eficaz para la preservación de la convivencia armónica entre los vecinos de una comunidad.
+Las características más significativas del nuevo ordenamiento que se propone son las siguientes:
+- Se otorga a los ayuntamientos la facultad de contar con una instancia de justicia al servicio de la comunidad, para sancionar infracciones a leyes y reglamentos, y para actuar como órganos conciliadores en determinados asuntos de cuantía menor de naturaleza familiar, civil y mercantil;
+-Se crean así los juzgados comunitarios como sistema que no forma parte del Poder Judicial del Estado;
+- Los jueces comunitarios serán nombrados y removidos por los ayuntamientos;
+- Los procedimientos de los juzgados comunitarios serán sumarios, orales y públicos;
+- Los infractores o las partes en conflicto vecinal, tendrán garantizado su derecho de audiencia y defensa, previo a la imposición de sanciones, que se limitan a amonestación, multa, arresto, reparación del daño y trabajos en favor de la comunidad;
+- En negocios del derecho de familia como es el caso frecuente de la fijación de pensiones alimenticias o en asuntos civiles o mercantiles que no rebasen en su cuantía trescientas cuotas de salario mínimo, ante los jueces comunitarios las partes en conflicto pueden celebrar convenios de avenimiento;
+- Tales convenios conciliatorios celebrados ante el juez comunitario, no tendrían más fuerza vinculativa que la voluntad coincidente de las partes, por lo que ante incumplimiento, el convenio, sólo serviría de prueba preconstituida para ofrecerse ante el órgano jurisdiccional competente;
+- La vigilancia y supervisión de los juzgados comunitarios quedaría bajo la responsabilidad de los respectivos ayuntamientos;
+- Con todo lo anterior se estará dando cabal cumplimiento en esta materia, a la fracción II del artículo 115 de la Constitución General de la República, y se da otro avance significativo en el siempre perfectible ámbito de la administración de justicia.
+Por lo anteriormente expuesto y fundado, y con apoyo además en lo dispuesto por los artículos 86, 88, 90 y relativos del Reglamento General del Poder Legislativo, en nombre del Pueblo es de Decretarse y se
+DECRETA
+LEY DE JUSTICIA COMUNITARIA DEL ESTADO DE ZACATECAS
