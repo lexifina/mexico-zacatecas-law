@@ -181,7 +181,8 @@ APERCIBIMIENTO Y CAUCION DE NO OFENDER
 41.- El apercibimiento consiste en la conminación que el juez hace a la persona, cuando se teme con fundamento que está en disposición de cometer un nuevo delito, ya sea por su actitud o por amenazas, de que en caso de cometer el que se propone u otro semejante, será considerado como reincidente.
 42.- Cuando los jueces estimen que no es suficiente el apercibimiento, exigirán además al acusado, una caución de no ofender.
 Esta consistirá en hipoteca, depósito o fianza por el tiempo que se le fije, para garantizar el compromiso del acusado de que no cometerá el delito que se proponía, ni otro semejante, apercibido de que si quebrantare su promesa, además de la citada agravación por considerarlo reincidente por los hechos que ejecutare, perderá la caución que debe otorgar.
-Si no se otorgare la caución en el término señalado, se hará uso de los medios de apremio que señale el Código de Procedimientos Penales, y, agotados éstos sin resultado, se aplicará prisión de treinta días a seis meses, salvo que el sentenciado acredite que no puede otorgar la garantía, pues en este caso el juez la sustituirá por vigilancia de la policía.
+(REFORMADO, P.O. 30 DE DICIEMBRE DE 1989)
+Si no se otorgare la caución en el término señalado, se hará uso de los medios de apremio que señale el Código de Procedimientos Penales, y, agotados éstos sin resultado, se aplicará prisión de tres meses a seis meses, salvo que el sentenciado acredite que no puede otorgar la garantía, pues en este caso el juez la sustituirá por vigilancia de la policía.
 CAPITULO X
 PRIVACION, INHABILITACION O SUSPENSION DE DERECHOS, OFICIO O PROFESION, E INHABILITACION, DESTITUCION O SUSPENSION DE FUNCIONES O EMPLEOS
 43.- La suspensión y la privación de los derechos, oficio o profesión y las de manejar vehículos, motores o maquinaria, así como la inhabilitación para ejercerlos, procederá en los casos expresamente señalados por este Código o leyes relativas.
@@ -262,7 +263,8 @@ CONMUTACION DE SANCIONES
 I.- Cuando la sanción impuesta sea privativa de libertad, se conmutará por confinamiento durante un término igual al de los dos tercios del que debía durar la prisión; y
 II.- Si fuere la de confinamiento, se conmutará en multa, computándose a razón de una cuota como máximo por cada día, atendiendo a la situación del reo.
 73.- Los jueces, apreciando las circunstancias personales del culpable, los móviles de su conducta, así como las demás circunstancias del hecho, según lo dispuesto por el artículo 52, podrán, a su prudente arbitrio, sustituir la sanción de prisión que debiera imponerse, cuando ésta no exceda de dos años, y se pague o se garantice la reparación de los daños causados, por la de multa o trabajo en favor de la comunidad.
-Tratándose de multa sustitutiva de la pena de prisión, la equivalencia será de una cuota por un día de prisión, tomando en consideración las condiciones económicas del sentenciado.
+(REFORMADO, P.O. 30 DE DICIEMBRE DE 1989)
+Tratándose de multa sustitutiva de la pena de prisión, la equivalencia será hasta de una cuota, por un día de prisión, tomando en consideración las condiciones económicas del sentenciado.
 La conmutación no exime de la obligación de reparación del daño.
 74.- El reo que considere que al dictarse sentencia reunía las condiciones para el disfrute de la conmutación de la sanción y que por inadvertencia de su parte o del juzgador no le hubiere sido otorgada, podrá promover ante éste que se le conceda abriéndose el incidente respectivo en los términos del artículo 451 del Código de Procedimientos Penales.
 75.- Cuando el reo acredite plenamente que no puede cumplir alguna de las circunstancias de la sanción que le fue impuesta, por ser incompatible con su edad, salud o constitución física, el Ejecutivo podrá dictar las medidas pertinentes, siempre que éstas no afecten la naturaleza de la sanción.
@@ -420,7 +422,8 @@ DELITOS POLITICOS
 No se considerará como delito político aquel que consista en ejecución de actos de terrorismo o contrarios al derecho de gentes.
 CAPITULO V
 DELITOS CONTRA LA INTEGRIDAD TERRITORIAL DEL ESTADO
-127.- Se impondrán de uno a tres años de prisión y multa de cinco a cincuenta cuotas al que destruya o quite las señales que marcan los límites del Estado, o que de cualquier otro modo haga que se confundan, si por ello se origina un conflicto al propio Estado. Faltando esta circunstancia, las sanciones serán de un mes a un año de prisión y multa de tres a veinticinco cuotas.
+(REFORMADO, P.O. 30 DE DICIEMBRE DE 1989)
+127.- Se impondrán de uno a tres años de prisión y multa de cinco a cincuenta cuotas al que destruya o quite las señales que marcan los límites del Estado, o que de cualquier otro modo haga que se confundan, si por ello se origina un conflicto al propio Estado. Faltando esta circunstancia, las sanciones serán de tres meses a un año de prisión y multa de tres a veinticinco cuotas.
 TITULO SEGUNDO
 DELITOS CONTRA LA SEGURIDAD PUBLICA
 CAPITULO I
@@ -436,7 +439,8 @@ CAPITULO II
 QUEBRANTAMIENTO DE SANCION
 135.- Al reo que se fugue estando bajo alguna de las sanciones privativas de libertad, o en detención o prisión preventiva, no se le contará el tiempo fuera del lugar en que deba hacerla efectiva, ni se tendrá en cuenta la buena conducta que haya tenido antes de la fuga.
 136.- Al sentenciado a confinamiento que antes de extinguirlo salga del lugar que se le haya fijado para residir, se le aplicará prisión por el tiempo que falte para extinguir dicho confinamiento.
-137.- Se impondrán de uno a tres meses de prisión o multa de diez cuotas:
+(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1989)
+137.- Se impondrán de tres a seis meses de prisión o multa de diez cuotas:
 I.- Al reo sometido a vigilancia de la policía que no ministre a ésta los informes que se le pidan sobre su conducta; y,
 II.- A aquél a quien se hubiere prohibido ir a determinado lugar o residir en él, si violare la prohibición.
 138.- El reo suspenso en su profesión u oficio o inhabilitado para ejercerlos, o el que lo está en el manejo de vehículos, motores o maquinaria, que quebrante su condena, pagará una multa de cinco a cincuenta cuotas o realizará trabajo en favor de la comunidad de cinco a treinta días, a juicio del juzgador.
@@ -457,7 +461,8 @@ ASOCIACION DELICTUOSA
 CAPITULO V
 DELITOS DE TRANSITO EJECUTADOS POR MANEJADORES DE VEHICULOS O AUTORIDADES DE TRANSITO
 142.- Se impondrá prisión de tres meses a dos años y multa de cinco a veinticinco cuotas, al funcionario, empleado o perito de tránsito que en el examen para la comprobación de las condiciones requeridas por la ley o reglamentos para el otorgamiento de las licencias de conductores de vehículos, produzcan dictámenes o certificaciones sin que concurran en el examinado todos o alguno de los requisitos correspondientes, y al que expida la licencia a sabiendas de que falta alguno o algunos de esos requisitos.
-143.- Se sancionará con prisión de treinta días a seis meses o multa de cinco a veinticinco cuotas y suspensión de la licencia respectiva de uno a cinco años, el hecho de conducir dentro de las poblaciones del Estado un vehículo a una velocidad que exceda en más de diez kilómetros por hora el límite máximo fijado por las autoridades de tránsito. Si la conducción se ejecuta en un camino, las mismas sanciones se impondrán cuando se exceda en veinte kilómetros o más el límite máximo señalado.
+(REFORMADO, P.O. 30 DE DICIEMBRE DE 1989)
+143.- Se sancionará con prisión de tres meses a seis meses o multa de cinco a veinticinco cuotas y suspensión de la licencia respectiva de uno a cinco años, el hecho de conducir dentro de las poblaciones del Estado un vehículo a una velocidad que exceda en más de diez kilómetros por hora el límite máximo fijado por las autoridades de tránsito. Si la conducción se ejecuta en un camino, las mismas sanciones se impondrán cuando se exceda en veinte kilómetros o más el límite máximo señalado.
 144.- Al que en estado de ebriedad o bajo la influencia de drogas enervantes plenamente comprobados conduzca un vehículo, se impondrá prisión de tres meses a un año o multa de cinco a cincuenta cuotas y suspensión de la licencia para manejar de uno a dos años, si no provoca un accidente punible.
 145.- Al manejador de un vehículo, que en camino público o privado rebase o trate de rebasar a otro vehículo, invadiendo el carril contrario, en curva, pendiente, columpio, elevación del terreno, lugar prohibido o en cualquier otro en que no haya visibilidad suficiente, se le impondrá por este sólo hecho sanción de tres a seis meses de prisión o multa de cinco a veinte cuotas y suspensión para manejar vehículos de uno a dos años, si no causare daños a tercero.
 Si se causaren daños a las personas o a las cosas o a ambas, estos daños se sancionarán como delitos de culpa, salvo prueba en contrario.
@@ -492,13 +497,15 @@ CAPITULO I
 DESOBEDIENCIA Y RESISTENCIA DE PARTICULARES
 158.- Se aplicarán de tres meses a un año de prisión y multa de cinco a quince cuotas al que, empleando la fuerza, el amago o las amenazas, se oponga a que la autoridad pública o sus agentes ejerzan alguna de sus funciones o resista al cumplimiento de un mandato legítimo ejecutado en forma legal.
 159.- Se equiparará a la resistencia y se pondrá la misma sanción que a ésta, la coacción hecha a la autoridad pública por medio de la violencia física o moral, para obligarla a que ejecute un acto oficial, sin los requisitos legales u otro que no esté en sus atribuciones.
-160.- Al que sin causa legítima rehusare prestar un servicio de interés público al que la ley le obligue o desobedeciere un mandato legítimo de la autoridad, se le aplicarán de treinta días a un año de prisión y multa de cinco a quince cuotas.
+(REFORMADO, P.O. 30 DE DICIEMBRE DE 1989)
+160.- Al que sin causa legítima rehusare prestar un servicio de interés público al que la ley le obligue o desobedeciere un mandato legítimo de la autoridad, se le aplicarán de tres meses a un año de prisión y multa de cinco a quince cuotas.
 161.- Al que sin excusa legal se negare a comparecer ante la autoridad a rendir su declaración, cuando legalmente se le exija, no será considerado como responsable del delito previsto en el artículo anterior, sino después de haber sido apremiado por la autoridad judicial o apercibido por la administrativa, en su caso, para que comparezca a declarar o a rendir los informes que se le pidan.
 162.- El que debiendo ser examinado en una averiguación o en un proceso penal o juicio civil, sin que le aprovechen las excepciones establecidas por este Código o por el de Procedimientos Penales, o por el de Procedimientos Civiles, en su caso, se niegue a otorgar la protesta de ley o a declarar, se le aplicará de inmediato, como medio de apremio y previo apercibimiento, una multa de una a cinco cuotas. Si persistiere en su actitud, se le hará saber que se le sancionará, previo el proceso respectivo, con prisión de tres meses a un año, o multa de cinco a veinte cuotas o trabajo en favor de la comunidad, a juicio del juez haciéndose desde luego la denuncia al Ministerio Público.
 163.- Cuando la ley autorice el empleo del apremio para hacer efectivas las determinaciones de la autoridad, sólo se consumará el delito de desobediencia cuando se hubieren agotado los medios de apremio, sin haberse logrado aquel objeto.
 CAPITULO II
 OPOSICION A QUE SE EJECUTE ALGUNA OBRA O TRABAJOS PUBLICOS
-164.- El que procure con actos materiales impedir la ejecución de una obra o trabajos públicos, mandados hacer con los requisitos legales por la autoridad competente o con su autorización, será sancionado con prisión de treinta días a seis meses o multa de cinco a veinte cuotas o trabajo en favor de la comunidad de cinco a veinte días.
+(REFORMADO, P.O. 30 DE DICIEMBRE DE 1989)
+164.- El que procure con actos materiales impedir la ejecución de una obra o trabajos públicos, mandados hacer con los requisitos legales por la autoridad competente o con su autorización, será sancionado con prisión de tres meses a seis meses o multa de cinco a veinte cuotas o trabajo en favor de la comunidad de cinco a veinte días.
 165.- Cuando el delito se cometa por varias personas, de común acuerdo, la sanción prevista en el artículo anterior se aumentará hasta en una mitad más, si sólo se hiciere una simple oposición material sin violencia a las personas. Habiéndola, la sanción será de seis meses a dos años de prisión y multa de diez a cuarenta cuotas, sin perjuicio de observar las reglas del concurso.
 CAPITULO III
 VIOLACION DE SELLOS
@@ -563,11 +570,13 @@ II.- El que induzca o solicite a una persona para que con otra comercie sexualme
 III.- El que regentee, administre o sostenga prostíbulos, casas de cita o lugares de concurrencia, en donde se explote la prostitución u obtenga cualquier beneficio con sus productos; y
 IV.- El que encubra, concierte o permita el comercio carnal de un menor de edad.
 El lenocinio se sancionará con prisión de seis meses a tres años y multa de diez a setenta y cinco cuotas.
-188.- Al que dé en arrendamiento una finca teniendo conocimiento de que será destinada al lenocinio, se le aplicará prisión de uno a seis meses, o multa de cinco a quince cuotas o trabajo en favor de la comunidad hasta por quince días.
+(REFORMADO, P.O. 30 DE DICIEMBRE DE 1989)
+188.- Al que dé en arrendamiento una finca teniendo conocimiento de que será destinada al lenocinio, se le aplicará prisión de tres meses a seis meses, o multa de cinco a quince cuotas o trabajo en favor de la comunidad hasta por quince días.
 189.- Si el sancionado por el artículo 187 fuere ascendiente, tutor, curador o cónyuge, o tuviere cualquier otra autoridad sobre la persona explotada, se le impondrá prisión de uno a seis años y multa de diez a cien cuotas y será privado de todo derecho sobre los bienes de aquélla, en su caso, e inhabilitado hasta por diez años para ser tutor o curador, o para el ejercicio de la patria potestad.
 CAPITULO IV
 APOLOGIA DEL DELITO O DE ALGUN VICIO
-190.- Al que haga públicamente la apología de un delito o de algún vicio, se le aplicará prisión de treinta días a seis meses o multa de cinco a quince cuotas, o trabajo en favor de la comunidad de hasta quince días.
+(REFORMADO, P.O. 30 DE DICIEMBRE DE 1989)
+190.- Al que haga públicamente la apología de un delito o de algún vicio, se le aplicará prisión de tres meses a seis meses o multa de cinco a quince cuotas, o trabajo en favor de la comunidad de hasta quince días.
 TITULO SEPTIMO
 CAPITULO UNICO
 REVELACION DE SECRETOS
@@ -617,7 +626,8 @@ CAPITULO V
 PECULADO
 199.- Comete el delito de peculado el servidor público del Estado, Municipio u organismo descentralizado, aún cuando sea en comisión por tiempo limitado y no tenga el carácter de funcionario, que, para usos propios o ajenos, distraiga de su objeto, dinero, valores, fincas o cualquier otra cosa perteneciente al Estado, a un Municipio, a un organismo descentralizado, o a un particular, si por razón de su cargo los hubiere recibido en administración, en depósito o por otra causa.
 200.- Al que cometa el delito de peculado se le impondrán de seis meses a seis años de prisión, multa equivalente a dos tantos del beneficio obtenido y destitución de empleo o cargo e inhabilitación para desempeñar otros, de seis meses a tres años si el monto del beneficio obtenido no excede de cien veces el salario mínimo mensual y de tres a diez años si excede de dicho límite.
-201.- La sanción será de uno a seis meses de prisión, si dentro de los treinta días siguientes a la denuncia, devolviere el responsable lo sustraído.
+(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1989)
+201.- La sanción será de tres meses a seis meses de prisión, si dentro de los treinta días siguientes a la denuncia, devolviere el responsable lo sustraído.
 Esta disposición se entiende sin perjuicio de la destitución, de la inhabilitación y de la multa correspondiente.
 CAPITULO VI
 CONCUSION
@@ -750,7 +760,8 @@ VI.- Al que, siendo autoridad, rinda a otra informe en los que afirme una falsed
 Pero si faltare también a la verdad al retractar sus declaraciones, se le aplicará la sanción correspondiente con arreglo a lo prevenido en este capítulo, considerándolos como reincidentes.
 CAPITULO VI
 VARIACION DEL NOMBRE, DE LA NACIONALIDAD O DEL DOMICILIO
-227.- Se sancionará con prisión de treinta días a seis meses o multa de cinco a quince cuotas, o trabajo en favor de la comunidad hasta por quince días, a juicio del juzgador:
+(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1989)
+227.- Se sancionará con prisión de tres meses a seis meses o multa de cinco a quince cuotas, o trabajo en favor de la comunidad hasta por quince días, a juicio del juzgador:
 I.- Al que oculte su nombre o apellido y tome otro imaginario o el de otra persona, al declarar ante una autoridad;
 II.- Al que para eludir la práctica de una diligencia judicial o administrativa o una notificación de cualquier clase o citación de una autoridad, oculte su domicilio, designe otro distinto o niegue de cualquier modo el verdadero;
 III.- Al funcionario o empleado que en los actos propios de su cargo, atribuyere a una persona determinada título o nombre, a sabiendas que no le pertenece y con perjuicio de alguien; y
@@ -759,7 +770,7 @@ CAPITULO VII
 USURPACION DE FUNCIONES PUBLICAS O DE PROFESION
 228.- Se sancionará con prisión de tres meses a tres años y multa de cinco a veinticinco cuotas:
 I.- Al que, sin ser servidor público, se atribuya ese carácter y ejerza alguna de las funciones de tal;
-II.- Al que, sin tener título profesional o autorización para ejercer alguna profesión reglamentada, expedidos por autoridad u organismos legalmente capacitados para ello, conforme a las disposiciones reglamentarias del artículo 5º. Constitucional:
+II.- Al que, sin tener título profesional o autorización para ejercer alguna profesión reglamentada, expedidos por autoridad u organismos legalmente capacitados para ello, conforme a las disposiciones reglamentarias del artículo 5º, Constitucional:
 a) Se atribuya el carácter de profesionista;
 b) Realice actos propios de una actividad profesional;
 c) Ofrezca públicamente sus servicios como profesionista;
@@ -776,7 +787,8 @@ TITULO DECIMO SEGUNDO
 DELITOS SEXUALES
 CAPITULO I
 ATENTADOS AL PUDOR
-231.- Al que sin consentimiento de una persona púber o impúber, o con consentimiento de ésta última, o de persona que por cualquier causa no pudiere resistir, ejecute en ella un acto erótico, sin el propósito directo o inmediato de llegar a la cópula, se le impondrá una sanción de uno a seis meses de prisión y multa de tres a cinco cuotas.
+(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1989)
+231.- Al que sin consentimiento de una persona púber o impúber, o con consentimiento de ésta última, o de persona que por cualquier causa no pudiere resistir, ejecute en ella un acto erótico, sin el propósito directo o inmediato de llegar a la cópula, se le impondrá sanción tres meses a seis meses de prisión y multa de tres a cinco cuotas.
 Si se hiciere uso de la violencia física o moral, la sanción será de tres meses a dos años de prisión y multa de cinco a diez cuotas.
 232.- Los atentados al pudor se sancionarán a petición del ofendido o de sus representantes.
 CAPITULO II
@@ -932,7 +944,8 @@ CAPITULO I
 LESIONES
 285.- La lesión consiste en todo daño en el cuerpo de alguien o en cualquiera alteración de la salud, producida por una causa externa imputable a una persona.
 286.- Al responsable del delito de lesiones que no pongan en peligro la vida, se le sancionará:
-I.- Con prisión de treinta días a seis meses y multa de una a tres cuotas, o trabajo en favor de la comunidad hasta por tres meses, cuando las lesiones tarden en sanar un tiempo no mayor de quince días;
+(REFORMADA, P.O. 30 DE DICIEMBRE DE 1989)
+I.- Con prisión de tres meses a seis meses y multa de una a tres cuotas, o trabajo en favor de la comunidad hasta por tres meses, cuando las lesiones tarden en sanar un tiempo no mayor de quince días;
 II.- Con prisión de seis meses a dos años y multa de cinco a diez cuotas cuando tarden en sanar más de quince días;
 III.- Con prisión de uno a cinco años y multa de cinco a veinticinco cuotas, cuando las lesiones produzcan debilitamiento o perturbación de las funciones u órganos;
 IV.- Con prisión de dos a cinco años y multa de diez a treinta cuotas, cuando las lesiones dejen al ofendido cicatriz en la cara, perpetuamente notable; y
@@ -1022,8 +1035,10 @@ Si el aborto lo causare un médico, cirujano, comadrona o partera, además de la
 313.- No se aplicará sanción: cuando de no provocarse el aborto, la mujer embarazada corra peligro de muerte o de un grave daño a su salud, a juicio del médico que la asista, oyendo éste el dictamen de otro médico, siempre que esto fuere posible y no sea peligrosa la demora.
 CAPITULO IX
 ABANDONO DE PERSONAS
-314.- Al que abandone a un niño o a un anciano incapaz de cuidarse a sí mismo, o a una persona enferma teniendo obligación de cuidarlos, se le aplicarán de un meses a cuatro años de prisión, si no resultare daño alguno, privándolo además de la patria potestad, de la tutela o de la curatela, si el delincuente fuere ascendiente, descendiente, tutor o curador del ofendido, así como del derecho a la herencia del mismo.
-315.- Al que encuentre abandonado o abandone en cualquier sitio a un menor o a un anciano incapaz de cuidarse a sí mismo o a una persona lesionada, inválida o amenazada de un peligro cualquiera, se le aplicarán de uno a cuatro meses de prisión o multa de una a cinco cuotas, si no diera aviso inmediato a la autoridad u omitiere prestarles el auxilio necesario cuando pudiere hacerlo sin riesgo personal.
+(REFORMADO, P.O. 30 DE DICIEMBRE DE 1989)
+314.- Al que abandone a un niño o a un anciano incapaz de cuidarse a sí mismo, o a una persona enferma teniendo obligación de cuidarlos, se le aplicarán de tres meses a cuatro años de prisión, si no resultare daño alguno, privándolo además de la patria potestad, de la tutela o de la curatela, si el delincuente fuere ascendiente, descendiente, tutor o curador del ofendido, así como del derecho a la herencia del mismo.
+(REFORMADO, P.O. 30 DE DICIEMBRE DE 1989)
+315.- Al que encuentre abandonado o abandone en cualquier sitio a un menor o a un anciano incapaz de cuidarse a sí mismo a una persona lesionada, inválida o amenazada de un peligro cualquiera, se le aplicarán de tres a seis meses de prisión o multa de una a cinco cuotas si no diera aviso inmediato a la autoridad u omitiese prestarles el auxilio necesario cuando pudiere hacerlo sin riesgo personal.
 316.- El automovilista, motorista, conductor de un vehículo cualquiera, ciclista o jinete que deje en estado de abandono sin prestarle o facilitarle asistencia a la persona a quien atropelló, o le causó un daño similar, será sancionado con la pena de tres a seis meses de prisión o multa de diez a veinticinco cuotas, por esta sola circunstancia. Si del abandono resultare la muerte, la sanción será de dos a ocho años de prisión; si resultaren lesiones o algún otro delito, se aplicará la mitad de las sanciones que correspondan a aquéllos.
 TITULO DECIMO OCTAVO
 DELITOS CONTRA EL PATRIMONIO
@@ -1035,11 +1050,13 @@ I.- La disposición o destrucción de una cosa mueble, ejecutada intencionalment
 II.- El aprovechamiento de energía eléctrica o de cualquier otro fluido, ejecutado sin derecho y sin consentimiento de la persona que legalmente puede disponer de él.
 319.- Para la aplicación de la sanción, se dará por consumado el robo desde el momento en que el ladrón tenga en su poder la cosa robada, aun cuando la abandone o lo desapoderen de ella.
 320.- El delito de robo se sancionará conforme a las reglas siguientes:
-I.- Cuando el valor de lo robado no exceda de treinta cuotas se impondrá al responsable de treinta días a seis meses de prisión y multa de cinco a diez cuotas;
+(REFORMADA, P.O. 30 DE DICIEMBRE DE 1989)
+I.- Cuando el valor de lo robado no exceda de treinta cuotas se impondrá al responsable de tres meses a seis meses de prisión y multa de cinco a diez cuotas;
 II.- Cuando exceda de treinta pero no de cien cuotas, la pena será de tres meses a dos años de prisión y multa hasta de veinte cuotas;
 III.- Cuando exceda de cien pero no de ciento sesenta cuotas, la sanción será de uno a cuatro años de prisión y multa hasta de treinta cuotas; y
 IV.- Cuando exceda de ciento sesenta cuotas se sancionará al responsable, con prisión de dos a nueve años y multa de hasta cincuenta cuotas.
-Para estimar la cuantía del robo, se atenderá únicamente al valor intrínseco de la cosa robada; si éste no pudiere determinarse o si por la naturaleza de la cosa no fuere estimable en dinero, se aplicará de treinta días a cinco años de prisión y multa de hasta veinte cuotas.
+(REFORMADO, P.O. 30 DE DICIEMBRE DE 1989)
+Para estimar la cuantía del robo, se atenderá únicamente al valor intrínseco de la cosa robada; si éste no pudiere determinarse o si por la naturaleza de la cosa no fuere estimable en dinero, se aplicará de tres meses a cinco años de prisión y multa de hasta veinte cuotas.
 321.- Se considerará calificado el delito de robo, cuando:
 I.- Se ejecute con violencia en las personas o en las cosas, aun cuando la violencia se haga a persona distinta de la robada, que se halle en compañía de ella, o cuando el ladrón la ejecute después de consumado el robo, para proporcionarse la fuga o defender lo robado;
 II.- Los objetos de robo sean un expediente o algún documento de protocolo, oficina o archivo público, o documento que contenga obligación, liberación o transmisión de derechos que obre en un expediente judicial;
@@ -1049,11 +1066,13 @@ V.- Se cometa aprovechando la falta de vigilancia, el desorden o confusión que 
 VI.- Se roben tubos, conexiones, tapas de registro o cualesquiera otros implementos de un servicio público u otros objetos que estén bajo la salvaguarda pública, sin perjuicio de lo que proceda por el daño a la propiedad;
 VII.- Se cometa de noche, llevando armas, con fractura o empleo de llaves falsas, horadación, excavación o escalamiento, o sean los ladrones dos o más o fingiéndose funcionarios o empleados públicos o suponiendo una orden de alguna autoridad; y
 VIII.- Recaiga sobre vehículos estacionados en la vía pública, sobre parte de ellos u objetos guardados en su interior.
-Además de las sanciones señaladas en el artículo 353 de este Código, se aplicará de uno a tres años de prisión al responsable de robo calificado.
+(REFORMADO, P.O. 30 DE DICIEMBRE DE 1989)
+Además de las sanciones señaladas en el artículo 320 de este Código, se aplicará de uno a tres años de prisión al responsable de robo calificado.
 322.- Se considerará como robo calificado y se impondrán las sanciones a que se refieren los dos artículos anteriores, al que se apodere en el campo de algún instrumento rural o máquina de labranza, o de frutos cosechados o por cosechar, o lo consume en un apiario o cualquier otra industria rural.
 323.- No se sancionará al que, sin emplear engaño ni medios violentos, se apodere una sola vez de los objetos indispensables para satisfacer sus necesidades personales o familiares de momento.
 324.- En todo caso de robo, si el juez lo creyere conveniente, podrá suspender al delincuente de un mes a seis años, en los derechos de patria potestad, tutela, curatela, perito, depositario o interventor judicial, síndico o interventor en concurso o quiebra, asesor o representante de ausentes, y en el ejercicio de cualquier profesión de las que exijan título.
-325.- Al que se impute el hecho de haber tomado una cosa ajena sin consentimiento del dueño o legítimo poseedor y acredite haberla tomado con carácter temporal y no para apropiársela o venderla, se le aplicarán de treinta días a seis meses de prisión, siempre que justifique no haberse negado a devolverla, si se le requirió a ello. Además pagará al ofendido, como reparación del daño, el doble del alquiler, arrendamiento o interés de la cosa usada.
+(REFORMADO, P.O. 30 DE DICIEMBRE DE 1989)
+325.- Al que se impute el hecho de haber tomado una cosa ajena sin consentimiento del dueño o legítimo poseedor y acredite haberla tomado con carácter temporal y no para apropiársela o venderla, se le aplicarán de tres meses a seis meses de prisión, siempre que justifique no haberse negado a devolverla, si se le requirió a ello. Además pagará al ofendido, como reparación del daño, el doble del alquiler, arrendamiento o interés de la cosa usada.
 326.- Se impondrá de uno a diez años de prisión y multa de hasta treinta cuotas al que robe postes, alambre y otros materiales de las cercas de los sembradíos o potreros, dejando éstos al descubierto en todo o en parte, o robe bombas, motores o parte de estos implementos, o cualquier objeto o aparato que esté usándose en la agricultura o en la ganadería, o en un servicio público, o que esté bajo la salvaguarda pública, sin perjuicio de lo que proceda por el daño a la propiedad.
 327.- Cuando el valor de lo robado no pase de veinte cuotas, sea restituido por el ladrón espontáneamente y pague éste todos los daños y perjuicios antes de que la autoridad tome conocimiento del delito, no se impondrá sanción alguna, si no se ha ejecutado el robo por medio de la violencia.
 328.- El robo cometido por un ascendiente contra su descendiente, o por éste contra aquél, o por un cónyuge contra el otro, por una concubina o concubinario contra el otro, por un suegro contra su yerno o nuera, por éstos contra aquél, por un padrastro contra su hijastro o viceversa, o por un hermano contra su hermano, produce responsabilidad penal; pero no se podrá proceder contra el responsable sino a petición del agraviado.
@@ -1074,9 +1093,11 @@ Si el transporte se hace a sabiendas de que se trata de ganado robado, se aplica
 CAPITULO III
 ABUSO DE CONFIANZA
 335.- Comete el delito de abuso de confianza el que, con perjuicio de otro, disponga para sí o para un tercero, de una cosa ajena mueble de la cual se le haya transmitido la tenencia y no el dominio.
-Se sancionará con prisión de treinta días a un año y multa de veinte cuotas, cuando el monto del abuso no exceda de esta última cantidad.
+(REFORMADO, P.O. 30 DE DICIEMBRE DE 1989)
+Se sancionará con prisión de tres meses a un año y multa de veinte cuotas, cuando el monto del abuso no exceda de esta última cantidad.
 Si excede de esta cantidad pero no de ciento sesenta cuotas, la prisión será de uno a cuatro años y multa de diez a treinta cuotas.
-Si el monto no excede de ciento sesenta cuotas, la prisión será de dos a nueve años y multa de quince a cincuenta cuotas.
+(REFORMADO, P.O. 30 DE DICIEMBRE DE 1989)
+Si el monto excede de ciento sesenta cuotas, la prisión será de dos a nueve años y multa de quince a cincuenta cuotas.
 336.- Se considerará como abuso de confianza para los efectos de la sanción:
 I.- El hecho de disponer de una cosa su dueño, si le ha sido embargada y la tiene en su poder con el carácter de depositario judicial;
 II.- El hecho de disponer de la cosa depositada el depositario judicial o el designado por o ante las autoridades administrativas o del trabajo; y
@@ -1087,11 +1108,14 @@ CAPITULO IV
 FRAUDE
 339.- Comete el delito de fraude el que engañando a alguno o aprovechándose del error en que éste se halla, se haga ilícitamente de una cosa o alcance un lucro indebido para sí o para otro.
 El delito de fraude se sancionará:
-I.- Con prisión de treinta días a seis meses y multa de hasta diez cuotas, cuando el valor de lo defraudado no exceda de esta última cantidad;
+(REFORMADA, P.O. 30 DE DICIEMBRE DE 1989)
+I.- Con prisión de tres meses a seis meses y multa de hasta diez cuotas, cuando el valor de lo defraudado no exceda de esta última cantidad;
 II.- Con prisión de tres meses a dos años y multa de hasta sesenta cuotas cuando el monto de lo defraudado no sea mayor de esta última cantidad;
 III.- Prisión de uno a cuatro años, y multa de hasta ciento sesenta cuotas cuando el importe de lo defraudado no rebase esta última suma; y
 IV.- Con prisión de dos a nueve años y multa de hasta ciento noventa cuotas, cuando la suma defraudada sea superior a ciento sesenta cuotas.
 Si no se pudiere determinar el monto o el valor de lo defraudado, se impondrán de treinta días a cinco años de prisión, a juicio del juez, y multa de hasta veinte cuotas.
+(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1989)
+Cuando el agente del delito restituya lo defraudado por única vez no se procederá en su contra.
 (F. DE E., P.O. 17 DE MAYO DE 1986)
 340.- Se considerarán casos especiales de defraudación, a los que se aplicarán las mismas penas que señala el artículo anterior, los siguientes:
 I.- Al que obtenga dinero, valores, o cualquier otra cosa, ofreciendo encargarse de la defensa de un procesado o de un reo si no efectúa esto, porque no se haga cargo legalmente de la misma;
@@ -1177,26 +1201,31 @@ VII.- Imponer labores insalubres o peligrosas y trabajos nocturnos a las mujeres
 VIII.- Violar sin causa justificada en perjuicio de los trabajadores, los convenios formalizados ante la Junta de Conciliación y Arbitraje, o ante los funcionarios o empleados de ésta que sean competentes para autorizar semejantes convenios; o
 IX.- Sostener u organizar directa o indirectamente, por sí o por interpósita persona, sindicatos blancos dentro de las negociaciones, o por cualquier otro medio procurar divisiones o discordias entre las organizaciones de trabajadores legalmente reconocidas.
 Se entiende por sindicato blanco al que se constituye bajo la dirección o tutela de los patrones, con el objeto de eludir el empleo de trabajadores realmente sindicalizados.
-354.- Las infracciones delictuosas mencionadas en el artículo que precede, se sancionarán con prisión de un mes a dos años y multa de tres a veinte cuotas.
+(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1989)
+354.- Las infracciones delictuosas mencionadas en el artículo que precede, se sancionarán con prisión de tres meses a dos años y multa de tres a veinte cuotas.
 Cuando el infractor fuere una empresa, sociedad o cualquier otra persona moral pública o privada, las sanciones anteriores serán impuestas al director, gerente, administrador, representante o responsable que hubiere intervenido en los hechos y, además a juicio del juez podrá imponerse a la persona moral la suspensión de sus actividades por un término hasta de un año o disolución de la misma.
 En el caso que previene la fracción IX del artículo anterior, se decretará la disolución del sindicato blanco.
-355.- Se impondrá prisión de un mes a dos años y multa de cinco a veinte cuotas, independientemente de las sanciones que corresponda imponer por otras disposiciones de este Código o de otra ley aplicable, al patrón que dolosamente, para hacerse aparecer insolvente y para eludir el pago de la indemnización por despidos, accidentes de trabajo, enfermedades profesionales o por alguna otra responsabilidad proveniente de la relación laboral o del contrato de trabajo, simule contratos u operaciones que importen créditos en su contra.
+(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1989)
+355.- Se impondrá prisión de tres meses a dos años y multa de cinco a veinte cuotas, independientemente de las sanciones que corresponda imponer por otras disposiciones de este Código o de otra ley aplicable, al patrón que dolosamente, para hacerse aparecer insolvente y para eludir el pago de la indemnización por despidos, accidentes de trabajo, enfermedades profesionales o por alguna otra responsabilidad proveniente de la relación laboral o del contrato de trabajo, simule contratos u operaciones que importen créditos en su contra.
 (F. DE E., P.O. 17 DE MAYO DE 1986)
 Se presumirá la simulación por la circunstancia de que el crédito supuesto grave en más de cincuenta por ciento del capital del patrón.
 Cuando el infractor fuere una empresa, sociedad o cualquiera otra persona moral, se aplicará la sanción prevista en el párrafo segundo del artículo anterior.
-356.- Se impondrá prisión de un mes a dos años y multa de cinco a veinte cuotas, independientemente de las sanciones que corresponda imponer por otra u otras disposiciones de este Código o de otra ley aplicable, al patrón que dolosamente, para eludir el pago de obligaciones legítimas, burlando a sus acreedores y queriendo aprovechar en su favor los privilegios que la ley reconoce a los créditos en favor de los trabajadores, simule créditos o cualquier otra obligación por supuestas responsabilidades provenientes de la relación laboral o del contrato del trabajo.
+(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1989)
+356.- Se impondrá prisión de tres meses a dos años y multa de cinco a veinte cuotas, independientemente de las sanciones que corresponda imponer por otra u otras disposiciones de este Código o de otra ley aplicable, al patrón que dolosamente, para eludir el pago de obligaciones legítimas, burlando a sus acreedores y queriendo aprovechar en su favor los privilegios que la ley reconoce a los créditos en favor de los trabajadores, simule créditos o cualquier otra obligación por supuestas responsabilidades provenientes de la relación laboral o del contrato del trabajo.
 Cuando el responsable fuere una persona moral, se observará lo dispuesto en el segundo párrafo del artículo 355.
 357.- Por los mismos hechos a que se refiere el artículo anterior y la fracción IX del artículo 353, se sancionará a los trabajadores o personas que intervengan en el sindicato blanco o en la simulación, imponiéndoles la mitad de las sanciones previstas en dichas disposiciones.
 Se presumirá la simulación por la circunstancia de que el trabajador o trabajadores que intervengan en ella, no sean sindicalizados, o no estén dedicados habitualmente al género de trabajo mencionado en el contrato respectivo, o sean ascendientes, descendientes, cónyuge o hermanos del patrón.
 TITULO VIGESIMO
 CAPITULO UNICO
 ENCUBRIMIENTO
-358.- Se impondrá de un mes a tres años de prisión y multa de cinco a veinte cuotas al que después de la ejecución del delito y sin haber participado en éste, ayude en cualquier forma al responsable a eludir las investigaciones de la autoridad o a sustraerse a la acción de ésta, u ocultare, alterare, destruyere o hiciere desaparecer los indicios, pruebas o instrumentos del delito, o asegure para el inculpado el producto o provecho del mismo.
+(REFORMADO, P.O. 30 DE DICIEMBRE DE 1989)
+358.- Se impondrá de tres meses a tres años de prisión y multa de cinco a veinte cuotas al que después de la ejecución del delito y sin haber participado en éste, ayude en cualquier forma al responsable a eludir las investigaciones de la autoridad o a sustraerse a la acción de ésta, u ocultare, alterare, destruyere o hiciere desaparecer los indicios, pruebas o instrumentos del delito, o asegure para el inculpado el producto o provecho del mismo.
 359.- No se sancionará al que oculte al responsable de un delito o los efectos, objetos o instrumentos del mismo o impida que se averigüe, cuando no se hiciere por un interés bastardo y no se empleare algún medio delictuoso siempre que se trate de:
 a) Los ascendientes y descendientes consanguíneos, afines o por adopción;
 b) El cónyuge, concubina o concubinario y parientes colaterales por consanguinidad hasta el cuarto grado y por afinidad hasta el segundo; y
 c) Los que estén ligados con el delincuente por amor, y respeto, gratitud o estrecha amistad.
-360.- Se impondrá de un mes a cuatro años de prisión y multa de cinco a treinta cuotas al que, con ánimo de lucro adquiera, reciba u oculte el producto del delito a sabiendas que provenía de éste, o si de acuerdo con las circunstancias debía presumir su ilegítima procedencia, o al que ayude a otro para los mismos fines, salvo los casos específicos que señala este Código.
+(REFORMADO, P.O. 30 DE DICIEMBRE DE 1989)
+360.- Se impondrá de tres meses a cuatro años de prisión y multa de cinco a treinta cuotas al que, con ánimo de lucro adquiera, reciba u oculte el producto del delito a sabiendas que provenía de éste, o si de acuerdo con las circunstancias debía presumir su ilegítima procedencia, o al que ayude a otro para los mismos fines, salvo los casos específicos que señala este Código.
 361.- En los casos del artículo 358, quedan exceptuados de sanción aquéllos que no puedan cumplir con el deber a que el mismo artículo se refiere, por correr peligro en su persona o en sus bienes, o en la persona o bienes de los que señala el artículo 359.
 362.- Para los efectos de los artículos de este Código en que se mencionen a la concubina y al concubinario, se entenderá por tales a la mujer y al hombre que estén haciendo vida conyugal por lo menos durante un año y siempre que tengan, respectivamente, un solo concubinario o una sola concubina.
 TRANSITORIOS
@@ -1210,4 +1239,7 @@ Dado en el Despacho del Poder Ejecutivo del Estado, a los quince días del mes d
 N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.
 P.O. 30 DE DICIEMBRE DE 1989.
 DECRETO No. 82
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+P.O. 30 DE DICIEMBRE DE 1989.
+DECRETO No. 83
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
