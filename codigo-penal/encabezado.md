@@ -564,6 +564,8 @@ CORRUPCION DE MENORES
 I.- Quienes vendan o alquilen a menores de edad, material audiovisual clasificado como exclusivo para adultos;
 (REFORMADA, P.O. 5 DE JULIO DE 1997)
 II.- Quienes propicien o permitan que menores de dieciocho años presencien, por medio de aparatos electrónicos, la exhibición de cintas de video a que se refiere la fracción anterior.
+(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2003)
+III.- Quienes vendan o regalen a los menores de dieciocho años de edad, en la cantidad que fuere, cualquier tipo de droga, enervante o sustancia psicotrópica, cuya producción, transporte, tráfico o comercio estén prohibidos en términos de ley; induzcan a su consumo, o empleen a los menores para tales efectos.
 (REFORMADO, P.O. 5 DE JULIO DE 1997)
 184.- Al que emplee menores de dieciocho años en cantinas, tabernas o expendios de bebidas embriagantes de consumo inmediato, se le sancionará con prisión de tres meses a un año y multa de cinco a veinte cuotas y cierre definitivo del establecimiento. Incurrirán en las mismas sanciones de prisión y multa los padres o tutores que acepten que sus hijos o menores, respectivamente, bajo su guarda, se empleen en los referidos establecimientos.
 Igual sanción se impondrá a quien emplee menores de dieciocho años en lenocinio o establecimientos análogos.
