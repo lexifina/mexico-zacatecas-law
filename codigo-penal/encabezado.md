@@ -160,7 +160,9 @@ VII.- El Estado, subsidiariamente, por sus funcionarios y empleados.
 33.- Quien se considere con derecho al pago de la reparación del daño, que no pueda obtener del juez penal, en virtud de no ejercicio de la acción penal por parte del Ministerio Público, sobreseimiento, suspensión del procedimiento o sentencia absolutoria, podrá recurrir a la vía civil en los términos de la legislación correspondiente.
 34.- Cuando el daño que se cause al ofendido produzca su muerte, el monto de la indemnización por reparación del daño se fijará aplicando las cuotas que establece la Ley Federal del Trabajo, según las circunstancias de la víctima y tomando como base la utilidad o salario que hubiese percibido; y, cuando éste exceda del salario mínimo general que rija en el lugar al momento de producción de la muerte, o si la víctima no percibía utilidad o salario o no pudiere determinarse éste, el monto de la indemnización se fijará tomando como base el mencionado salario mínimo.
 Si el daño produce incapacidad total o parcial, permanente o temporal, el monto de la indemnización se fijará de acuerdo con las tablas que para esta clase de incapacidades establece la Ley Federal del Trabajo, siendo aplicable en lo conducente lo dispuesto en el párrafo anterior.
-35.- La reparación del daño en los casos estupro o violación, comprenderá el pago de todo tipo de gastos derivados de tratamientos médicos que requiera el ofendido, así como alimentos a la mujer o al hijo, si lo hubiere. Este último concepto se pagará en la forma y términos que el Código Civil fija para los casos de divorcio.
+(REFORMADO, P.O. 7 DE JUNIO DE 1995)
+35.- La reparación del daño en los casos de los delitos comprendidos en el Título Décimo Segundo de este Código, comprenderá el pago de todo tipo de gastos derivados de tratamientos médicos y psicológicos que requiera el ofendido, por todo el tiempo que éstos sean necesarios a juicio de peritos.
+Cuando a consecuencia de la comisión de los delitos de estupro o violación resulten hijos, la reparación del daño comprenderá además, el pago de alimentos para éstos y para la madre, sin que por este concepto el obligado adquiera ningún derecho sobre los mismos. Este último concepto se pagará en la forma y términos que establece el Código Familiar.
 CAPITULO VI
 DECOMISO DE LOS INSTRUMENTOS Y PRODUCTOS DEL DELITO
 36.- Los instrumentos del delito y cualquiera otra cosa con que se cometa o intente cometer, así como los que sean objeto del mismo, se decomisarán si son de uso prohibido. Los instrumentos de uso lícito a que se refiere este artículo, se decomisarán al acusado solamente cuando fuere condenado. Si pertenecen a tercera persona, sólo se decomisarán cuando hayan sido empleados con conocimiento de su dueño para fines delictuosos.
@@ -775,7 +777,7 @@ CAPITULO VII
 USURPACION DE FUNCIONES PUBLICAS O DE PROFESION
 228.- Se sancionará con prisión de tres meses a tres años y multa de cinco a veinticinco cuotas:
 I.- Al que, sin ser servidor público, se atribuya ese carácter y ejerza alguna de las funciones de tal;
-II.- Al que, sin tener título profesional o autorización para ejercer alguna profesión reglamentada, expedidos por autoridad u organismos legalmente capacitados para ello, conforme a las disposiciones reglamentarias del artículo 5º. Constitucional:
+II.- Al que, sin tener título profesional o autorización para ejercer alguna profesión reglamentada, expedidos por autoridad u organismos legalmente capacitados para ello, conforme a las disposiciones reglamentarias del artículo 5º, Constitucional:
 a) Se atribuya el carácter de profesionista;
 b) Realice actos propios de una actividad profesional;
 c) Ofrezca públicamente sus servicios como profesionista;
@@ -788,28 +790,59 @@ CAPITULO IX
 DISPOSICIONES COMUNES A LOS CAPITULOS PRECEDENTES
 230.- Si el falsario hiciere uso de los documentos u objetos falsos que se mencionan en este título, la falsificación y el delito que por medio de ella cometa el delincuente, se sujetarán a las reglas del concurso.
 Las disposiciones contenidas en este Título, no se aplicarán sino en lo que no esté previsto en las leyes especiales y no se oponga a lo establecido en ellas.
+(REFORMADA SU DENOMINACION, P.O. 7 DE JUNIO DE 1995)
 TITULO DECIMO SEGUNDO
-DELITOS SEXUALES
+DELITOS CONTRA LA LIBERTAD SEXUAL E INTEGRIDAD DE LAS PERSONAS
+(REFORMADA SU DENOMINACION, P.O. 7 DE JUNIO DE 1995)
 CAPITULO I
-ATENTADOS AL PUDOR
-(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1989)
-231.- Al que sin consentimiento de una persona púber o impúber, o con consentimiento de ésta última, o de persona que por cualquier causa no pudiere resistir, ejecute en ella un acto erótico, sin el propósito directo o inmediato de llegar a la cópula, se le impondrá sanción tres meses a seis meses de prisión y multa de tres a cinco cuotas.
+ATENTADOS A LA INTEGRIDAD DE LAS PERSONAS
+(REFORMADO PRIMER PARRAFO, P.O. 7 DE JUNIO DE 1995)
+231.- A quien sin consentimiento de una persona y sin el propósito de llegar a la cópula, ejecute en ella un acto sexual o la obligue a ejecutarlo, se le impondrá pena de tres meses a dos años de prisión y multa de tres a veinticinco cuotas.
 (REFORMADO, P.O. 28 DE MAYO DE 1994)
 Si se hiciere uso de la violencia física o moral, la sanción será de tres meses a dos años de prisión y multa de cinco a diez cuotas. Existe la presunción legal de que la violencia fue el medio utilizado para la comisión del delito, cuando la víctima tuviere menos de doce años cumplidos.
-232.- Los atentados al pudor se sancionarán a petición del ofendido o de sus representantes.
+(REFORMADO, P.O. 7 DE JUNIO DE 1995)
+232.- A quien sin el propósito de llegar a la cópula, ejecute un acto sexual en persona menor de doce años de edad o en persona que no tenga la capacidad de comprender el significado del hecho o por cualquier causa no pueda resistirlo, o la obligue a ejecutarlo, se le aplicará una pena de seis meses a tres años de prisión y multa de seis a treinta cuotas.
+Si se hiciere uso de la violencia física o moral, la pena será de uno a cuatro años de prisión y multa de ocho a cuarenta cuotas.
+(ADICIONADO, P.O. 7 DE JUNIO DE 1995)
+232-Bis.- Los atentados a la integridad de la persona, se sancionarán a petición del ofendido o de sus representantes.
+En el caso de los dos anteriores artículos, no se procederá contra el sujeto activo, sino por queja de la persona ofendida o de sus representantes.
+(REFORMADA SU DENOMINACION, P.O. 7 DE JUNIO DE 1995)
 CAPITULO II
-ESTUPRO
-233.- Al que tenga cópula con mujer púber, casta y honesta y menor de dieciocho años, obteniendo su consentimiento por medio de la seducción o del engaño, se le impondrán de tres meses a tres años de prisión y multa de una a diez cuotas. La castidad, la honestidad y la seducción o el engaño se presumen, salvo prueba en contrario.
-234.- No se procederá contra el estuprador sino por queja de la mujer ofendida o de sus padres, o a falta de éstos, de sus representantes legítimos; pero cuando el delincuente se case con la mujer ofendida, cesarán toda acción para perseguirlo y las sanciones impuestas, salvo que se declare nulo el matrimonio.
+HOSTIGAMIENTO SEXUAL
+(REFORMADO, P.O. 7 DE JUNIO DE 1995)
+233.- A quien con fines lascivos asedie reiteradamente a persona de cualquier sexo, valiéndose de su posición jerárquica derivada de sus relaciones laborales, docentes, domésticas o cualquiera otra que implique subordinación, se le impondrá pena de dos meses a un año de prisión y multa de tres a ocho cuotas.
+En el caso de que fuere Servidor Público, además se le destituirá de su cargo.
+Si el ofendido es persona menor de dieciséis años la pena se duplicará.
+Sólo se procederá en contra del sujeto activo a petición de parte ofendida o de su legítimo representante y dentro de los seis meses siguientes de producido el daño o perjuicio.
+(REFORMADA SU DENOMINACION, P.O. 7 DE JUNIO DE 1995)
 CAPITULO III
+ESTUPRO
+(REFORMADO, P.O. 7 DE JUNIO DE 1995)
+234.- A quien tenga cópula con mujer mayor de doce años y menor de dieciocho, obteniendo su consentimiento por medio de engaño, se le aplicará de tres meses a tres años de prisión y multa de una a diez cuotas. Si la mujer fuere de mayor edad que el sujeto activo del delito, la pena será de dos meses a dos años de prisión.
+(REFORMADO, P.O. 7 DE JUNIO DE 1995)
+235.- En el caso del artículo anterior, no se procederá contra el sujeto activo, sino por querella del ofendido o sus representantes legales.
+(REFORMADA SU DENOMINACION, P.O. 7 DE JUNIO DE 1995)
+CAPITULO IV
 VIOLACION
-235.- Se sancionará con prisión de tres a diez años y multa de diez a cincuenta cuotas a quien por medio de la violencia física o moral tenga cópula con una persona, cualquiera que sea su sexo.
-236.- Se sancionará como violación al que tenga cópula con persona impúber o con persona privada de razón o de sentido, o cuando por enfermedad o por cualquier causa no pudiera resistir.
-(REFORMADO, P.O. 28 DE MAYO DE 1994)
-Si la persona impúber fuera menor de doce años, la sanción será de cinco a veinte años de prisión y multa de diez a sesenta cuotas.
-La sanción prevista en el párrafo anterior se aplicará también en los casos de violación de un ascendiente a su descendiente o de éste a aquél.
-La violación de un hermano a su hermana o hermano; del padrastro a la hijastra o hijastro y la ejecutada por éste a su madrastra, o entre ascendientes y descendientes adoptivos, se sancionará con prisión de tres a nueve años y multa de diez a cincuenta cuotas.
-237.- Cuando en una violación intervengan tres o más personas aún cuando solo una de ellas efectúe la cópula, se aplicarán a todas ellas de cinco a veinticinco años de prisión y multa de diez a cincuenta cuotas, según las circunstancias a que se refieren los párrafos anteriores.
+(REFORMADO, P.O. 7 DE JUNIO DE 1995)
+236.- Se sancionará con prisión de cuatro a diez años y multa de diez a cincuenta cuotas a quien, por medio de la violencia física o moral, tenga cópula con una persona, cualquiera que sea su sexo.
+Para los efectos de este artículo, se entiende por cópula, la introducción del miembro viril en el cuerpo de la víctima, por vía vaginal, anal u oral, independientemente de su sexo.
+(REFORMADO, P.O. 7 DE JUNIO DE 1995)
+237.- Se equiparará a la violación y se sancionará con la misma pena:
+I.- Al que sin violencia realice cópula con persona menor de doce años de edad, en este caso, la sanción será de cinco a veinte años de prisión y multa de diez hasta sesenta cuotas.
+II.- Al que sin violencia realice cópula con persona que no tenga la capacidad de comprender el significado del hecho, o que por cualquier causa no pueda resistirlo. Se aplicará la misma sanción que señala la fracción I de este artículo.
+Si se ejerciera violencia física o moral, a la pena impuesta se aumentarán hasta dos años.
+III.- Al que introduzca por vía vaginal o anal cualquier elemento o instrumento distinto al miembro viril, por medio de la violencia física o moral, sea cual fuere el sexo del ofendido, se le impondrá una pena de cuatro a diez años de prisión y multa de cinco a treinta cuotas, independientemente del delito de lesiones que pudieran resultar.
+Para los efectos de los delitos de violación y los equiparables a la violación contemplados en los artículos 236 y 237, no gozarán del beneficio de la libertad provisional bajo caución.
+(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 7 DE JUNIO DE 1995)
+CAPITULO V
+REGLAS COMUNES PARA ATENTADOS A LA INTEGRIDAD PERSONAL Y VIOLACION
+(ADICIONADO, P.O. 7 DE JUNIO DE 1995)
+237 Bis.- Las penas y multas previstas para los atentados a la integridad personal y la violación se aumentarán en una mitad en su mínimo y máximo, cuando:
+I.- El delito fuere cometido con intervención directa o inmediata de dos o más personas;
+II.- El delito fuere cometido por un ascendiente contra su descendiente, éste contra aquél, entre ascendientes y descendientes adoptivos, el hermano contra su colateral, el tutor contra su pupilo, o por el padrastro o amasio de la madre en contra del hijastro o hijastra. Además de la pena de prisión, el culpable perderá la patria potestad o la tutela, en los casos en que la ejerciere legalmente sobre la víctima.
+III.- El delito fuere cometido por quien desempeñe un cargo o empleo público o ejerza su profesión utilizando los medios o circunstancias que ellos le proporcionen; además de la pena de prisión, el condenado será destituido del cargo o empleo o suspendido por el término de cinco años en el ejercicio de dicha profesión; y
+IV.- El delito fuere cometido por la persona que tiene el ofendido bajo su custodia, guarda o educación, o aproveche la confianza en él depositada.
 TITULO DECIMO TERCERO
 DELITOS CONTRA EL ORDEN DE LA FAMILIA
 CAPITULO I
@@ -1449,13 +1482,13 @@ P.O. 30 DE DICIEMBRE DE 1989.
 DECRETO No. 82
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
 P.O. 30 DE DICIEMBRE DE 1989.
-DECRETO NUM. 83
+DECRETO No. 83
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
 P.O. 30 DE DICIEMBRE DE 1989.
 DECRETO No. 84
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
 P.O. 10 DE JULIO DE 1993.
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CODIGO.
 PRIMERO.- Esta ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo de Gobierno del Estado.
 SEGUNDO.- Se derogan los capítulos I, II y III del Título Cuarto del libro Primero del Código Penal del Estado, así como el Artículo 72 del Capítulo VII del Título Tercero del Ordenamiento antes Invocado.
 P.O. 29 DE DICIEMBRE DE 1993
