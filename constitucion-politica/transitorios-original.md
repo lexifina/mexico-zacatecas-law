@@ -16,3 +16,4 @@ El Gobernador Constitucional del Estado
 Lic. Arturo Romo Gutiérrez.
 La Secretaria General de Gobierno
 Lic. Judit M. Guerrero López.
+N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.
