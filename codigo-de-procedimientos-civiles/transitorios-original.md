@@ -20,7 +20,7 @@ Comuníquese al Ejecutivo para su promulgación y publicación.
 Dado en el Salón de Sesiones del H. Congreso del Estado, a los siete días del mes de enero de mil novecientos sesenta y cinco.- DIPUTADO PRESIDENTE, Prof. Antonio de Haro Saldívar.- DIPUTADO SECRETARIO, Lic. Raúl Rodríguez Santoyo.- DIPUTADO SECRETARIO, Raúl Castillo Aguilar.- (rúbricas).
 Y para que llegue a conocimiento de todos y se le dé el debido cumplimiento, mando se imprima, publique y circule.
 Dado en el Despacho del Poder Ejecutivo del Estado, a los doce días del mes de enero de mil novecientos sesenta y cinco.
-(F. DE E. P.O. 18 DE MARZO DE 1966)
+(F. DE E., P.O. 18 DE MARZO DE 1966)
 El Gobernador Constitucional del Estado.
 José Rodríguez Elías.
 El Secretario General de Gobierno.
