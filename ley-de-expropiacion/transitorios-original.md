@@ -7,3 +7,4 @@ DADO en el Salón de Sesiones del H. Congreso del Estado, a los diez y nueve dí
 Y para que llegue a conocimiento de todos y se le dé el debido cumplimiento mando se me imprima, publique y circule.
 DADO en el Despacho del Poder Ejecutivo del Estado, a los veinte días del mes de septiembre de mil novecientos cuarenta y cuatro.
 LEOBARDO REYNOSO.- EL Srio. General de Gobierno, Lic. Roberto del Real.- Rúbricas.
+N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.
