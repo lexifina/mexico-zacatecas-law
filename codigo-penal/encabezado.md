@@ -4,7 +4,7 @@ JOSE GUADALUPE CERVANTES CORONA, Gobernador Constitucional del Estado Libre y So
 Que los CC. Diputados Secretarios de la H. Quincuagésima Primera Legislatura del Estado se han servido dirigirme el siguiente
 DECRETO Núm. 241
 LA H. QUINCUAGESIMA PRIMERA LEGISLATURA DEL ESTADO LIBRE Y SOBERANO DE ZACATECAS.
-DECRETA:
+DECRETO:
 CODIGO PENAL PARA EL ESTADO DE ZACATECAS
 LIBRO PRIMERO
 TITULO PRELIMINAR
@@ -637,6 +637,8 @@ TRAFICO DE INFLUENCIA Y NEGOCIACIONES ILICITAS
 I.- Promueva o gestione la tramitación o resolución ilícita de negocios públicos ajenos a las responsabilidades inherentes a su empleo, cargo o comisión;
 II.- Indebidamente solicite o promueva cualquier resolución o la realización de cualquier acto materia del empleo, cargo o comisión de otro servidor público que produzca beneficios económicos para sí o para otro;
 III.- Otorgue indebidamente contratos, concesiones, permisos, licencias, autorizaciones, franquicias, exenciones o efectúe compras o ventas o realice cualquier acto jurídico, que produzcan beneficios económicos al propio servidor público o a terceros.
+(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1993)
+IV.- Otorgue contratos, concesiones, permisos, licencias, autorizaciones, franquicias, exenciones o efectúe compras, ventas o realice cualquier acto jurídico que produzca y transfiera algún beneficio económico al propio servidor público, a persona con la que tenga parentesco por consanguinidad o afinidad hasta el segundo grado, o relación directa de trabajo; a personas colectivas de las que el servidor público o las personas aludidas formen parte; y a personas que no satisfagan los requisitos legales exigidos para tener derecho al beneficio.
 TITULO NOVENO
 CAPITULO I
 DELITOS COMETIDOS EN LA ADMINISTRACION DE JUSTICIA Y EN OTROS RAMOS DEL PODER PUBLICO
@@ -651,8 +653,8 @@ VI.- Dictar una resolución de fondo o una sentencia definitiva injusta, con vio
 VII.- Ejecutar actos o incurrir en omisiones que produzcan un daño o concedan una ventaja indebida a los interesados en un negocio o cualquiera otra persona;
 VIII.- Retardar o entorpecer maliciosamente o por negligencia la administración de justicia;
 IX.- Abstenerse el Ministerio Público de hacer la consignación que corresponda con arreglo a la ley, de alguna persona que se encuentre detenida a su disposición, como presunta responsable de algún delito, o dejar de consignar las diligencias de averiguación previa, cuando se hayan reunido los requisitos legales, sin autorización del Procurador de Justicia; no promover las pruebas conducentes a la comprobación del cuerpo del delito y de la responsabilidad penal del inculpado; no presentar en tiempo, sin causa justificada, las conclusiones que procedan, o formularlas sin que concurran los requisitos de forma y fondo que señala el Código de Procedimientos Penales;
-X.- Ordenar la aprehensión de un individuo por delito que no amerite pena privativa de libertad, o sin que proceda denuncia, acusación o querella; obligar al indiciado o acusado a declarar en su contra, usando la incomunicación o cualquier otro medio ilícito.
-XI.- Prolongar la prisión preventiva por más tiempo del que como máximo fije la ley al delito que motive el proceso, o demorar injustificadamente el cumplimiento de las providencias judiciales;
+X.- (DEROGADA, P.O. 29 DE DICIEMBRE DE 1993)
+XI.- (DEROGADA, P.O. 29 DE DICIEMBRE DE 1993)
 XII.- A los encargados o empleados de lugares de reclusión o internamiento que cobren cualquier cantidad a los internos o a sus familiares, a cambio de proporcionarles bienes o servicios que gratuitamente brinde el Estado, para otorgarles condiciones de privilegio en el alojamiento, alimentación o régimen disciplinario interno.
 208.- Se impondrá suspensión de un mes a dos años, multa de cinco a veinticinco cuotas y prisión de tres meses a un año, al defensor de oficio de un inculpado, que sólo se concrete a aceptar el cargo o a solicitar la libertad caucional que menciona la fracción I del artículo 20 de la Constitución Federal, sin promover injustificadamente las pruebas conducentes, o que no interponga los recursos procedentes contra resoluciones en que se adviertan violaciones notorias a la ley.
 209.- Las disposiciones de los artículos anteriores se aplicarán, en lo conducente, a todos los funcionarios o empleados de la administración pública, cuando en el ejercicio de su cargo o comisión, ejecuten los hechos o incurran en las omisiones que expresan los propios artículos.
@@ -1130,11 +1132,13 @@ ADMINISTRACION FRAUDULENTA
 Las sanciones para este delito serán las mismas que para el fraude establece el artículo 339 de este Código.
 CAPITULO VI
 USURA
-344.- Se impondrá prisión de seis meses a cinco años y multa de hasta treinta cuotas:
-I.- Al que abusando de la apremiante necesidad de una persona, realizare cualquier préstamo, aún encubierto con otra forma contractual, con interés superior al bancario, u obtenga otras ventajas evidentemente desproporcionadas para sí o para otro;
-II.- Al que abusando de la apremiante necesidad ajena, procurase un préstamo cualquiera cobrando una comisión evidentemente desproporcionada, para sí o para otros; y
+(REFORMADO, P.O. 29 DE DICIEMBRE DE 1993)
+344.- Se impondrá prisión de seis meses a cinco años y multa de cien a doscientas cuotas:
+I.- Al que abusando de la apremiante necesidad, ignorancia o inexperiencia de una persona, realizare cualquier préstamo, aún encubierto con otra contractual, con interés superior al bancario, u obtenga otras ventajas evidentemente desproporcionadas para sí o para otro;
+II.- Al que abusando de la apremiante necesidad ajena, ignorancia o inexperiencia, procurase un préstamo cualquiera cobrando una comisión superior al 5% del monto, para sí o para otros, y
 III.- Al que haya adquirido un préstamo usurario o una comisión usuraria, con conocimiento de causa, para enajenarlo o hacerlo valer.
-A la persona moral, responsable de alguno de estos delitos, se le impondrá suspensión de sus actividades hasta por un año, y además serán sancionados penalmente los dirigentes, administradores y mandatarios que ordenen, permitan o ejecuten dichos delitos.
+Independientemente de los tres incisos anteriores, cuando se fije un interés superior en 30% mensual con referencia al bancario, al momento de celebrar el préstamo, por ese solo hecho se tendrá por comprobada la USURA, siempre y cuando, por cualquier medio se trate de hacer, o se haga efectivo dicho interés.
+A la persona moral responsable de alguno de estos delitos, se le impondrá suspensión de sus actividades hasta por un año, y además serán sancionados penalmente los dirigentes, administradores y mandatarios que ordenen, permitan o ejecuten dichos delitos.
 CAPITULO VII
 DESPOJO DE INMUEBLES Y AGUAS
 345.- Se aplicarán sanciones de tres meses a tres años de prisión y multa de una a cinco cuotas:
@@ -1214,6 +1218,73 @@ c) Los que estén ligados con el delincuente por amor, y respeto, gratitud o est
 360.- Se impondrá de tres meses a cuatro años de prisión y multa de cinco a treinta cuotas al que, con ánimo de lucro adquiera, reciba u oculte el producto del delito a sabiendas que provenía de éste, o si de acuerdo con las circunstancias debía presumir su ilegítima procedencia, o al que ayude a otro para los mismos fines, salvo los casos específicos que señala este Código.
 361.- En los casos del artículo 358, quedan exceptuados de sanción aquéllos que no puedan cumplir con el deber a que el mismo artículo se refiere, por correr peligro en su persona o en sus bienes, o en la persona o bienes de los que señala el artículo 359.
 362.- Para los efectos de los artículos de este Código en que se mencionen a la concubina y al concubinario, se entenderá por tales a la mujer y al hombre que estén haciendo vida conyugal por lo menos durante un año y siempre que tengan, respectivamente, un solo concubinario o una sola concubina.
+(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 1993)
+TITULO VIGESIMO PRIMERO
+DELITOS CONTRA LA FUNCION PERSECUTORIA
+(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 1993)
+CAPITULO I
+NEGACION DE LA FUNCION PERSECUTORIA
+(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1993)
+363.- Se aplicará prisión de tres meses a tres años y multa de cincuenta a cien cuotas y destitución del empleo, cargo o comisión, al servidor público que:
+I.- Se niegue a recibir una denuncia o una querella o impida o retarde su presentación.
+II.- Omita injustificadamente ofrecer los medios de prueba y promover lo que legalmente proceda, a fin de que al ofendido o a la víctima del delito, en caso de que tenga derecho a ello, le sea reparado el daño.
+III.- Mediante cualquier acción u omisión que no constituya delito diverso, ejerza cualquier represalia contra persona que haya formulado denuncia o querella o fungido como testigo de la presunta comisión de un delito o de una conducta sancionada por la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Zacatecas, o en contra de persona ligada por parentesco, vínculo afectivo o de negocios con el denunciante, querellante o testigo.
+(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1993)
+364.- Se aplicará prisión de tres meses a tres años y multa de cincuenta a cien cuotas al que, como intermediario de un servidor público, intimide a cualquier persona para evitar que ésta o un tercero formule denuncia o querella o aporte información sobre la presunta comisión de un delito o de una conducta sancionada por la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Zacatecas
+(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 1993)
+TITULO VIGESIMO SEGUNDO
+DELITOS CONTRA LAS GARANTIAS RECTORAS DEL JUICIO PENAL
+(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 29 DE DICIEMBRE DE 1993)
+CAPITULO I
+ORDEN DE APREHENSION ILEGAL
+(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1993)
+365.- Se aplicará prisión de tres meses a tres años y multa de cincuenta a cien cuotas al servidor público que libre una orden de aprehensión cuando no proceda denuncia o querella legalmente formulada sobre un hecho determinado que la ley tipifique como delito, sancionado cuando menos con pena privativa de libertad y ésta no esté señalada en forma alternativa con otra diversa.
+(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 29 DE DICIEMBRE DE 1993)
+CAPITULO II
+RETENCION ILEGITIMA
+(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1993)
+366.- Se aplicará prisión de tres meses a tres años y multa de cincuenta a cien cuotas al servidor público que:
+I.- Habiendo realizado una aprehensión en flagrante delito, o habiendo recibido un detenido que fue aprehendido en flagrante delito por un particular, no ponga a la brevedad posible al detenido a disposición del Ministerio Público.
+II.- Habiendo recibido un detenido que fue aprehendido en flagrante delito por un particular o por otro servidor público, no ponga al detenido a disposición del Juez dentro del término a que se refiere el párrafo séptimo del Artículo 16 de la Constitución Política de los Estados Unidos Mexicanos.
+III.- No ponga al detenido a disposición de la autoridad judicial sin dilación alguna, cuando ésta se realice en cumplimiento de una orden de aprehensión.
+Se entenderá que el inculpado queda a disposición del juzgador, para los efectos constitucionales y legales, desde el momento en que la autoridad lo ponga a disposición de aquel en la prisión preventiva o en el centro de salud en que se encuentre.
+(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 29 DE DICIEMBRE DE 1993)
+CAPITULO III
+DETENCION Y PRISION PREVENTIVA ILEGITIMA
+(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1993)
+367.- Se aplicará prisión de tres meses a tres años y multa de cincuenta a cien cuotas al servidor público que:
+I.- No otorgue la libertad provisional bajo caución legalmente procedente, cuando ésta haya sido solicitada.
+II.- Prolongue más allá del término legal, la detención de un indiciado, sin auto de formal prisión.
+III.- Prolongue la prisión preventiva por no dictar sentencia definitiva dentro de los términos a que se refiere la fracción VIII del Artículo 20 de la Constitución Política de los Estados Unidos Mexicanos, contados a partir de su detención, salvo que el inculpado solicite mayor plazo en ejercicio del derecho de defensa.
+IV.- Demore injustificadamente el incumplimiento de la resolución de autoridad competente que ordena poner en libertad a su detenido.
+(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 29 DE DICIEMBRE DE 1993)
+CAPITULO IV
+RETARDO ILEGITIMO DE LA FORMAL PRISION, DE LA SUJECION A PROCESO O DE LA NO SUJECION A PROCESO
+(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1993)
+368.- Se aplicará prisión de tres meses a tres años y multa de cincuenta a cien cuotas al servidor público que no dicte según el caso y dentro del término legal auto de formal prisión, de sujeción a proceso o de no sujeción a proceso con efectos de libertad.
+(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 1993)
+CAPITULO V
+PERVERTIMIENTO DE LA FUNCION PERSECUTORIA Y JUDICIAL
+(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1993)
+369.- Se aplicará prisión de tres meses a tres años y multa de cincuenta a cien cuotas al servidor público que:
+I.- Compela, por cualquier medio que no constituya delito diverso, al inculpado a declarar.
+II.- Impida al inculpado hacer efectiva la garantía de defensa no permitiendo que nombre defensor desde el momento en que aquél lo solicite, u omitir nombrarle uno de oficio inmediatamente que se niegue a hacerlo.
+III.- No le tome al inculpado su declaración preparatoria, dentro del término y/o sin observar estrictamente todas y cada una de las formalidades que establece la fracción III del Artículo 20 de la Constitución Política de los Estados Unidos Mexicanos.
+(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1993)
+370.- Se aplicará prisión de uno a cuatro años y multa de cuarenta a cien cuotas al servidor público que ordene o practique un cateo fuera del procedimiento legal.
+(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 1993)
+CAPITULO VI
+TORTURA
+(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1993)
+371.- Se aplicará prisión de dos a ocho años, multa de cien a doscientas cuotas, destitución del empleo, cargo o comisión e inhabilitación para desempeñar cualquier cargo o comisión en el servicio público hasta por dos tantos del lapso de privación de la libertad impuesta, al servidor público que en el ejercicio de sus atribuciones, inflija a una persona dolores o sufrimiento graves, sean físicos o mentales, con el fin de obtener del torturado o de un tercero, información o una confesión, o castigarlo por un acto que haya cometido o se sospeche ha cometido, o coaccionar a este o un tercero para que realice o deje de realizar una conducta determinada.
+No se considerarán como tortura las molestias o penalidades que sean consecuencia únicamente de sanciones legales, que sean inherentes o incidentales a éstas, o derivadas de un acto legítimo de autoridad.
+(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1993)
+372.- Las sanciones previstas en el Artículo 371 se aplicarán al servidor público que:
+I.- Compela, instigue, autorice a un tercero o se sirva de él para cometer tortura.
+II.- No evitar que se torture a una persona que esté bajo su custodia.
+III.- No evitar que se torture a un detenido.
+(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1993)
+373.- Al tercero, instigado o autorizado a cometer tortura, se le aplicarán las sanciones privativas de libertad y pecuniarias previstas en el artículo 371.
 TRANSITORIOS
 PRIMERO.- El presente Código entrará en vigor sesenta días después del de su publicación en el Periódico "Oficial" Organo del Gobierno del Estado.
 SEGUNDO.- En la misma fecha a que se refiere el artículo anterior queda abrogado el Código Penal del 19 de Julio de 1967 en cuya fecha fue publicado como suplemento al Periódico Oficial Organo del Gobierno del Estado, número 57 del Tomo LXXVII del 19 de julio de dicho año. Así mismo se abrogan las demás leyes que se opongan al presente; pero el Código abrogado continuará aplicándose a los hechos ejecutados durante su vigencia, a menos que los responsables manifiesten su voluntad de acogerse al ordenamiento que estimen más favorable entre el presente Código y al que regía en el tiempo de la perpetración del delito.
@@ -1236,3 +1307,5 @@ P.O. 10 DE JULIO DE 1993.
 SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CODIGO.
 PRIMERO.- Esta ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo de Gobierno del Estado.
 SEGUNDO.- Se derogan los capítulos I, II y III del Título Cuarto del libro Primero del Código Penal del Estado, así como el Artículo 72 del Capítulo VII del Título Tercero del Ordenamiento antes Invocado.
+P.O. 29 DE DICIEMBRE DE 1993
+UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial Organo de Gobierno del Estado.
