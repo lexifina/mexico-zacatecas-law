@@ -151,7 +151,8 @@ Si la cosa o productos se hallaren en poder de terceros, se observará lo dispue
 32.- Los terceros están obligados a reparar el daño, si son:
 I.- Los ascendientes, por los delitos de sus descendientes que se hallen bajo su patria potestad;
 II.- Los tutores o los custodios por los delitos de los incapacitados que se hallen bajo su autoridad;
-III.- Los directores de internados, colegios o talleres, que reciban en su establecimiento discípulos o aprendices menores de dieciséis años, por los delitos que ejecuten durante el tiempo que se hallen bajo el cuidado de aquéllos;
+(REFORMADA, P.O. 5 DE JULIO DE 1997)
+III.- Los directores de internados, colegios o talleres, que reciban en su establecimiento discípulos o aprendices menores de dieciocho años, por los delitos que ejecuten durante el tiempo que estén bajo el cuidado de aquéllos;
 IV.- Los dueños, empresarios o encargados de negociaciones o establecimientos mercantiles o industriales de cualquiera especie, por los delitos que cometan sus obreros, jornaleros, empleados, domésticos y artesanos, con motivo y en el desempeño de su servicio;
 V.- Las sociedades o agrupaciones, por los delitos de sus socios o gerentes directores, en los mismos términos en que, conforme a las leyes, sean responsables por las demás obligaciones que los segundos contraigan.
 Se exceptúa de esta regla a la sociedad conyugal, pues en todo caso, cada cónyuge responderá con sus propios bienes o con la parte que le corresponda, por el daño que cause.
@@ -260,7 +261,8 @@ Si se trata de internamiento, el sujeto inimputable será internado en la instit
 La autoridad ejecutora podrá resolver sobre la modificación o conclusión de la medida, en forma provisional o definitiva, considerando las necesidades del tratamiento, las que se acreditarán mediante revisiones periódicas, con la frecuencia y características que el caso requiera.
 CAPITULO VI
 MEDIDAS TUTELARES PARA MENORES
-71.- Los menores de dieciseis años que cometan infracciones a las leyes penales, quedarán sujetos a las disposiciones de la ley de la materia.
+(REFORMADO, P.O. 5 DE JULIO DE 1997)
+71.- Los menores de dieciocho años que cometan infracciones a las leyes penales, quedarán sujetos a las disposiciones de la Ley de la materia.
 CAPITULO VII
 CONMUTACION DE SANCIONES
 72.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE EJECUCION DE SANCIONES PRIVATIVAS Y RESTRICTIVAS DE LA LIBERTAD DEL ESTADO DE ZACATECAS, P.O. 10 DE JULIO DE 1993)
@@ -550,13 +552,16 @@ Cuando los actos a que se refiere este artículo se realicen en plazas, parques,
 182.- Si los delitos de que habla el artículo anterior fueren cometidos al amparo de una persona jurídica o con medios que ésta proporcione para tal fin a los delincuentes, a juicio del juez, se disolverá la empresa o se suspenderán sus actividades hasta por un año.
 CAPITULO II
 CORRUPCION DE MENORES
-(REFORMADO, P.O. 28 DE MAYO DE 1994)
-183.- Se aplicarán prisión de seis meses a dos años y multa de cinco a veinte cuotas, al que procure o facilite la corrupción de cualquier naturaleza, de un menor de dieciséis años. Cuando el menor no haya cumplido los doce años, las penas aplicables se podrán aumentar de uno a dos años más de prisión y, del mismo modo, se podrá duplicar la multa.
+(REFORMADO, P.O. 5 DE JULIO DE 1997)
+183.- Se aplicarán prisión de seis meses a dos años y multa de cinco a veinte cuotas, al que procure o facilite la corrupción de cualquier naturaleza, de un menor de dieciocho años. Cuando el menor no haya cumplido los doce años, las penas aplicables se podrán aumentar de uno a dos años más de prisión y, del mismo modo, se podrá duplicar la multa.
 (ADICIONADO, P.O. 28 DE MAYO DE 1994)
 183 Bis.- También cometen el delito de corrupción de menores y se harán acreedores a las sanciones previstas:
 I.- Quienes vendan o alquilen a menores de edad, material audiovisual clasificado como exclusivo para adultos;
-II.- Quienes propicien o permitan que menores de dieciséis años presencien, por medio de aparatos electrónicos la exhibición de audiovisuales a que se refiere la fracción anterior.
-184.- Al que emplee menores de dieciséis años en cantinas, tabernas o centros de vicios, se le sancionará con prisión de tres meses a un año y multa de cinco a veinte cuotas y cierre definitivo del establecimiento. Incurrirán en las mismas sanciones de prisión y multa los padres o tutores que acepten que sus hijos o menores, respectivamente, bajo su guarda, se empleen en los referidos establecimientos.
+(REFORMADA, P.O. 5 DE JULIO DE 1997)
+II.- Quienes propicien o permitan que menores de dieciocho años presencien, por medio de aparatos electrónicos, la exhibición de cintas de video a que se refiere la fracción anterior.
+(REFORMADO, P.O. 5 DE JULIO DE 1997)
+184.- Al que emplee menores de dieciocho años en cantinas, tabernas o expendios de bebidas embriagantes de consumo inmediato, se le sancionará con prisión de tres meses a un año y multa de cinco a veinte cuotas y cierre definitivo del establecimiento. Incurrirán en las mismas sanciones de prisión y multa los padres o tutores que acepten que sus hijos o menores, respectivamente, bajo su guarda, se empleen en los referidos establecimientos.
+Igual sanción se impondrá a quien emplee menores de dieciocho años en lenocinio o establecimientos análogos.
 (REFORMADO, P.O. 28 DE MAYO DE 1994)
 185.- Las sanciones que señalan los tres artículos anteriores, se duplicarán cuando el que corrompa o emplee al menor sea ascendiente, padrastro, madrastra o tutor de aquél, privando al responsable de todo derecho a los bienes del ofendido y de la patria potestad sobre todos sus descendientes.
 186.- Quienes hayan sido sancionados por los delitos de que trata este capítulo quedarán inhabilitados para ser tutores o curadores.
@@ -568,8 +573,8 @@ II.- El que induzca o solicite a una persona para que con otra comercie sexualme
 III.- El que regentee, administre o sostenga prostíbulos, casas de cita o lugares de concurrencia, en donde se explote la prostitución u obtenga cualquier beneficio con sus productos; y
 IV.- (DEROGADA, P.O. 28 DE MAYO DE 1994)
 El lenocinio se sancionará con prisión de seis meses a tres años y multa de diez a setenta y cinco cuotas.
-(ADICIONADO, P.O. 28 DE MAYO DE 1994)
-187 Bis.- El que encubra, concierte o permita el comercio carnal de un menor de edad será sancionado con prisión de uno a seis años y multa de diez a cien cuotas. Esta penalidad se duplicará cuando el ofendido no haya cumplido los doce años de edad.
+(REFORMADO, P.O. 5 DE JULIO DE 1997)
+187 Bis.- El que encubra, concierte o permita el comercio carnal de un menor de dieciocho años de edad, será sancionado con prisión de uno a seis años y multa de diez a cien cuotas. Esta penalidad se duplicará cuando el ofendido no haya cumplido los doce años de edad.
 (REFORMADO, P.O. 30 DE DICIEMBRE DE 1989)
 188.- Al que dé en arrendamiento una finca teniendo conocimiento de que será destinada al lenocinio, se le aplicará prisión de tres meses a seis meses, o multa de cinco a quince cuotas o trabajo en favor de la comunidad hasta por quince días.
 (REFORMADO, P.O. 28 DE MAYO DE 1994)
@@ -682,7 +687,7 @@ I.- Alegar dolosamente, hechos falsos, o leyes inexistentes o derogadas;
 II.- Presentar o aconsejar a sus patrocinados que presenten testigos o documentos falsos.
 En el caso de la fracción II, las sanciones expresadas se impondrán sin perjuicio de las que correspondan por la participación del infractor en la comisión del delito de falsedad en declaraciones ante la autoridad, falsificación de documentos o uso de los mismos.
 211.- Además de las sanciones mencionadas en el artículo anterior, se impondrá a los abogados y litigantes prisión de tres meses a tres años:
-I.-Por patrocinar o ayudar a diversos contendientes o partes con intereses opuestos en un mismo negocio o negocios conexos, o cuando se acepte el patrocinio de alguno y se admita después el de la parte contraria;
+I.- Por patrocinar o ayudar a diversos contendientes o partes con intereses opuestos en un mismo negocio o negocios conexos, o cuando se acepte el patrocinio de alguno y se admita después el de la parte contraria;
 II.- Por abandonar la defensa de un cliente o negocio sin motivo justificado y causando daño;
 III.- Al defensor particular, en los casos del artículo 208 de este Código.
 TITULO DECIMO
@@ -812,7 +817,8 @@ HOSTIGAMIENTO SEXUAL
 (REFORMADO, P.O. 7 DE JUNIO DE 1995)
 233.- A quien con fines lascivos asedie reiteradamente a persona de cualquier sexo, valiéndose de su posición jerárquica derivada de sus relaciones laborales, docentes, domésticas o cualquiera otra que implique subordinación, se le impondrá pena de dos meses a un año de prisión y multa de tres a ocho cuotas.
 En el caso de que fuere Servidor Público, además se le destituirá de su cargo.
-Si el ofendido es persona menor de dieciséis años la pena se duplicará.
+(REFORMADO, P.O. 5 DE JULIO DE 1997)
+Si el ofendido es persona menor de dieciocho años, la pena se duplicará.
 Sólo se procederá en contra del sujeto activo a petición de parte ofendida o de su legítimo representante y dentro de los seis meses siguientes de producido el daño o perjuicio.
 (REFORMADA SU DENOMINACION, P.O. 7 DE JUNIO DE 1995)
 CAPITULO III
@@ -889,7 +895,7 @@ ABANDONO DE FAMILIARES
 El abandono en perjuicio de menores de edad que no tuvieren otro u otros familiares que provean a su subsistencia, se perseguirá de oficio y su penalidad será de uno a tres años de prisión y multa de diez a cincuenta cuotas.
 253.- Para que el perdón concedido por el ofendido o su representante pueda producir efectos, el responsable deberá pagar todas las cantidades que hubiere dejado de ministrar por concepto de alimentos y garantizar el pago futuro de los mismos.
 254.- Si del abandono resultare algún daño, ya sea muerte, lesiones o cualquier otro, se aplicarán las sanciones del delito preterintencional.
-TITULO DECIMOCUARTO
+TITULO DECIMO CUARTO
 CAPITULO UNICO
 DELITOS EN MATERIA DE INHUMACIONES Y EXHUMACIONES
 255.- Se impondrá prisión de tres meses a dos años y multa de cinco a quince cuotas:
@@ -946,7 +952,8 @@ IV.- Cuando los plagiarios obren en grupo o banda.
 CAPITULO V
 RAPTO
 268.- Al que sustrajere o retuviere a una mujer por medio de la violencia física o moral, o del engaño, para satisfacer algún deseo erótico o para casarse, se le aplicarán de seis meses a seis años de prisión y multa de cinco a treinta cuotas.
-269.- Se impondrán las mismas sanciones que señala el artículo anterior, aún cuando no se empleen la violencia ni el engaño y consienta en el rapto la mujer, si ésta fuere menor de dieciséis años o cuando ella por cualquier causa no pudiere resistir. Cuando el raptor se case con la mujer ofendida, no se procederá contra él ni contra sus copartícipes, salvo que se declare nulo el matrimonio. Lo anterior no procede si la raptada es mujer casada.
+(REFORMADO, P.O. 5 DE JULIO DE 1997)
+269.- Se impondrán las mismas sanciones que señala el artículo anterior, aún cuando no se empleen la violencia ni el engaño y consienta en el rapto la mujer, si ésta fuere menor de dieciocho años o cuando ella por cualquier causa no pudiere resistir. Cuando el raptor se case con la mujer ofendida, no se procederá contra él ni contra sus copartícipes, salvo que se declare nulo el matrimonio. Lo anterior no tendrá efecto si la mujer es casada.
 270.- Se aplicará prisión de tres meses a un año y multa de cinco a diez cuotas a la mujer que por cualquiera de los medios señalados en el artículo 268 de este Código, raptare a un varón menor de dieciocho años.
 271.- No se procederá contra el raptor sino por queja de la persona ofendida o de su cónyuge o concubinario, pero si la persona raptada fuere menor de edad, por queja de quien ejerza la patria potestad o la tutela, o en su defecto, del mismo menor.
 Cuando además del delito de rapto se cometa algún otro, se observarán las reglas del concurso.
@@ -1250,7 +1257,8 @@ III.- Pagar los salarios de los trabajadores en mercancías, vales, fichas, tarj
 IV.- Retener, en todo o en parte los salarios de los trabajadores en concepto de multa, deuda, o por cualquier otro que no esté autorizado legalmente;
 V.- Pagar los salarios de los trabajadores en tabernas, cantinas, prostíbulos o en cualquier otro lugar de vicio;
 VI.- Obligar a los trabajadores a realizar jornadas sin descanso que excedan de once horas en las labores diurnas y de siete en las nocturnas;
-VII.- Imponer labores insalubres o peligrosas y trabajos nocturnos a las mujeres y a los jóvenes menores de dieciséis años;
+(REFORMADAP.O. 5 DE JULIO DE 1997)
+VII.- Imponer labores insalubres o peligrosas y trabajos nocturnos a las mujeres y a los jóvenes menores de dieciocho años;
 VIII.- Violar sin causa justificada en perjuicio de los trabajadores, los convenios formalizados ante la Junta de Conciliación y Arbitraje, o ante los funcionarios o empleados de ésta que sean competentes para autorizar semejantes convenios; o
 IX.- Sostener u organizar directa o indirectamente, por sí o por interpósita persona, sindicatos blancos dentro de las negociaciones, o por cualquier otro medio procurar divisiones o discordias entre las organizaciones de trabajadores legalmente reconocidas.
 Se entiende por sindicato blanco al que se constituye bajo la dirección o tutela de los patrones, con el objeto de eludir el empleo de trabajadores realmente sindicalizados.
