@@ -20,7 +20,7 @@ Se precisa el concepto de la posesión y se evidencian sus elementos, tanto el m
 El título relativo al derecho real de servidumbre tuvo modificaciones importantes, empezando por su concepto en el que se fijan claramente los sujetos activo y pasivo; con la relación jurídica se definieron las servidumbre(sic) positivas o negativas, y se aclaró que las servidumbres nunca se presumen sino que exclusivamente emanan de la ley o de la voluntad de los interesados; la propiedad se entiende libre, y ha de ser el que pretenda tener el derecho de servidumbre quien debe probar su existencia; se establecen las servidumbres en vista al interés público o privado. En relación a la servidumbre legal de desagüe se modificó por el de servidumbres legales de aguas en las que se reglamentan específica y separadamente la de desagüe, la de captación de aguas, la de estribo de presa, la de sacar agua, la de abrevadero y la de acueducto.
 El capítulo quinto del libro tercero se recorre al cuarto que reglamenta las servidumbres legales de paso se define ésta y se fijan las indemnizaciones que debe cumplir el titular del predio sirviente al del dominante. Se prevé la situación de predios enclavados a los que se concede un paso menor en amplitud del que es necesario para la explotación del inmueble.
 Se enumeraron las causas de extinción, haciéndolas aplicables tanto a las servidumbres voluntarias como a las legales en forma técnica.
-Reformas que se consideran de importancia fueron introducidas en materia de usucapión, puesto que en el artículo 1227 se diferencia el nombre original que se empleó desde el derecho romano, de usucapión (prescripción adquisitiva) y (prescripción negativa) declarando que pueden adquirirse derechos reales en general y no selo el derecho de propiedad.
+Reformas que se consideran de importancia fueron introducidas en materia de usucapión, puesto que en el artículo 1227 se diferencia el nombre original que se empleó desde el derecho romano, de usucapión (prescripción adquisitiva) y (prescripción negativa) declarando que pueden adquirirse derechos reales en general y no solo el derecho de propiedad.
 En virtud de que la prescripción es una institución de orden público en este precepto (1232) se admite la renuncia de la prescripción una vez cumplida ésta, pero prohibe la renuncia del derecho de prescribir para lo futuro.
 El artículo 1252 se reordena para que los diferentes supuestos en él contemplados vayan en un orden lógico, de menos a más, por lo que se refiere a los plazos de prescripción.
 En materia sucesoria se introducen importantes reformas. En las disposiciones preliminares o generales, se precisan los conceptos de sucesión, herencia y legado; se fijan los principios básicos en materia sucesoria como son: el de la libre testamentifacción, el de a beneficio de inventario, el de que no hay herencia yacente ni herencia vacante, el de los parientes próximos que excluyen a los lejanos, el de la copropiedad hereditaria y otros.
@@ -44,7 +44,7 @@ Respecto de los albaceas e interventores, que se reconocen por nuestro más alto
 Resulta evidentemente complejo revisar para reformar y actualizar, lo concerniente a la teoría general de las obligaciones y de los contratos de nuestro Código Civil, que norman necesidades económicas y jurídicas de otros tiempos con un predominio absoluto del criterio individualista, pues el Código Civil no es meramente derecho privado, sino que su objetivo actual no puede ser otro que el interés social; nuestras normas jurídicas de cualquier género, no pueden tener otro motivo que no sea el interés de la sociedad, realizar la solidaridad social.
 Actualmente son escasas las relaciones entre particulares que no tienen trascendencia general. El derecho privado también debe proteger al débil y al ignorante, la hora presente impone socializar el derecho como necesaria consecuencia de procurar continuar el camino hacia la más posible igualdad social.
 Los capítulos relativos a obligaciones, constituyen la esencia misma de la técnica jurídica aplicada en el ámbito de los derechos patrimoniales, de la protección de los bienes, por lo que en la revisión, más que introducir reformas de fondo, se tratan de subsanar omisiones, evitar falsas interpretaciones mediante la aclaración de conceptos para hacer la ley entendible, aún a los profanos del derecho; se introducen algunas definiciones teóricas de que carece el Código y para ello se hace un estudio de derecho comparado con algunas legislaciones avanzadas estatales y la vigente en el Distrito Federal; se recibieron orientaciones de las legislaciones más modernas, por ejemplo la de Tlaxcala, que introduce en la definición de hecho y acto jurídico, respecto de las consecuencias jurídicas, un nuevo concepto (conservar) de tal manera que se definen como las fuentes de las obligaciones que por disposición de la ley crean, trasmiten, modifican, conservan o extinguen facultades o derechos jurídicos.
-Se reubican los capítulos relativos a los hechos y actos jurídicos, contenidos actualmente en nuestro Código en las disposiciones preliminares, para adicionar el libro correspondiente a obligaciones, ya que aquéllos incuestionablemente constituyen las principales fuentes de las obligaciones.
+Se reubican los capítulos relativos a los hechos y actos jurídicos, contenidos actualmente en nuestro Código en las disposiciones preliminares, para adicionar el libro correspondiente a obligaciones, ya que aquéllos incuestionablemente constituyen las principales, fuentes de las obligaciones.
 Se señala que los derechos civiles aún cuando sean de contenido puramente patrimonial también son de interés social.
 Se introduce la definición doctrinaria "de las modalidades de los actos jurídicos" para darle claridad a tan importante institución.
 Con este mismo objeto se señalan con toda claridad las características de las obligaciones reales, siempre correlativas a los derechos reales, en la operancia de la bilateralidad del derecho que constituye una de sus esencias.
@@ -72,7 +72,7 @@ En las modalidades de la compraventa sobre todo las verificadas con reserva de d
 Se define con más claridad el contrato de permuta.
 En las donaciones se protege al donante prohibiéndole transferir su patrimonio en cuanto se considere como universalidad jurídica; se amplía la reglamentación del contrato de mutuo para darle claridad y evitar falsas interpretaciones, por considerarse justo en beneficio del prestamista, congruente con una disposición genérica que lleva al interés legal del 9% al 24% anual, para que tal interés esté acorde con la situación financiera actual del país, en los contratos de mutuo, será también el tipo de interés legal, pero también se establece que cuando el interés convencional sea desproporcionado, cuando el prestamista se aprovecha del grave apuro, de la ignorancia o de la necesidad del deudor, podrá el juez, a solicitud de parte interesada, reducir el interés pactado hasta el legal.
 Por lo que se refiere al contrato de arrendamiento, se pretende adoptar, previa adecuación, las reformas introducidas recientemente en el Distrito Federal, y por tanto se señala que el arrendamiento de fincas urbanas destinadas a la habitación, es de orden público y de interés social, por tanto las normas establecidas al respecto son irrenunciables, se estipula que la duración mínima de todo contrato de arrendamiento de fincas urbanas destinadas a la habitación será de un año forzoso para arrendador y arrendatario que será prorrogable a voluntad del arrendatario, hasta por un año más cuando se encuentre al corriente en el pago de las rentas; se asienta que la renta sólo podrá ser incrementada anualmente, en su caso, pero que tal incremento no podrá exceder del 100% del aumento porcentual vigente al salario mínimo general en el lugar en el que se ubique el inmueble; se otorga plena seguridad a los inquilinos para que tengan preferencia en la adquisición del inmueble cuando el propietario lo ponga en venta, teniendo derecho el arrendatario a que se le notifique en forma legal la oferta, de tal manera que si el propietario no cumple con esta obligación y celebra contrato con tercero aquél será nulo; al efecto se señala como obligación a los notarios, cuando ante su presencia se otorguen contratos de compraventa de casas habitación dadas en arrendamiento, que verifiquen si el propietario cumplió con la obligación de notificar al inquilino la pretendida venta, y en caso contrario no deberá otorgarse la escritura, so pena de nulidad; igualmente se señala que estos derechos del inquilino deberán insertarse literalmente en todos los contratos de arrendamiento, y que la falta de contrato siempre será imputable al arrendador; por último también se señala como obligación a los oficiales del Registro Público, para inscribir contratos de compraventa que versen sobre inmuebles destinados a casa habitación, se cercioren si se cumplió por el vendedor lo relativo al derecho del tanto que corresponde al arrendatario y, en caso contrario, no se inscriba el documento.
-Igualmente se establece en este capítulo que quedan exceptuados de la obligación de prorrogar el contrato de arrendamiento los propietarios que quieran habitar la casa o cultivar la finca cuyo arrendamiento ha vencido, pero igualmente se establece que posteriormente el arrendador que no habitare la casa o no cultivare la finca, será responsable de los daños y perjuicios que hubiere ocasionado a su inquilino. En los contratos de comodato y de depósito se procura sustituir el término de "cosa" por el de "bien", para que sea congruente la redacción con el resto del Código.
+Igualmente se establece en este capítulo que quedan exceptuadas de la obligación de prorrogar el contrato de arrendamiento los propietarios que quieran habitar la casa o cultivar la finca cuyo arrendamiento ha vencido, pero igualmente se establece que posteriormente el arrendador que no habitare la casa o no cultivare la finca, será responsable de los daños y perjuicios que hubiere ocasionado a su inquilino. En los contratos de comodato y de depósito se procura sustituir el término de "cosa" por el de "bien", para que sea congruente la redacción con el resto del Código.
 Respecto de la forma del último contrato mencionado, se estipula que podrá otorgarse el documento privado cuando su valor no exceda de diez cuotas correspondientes al salario mínimo.
 En el contrato de mandato, a efecto de adecuar su otorgamiento a la situación financiera del Estado y del país, se señala que podrá otorgarse en carta poder firmada ante dos testigos, que deberán ratificar cuando el interés del negocio para el que se confiere el poder no exceda de treinta cuotas del salario mínimo vigente; en caso contrario, deberá otorgarse en escritura pública, asimismo los poderes generales y los demás casos que señala la ley.
 En el capítulo respectivo igualmente se enfatiza que el mandatario que se exceda de sus facultades es responsable de los daños y perjuicios que causa al mandante y a tercero con quien contrató, si éste ignoraba que aquél traspasaba los límites del mandato; igualmente se reitera que los intereses legales se calcularán al tipo de 24% anual.
@@ -493,6 +493,8 @@ Si las aguas son de propiedad federal, se estará a lo dispuesto en la ley respe
 237.- Cuando el mérito artístico de la obra sea inferior en precio a la materia, el dueño de ésta hará suya la nueva especie y tendrá derecho, además, para reclamar indemnización de daños y perjuicios, descontándose del monto de éstos el valor de la obra, a tasación de peritos.
 238.- Si la especificación se hizo de mala fe, el dueño de la materia empleada tiene derecho de quedarse con la obra sin pagar nada al que la hizo, o exigir de éste que le pague el valor de la materia y le indemnice de los daños y perjuicios que se le hayan seguido.
 239.- La mala fe en los casos de mezcla o confusión se calificará conforme a Io dispuesto en los artículos 211 y 212.
+TITULO QUINTO
+DEL USUFRUCTO, DEL USO Y DE LA HABITACION
 CAPITULO SEPTIMO
 DE LA COPROPIEDAD
 240.- Hay copropiedad cuando un bien o una universalidad de bienes y obligaciones apreciables en dinero, pertenecen pro indiviso a dos o más personas.
@@ -554,8 +556,6 @@ VIII.- Cuando la cerca que encierra completamente una propiedad es de distinta e
 280.- La división de bienes inmuebles es nula si no se hace con las mismas formalidades que la ley exige para su venta.
 281.- Son aplicables a la división de herencia, las reglas señaladas en este Capítulo.
 282.- Para todo lo no previsto en este Capítulo, se estará a lo dispuesto en las leyes de propiedad en condominio para el Estado, en cuanto no se opongan a lo perceptuado por este Código.
-TITULO QUINTO
-DEL USUFRUCTO, DEL USO Y DE LA HABITACION
 CAPITULO PRIMERO
 DEL USUFRUCTO EN GENERAL
 283.- El usufructo es un derecho real, temporal, generalmente vitalicio, para usar y disfrutar de los bienes ajenos sin alterar su forma ni sustancia.
@@ -591,7 +591,7 @@ Ni éste ni el usufructuario tienen que hacerse abono alguno por razón de las l
 309.- El usufructuario goza del derecho por el tanto. Es aplicable lo dispuesto en el artículo 275 de este ordenamiento, en lo que se refiere a dar aviso y la forma para hacerlo, respecto de la enajenación y al tiempo para hacer uso del derecho por el tanto.
 CAPITULO TERCERO
 DE LAS OBLIGACIONES DEL USUFRUCTUARIO
-310.- El usufructuario, antes de entrar en el goce de los bienes, ésta obligado.
+310.- El usufructuario, antes de entrar en el goce de los bienes, ésta obligado:
 I.- A formar a sus expensas, con citación del dueño, un inventario de todos ellos, haciendo tasar los muebles y constar el estado en que se encuentren los inmuebles;
 II.- A dar la correspondiente garantía de que disfrutará de las cosas con moderación, y las restituirá al propietario con sus accesiones, al extinguirse el usufructo, no empeoradas ni deterioradas por su negligencia, salvo lo dispuesto en lo relativo al cuasiusufructo.
 311.- El donante que se reserve el usufructo de los bienes donados está dispensado de dar la garantía requerida, si no se ha obligado expresamente a ello.
@@ -825,7 +825,7 @@ I.- En tres años cuando la posesión sea de buena fe;
 II.- En cinco años cuando la posesión sea de mala fe.
 461.- Cuando la posesión se adquiere por medio de la violencia, aunque ésta cese y la posesión continúe pacíficamente, el plazo para la prescripción será de diez años para los inmuebles y de cinco para los muebles, contados desde que cese la violencia.
 462.- La posesión adquirida por medio de un delito se tendrá en cuenta para la prescripción, a partir de la fecha en que haya quedado extinguida la pena o prescrita la acción penal, considerándose siempre dicha posesión como de mala fe.
-463.- El que hubiere poseído derechos reales sobre bienes muebles e inmuebles por el tiempo y las condiciones exigidas por este Código, puede adquirirlos por prescripción promoviendo juicio contra el que aparezca como propietario de esos bienes en el Registro Público, a fin de que se declare que la prescripción se ha consumado y que ha adquirido por ende la propiedad. Si no está en el caso de deducir la acción contradictoria de referencia, podrá demostrar ante el Juez competente que ha tenido esa posesión, rindiendo la información respectiva la que se recibirá de acuerdo con las reglas que al efecto señala el Código de Procedimientos Civiles vigente en el Estado.
+463.- El que hubiere poseído derechos reales sobre bienes muebles e inmuebles por el tiempo y las condiciones exigidas por este Código, puede adquirirlos por prescripción promoviendo juicio contra el que aparezca como propietario de esos bienes en el Registro Público, a fin de que se declare que la prescripción se ha consumado y que ha adquirido por ende la propiedad. Si no astá en el caso de deducir la acción contradictoria de referencia, podrá demostrar ante el Juez competente que ha tenido esa posesión, rindiendo la información respectiva la que se recibirá de acuerdo con las reglas que al efecto señala el Código de Procedimientos Civiles vigente en el Estado.
 464.- La sentencia ejecutoria que declare procedente la acción de prescripción se inscribirá en el Registro Público y servirá de Título de propiedad al poseedor.
 CAPITULO TERCERO
 DE LA PRESCRIPCION NEGATIVA
@@ -1432,7 +1432,7 @@ IV.- Los que por el mal estado habitual de salud o por no saber leer y escribir,
 V.- Los que tengan a su cargo otro albaceazgo;
 VI.- Los mayores de setenta y cinco años.
 874.- El albacea que estuviere ejerciendo el cargo mientras se decide sobre su excusa, debe desempeñarlo, bajo la pena establecida en el artículo 871.
-875.- El albacea no podrá delegar el cargo que ha recibido, ni por su muerte pasa a sus herederos; pero no está obligado a obrar personalmente, ya que puede hacerlo por mandatarios que obren bajo sus órdenes, respondiendo de los actos de éstos
+875.- El albacea no podrá delegar el cargo que ha recibido, ni por su muerte pasa a sus herederos; pero no está obligado a obrar personalmente, ya que puede hacerlo por mandatarios que obren bajo sus órdenes, respondiendo de los actos de éstos.
 876.- El albacea universal está obligado a entregar al especial las cantidades o bienes necesarios para que cumpla la parte del testamento que estuviere a su cargo.
 877.- Si el cumplimiento del legado dependiere de un término o condición suspensiva, podrá el albacea universal retener el bien o cantidad legada, dando garantía a satisfacción del legatario o del albacea especial, de que la entrega se hará a su debido tiempo.
 878.- El albacea especial podrá también, a nombre del legatario, exigir la constitución de la hipoteca necesaria.
@@ -1480,8 +1480,8 @@ En el caso que fueren varios los herederos inconformes, los convenios se harán 
 908.- El interventor no puede tener la posesión, ni aún interina, de los bienes hereditarios.
 909.- Debe nombrarse precisamente un interventor:
 I.- Siempre que el heredero esté ausente o no sea conocido;
-II.- Cuando la cuantía de los legados iguale o exceda la porción del heredero albacea;
-III.- Cuando se hagan legados para objetos o personas colectivas de beneficencia pública o privada.
+II.- Cuando la cuantía de los legados iguale o exceda la porción del heredero o albacea;
+III.- Cuando se hagan legados para objetos o personas colectivas de beneficencia pública privada.
 910.- Los interventores deben tener la capacidad general para contratar y obligarse.
 911.- Los interventores durarán mientras no se revoque su nombramiento.
 912.- Los interventores tendrán la retribución que acuerden los herederos que los nombren; y si los nombrare el juez, cobrarán conforme a arancel, como si fueren mandatarios.
@@ -1639,7 +1639,7 @@ Es tácita cuando resulta de hechos o de actos que la presupongan o que autorice
 1013.- El objeto, el fin, el motivo y la condición del acto jurídico, no deben ser contrarios a las leyes de orden público ni a las buenas costumbres.
 1014.- Es ilícito en general el acto jurídico que se ejecuta en contra de las leyes de orden público o de las buenas costumbres, violando normas prohibitivas.
 CAPITULO TERCERO
-DE LA INEXIsTENCIA Y NULIDAD DE LOS ACTOS JURIDICOS
+DE LA INEXISTENCIA Y NULIDAD DE LOS ACTOS JURIDICOS
 1015.- El acto jurídico es inexistente en los siguientes casos:
 I.- Cuando no contiene una declaración de voluntad expresa o tácita;
 II.- Cuando falta el objeto del mismo;
@@ -1955,7 +1955,7 @@ DE LAS OBLIGACIONES CONDICIONALES
 1223.- La obligación es pura cuando su exigibilidad no depende de condición alguna.
 1224.- La obligación es condicional, cuando su exigibilidad o su resolución dependen de un acontecimiento futuro e incierto.
 1225.- Puede también constituirse una obligación, haciendo depender, tanto su exigibilidad como su resolución, de un hecho pasado, pero desconocido de las partes.
-1226.- La condición es suspensiva cuando de su cumplimiento depende la existencia de la obligación
+1226.- La condición es suspensiva cuando de su cumplimiento depende la existencia de la obligación.
 1227.- La condición es resolutoria, cuando cumplida resuelve la obligación, volviendo las cosas al estado que tenían como si esa obligación no hubiere existido.
 1228.- La condición es casual cuando depende enteramente del acaso, o de la voluntad de un tercero no interesado en el contrato.
 1229.- Es potestativa o voluntaria cuando depende puramente de la voluntad de una de las partes.
@@ -2632,6 +2632,8 @@ DE LA FORMA DEL CONTRATO DE COMPRAVENTA
 1668.- Si alguno de los contratantes no supiere escribir, firmará a su nombre y a su ruego otra persona con capacidad legal, no pudiendo firmar con ese carácter ninguno de los testigos, sino que lo hará a su ruego otra persona y en el documento se imprimirá la huella digital del interesado que no firmó.
 1669.- De dicho instrumento se formularán cinco tantos para distribuirse entre los interesados, Autoridades Fiscales y Registro Público.
 1670.- Si el valor del inmueble excede del equivalente a cien días del salario mínimo vigente en la época de la celebración del contrato, su venta se otorgará en escritura pública.
+(ADICIONADO, P.O. 1 DE MAYO DE 1991)
+Sin embargo cuando se trate de operaciones o contratos otorgados por la Comisión para la Regularización de la Tenencia de la Tierra, podrán hacerse constar en documento privado celebrado ante dos testigos, que contenga además, la constancia a que se refiere el Artículo 2475 fracción III de este Código.
 1671.- La venta de bienes raíces no producirá efectos contra terceros sino después de registrado en los términos prescritos por este Código.
 CAPITULO NOVENO
 DE LAS VENTAS JUDICIALES
