@@ -1,0 +1,2 @@
+ARTICULO SEGUNDO.- Para los efectos de esta Ley, el patrimonio histórico documental de la entidad lo conforman el conjunto de archivos existentes y futuros del Gobierno del Estado, los Municipios y de los particulares, que así sean declarados por el Consejo Directivo del Sistema.
+El patrimonio documental administrativo, estará constituido por los archivos de trámite, gestión y semiactivos de las entidades mencionadas.

@@ -1,0 +1,1 @@
+ARTICULO SEPTIMO.- El Archivo General del Estado deberá cumplir con las funciones de coordinación y promotoría del Sistema, para ello, se le considerará como la máxima autoridad normativa en materia de documentación.

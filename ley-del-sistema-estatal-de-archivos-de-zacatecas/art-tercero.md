@@ -1,0 +1,1 @@
+ARTICULO TERCERO.- Para garantizar el objeto de esta Ley se crea el Sistema Estatal de Archivos, constituidos por los órganos y entidades públicas estatales y municipales, así como los archivos de particulares que se le incorporen.

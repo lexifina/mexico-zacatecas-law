@@ -1,0 +1,1 @@
+ARTICULO CUARTO.- El Sistema Estatal de Archivos estará definido por su centralización normativa y su desconcentración operativa, por tanto, cada una de sus entidades reconocerá y adoptará acciones, procedimientos, métodos y mecanismos coordinadores y homogeneizadores comunes.
