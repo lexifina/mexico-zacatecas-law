@@ -25,3 +25,4 @@ El Gobernador Constitucional del Estado.
 José Rodríguez Elías.
 El Secretario General de Gobierno.
 Lic. Alejandro Borrego Acuña.
+N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.
