@@ -227,9 +227,11 @@ Cuando pronunciada una sentencia irrevocable en que se hubiera impuesto una sanc
 CAPITULO II
 SANCIONES APLICABLES A LOS DELITOS CULPOSOS Y PRETERINTENCIONALES
 59.- Los delitos de culpa, se sancionarán con prisión de tres meses a ocho años, multa de cinco a noventa cuotas, sin exceder de la mitad de la que correspondería si el delito hubiera sido intencional. Las demás penas o medidas de seguridad se aplicarán hasta en la mitad de las correspondientes al delito intencional en cuantía y duración.
+(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1989)
+Cuando a consecuencia de actos u omisiones culposas y con motivo del tránsito de vehículos que presten un servicio público, al público o escolar, se causen homicidio o lesiones, se perseguirán de oficio. Además, el Juez al momento de dictar sentencia en caso de culpa grave, podrá aumentar hasta en una cuarta parte más las sanciones previstas en el párrafo anterior.
 60.- Los delitos preterintencionales se sancionarán hasta con las tres cuartas partes de las penas señaladas para el delito intencional.
 Siempre que al delito intencional corresponda sanción alternativa que incluya una no privativa de libertad, aprovechará esta situación al responsable por culpa o preterintención.
-61.- Cuando a consecuencia de actos u omisiones culposas y con motivo de tránsito de vehículos de servicio público, al público o escolar, se causen homicidio, lesiones o daños en las cosas, a las sanciones previstas en el artículo 59 se aumentará hasta una cuarta parte más, y se perseguirán de oficio.
+61.- (DEROGADO, P.O. 30 DE DICIEMBRE DE 1989)
 62.- Para la calificación de la gravedad de la culpa, el juez deberá tomar en consideración las circunstancias generales señaladas en el artículo 52 y las especiales siguientes:
 I.- La mayor o menor facilidad de prever y evitar el daño que resultó;
 II.- Si para ello bastaban una reflexión o atención ordinarias y conocimientos comunes en algún arte o ciencia;
@@ -237,7 +239,7 @@ III.- Si el inculpado ha delinquido anteriormente en circunstancias semejantes;
 IV.- Si tuvo tiempo para obrar con la reflexión y cuidado necesarios;
 V.- Tratándose de delitos cometidos con motivo del tránsito de vehículos y del manejo de motores o maquinaria, el estado del equipo, vías de comunicación, autorizaciones para su manejo y demás condiciones de funcionamiento mecánico.
 63.- Cuando por culpa se origine únicamente daño en las cosas, se perseguirá por querella necesaria, cualquiera que sea su valor y sea o no con motivo de tránsito de vehículos; sólo se sancionará con multa de cinco hasta cien cuotas o trabajo en favor de la comunidad de hasta la cuarta parte de la que correspondería al delito si fuere doloso, además de la reparación del daño.
-Lo dispuesto en el párrafo anterior no se aplicará cuando el delito se cometa con motivo de tránsito de vehículos de servicio público, caso en el cual se estará a lo dispuesto por el artículo 61.
+(DEROGADO SEGUNDO PARRAFO, P.O. 30 DE DICIEMBRE DE 1989)
 64.- No se impondrá pena alguna al que cause homicidio, lesiones o daño en las cosas, por actos u omisiones culposas con motivo del tránsito de vehículos, a un ascendiente o descendiente en línea recta de cualquier grado, o a un cónyuge o concubino, que viajaban con el responsable, excepto si el conductor se encontraba en estado de ebriedad, o bajo el influjo de estupefacientes o sustancias psicotrópicas. En este último caso, se estará a lo dispuesto por el artículo 59. Se perseguirá sólo por querella necesaria.
 CAPITULO III
 SANCION PARA LA TENTATIVA
@@ -770,7 +772,7 @@ CAPITULO VII
 USURPACION DE FUNCIONES PUBLICAS O DE PROFESION
 228.- Se sancionará con prisión de tres meses a tres años y multa de cinco a veinticinco cuotas:
 I.- Al que, sin ser servidor público, se atribuya ese carácter y ejerza alguna de las funciones de tal;
-II.- Al que, sin tener título profesional o autorización para ejercer alguna profesión reglamentada, expedidos por autoridad u organismos legalmente capacitados para ello, conforme a las disposiciones reglamentarias del artículo 5º, Constitucional:
+II.- Al que, sin tener título profesional o autorización para ejercer alguna profesión reglamentada, expedidos por autoridad u organismos legalmente capacitados para ello, conforme a las disposiciones reglamentarias del artículo 5º. Constitucional:
 a) Se atribuya el carácter de profesionista;
 b) Realice actos propios de una actividad profesional;
 c) Ofrezca públicamente sus servicios como profesionista;
@@ -938,7 +940,7 @@ Lo prevenido en esta fracción, no comprende el caso en que la imputación sea c
 Cuando el delito sea de los que se persiguen de oficio, solamente podrá acusarse por calumnia.
 Cuando la querella fuere por calumnia, se permitirán al inculpado pruebas de su imputación y si ésta quedare probada se librará a aquél de toda sanción, excepto en el caso del artículo 275.
 284.- No servirá de excusa de la difamación, ni de la calumnia, que el hecho imputado sea notorio, o que el responsable no haya hecho más que reproducir lo ya publicado en la República o en otro país.
-TITULO DECIMOSEPTIMO
+TITULO DECIMO SEPTIMO
 DELITOS CONTRA LA VIDA Y LA INTEGRIDAD CORPORAL
 CAPITULO I
 LESIONES
@@ -1242,4 +1244,7 @@ DECRETO No. 82
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
 P.O. 30 DE DICIEMBRE DE 1989.
 DECRETO No. 83
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+P.O. 30 DE DICIEMBRE DE 1989.
+DECRETO No. 84
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
