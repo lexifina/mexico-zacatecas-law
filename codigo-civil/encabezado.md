@@ -825,7 +825,7 @@ I.- En tres años cuando la posesión sea de buena fe;
 II.- En cinco años cuando la posesión sea de mala fe.
 461.- Cuando la posesión se adquiere por medio de la violencia, aunque ésta cese y la posesión continúe pacíficamente, el plazo para la prescripción será de diez años para los inmuebles y de cinco para los muebles, contados desde que cese la violencia.
 462.- La posesión adquirida por medio de un delito se tendrá en cuenta para la prescripción, a partir de la fecha en que haya quedado extinguida la pena o prescrita la acción penal, considerándose siempre dicha posesión como de mala fe.
-463.- El que hubiere poseído derechos reales sobre bienes muebles e inmuebles por el tiempo y las condiciones exigidas por este Código, puede adquirirlos por prescripción promoviendo juicio contra el que aparezca como propietario de esos bienes en el Registro Público, a fin de que se declare que la prescripción se ha consumado y que ha adquirido por ende la propiedad. Si no está en el caso de deducir la acción contradictoria de referencia, podrá demostrar ante el juez competente que ha tenido esa posesión, rindiendo la información respectiva la que se recibirá de acuerdo con las reglas que al efecto señala el Código de Procedimientos Civiles vigente en el Estado.
+463.- El que hubiere poseído derechos reales sobre bienes muebles e inmuebles por el tiempo y las condiciones exigidas por este Código, puede adquirirlos por prescripción promoviendo juicio contra el que aparezca como propietario de esos bienes en el Registro Público, a fin de que se declare que la prescripción se ha consumado y que ha adquirido por ende la propiedad. Si no está en el caso de deducir la acción contradictoria de referencia, podrá demostrar ante el Juez competente que ha tenido esa posesión, rindiendo la información respectiva la que se recibirá de acuerdo con las reglas que al efecto señala el Código de Procedimientos Civiles vigente en el Estado.
 464.- La sentencia ejecutoria que declare procedente la acción de prescripción se inscribirá en el Registro Público y servirá de Título de propiedad al poseedor.
 CAPITULO TERCERO
 DE LA PRESCRIPCION NEGATIVA
@@ -1232,7 +1232,7 @@ TESTAMENTO PUBLICO CERRADO
 742.- El Juez que reciba un testamento público cerrado, hará comparecer al Notario y a los testigos que concurrieron a su otorgamiento, dentro del plazo de los 15 días. Si deja transcurrir dicho plazo sin hacerlo, se hará responsable de los daños y perjuicios que su negligencia origine.
 743.- El testamento público cerrado, no podrá ser abierto sino después que el Notario y los testigos que intervinieron hayan reconocido ante el Juez sus firmas y la del testador o la de las personas que a ruego de éste hubieren firmado, y hayan declarado si en su concepto está cerrado y sellado como lo estaba en el acto del depósito .
 744.- Si no pudieren comparecer todos los testigos por muerte, enfermedad, ausencia o cualquier otra causa, bastará el reconocimiento de la mayor parte, siempre que vaya acompañado del reconocimiento del Notario.
-745.- Si por igual causa no pudieren comparecer el Notario, la mayor parte de los testigos o ninguno de ellos, el Juez lo hará constar así por información como también la autenticidad de las firmas y que en la fecha que lleva el testamento se encontraban aquéllos en el lugar que éste se otorgó.
+745.- Si por igual causa no pudieren comparecer el Notario, la mayor parte del los testigos o ninguno de ellos, el Juez lo hará constar así por información como también la autenticidad de las firmas y que en la fecha que lleva el testamento se encontraban aquéllos en el lugar que éste se otorgó.
 746.- En todo caso, los que comparecieren reconocerán sus firmas.
 747.- Cumplido lo prescrito en los cinco artículos anteriores, el Juez decretará la existencia y validez del testamento.
 748.- El testamento público cerrado quedará sin efecto siempre que se encuentre roto el documento interior o abierto el que forma la cubierta; o borradas, raspadas o enmendadas las firmas que lo autorizan, aunque el contenido no sea vicioso.
@@ -1471,7 +1471,7 @@ El albacea que no presente la proposición de que se trata, o que durante dos bi
 900.- Las cuentas de albaceazgo, a más de lo relativo a la mera administración del caudal hereditario, deberán referirse a los pagos que se hubieren hecho por concepto de créditos o legados y cuanto se refiere a la gestión el albacea que afecte los bienes o derechos correspondientes a la sucesión.
 901.- La obligación que de rendir cuentas tiene el albacea, pasa a sus herederos.
 902.- Son nulas las disposiciones por las que el testador dispensa al albacea de la obligación de hacer inventario y avalúo o de rendir cuentas.
-903.- Las cuentas deben ser aprobadas por todos los herederos; el que disienta podrá seguir, a su costa, el incidente o juicio respectivo, según se trate de cuenta de mera administración o de cuenta general de albaceazgo.
+903.- Las cuentas deben ser aprobadas por todos los herederos; el que disienta podrá seguir, a su consta, el incidente o juicio respectivo, según se trate de cuenta de mera administración o de cuenta general de albaceazgo.
 904.- Cuando sea heredero el Estado, alguna institución pública educativa, o los herederos fueren incapaces, ausentes o desconocidos, intervendrá el Ministerio Público en la aprobación de las cuentas.
 905.- En la aprobación de las cuentas los interesados pueden celebrar los convenios que quieran.
 En el caso que fueren varios los herederos inconformes, los convenios se harán por mayoría de votos.
@@ -2223,7 +2223,8 @@ Si se han designado varios lugares para hacer el pago, el acreedor puede elegir 
 1404.- La entrega del título hecha al deudor hace presumir el pago de la deuda constante en aquél.
 1405.- El que tuviere contra sí varias deudas en favor de un solo acreedor, podrá declarar, al tiempo de hacer el pago, a cuál de ellas quiere que éste se aplique.
 1406.- Si el deudor no hiciere la referida declaración se entenderá hecho el pago por cuenta de la deuda que le fuere más onerosa, entre las vencidas. En igualdad de circunstancias, se aplicará a la más antigua, y siendo todas de la misma fecha, se distribuirá entre todas ellas a prorrata.
-1407.- Las cantidades pagadas a cuenta de deudas con interés, no se imputarán al capital mientras hubiere intereses vencidos y no pagados, salvo pacto en contrario.
+(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 1996)
+1407.- Las cantidades pagadas a cuenta de deudas con interés, se aplicarán: cincuenta por ciento a capital y cincuenta por ciento a intereses vencidos si los hubiere, salvo pacto en contrario. Si el pago parcial se hiciere cuando el deudor ya ha sido demandado en la vía judicial, y si no hubiere condena líquida en el pago de intereses, éste se aplicará a capital.
 1408.- La obligación queda extinguida cuando el acreedor recibe en pago un bien distinto en lugar del debido.
 1409.- Si el acreedor sufre la evicción del bien que recibe en pago, renacerá la obligación primitiva, quedando sin efecto la dación en pago.
 CAPITULO SEGUNDO
@@ -3443,7 +3444,8 @@ DEL JUEGO Y DE LA APUESTA
 2174.- El contrato celebrado entre los compradores de billetes y las loterías autorizadas en país extranjero, no será válido en el Estado de Zacatecas, a menos que la venta de esos billetes haya sido permitida por la autoridad correspondiente.
 CAPITULO SEGUNDO
 DE LA RENTA VITALICIA
-2175.- La renta vitalicia es un contrato aleatorio por el cual el deudor se obliga a pagar periódicamente una pensión durante la vida de una o más personas determinadas, mediante la entrega de una cantidad de dinero o de un bien mueble o raíz estimados, cuyo dominio se le transfiere desde luego.
+2175.- La renta vitalicia es un contrato aleatorio por el cual el deudor se obliga a pagar periódicamente una pensión durante la vida de una o más personas determinadas, mediante la
+entrega de una cantidad de dinero o de un bien mueble o raíz estimados, cuyo dominio se le transfiere desde luego.
 2176.- La renta vitalicia puede también constituirse a título puramente gratuito, sea por donación o por testamento.
 2177.- El contrato de renta vitalicia debe hacerse por escrito, y en escritura pública cuando los bienes cuya propiedad se transfieren deban enajenarse con esa solemnidad.
 2178.- El contrato de renta vitalicia puede constituirse sobre la vida del que da el capital, sobre la del deudor o sobre la de un tercero. También puede constituirse a favor de aquella o aquellas personas sobre cuya vida se otorga a favor de otra u otras personas distintas.
@@ -4107,7 +4109,7 @@ I.- Certificado de Registro Público que demuestre que los bienes no están insc
 II.- Certificado actual del inmueble en los registros fiscales de las oficinas rentisticas del Estado;
 III.- Un plano de la ubicación y localización del bien expedido y aprobado por las autoridades catastrales y municipales;
 IV.- Opinión del Ayuntamiento Municipal del lugar de ubicación del inmueble;
-V.- Si se trata de predios rústicos se acompañará además, certificados del Registro Agrario Nacional y de la Dirección de Fraccionamientos del Gobierno del Estado, para acreditar que el o los inmuebles no se encuentran sujetos a las leyes correspondientes:
+V.- Si se trata de predios rústicos se acompañará además, certificados del Registro Agrario Nacional y de la Dirección de Fraccionamientos del Gobierno del Estado, para acreditar que el o los inmuebles no se encuentran sujetos a las leyes correspondientes;
 El juez que conozca del asunto solicitará directamente los certificados a que se refiere la fracción V, y las autoridades competentes los expedirán en un término no mayor de treinta días naturales contados a partir del día siguiente en que conste fue recibido el oficio de solicitud. Transcurrido el término sin que se hayan expedido, se tendrá por contestado en sentido negativo.
 De igual forma, el juez referido o secretario de acuerdos correspondiente, deberán practicar antes de recibir la información testimonial, inspección de los inmuebles de que se trate citando posteriormente a los colindantes.
 Comprobada debidamente la posesión, el juez declarará que el poseedor se ha convertido en propietario, en virtud de la prescripción y tal declaración se tendrá como título de propiedad y será inscrita en el Registro Público.
