@@ -1327,15 +1327,20 @@ Se presumirá la simulación por la circunstancia de que el trabajador o trabaja
 TITULO VIGESIMO
 CAPITULO UNICO
 ENCUBRIMIENTO
-(REFORMADO, P.O. 30 DE DICIEMBRE DE 1989)
+(REFORMADO, P.O. 27 DE DICIEMBRE DE 2003)
 358.- Se impondrá de tres meses a tres años de prisión y multa de cinco a veinte cuotas al que después de la ejecución del delito y sin haber participado en éste, ayude en cualquier forma al responsable a eludir las investigaciones de la autoridad o a sustraerse a la acción de ésta, u ocultare, alterare, destruyere o hiciere desaparecer los indicios, pruebas o instrumentos del delito, o asegure para el inculpado el producto o provecho del mismo.
+Las mismas sanciones se aplicarán a los padres, tutores o cuidadores de algún menor de edad, por el sólo hecho de negarse a denunciar o formular querella ante la autoridad competente, respecto de algún delito del que tuvieren conocimiento o sospecha de que el menor fuese víctima.
 359.- No se sancionará al que oculte al responsable de un delito o los efectos, objetos o instrumentos del mismo o impida que se averigüe, cuando no se hiciere por un interés bastardo y no se empleare algún medio delictuoso siempre que se trate de:
 a) Los ascendientes y descendientes consanguíneos, afines o por adopción;
 b) El cónyuge, concubina o concubinario y parientes colaterales por consanguinidad hasta el cuarto grado y por afinidad hasta el segundo; y
 c) Los que estén ligados con el delincuente por amor, y respeto, gratitud o estrecha amistad.
+(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2003)
+Las excluyentes de responsabilidad a que se refiere este artículo, no beneficiarán a los padres, tutores o cuidadores de menores de edad que fueren víctimas de algún delito.
 (REFORMADO, P.O. 30 DE DICIEMBRE DE 1989)
 360.- Se impondrá de tres meses a cuatro años de prisión y multa de cinco a treinta cuotas al que, con ánimo de lucro adquiera, reciba u oculte el producto del delito a sabiendas que provenía de éste, o si de acuerdo con las circunstancias debía presumir su ilegítima procedencia, o al que ayude a otro para los mismos fines, salvo los casos específicos que señala este Código.
 361.- En los casos del artículo 358, quedan exceptuados de sanción aquéllos que no puedan cumplir con el deber a que el mismo artículo se refiere, por correr peligro en su persona o en sus bienes, o en la persona o bienes de los que señala el artículo 359.
+(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2003)
+Las excepciones a que se refiere el párrafo anterior, no se aplicarán en beneficio de los padres, tutores u cuidadores de menores de edad que fueren víctimas de algún delito.
 362.- Para los efectos de los artículos de este Código en que se mencionen a la concubina y al concubinario, se entenderá por tales a la mujer y al hombre que estén haciendo vida conyugal por lo menos durante un año y siempre que tengan, respectivamente, un solo concubinario o una sola concubina.
 (ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 1993)
 TITULO VIGESIMO PRIMERO
