@@ -1195,11 +1195,13 @@ CAPITULO VI
 USURA
 (REFORMADO, P.O. 14 DE SEPTIEMBRE DE 1996)
 344.- Se impondrá prisión de seis meses a cinco años y multa de cien a doscientas cuotas:
-I.- A la persona que prestare con interés superior al costo porcentual promedio o su equivalente que rija al momento de la celebración del préstamo u obtenga para sí o para otro, ventajas evidentemente desproporcionadas con tal operación;
+(REFORMADA, P.O. 15 DE FEBRERO DE 1997)
+I.- A la persona que prestare con interés superior al bancario que, conforme a la Ley de la materia, rija al momento de la celebración del préstamo u obtenga para sí o para otro ventajas evidentemente desproporcionadas con tal operación, así se encubra con cualquiera otra forma contractual;
 II.- A la persona que sirva de intermediario para obtener un préstamo cualquiera en favor de otra y cobre, para sí o para terceros, por su intervención, una comisión superior al tres por ciento con respecto del capital original; y
 III.- Al que con conocimiento de causa, hubiera adquirido para enajenarlos o hacerlos valer un préstamo o una comisión usurarios.
 Se estimarán usurarios el interés de tal préstamo o comisión cuando reúna las condiciones mencionadas en la fracción I de este artículo.
-A la persona moral responsable de alguno de estos delitos, se le impondrá suspensión de sus actividades hasta por un año y además serán sancionados penalmente los dirigentes, administradores y mandatarios que ordenen, permitan o ejecuten dichos delitos.
+(REFORMADO, P.O. 15 DE FEBRERO DE 1997)
+A la persona moral, bajo cuyo amparo o protección se cometa alguno de estos delitos, se le impondrá suspensión de sus actividades hasta por un año, y además serán sancionados penalmente los dirigentes, administradores y mandatarios que ordenen, permitan o ejecuten dichos delitos.
 CAPITULO VII
 DESPOJO DE INMUEBLES Y AGUAS
 345.- Se aplicarán sanciones de tres meses a tres años de prisión y multa de una a cinco cuotas:
