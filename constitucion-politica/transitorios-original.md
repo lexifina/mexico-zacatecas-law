@@ -9,7 +9,8 @@ Artículo 7° El Tribunal de Conciliación y Arbitraje continuará fungiendo de 
 COMUNÍQUESE AL EJECUTIVO DEL ESTADO PARA SU PROMULGACIÓN Y PUBLICACIÓN.
 DADO en la Sala de Sesiones de la Honorable Quincuagésima Quinta Legislatura del Estado, a los doce días del mes de Junio de mil novecientos noventa y ocho.- Diputado Presidente.- C. Hugo Ruelas Rangel.- Diputados Secretarios.- Lic. Altagracia Patricia Félix Navia y M.V.Z. Rubén Rodríguez Acevedo.- Rúbricas
 Y para que llegue a conocimiento de todos y se le dé el debido cumplimiento, mando se imprima, publique y circule.
-DADO en el Despacho del Poder Ejecutivo a los diecinueve días del mes de abril de mil novecientos noventa y ocho.
+(F. DE E., P.O. 8 DE AGOSTO DE 1998)
+DADO en el despacho del Poder Ejecutivo a los diecinueve días del mes de Junio de mil novecientos noventa y ocho.
 "Sufragio Efectivo. No Reelección"
 El Gobernador Constitucional del Estado
 Lic. Arturo Romo Gutiérrez.
