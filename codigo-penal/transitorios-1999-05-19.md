@@ -1,0 +1,4 @@
+P.O. 19 DE MAYO DE 1999.
+Primero.- El presente Decreto entrará en vigor a los quince días siguientes al de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+Segundo.- En aplicación del principio constitucional de irretroactividad de la ley, las reformas a los Códigos Penal y de Procedimientos Penales del Estado, contenidas en el presente Decreto, beneficiarán a todo indiciado, procesado o sentenciado que después de su entrada en vigor se encuentre en condiciones de ser favorecido por el mismo y no será aplicable en aquellos casos en que la reforma les depare perjuicio.
+Tercero.- Las personas sujetas a procesos penales que se encuentren en trámite al inicio de la vigencia de este Decreto, en los que se investiguen delitos cuya pena máxima no exceda de dos años de prisión, podrán libremente acogerse a la reforma procesal o continuar el trámite en términos de lo previsto en las disposiciones legales anteriores a esta reforma.
