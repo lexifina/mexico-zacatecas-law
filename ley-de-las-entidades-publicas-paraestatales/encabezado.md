@@ -1,4 +1,4 @@
-LEY DE LAS ENTIDADES PUBLICAS PARAESTATALES
+LEY DE LAS ENTIDADES PÚBLICAS PARAESTATALES
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 7 de enero de 1989.
 LICENCIADO GENARO BORREGO ESTRADA, Gobernador Constitucional del Estado Libre y Soberano de Zacatecas, a sus habitantes hago saber:
 Que los C.C. Diputados Secretarios de la H. Quincuagésimo Segunda Legislatura del Estado, se han servido dirigirme el siguiente:
