@@ -1,12 +1,20 @@
 P.O. 17 DE NOVIEMBRE DE 2004.
 PRIMERO.- Publicado que sea el presente Decreto, por una sola vez, en el Periódico Oficial, Órgano del Gobierno del Estado, con las condiciones y los plazos que deberán cumplirse en su oportunidad y que están previstas en los siguientes artículos transitorios, entrará en vigor el día 1º de enero de 2005.
-SEGUNDO.- El Consejo (sic) Congregacional que en términos de la Ley Orgánica del Municipio se elija en el transcurso del presente año, concluirá sus funciones el 31 de diciembre de 2004.
-TERCERO.- A más tardar el 25 de noviembre de 2004 la Legislatura del Estado elegirá un presidente, un síndico y diez regidores, con sus respectivos suplentes del Consejo (sic) Municipal. A más tardar el 18 de noviembre de 2004 las fracciones parlamentarias representadas en la Legislatura, harán las correspondientes propuestas al Pleno.
-CUARTO.- Para ser miembro del Consejo (sic) Municipal deberán reunirse los requisitos previstos en el artículo 15 fracciones I, II, III, V, VI, VII, VIII y IX de la Ley Electoral del Estado.
-QUINTO.- El Consejo (sic) Municipal de Santa María de la Paz, concluirá sus funciones el día 15 de septiembre del año 2007, fecha en que entrará en ejercicio el Ayuntamiento electo en el proceso comicial respectivo.
-SEXTO.- A partir del 1º de enero de 2005 no habrá ninguna autoridad intermedia entre el Consejo (sic) Municipal de Santa María de la Paz y el Gobierno del Estado.
-SÉPTIMO.- Al aprobarse en el mes de Diciembre de 2004 las Leyes de Ingresos y el Presupuesto de Egresos, las instancias correspondientes harán las previsiones necesarias para que el Municipio de Santa María de la Paz cuente a partir del año 2005, con su propia Ley de ingresos y Presupuesto de Egresos que administrará el Consejo (sic) Municipal, el que deberá rendir cuentas en los términos que lo hacen los demás municipios.
+(F. DE E., P.O. 4 DE DICIEMBRE DE 2004)
+SEGUNDO.- El Concejo Congregacional que en términos de la Ley Orgánica del Municipio se elija en el transcurso del presente año, concluirá sus funciones el 31 de diciembre de 2004.
+(F. DE E., P.O. 4 DE DICIEMBRE DE 2004)
+TERCERO.- A más tardar el 25 de noviembre de 2004 la Legislatura del Estado elegirá un presidente, un síndico y diez regidores, con sus respectivos suplentes del Concejo Municipal. A más tardar el 18 de noviembre de 2004 las fracciones parlamentarias representadas en la Legislatura, harán las correspondientes propuestas al Pleno.
+(F. DE E., P.O. 4 DE DICIEMBRE DE 2004)
+CUARTO.- Para ser miembro del Concejo Municipal deberán reunirse los requisitos previstos en el artículo 15 fracciones I, II, III, V, VI, VII, VIII y IX de la Ley Electoral del Estado.
+(F. DE E., P.O. 4 DE DICIEMBRE DE 2004)
+QUINTO.- El Concejo Municipal de Santa María de la Paz, concluirá sus funciones el día 15 de septiembre del año 2007, fecha en que entrará en ejercicio el Ayuntamiento electo en el proceso comicial respectivo.
+(F. DE E., P.O. 4 DE DICIEMBRE DE 2004)
+SEXTO.- A partir del 1º de enero de 2005 no habrá ninguna autoridad intermedia entre el Concejo Municipal de Santa María de la Paz y el Gobierno del Estado.
+(F. DE E., P.O. 4 DE DICIEMBRE DE 2004)
+SÉPTIMO.- Al aprobarse en el mes de Diciembre de 2004 las Leyes de Ingresos y el Presupuesto de Egresos, las instancias correspondientes harán las previsiones necesarias para que el Municipio de Santa María de la Paz cuente a partir del año 2005, con su propia Ley de ingresos y Presupuesto de Egresos que administrará el Concejo Municipal, el que deberá rendir cuentas en los términos que lo hacen los demás municipios.
 OCTAVO.- Al inicio de vigencia del presente Decreto se convierten en patrimonio del Municipio de Santa María de la Paz, los bienes muebles, recursos financieros y pasivos, así como los inmuebles que localizados dentro del polígono referido en este Decreto, formaban parte de la propiedad raíz del Municipio de Teúl de González Ortega.
 NOVENO.- Los regímenes de propiedad derivados de resoluciones agrarias, o de cualquier otra modalidad de propiedad, localizadas dentro del polígono del Municipio de Santa María de la Paz conservarán su situación, de conformidad con el título legal que les dio origen.
-DÉCIMO.- En un plazo que no excederá de 180 días contados a partir del inicio de vigencia del presente Decreto, deberán hacerse las reformas necesarias a las leyes que así lo requieran. En el mismo plazo, el Consejo (sic) Municipal de Santa María de la Paz deberá expedir su Bando de Policía y Gobierno, y los reglamentos que se requieran. En tanto ello ocurre, continuará aplicándose en lo conducente, el Reglamento de la Congregación Municipal de Ignacio Allende.
-DÉCIMO PRIMERO.- En el mismo plazo que no excederá de 180 días contados a partir del inicio de vigencia del presente Decreto, el Consejo (sic) Municipal de Santa María de la Paz elaborará el padrón de contribuyentes del Municipio.
+(F. DE E., P.O. 4 DE DICIEMBRE DE 2004)
+DÉCIMO.- En un plazo que no excederá de 180 días contados a partir del inicio de vigencia del presente Decreto, deberán hacerse las reformas necesarias a las leyes que así lo requieran. En el mismo plazo, el Concejo Municipal de Santa María de la Paz deberá expedir su Bando de Policía y Gobierno, y los reglamentos que se requieran. En tanto ello ocurre, continuará aplicándose en lo conducente, el Reglamento de la Congregación Municipal de Ignacio Allende.
+(F. DE E., P.O. 4 DE DICIEMBRE DE 2004)
+DÉCIMO PRIMERO.- En el mismo plazo que no excederá de 180 días contados a partir del inicio de vigencia del presente Decreto, el Concejo Municipal de Santa María de la Paz elaborará el padrón de contribuyentes del Municipio.
