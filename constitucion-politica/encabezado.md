@@ -1,5 +1,4 @@
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE ZACATECAS
-N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 4 DE OCTUBRE DE 2003.
 Constitución publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 11 de julio de 1998.
 ARTURO ROMO GUTIÉRREZ, Gobernador Constitucional del Estado Libre y Soberano de Zacatecas, a sus habitantes hago saber:
 Que los C. C. DIPUTADOS SECRETARIOS de la H. Quincuagésimo Quinta Legislatura se han servido dirigirme el siguiente:
