@@ -20,7 +20,7 @@ Se precisa el concepto de la posesión y se evidencian sus elementos, tanto el m
 El título relativo al derecho real de servidumbre tuvo modificaciones importantes, empezando por su concepto en el que se fijan claramente los sujetos activo y pasivo; con la relación jurídica se definieron las servidumbre(sic) positivas o negativas, y se aclaró que las servidumbres nunca se presumen sino que exclusivamente emanan de la ley o de la voluntad de los interesados; la propiedad se entiende libre, y ha de ser el que pretenda tener el derecho de servidumbre quien debe probar su existencia; se establecen las servidumbres en vista al interés público o privado. En relación a la servidumbre legal de desagüe se modificó por el de servidumbres legales de aguas en las que se reglamentan específica y separadamente la de desagüe, la de captación de aguas, la de estribo de presa, la de sacar agua, la de abrevadero y la de acueducto.
 El capítulo quinto del libro tercero se recorre al cuarto que reglamenta las servidumbres legales de paso se define ésta y se fijan las indemnizaciones que debe cumplir el titular del predio sirviente al del dominante. Se prevé la situación de predios enclavados a los que se concede un paso menor en amplitud del que es necesario para la explotación del inmueble.
 Se enumeraron las causas de extinción, haciéndolas aplicables tanto a las servidumbres voluntarias como a las legales en forma técnica.
-Reformas que se consideran de importancia fueron introducidas en materia de usucapión, puesto que en el artículo 1227 se diferencia el nombre original que se empleó desde el derecho romano, de usucapión (prescripción adquisitiva) y (prescripción negativa) declarando que pueden adquirirse derechos reales en general y no solo el derecho de propiedad.
+Reformas que se consideran de importancia fueron introducidas en materia de usucapión, puesto que en el artículo 1227 se diferencia el nombre original que se empleó desde el derecho romano, de usucapión (prescripción adquisitiva) y (prescripción negativa) declarando que pueden adquirirse derechos reales en general y no selo el derecho de propiedad.
 En virtud de que la prescripción es una institución de orden público en este precepto (1232) se admite la renuncia de la prescripción una vez cumplida ésta, pero prohibe la renuncia del derecho de prescribir para lo futuro.
 El artículo 1252 se reordena para que los diferentes supuestos en él contemplados vayan en un orden lógico, de menos a más, por lo que se refiere a los plazos de prescripción.
 En materia sucesoria se introducen importantes reformas. En las disposiciones preliminares o generales, se precisan los conceptos de sucesión, herencia y legado; se fijan los principios básicos en materia sucesoria como son: el de la libre testamentifacción, el de a beneficio de inventario, el de que no hay herencia yacente ni herencia vacante, el de los parientes próximos que excluyen a los lejanos, el de la copropiedad hereditaria y otros.
@@ -72,9 +72,9 @@ En las modalidades de la compraventa sobre todo las verificadas con reserva de d
 Se define con más claridad el contrato de permuta.
 En las donaciones se protege al donante prohibiéndole transferir su patrimonio en cuanto se considere como universalidad jurídica; se amplía la reglamentación del contrato de mutuo para darle claridad y evitar falsas interpretaciones, por considerarse justo en beneficio del prestamista, congruente con una disposición genérica que lleva al interés legal del 9% al 24% anual, para que tal interés esté acorde con la situación financiera actual del país, en los contratos de mutuo, será también el tipo de interés legal, pero también se establece que cuando el interés convencional sea desproporcionado, cuando el prestamista se aprovecha del grave apuro, de la ignorancia o de la necesidad del deudor, podrá el juez, a solicitud de parte interesada, reducir el interés pactado hasta el legal.
 Por lo que se refiere al contrato de arrendamiento, se pretende adoptar, previa adecuación, las reformas introducidas recientemente en el Distrito Federal, y por tanto se señala que el arrendamiento de fincas urbanas destinadas a la habitación, es de orden público y de interés social, por tanto las normas establecidas al respecto son irrenunciables, se estipula que la duración mínima de todo contrato de arrendamiento de fincas urbanas destinadas a la habitación será de un año forzoso para arrendador y arrendatario que será prorrogable a voluntad del arrendatario, hasta por un año más cuando se encuentre al corriente en el pago de las rentas; se asienta que la renta sólo podrá ser incrementada anualmente, en su caso, pero que tal incremento no podrá exceder del 100% del aumento porcentual vigente al salario mínimo general en el lugar en el que se ubique el inmueble; se otorga plena seguridad a los inquilinos para que tengan preferencia en la adquisición del inmueble cuando el propietario lo ponga en venta, teniendo derecho el arrendatario a que se le notifique en forma legal la oferta, de tal manera que si el propietario no cumple con esta obligación y celebra contrato con tercero aquél será nulo; al efecto se señala como obligación a los notarios, cuando ante su presencia se otorguen contratos de compraventa de casas habitación dadas en arrendamiento, que verifiquen si el propietario cumplió con la obligación de notificar al inquilino la pretendida venta, y en caso contrario no deberá otorgarse la escritura, so pena de nulidad; igualmente se señala que estos derechos del inquilino deberán insertarse literalmente en todos los contratos de arrendamiento, y que la falta de contrato siempre será imputable al arrendador; por último también se señala como obligación a los oficiales del Registro Público, para inscribir contratos de compraventa que versen sobre inmuebles destinados a casa habitación, se cercioren si se cumplió por el vendedor lo relativo al derecho del tanto que corresponde al arrendatario y, en caso contrario, no se inscriba el documento.
-Igualmente se establece en este capítulo que quedan exceptuadas de la obligación de prorrogar el contrato de arrendamiento los propietarios que quieran habitar la casa o cultivar la finca cuyo arrendamiento ha vencido, pero igualmente se establece que posteriormente el arrendador que no habitare la casa o no cultivare la finca, será responsable de los daños y perjuicios que hubiere ocasionado a su inquilino. En los contratos de comodato y de depósito se procura sustituir el término de "cosa" por el de "bien", para que sea congruente la redacción con el resto del Código.
+Igualmente se establece en este capítulo que quedan exceptuados de la obligación de prorrogar el contrato de arrendamiento los propietarios que quieran habitar la casa o cultivar la finca cuyo arrendamiento ha vencido, pero igualmente se establece que posteriormente el arrendador que no habitare la casa o no cultivare la finca, será responsable de los daños y perjuicios que hubiere ocasionado a su inquilino. En los contratos de comodato y de depósito se procura sustituir el término de "cosa" por el de "bien", para que sea congruente la redacción con el resto del Código.
 Respecto de la forma del último contrato mencionado, se estipula que podrá otorgarse el documento privado cuando su valor no exceda de diez cuotas correspondientes al salario mínimo.
-En el contrato de mandato, a efecto de adecuar su otorgamiento a la situación financiera del Estado y del país, se señala que podrá otorgarse en carta poder firmada ante dos testigos, que deberán ratificar cuando el interés del negocio para el que se confiere el poder no exceda de treinta cuotas del salario mínimo vigente; en caso contrario, deberá otorgarse en escritura pública, asimismo los poderes generales y los demás casos que señala la Ley.
+En el contrato de mandato, a efecto de adecuar su otorgamiento a la situación financiera del Estado y del país, se señala que podrá otorgarse en carta poder firmada ante dos testigos, que deberán ratificar cuando el interés del negocio para el que se confiere el poder no exceda de treinta cuotas del salario mínimo vigente; en caso contrario, deberá otorgarse en escritura pública, asimismo los poderes generales y los demás casos que señala la ley.
 En el capítulo respectivo igualmente se enfatiza que el mandatario que se exceda de sus facultades es responsable de los daños y perjuicios que causa al mandante y a tercero con quien contrató, si éste ignoraba que aquél traspasaba los límites del mandato; igualmente se reitera que los intereses legales se calcularán al tipo de 24% anual.
 En el contrato de obras a precio alzado se señalan con toda precisión las reglas a las que deberán sujetarse los contratantes; se establece que cuando el valor del contrato sea mayor del equivalente a cien cuotas del salario mínimo vigente en el lugar de la obra, deberá otorgarse por escrito, incluyéndose en él una descripción pormenorizada y en los casos que lo requieran un plano, diseño o presupuesto de la obra; igualmente se señala que el empresario que se encargue de una obra por precio determinado, no tiene derecho de exigir después ningún aumento, aunque lo haya tenido, el precio de los materiales y el de los salarios, salvo que ese aumento sea de 20% o más, y siempre que el empresario no esté constituido en mora, ya que en tal caso el aumento a que tiene derecho será proporcional al tenido por los materiales o salarios.
 Se hace una clara definición de lo que es la asociación, y de lo que es la sociedad, se señalan las consecuencias jurídicas inherentes a la capacidad de la asociación y a las facultades legales de la asamblea general, y en su caso se señalan los posibles derechos de los concubinos.
@@ -270,8 +270,8 @@ Las situaciones de posesión de hecho son reguladas por el derecho en cuanto: o 
 95.- Puede adquirirse la posesión por la misma persona que va a disfrutarla, por su representante legal, por su mandatario y por un tercero sin mandato alguno, pero en este último caso no se entenderá adquirida la posesión hasta que la persona a cuyo nombre se haya verificado el acto o hecho posesorio lo ratifique.
 96.- Cuando varias personas poseen un bien en común y pro indiviso, podrá cada una de ellas ejercer actos posesorios sobre el bien común, con tal de que no excluya los actos posesorios de los otros coposeedores.
 97.- Se entiende que cada uno de los poseedores de un bien que poseen en común, ha poseído exclusivamente, por todo el tiempo que dure la posesión indivisa, la parte que al dividirse le tocare.
-98.- La posesión originaria establece la presunción de propiedad a favor de quien la tiene para todos los efectos legales. No se establece la misma presunción en favor de quien posee en virtud de un derecho real distinto al de propiedad; pero si es poseedor de buena fe, se tiene la presunción de haber obtenido la posesión del dueño del bien o derecho poseído.
-Toda poseción se presume originaria, salvo prueba en contrario que rinda el opositor.
+(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 1988)
+98.- La posesión originaria establece la presunción de propiedad a favor de quien la tiene para todos los efectos legales. No se establece la misma presunción en favor de quien posee en virtud de un derecho personal o real distinto al de dominio, pero si es poseedor de buena fe, se tiene la presunción de haber obtenido la posesión del dueño del bien o derecho poseído.
 99.- El poseedor de un bien mueble perdido o robado, no podrá recuperarlo de un tercero de buena fe que lo haya adquirido en almoneda o de un comerciante que en mercado público se dedique a la venta de objetos de la misma especie, sin reembolsar al poseedor actual el precio que hubiere pagado por el bien. El recuperante tiene el derecho de repetir contra el vendedor.
 100.- La moneda y los títulos al portador no pueden ser reivindicados del adquiriente de buena fe, aunque el poseedor haya sido desposeído de ellos contra su voluntad.
 101.- El poseedor actual que pruebe haber poseído en tiempo anterior, tiene en su favor la presunción de haber poseído en el intermedio.
@@ -321,7 +321,8 @@ Tiene también la obligación impuesta por la fracción II del artículo 115.
 125.- Las mejoras provenientes de la naturaleza o del tiempo quedan siempre en beneficio del que haya vencido en la posesión.
 126.- Posesión pacífica es la que se adquiere sin violencia. Si posteriormente a la adquisición el poseedor recurre a la violencia para mantenerse en el uso o goce del bien, no se considerará viciada dicha posesión.
 127.- Posesión continua es la que no ha sido interrumpida por algunos de los medios enumerados en el Capítulo Quinto, Título Séptimo de este Libro.
-128.- Posesión pública es la que se disfruta de manera que pueda ser conocida por todos aquéllos que tengan interés en interrumpirla. También es la que está legalmente inscrita en el Registro Público de la Propiedad.
+(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 1988)
+128.- La posesión pública es la que se disfruta de manera que pueda ser conocida por todos aquéllos que tengan interés en interrumpirla y que, además, se encuentre inscrita en el Registro Público de la Propiedad.
 129.- Posesión cierta es la que se tiene por una causa que no da lugar a dudas respecto al concepto originario o derivado de la misma posesión. Posesión equívoca es la que se tiene por un hecho o acto jurídico que dé lugar a duda respecto del concepto originario o derivado de la misma posesión.
 130.- Sólo la posesión que se adquiere y disfruta en concepto de dueño del bien poseído puede producir la prescripción.
 131.- Se presume que la posesión se sigue disfrutando en el mismo concepto en el que se adquirió, a menos que se pruebe que ha cambiado la causa de la posesión. Nadie puede cambiar a su arbitrio la causa de su posesión.
@@ -446,7 +447,7 @@ II.- Nadie puede enriquecerse a costa de otro.
 199.- Para que los animales se consideren frutos, basta que estén en el vientre de la madre aunque no hayan nacido.
 200.- Son frutos civiles, los alquileres de los bienes muebles, las rentas de los inmuebles, los réditos de los capitales y todos aquellos que no siendo producidos por el mismo bien directamente, vienen de él por contrato, por acto unilateral o por la ley.
 201.- El que percibe los frutos tiene la obligación de abonar los gastos hechos por un tercero para su producción, recolección y conservación.
-202.- Todo lo que se une o incorpora a un bien, lo edificado plantado y sembrado y lo preparado o mejorado en terrenos o finca de propiedad ajena, pertenece al dueño del terreno o finca, con sujeción a lo que se dispone en los artículos siguientes.
+202.- Todo lo que se une o incorpora a un bien, lo edificado plantado y sembrado y lo preparado o mejorado en terreno o finca de propiedad ajena, pertenece al dueño del terreno o finca, con sujeción a lo que se dispone en los artículos siguientes.
 203.- Todas las obras, siembras y plantaciones, así como las mejoras y reparaciones ejecutadas en un terreno, se presumen hechas por el propietario y a su costa, mientras no se pruebe lo contrario.
 204.- El que siembre, plante o edifique en finca propia, con semillas, plantas o materiales ajenos, adquiere la propiedad de unas y otras, pero con la obligación de pagarlos en todo caso y de resarcir daños y perjuicios si ha procedido de mala fe.
 205.- El dueño de las semillas, plantas o materiales nunca tendrá derecho a pedir que se le devuelvan destruyéndose la obra o plantación; pero si las plantas no han echado raíces y pueden sacarse, el dueño de ellas tiene derecho de pedir que así se haga.
@@ -492,8 +493,6 @@ Si las aguas son de propiedad federal, se estará a lo dispuesto en la ley respe
 237.- Cuando el mérito artístico de la obra sea inferior en precio a la materia, el dueño de ésta hará suya la nueva especie y tendrá derecho, además, para reclamar indemnización de daños y perjuicios, descontándose del monto de éstos el valor de la obra, a tasación de peritos.
 238.- Si la especificación se hizo de mala fe, el dueño de la materia empleada tiene derecho de quedarse con la obra sin pagar nada al que la hizo, o exigir de éste que le pague el valor de la materia y le indemnice de los daños y perjuicios que se le hayan seguido.
 239.- La mala fe en los casos de mezcla o confusión se calificará conforme a Io dispuesto en los artículos 211 y 212.
-TITULO QUINTO
-DEL USUFRUCTO, DEL USO Y DE LA HABITACION
 CAPITULO SEPTIMO
 DE LA COPROPIEDAD
 240.- Hay copropiedad cuando un bien o una universalidad de bienes y obligaciones apreciables en dinero, pertenecen pro indiviso a dos o más personas.
@@ -555,6 +554,8 @@ VIII.- Cuando la cerca que encierra completamente una propiedad es de distinta e
 280.- La división de bienes inmuebles es nula si no se hace con las mismas formalidades que la ley exige para su venta.
 281.- Son aplicables a la división de herencia, las reglas señaladas en este Capítulo.
 282.- Para todo lo no previsto en este Capítulo, se estará a lo dispuesto en las leyes de propiedad en condominio para el Estado, en cuanto no se opongan a lo perceptuado por este Código.
+TITULO QUINTO
+DEL USUFRUCTO, DEL USO Y DE LA HABITACION
 CAPITULO PRIMERO
 DEL USUFRUCTO EN GENERAL
 283.- El usufructo es un derecho real, temporal, generalmente vitalicio, para usar y disfrutar de los bienes ajenos sin alterar su forma ni sustancia.
@@ -590,7 +591,7 @@ Ni éste ni el usufructuario tienen que hacerse abono alguno por razón de las l
 309.- El usufructuario goza del derecho por el tanto. Es aplicable lo dispuesto en el artículo 275 de este ordenamiento, en lo que se refiere a dar aviso y la forma para hacerlo, respecto de la enajenación y al tiempo para hacer uso del derecho por el tanto.
 CAPITULO TERCERO
 DE LAS OBLIGACIONES DEL USUFRUCTUARIO
-310.- El usufructuario, antes de entrar en el goce de los bienes, ésta obligado:
+310.- El usufructuario, antes de entrar en el goce de los bienes, ésta obligado.
 I.- A formar a sus expensas, con citación del dueño, un inventario de todos ellos, haciendo tasar los muebles y constar el estado en que se encuentren los inmuebles;
 II.- A dar la correspondiente garantía de que disfrutará de las cosas con moderación, y las restituirá al propietario con sus accesiones, al extinguirse el usufructo, no empeoradas ni deterioradas por su negligencia, salvo lo dispuesto en lo relativo al cuasiusufructo.
 311.- El donante que se reserve el usufructo de los bienes donados está dispensado de dar la garantía requerida, si no se ha obligado expresamente a ello.
@@ -1252,7 +1253,7 @@ En caso de que intervengan testigos de identificación, también firmarán.
 758.- En cualquier tiempo el testador tendrá derecho de retirar del archivo, personalmente o por medio de mandatario, con mandato otorgado en escritura pública, el testamento depositado, haciéndose constar la entrega en acta que firmarán el testador o el mandatario y el Oficial Registrador.
 759.- El Juez ante quien se promueva un juicio sucesorio pedirá informe al Oficial del Registro Público de la Propiedad del lugar, acerca de si en su oficina se ha depositado algún testamento ológrafo del autor de la sucesión, para que en caso de que así sea, se le remita el testamento.
 760.- El que guarde en su poder el duplicado de un testamento o cualquiera que tenga noticia de que el autor de una sucesión ha depositado algún testamento ológrafo lo comunicará al Juez competente, quien pedirá al Oficial de la oficina del Registro Público de la Propiedad en que se encuentre el testamento, que se le remita.
-761.- Recibido el testamento, el Juez examinará la cubierta que lo contiene para cerciorarse de que no ha sido violada, hará que los testigos de identificación que residieren en el lugar, reconozcan sus firmas y la del testador, y en presencia del Ministerio Público, de los que se hayan presentado como interesados y de los mencionados testigos, abrirá la cubierta que contiene el testamento. Si este llena los requisitos mencionados en el artículo 751, y queda comprobado que es el mismo que depositó el testador, se declarará existente y válido el testamento de éste.
+761.- Recibido el testamento, el Juez examinará la cubierta que lo contiene para cerciorarse de que no ha sido violada, hará que los testigos de identificación que residieren en el lugar, reconozcan sus firmas y la del testador, y en presencia del Ministerio Público, de los que se hayan presentado como interesados y de los mencionados testigos, abrirá la cubierta que contiene el testamento. Si éste llena los requisitos mencionados en el artículo 751, y queda comprobado que es el mismo que depositó el testador, se declarará existente y válido el testamento de éste.
 762.- Sólo cuando el ejemplar depositado e inscrito haya sido destruido o robado, se tendrá como testamento el duplicado, procediéndose para su apertura como se dispone en el artículo que precede.
 763.- El testamento ológrafo quedará sin efecto cuando el ejemplar depositado e inscrito o el duplicado, en su caso, estuviere roto o la cubierta que los cubre resultare abierta, rota, alterada, falsificada o inutilizada por cualquier otro medio, o las firmas que lo autoricen aparecieren borradas, raspadas o con enmendaduras, aún cuando el contenido del testamento no sea vicioso.
 764.- El Oficial del Registro Público de la Propiedad no proporcionará informes acerca del testamento ológrafo depositado en su oficina, sino al mismo testador o a jueces competentes que oficialmente se lo pidan, so pena de ser destituido de su cargo.
@@ -1431,7 +1432,7 @@ IV.- Los que por el mal estado habitual de salud o por no saber leer y escribir,
 V.- Los que tengan a su cargo otro albaceazgo;
 VI.- Los mayores de setenta y cinco años.
 874.- El albacea que estuviere ejerciendo el cargo mientras se decide sobre su excusa, debe desempeñarlo, bajo la pena establecida en el artículo 871.
-875.- El albacea no podrá delegar el cargo que ha recibido, ni por su muerte pasa a sus herederos; pero no está obligado a obrar personalmente, ya que puede hacerlo por mandatarios que obren bajo sus órdenes, respondiendo de los actos de éstos.
+875.- El albacea no podrá delegar el cargo que ha recibido, ni por su muerte pasa a sus herederos; pero no está obligado a obrar personalmente, ya que puede hacerlo por mandatarios que obren bajo sus órdenes, respondiendo de los actos de éstos
 876.- El albacea universal está obligado a entregar al especial las cantidades o bienes necesarios para que cumpla la parte del testamento que estuviere a su cargo.
 877.- Si el cumplimiento del legado dependiere de un término o condición suspensiva, podrá el albacea universal retener el bien o cantidad legada, dando garantía a satisfacción del legatario o del albacea especial, de que la entrega se hará a su debido tiempo.
 878.- El albacea especial podrá también, a nombre del legatario, exigir la constitución de la hipoteca necesaria.
@@ -1470,7 +1471,7 @@ El albacea que no presente la proposición de que se trata, o que durante dos bi
 900.- Las cuentas de albaceazgo, a más de lo relativo a la mera administración del caudal hereditario, deberán referirse a los pagos que se hubieren hecho por concepto de créditos o legados y cuanto se refiere a la gestión el albacea que afecte los bienes o derechos correspondientes a la sucesión.
 901.- La obligación que de rendir cuentas tiene el albacea, pasa a sus herederos.
 902.- Son nulas las disposiciones por las que el testador dispensa al albacea de la obligación de hacer inventario y avalúo o de rendir cuentas.
-903.- Las cuentas deben ser aprobadas por todos los herederos; el que disienta podrá seguir, a su consta, el incidente o juicio respectivo, según se trate de cuenta de mera administración o de cuenta general de albaceazgo.
+903.- Las cuentas deben ser aprobadas por todos los herederos; el que disienta podrá seguir, a su costa, el incidente o juicio respectivo, según se trate de cuenta de mera administración o de cuenta general de albaceazgo.
 904.- Cuando sea heredero el Estado, alguna institución pública educativa, o los herederos fueren incapaces, ausentes o desconocidos, intervendrá el Ministerio Público en la aprobación de las cuentas.
 905.- En la aprobación de las cuentas los interesados pueden celebrar los convenios que quieran.
 En el caso que fueren varios los herederos inconformes, los convenios se harán por mayoría de votos.
@@ -1638,7 +1639,7 @@ Es tácita cuando resulta de hechos o de actos que la presupongan o que autorice
 1013.- El objeto, el fin, el motivo y la condición del acto jurídico, no deben ser contrarios a las leyes de orden público ni a las buenas costumbres.
 1014.- Es ilícito en general el acto jurídico que se ejecuta en contra de las leyes de orden público o de las buenas costumbres, violando normas prohibitivas.
 CAPITULO TERCERO
-DE LA INEXISTENCIA Y NULIDAD DE LOS ACTOS JURIDICOS
+DE LA INEXIsTENCIA Y NULIDAD DE LOS ACTOS JURIDICOS
 1015.- El acto jurídico es inexistente en los siguientes casos:
 I.- Cuando no contiene una declaración de voluntad expresa o tácita;
 II.- Cuando falta el objeto del mismo;
@@ -1861,7 +1862,7 @@ Respecto al perjudicado, el empobrecimiento no sólo existirá cuando haya una p
 1165.- Cuando por actos de una persona se beneficien en términos generales otras u otra, por aumentar el valor de sus propiedades o posesiones, y dicho beneficio sea consecuencia del que también experimente la persona que ejecute tales actos, no habrá lugar tampoco a exigir indemnización alguna, no obstante las erogaciones o trabajos que el primero hubiere ejecutado.
 1166.- Cuando se reciba alguna cosa que no se tenía derecho de exigir y que por error ha sido indebidamente pagada, se tiene obligación de restituirla.
 Si lo indebido consiste en una prestación cumplida, cuando el que la recibe procede de mala fe, debe pagar el precio corriente de esa prestación; si procede de buena fe, sólo debe pagar lo equivalente al enriquecimiento recibido.
-1167.- El que acepte un pago indebido,l si hubiere procedido de mala fe, deberá abonar el interés legal cuando se trate de capitales, o los frutos percibidos y los dejados de percibir, de los bienes que los produjeren.
+1167.- El que acepte un pago indebido, si hubiere procedido de mala fe, deberá abonar el interés legal cuando se trate de capitales, o los frutos percibidos y los dejados de percibir, de los bienes que los produjeren.
 Además responderá de los menoscabos que el bien haya sufrido por cualquier causa, y de los perjuicios que se irroguen al que lo entregó, hasta que lo recobre.
 No responderá del caso fortuito cuando éste hubiere podido afectar del mismo modo a los bienes hallándose en poder del que los entregó.
 1168.- Si el que recibió el bien con mala fe, lo hubiere enajenado a un tercero que tuviere también mala fe, podrá el dueño reivindicarlo y cobrar de uno u otro los daños y perjuicios.
@@ -1954,7 +1955,7 @@ DE LAS OBLIGACIONES CONDICIONALES
 1223.- La obligación es pura cuando su exigibilidad no depende de condición alguna.
 1224.- La obligación es condicional, cuando su exigibilidad o su resolución dependen de un acontecimiento futuro e incierto.
 1225.- Puede también constituirse una obligación, haciendo depender, tanto su exigibilidad como su resolución, de un hecho pasado, pero desconocido de las partes.
-1226.- La condición es suspensiva cuando de su cumplimiento depende la existencia de la obligación.
+1226.- La condición es suspensiva cuando de su cumplimiento depende la existencia de la obligación
 1227.- La condición es resolutoria, cuando cumplida resuelve la obligación, volviendo las cosas al estado que tenían como si esa obligación no hubiere existido.
 1228.- La condición es casual cuando depende enteramente del acaso, o de la voluntad de un tercero no interesado en el contrato.
 1229.- Es potestativa o voluntaria cuando depende puramente de la voluntad de una de las partes.
@@ -2510,7 +2511,7 @@ La retractación, en este caso, no produce más responsabilidad para la parte qu
 El comprador perderá las arras que hubiere dado cuando sea él quien se retracte; pero si la retractación proviene del vendedor, éste volverá las arras con otro tanto.
 Para que una cantidad entregada por el vendedor tenga el carácter de arras debe expresarse así claramente. Si el contrato se realiza, el importe de las arras, se entiende entregado a cuenta del precio.
 1603.- Los contratantes pagarán por mitad los gastos de escritura y registro, salvo convenio en contrario.
-1604.- Son nulas las ventas que produzcan las (sic) concentración o acaparamiento, en una o en pocas manos, de artículos de consumo necesario, y que tengan por objeto obtener el alza de los precios de esos artículos.
+1604.- Son nulas las ventas que produzcan las concentración o acaparamiento, en una o en pocas manos, de artículos de consumo necesario, y que tengan por objeto obtener el alza de los precios de esos artículos.
 1605.- Las ventas al menudeo de bebidas embriagantes, hechas al fiado en cantinas, no dan derecho para exigir su precio.
 1606.- Si una misma cosa fuere vendida por el mismo vendedor a diversas personas, se observará lo siguiente.
 1607.- Si la cosa vendida fuere mueble, prevalecerá la venta primera en fecha; si no fuere posible verificar la prioridad de ésta, prevalecerá la hecha al que se halle en posesión de la cosa.
@@ -2619,7 +2620,7 @@ G) En todo caso se inscribirán en el Registro Público de la Propiedad los cont
 Si el contrato no se inscribe dentro de los sesenta días después de celebrado, el vendedor pagará al comprador una pena equivalente al veinte por ciento del precio pactado y podrá el comprador gestionar su inscripción, bastando, para que el contrato surta efectos contra tercero desde la fecha del mismo contrato, que el comprador haga la solicitud de inscripción dentro de los treinta días siguientes a la expiración del plazo, concedido en este párrafo al comprador, para el mismo fin;
 H) Ninguna de estas disposiciones es renunciable; y el artículo entero deberá ser transcrito en los antecedentes del contrato, con caracteres tipográficos idénticos al clasulado del mismo. Su omisión acarrea una pena legal a cargo del vendedor y en beneficio del comprador, del veinte por ciento del precio pactado;
 I) Este artículo es aplicable a la compraventa de una casa aunque no sea vendida por un fraccionador, si la casa se adquiere por el comprador para habitarla y a plazo;
-J) Para que este artículo sea aplicable se requiere;
+J) Para que este artículo sea aplicable se requiere:
 I.- Que el comprador no sea propietario de otro bien raíz;
 II.- Que el precio del terreno adquirido así, no exceda del importe de tres mil seiscientos cincuenta días del salario mínimo general, vigente para la zona económica donde esté domiciliado el comprador; o
 III.- Que si se trata de una casa su precio no exceda de cinco mil cuatrocientos setenta y cinco días de ese salario.
@@ -3145,7 +3146,7 @@ II.- Por la renuncia del mandatario;
 III.- Por la muerte del mandante o del mandatario;
 IV.- Por la interdicción de uno u otro;
 V.- Por el vencimiento del plazo y por la conclusión del negocio para el que le fue concedido;
-VI.- Por las causas previstas en el Código de la Familia, para los poderes otorgados por el declarado ausente.
+VI.- Por las causas previstas en el Código de la Familia; para los poderes otorgados por el declarado ausente.
 1981.- El mandante puede revocar el mandato cuándo y cómo le parezca.
 Asimismo el mandatario puede renunciar al mandato cuando y como le parezca.
 La parte que revoque o renuncia el mandato en tiempo inoportuno debe indemnizar a lo otra o a un tercero de los daños y perjuicios que le cause la revocación o renuncia.
@@ -3781,7 +3782,7 @@ IV.- Una vez hecha la inscripción, el propietario podrá:
 1º Transmitir total o parcialmente su derecho real hipotecario, a una o más personas, en garantía de las obligaciones que adquiera en su favor de éstas; o
 2º Cancelar dicha hipoteca si no la ha transmitido a otra persona ni total ni parcialmente;
 V.- La transmisión total o las transmisiones parciales se harán constar en escritura pública y se inscribirán en el Registro Público para que surtan efectos contra tercero. En estas escrituras se insertará la escritura constitutiva de la hipoteca y la razón de su registro;
-VI.- El adquiriente o adquirientes de este derecho real hipotecario no podrán tener más derechos que los establecidos en la escritura que constituyó la hipoteca.
+VI.- El adquiriente o adquirientes de este derecho real hipotecario no podrán tener más derechos que los establecidos en la escritura que constituyó la hipoteca;
 VII.- Si la transmisión del derecho hipotecario es por su importe total en favor de un solo acreedor, éste goza de los derechos de garantía y preferencia que son oponibles a todos los acreedores personales del constituyente de la hipoteca, y a los que tengan un derecho real constituido con posterioridad al registro de que trata la fracción III de este artículo;
 VIII.- Si la transmisión es parcial y se hace a varios acreedores, en la misma o en diferentes fechas, todos ellos ocuparán el mismo grado de preferencia;
 IX.- La mora en el pago de los intereses respecto a uno de los acreedores produce los mismos efectos respecto a todos;
@@ -4094,10 +4095,21 @@ II.- Mediante información posesoria;
 III.- Mediante resolución judicial que la ordene y que se haya dictado como consecuencia de la presentación de titulación fehaciente que abarque sin interrupción un período por lo menos de cinco años;
 IV.- Mediante la inscripción del decreto publicado en el Periódico Oficial del Gobierno del Estado que convierta en bien de dominio privado un inmueble que no tenga tal carácter, o del título o títulos que se expidan con fundamento en aquel decreto;
 V.- Mediante la inscripción del contrato privado de compraventa autenticado en los términos del artículo 2474, fracción III, acompañado de la certificación de no inscripción de la finca y de un plano de la misma.
-2516.- El que haya poseído bienes inmuebles por el tiempo y con las condiciones exigidas para prescribirlos y no tenga título de propiedad o teniéndolo no sea inscribible por defectuoso, si no está en el caso de deducir la acción de prescripción positiva por no estar inscrita en el Registro de la Propiedad de los bienes a favor de persona alguna podrá demostrar ante el Juez competente que ha tenido esa posesión, rindiendo la información respectiva en los términos que establezca el Código de Procedimientos Civiles. A su solicitud acompañará precisamente certificado del Registro Público que demuestre que los bienes no están inscritos y otro relativo al estado actual de la finca en los registros fiscales en las Oficinas Rentísticas del Estado.
-La información se recibirá en los términos que establece el Código de Procedimientos Civiles.
+(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 1988)
+2516.- El que haya poseído bienes inmuebles por el tiempo y con las condiciones exigidas para prescribirlos y no tenga titulo de propiedad o teniéndolo no sea inscribible por defectuoso, si no está en el caso de deducir la acción de prescripción positiva por no estar inscrita en el Registro Público de la Propiedad de los bienes a favor de persona alguna, podrá demostrar ante el Juez competente que ha tenido esa posesión, rindiendo la información respectiva en los términos que establezca el Código de Procedimientos Civiles, comprobando la causa generadora de la posesión.
+A su solicitud acompañará:
+I.- Certificado de Registro Público que demuestre que los bienes no están inscritos;
+II.- Certificados del estado actual del inmueble en los registros fiscales de las oficinas rentísticas del Estado;
+III.- Dictamen de la Dirección General de Desarrollo Urbano y Ecología declarando procedente la solicitud en lo que a ella corresponda
+IV. Un plano de la ubicación y localización del bien expedido y aprobado por las autoridades catastrales estatales y municipales;
+V.- Opinión del H. Ayuntamiento Municipal de la ubicación del inmueble; y
+VI.- Si se trata de predios rústicos se acompañará además, certificados del Registro Agrario Nacional y Dirección de Fraccionamientos de Gobierno del Estado, en los que se acredite que el o los inmuebles no se encuentran sujetos a las leyes correspondientes.
+El dictamen y certificados a que se refieren las fracciones III y VI, los solicitará directamente el Juez que conozca del asunto, y las autoridades involucradas lo expedirán en un término no mayor de 30 días naturales contados a partir del día siguiente en que conste fue recibido el oficio de solicitud.
+Transcurrido el término sin que se haya expedido, se tendrá por contestado en sentido negativo. En el caso del Registro Agrario Nacional, se solicitará a la Delegación de la Secretaría de la Reforma Agraria en el Estado.
+La información se recibirá en los términos que establece el Codigo Procedimietnos Civiles.
 2517.- El que tenga una posesión apta para prescribir, de bienes inmuebles no inscritos en el Registro en favor de persona alguna, aún antes de que transcurra el tiempo necesario para prescribir, puede registrar su posesión mediante resolución judicial que dicte el Juez competente ante quien la acredite del modo que fije el Código de Procedimientos Civiles.
-A la solicitud acompañará los documentos que se mencionan en la parte final del párrafo primero del artículo anterior.
+(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 1988)
+A la solicitud acompañará los documentos que se mencionan en el Artículo anterior.
 Las declaraciones de los testigos versarán sobre el hecho de la posesión, sobre los requisitos que deben tener para servir de base a la prescripción adquisitiva y sobre el origen de la posesión.
 El efecto de la inscripción será tener la posesión inscrita como apta para producir la prescripción al concluir el plazo de cinco años contados desde la misma inscripción.
 Las inscripciones de posesión expresarán las circunstancias exigidas para las inscripciones en general y además las siguientes: los nombres de los testigos que hayan declarado, el resultado de las declaraciones y la resolución judicial que ordene la inscripción.
