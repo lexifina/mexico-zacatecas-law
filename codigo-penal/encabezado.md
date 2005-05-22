@@ -976,6 +976,9 @@ III.- Al particular que por medio de la violencia obligue a una persona a tolera
 IV.- Al que de alguna manera viole con perjuicio de otro, los derechos establecidos por la Constitución General de la República o por la Constitución del Estado en favor de las personas.
 (ADICIONADO, P.O. 28 DE MAYO DE 1994)
 Cuando los ilícitos tipificados en las cuatro fracciones anteriores se cometan en perjuicio de personas menores de doce años se duplicarán las sanciones aplicables.
+(ADICIONADO, P.O. 21 DE MAYO DE 2005)
+265 bis.- Comete el delito de secuestro exprés el que prive o restrinja la libertad de alguna persona, cuando la privación o restricción de la libertad personal tenga una duración inferior a veinticuatro horas y se realice con el propósito de cometer los delitos de robo o extorsión, o para obtener algún beneficio económico.
+Al responsable del delito de secuestro exprés se le impondrán de siete a quince años de prisión y multa de cincuenta a cien cuotas, sin perjuicio de las demás sanciones que conforme a este Código le correspondan por otros delitos que de su conducta resulten.
 266.- Se impondrán de quince a treinta años de prisión y multa de cincuenta a ciento cincuenta cuotas, cuando la detención arbitraria tenga el carácter de plagio o secuestro, en alguna de las formas siguientes:
 I.- Cuando se trate de obtener rescate, o de causar daños o perjuicios al plagiado o a otra persona relacionada con aquél;
 II.- Cuando se haga uso de amenazas graves, de maltrato de tormento;
@@ -1249,6 +1252,11 @@ XVII.- Al que, con el propósito de no cubrir el precio convenido adquiera cualq
 341.- Se equipara al delito de fraude y se sancionará con multa de hasta doscientas cuotas y prisión de tres a diez años, al que engañando a otro haciéndose pasar como funcionario del Estado o como agente de compañía nacional o extranjera de enganche a trabajadores, los contrate para prestar sus servicios en el extranjero, a sueldo fijo o a destajo, o los induzca, sin contrato, a trasladarse al extranjero, para allí contraer la obligación respectiva de trabajo.
 Iguales sanciones se impondrán a funcionarios auténticos del Estado, de las categorías indicadas, cuando obtuvieren del trabajador dádivas u otros ilegales beneficios a través de la celebración de contratos aun en el supuesto de que estuvieren facultados a intervenir en ellos, siendo además destituidos de sus empleos.
 Los agentes o funcionarios de compañías de contratación de trabajadores, que sin autorización de las autoridades, o al margen de la ley, contraten o pretendan contratar trabajadores, incurrirán en las sanciones privativas de libertad y pecuniarias a que se refiere el párrafo anterior. Las compañías de que se trata incurrirán, en el mismo caso, en las sanciones pecuniarias y suspensivas de operaciones.
+(ADICIONADO, P.O. 21 DE MAYO DE 2005)
+341 bis.- Comete el delito de extorsión aquél que, con ánimo de alcanzar un lucro o provecho, exija de otro dar, hacer o tolerar algo, utilizando para ello la amenaza de causarle un daño moral o físico en su persona o en la persona de otro.
+Al que cometa el delito de extorsión se le impondrán de dos a diez años de prisión y multa de cincuenta a ochenta cuotas.
+Cuando el delito se cometa en contra de persona mayor de sesenta años de edad, se impondrán de tres a catorce años de prisión y multa de cincuenta a cien cuotas.
+Las penas se aumentarán en dos terceras partes cuando el delito se realice por un servidor público, integrante o ex integrante de una corporación de seguridad pública o privada. Se impondrá además, en estos casos, la destitución del empleo o cargo público y se le inhabilitará de cinco a diez años para desempeñar cargo o comisión públicos.
 342.- Son aplicables al fraude los artículos 327 y 328 de este Código.
 CAPITULO V
 ADMINISTRACION FRAUDULENTA
@@ -1423,10 +1431,10 @@ III.- No evitar que se torture a un detenido.
 373.- Al tercero, instigado o autorizado a cometer tortura, se le aplicarán las sanciones privativas de libertad y pecuniarias previstas en el artículo 371.
 (ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 6 DE MAYO DE 1995) (F. DE E., P.O. 24 DE JUNIO DE 2006)
 TITULO VIGESIMO TERCERO
-(ADICIONADO EL ARTICULO QUE LO INTEGRA, P.O.6 DE MAYO DE 1995)
+(ADICIONADO EL ARTICULO QUE LO INTEGRA, P.O. 6 DE MAYO DE 1995)
 CAPITULO PRIMERO
 DELITOS EN MATERIA ELECTORAL
-(ADICIONADO, P.O.6 DE MAYO DE 1995)
+(ADICIONADO, P.O. 6 DE MAYO DE 1995)
 374.- Para los efectos de este Código se entenderá por:
 I.- FUNCIONARIOS ELECTORALES.- Quienes en los términos de la legislación electoral integren los órganos que cumplan funciones electorales;
 (REFORMADA, P.O. 22 DE FEBRERO DE 1997)
@@ -1438,10 +1446,10 @@ V.- DOCUMENTOS PUBLICOS ELECTORALES.- Las actas oficiales de instalación de cas
 VI.- SON SERVIDORES PUBLICOS.- Los así considerados por la Constitución Política del Estado de Zacatecas y la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Zacatecas;
 (ADICIONADA, P.O. 22 DE FEBRERO DE 1997)
 VII.- CANDIDATOS.- Los ciudadanos registrados formalmente como tales ante la autoridad competente por los partidos políticos.
-(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O.6 DE MAYO DE 1995)
+(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 6 DE MAYO DE 1995)
 CAPITULO SEGUNDO
 DE LOS DELITOS EN GENERAL
-(ADICIONADO, P.O.6 DE MAYO DE 1995)
+(ADICIONADO, P.O. 6 DE MAYO DE 1995)
 375.- Se impondrá multa de diez a cien cuotas de salario mínimo general vigente en la entidad y tres meses a un año de prisión y en ambos casos suspensión de sus derechos políticos hasta por un año al que dolosamente:
 I.- Altere o falsifique una credencial e intente con ella sufragar;
 II.- Recoja sin causa prevista por la Ley credenciales de otros electores ciudadanos;
