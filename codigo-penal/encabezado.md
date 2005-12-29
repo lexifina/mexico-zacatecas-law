@@ -1359,6 +1359,8 @@ Las excluyentes de responsabilidad a que se refiere este artículo, no beneficia
 (REFORMADO, P.O. 30 DE DICIEMBRE DE 1989)
 360.- Se impondrá de tres meses a cuatro años de prisión y multa de cinco a treinta cuotas al que, con ánimo de lucro adquiera, reciba u oculte el producto del delito a sabiendas que provenía de éste, o si de acuerdo con las circunstancias debía presumir su ilegítima procedencia, o al que ayude a otro para los mismos fines, salvo los casos específicos que señala este Código.
 361.- En los casos del artículo 358, quedan exceptuados de sanción aquéllos que no puedan cumplir con el deber a que el mismo artículo se refiere, por correr peligro en su persona o en sus bienes, o en la persona o bienes de los que señala el artículo 359.
+(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2005)
+En el ejercicio del periodismo, quedan exceptuados de la prohibición de ocultar datos, indicios o pruebas a que se refiere el artículo 358, los que habiendo publicado alguna información de interés público en sus medios, estén obligados, por ética periodística a guardar el secreto profesional, respecto a sus fuentes de información.
 (ADICIONADO, P.O. 27 DE DICIEMBRE DE 2003)
 Las excepciones a que se refiere el párrafo anterior, no se aplicarán en beneficio de los padres, tutores u cuidadores de menores de edad que fueren víctimas de algún delito.
 362.- Para los efectos de los artículos de este Código en que se mencionen a la concubina y al concubinario, se entenderá por tales a la mujer y al hombre que estén haciendo vida conyugal por lo menos durante un año y siempre que tengan, respectivamente, un solo concubinario o una sola concubina.
