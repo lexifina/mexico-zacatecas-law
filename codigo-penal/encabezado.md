@@ -1180,18 +1180,24 @@ ABIGEATO
 (REFORMADO, P.O. 19 DE MAYO DE 1999)
 330.- Comete el delito de abigeato el que se apodere de una o más cabezas de ganado ajeno cualquiera que sea su especie, sin consentimiento de quien legalmente pueda disponer de ellas, independientemente del lugar en que se encuentren y de que formen o no hato.
 El delito de abigeato se sancionará conforme a las reglas siguientes:
-I.- Cuando el valor del ganado no exceda de cien cuotas se impondrá prisión de tres meses a un año y multa de diez a treinta cuotas;
-II.- Cuando el valor del ganado exceda de cien pero no de trescientas cuotas se impondrá prisión de seis meses a dos años y multa hasta de cien cuotas;
-III.- Cuando el valor del ganado exceda de trescientas pero no de quinientas cuotas se impondrá prisión de dos a seis años y multa hasta de ciento cincuenta cuotas;
-IV.- Cuando el valor del ganado exceda de quinientas cuotas la sanción será de tres a doce años y multa hasta de trescientas cuotas.
+(REFORMADA, P.O. 1 DE FEBRERO DE 2006)
+I. Cuando el valor del ganado no exceda de cien cuotas se impondrá prisión de cuatro meses a un año cuatro meses y multa de trece a cuarenta cuotas;
+(REFORMADA, P.O. 1 DE FEBRERO DE 2006)
+II. Cuando el valor del ganado exceda de cien, pero no de trescientas cuotas se impondrá prisión de ocho meses a dos años ocho meses y multa hasta de ciento treinta y tres cuotas;
+(REFORMADA, P.O. 1 DE FEBRERO DE 2006)
+III. Cuando el valor del ganado exceda de trescientas, pero no de quinientas cuotas se impondrá prisión de dos años seis meses a siete años seis meses y multa hasta de ciento ochenta y ocho cuotas; y
+(REFORMADA, P.O. 1 DE FEBRERO DE 2006)
+IV. Cuando el valor del ganado exceda de quinientas cuotas la sanción será de tres años nueve meses a quince años y multa hasta de trescientas setenta y cinco cuotas.
 331.- Las mismas sanciones que señala el artículo anterior se aplicarán:
 I.- A los que adquieran animales robados, según su valor;
 II.- A las autoridades o quienes intervengan en la legalización de documentos que acrediten la propiedad del semoviente o semovientes, si no tomaron las medidas indispensables para cerciorarse de la procedencia legítima de los animales;
 III.- Al que ampare a una o más cabezas de ganado robado con documentación alterada o expedida a otro; y
 IV.- Al que, con perjuicio de otro, disponga para sí o para un tercero, de una o más cabezas de ganado, de las cuales se le haya transmitido la tenencia y no el dominio, o bien se le haya entregado para su custodia.
-332.- Al que transporte ganado de procedencia ilegal sin haber tomado las medidas necesarias para cerciorarse de su procedencia legítima, se le impondrá de uno a cuatro años de prisión y multa de hasta veinte cuotas.
+(REFORMADO PRIMER PARRAFO, P.O. 1 DE FEBRERO DE 2006)
+332.- Al que transporte ganado de procedencia ilegal sin haber tomado las medidas necesarias para cerciorarse de su procedencia legítima, se le impondrá de un año tres meses a cinco años de prisión y multa de hasta veinticinco cuotas.
 Si el transporte se hace a sabiendas de que se trata de ganado robado, se aplicarán las sanciones señaladas en los artículos 330 y 331.
-333.- El que a sabiendas comercie con pieles, carne u otros derivados obtenidos del abigeato, se le impondrá prisión de uno a cinco años y multa de hasta veinte cuotas.
+(REFORMADO, P.O. 1 DE FEBRERO DE 2006)
+333. El que a sabiendas comercie con pieles, carne u otros derivados obtenidos del abigeato, se le impondrá prisión de un año tres meses a seis años tres meses y multa de hasta veinticinco cuotas.
 334.- Es aplicable al delito de abigeato, en lo conducente, lo dispuesto en los artículos 323 y 328.
 CAPITULO III
 ABUSO DE CONFIANZA

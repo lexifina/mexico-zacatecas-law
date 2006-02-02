@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 1 DE FEBRERO DE 2006)
+ARTICULO 283 Ter.- También se consideran acciones de violencia familiar las previstas en este artículo, aun cuando el agresor y el agredido no habiten en el mismo domicilio, pero tengan relación de parentesco, ya sea por consanguinidad, adopción, matrimonio, concubinato u otra relación afín, o que convivan o hayan convivido en el mismo domicilio y estén sujetos a patria potestad, tutela, guarda, protección, educación, cuidado y custodia.
