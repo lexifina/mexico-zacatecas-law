@@ -453,6 +453,10 @@ V.- Las que otras leyes o reglamentos señalen como tales.
 CAPITULO IV
 ASOCIACION DELICTUOSA
 141.- Se impondrá prisión de tres meses a cuatro años y multa de cinco a veinte cuotas, al que forme parte de una asociación o banda de tres o más personas, organizada para delinquir, independientemente de la sanción que le corresponda por el delito que cometa.
+(ADICIONADO, P.O. 25 DE OCTUBRE DE 2006)
+141 Bis.- Cuando se cometa algún delito por pandilla, se aplicará a los que intervengan en su comisión, hasta una mitad más de las penas que les correspondan por el o los delitos cometidos.
+Se entiende por pandilla, para los efectos de esta disposición, la reunión habitual de tres o más personas que sin estar organizadas con fines delictuosos, cometen en común algún delito con violencia sobre la víctima.
+Cuando el miembro de la pandilla sea o haya sido servidor público de alguna corporación policiaca, la pena se aumentará hasta en dos terceras partes de las penas que le corresponda por el o los delitos cometidos y se le impondrá además, destitución del empleo, cargo o comisión públicos e inhabilitación de uno a cinco años para desempeñar otro.
 CAPITULO V
 DELITOS DE TRANSITO EJECUTADOS POR MANEJADORES DE VEHICULOS O AUTORIDADES DE TRANSITO
 142.- Se impondrá prisión de tres meses a dos años y multa de cinco a veinticinco cuotas, al funcionario, empleado o perito de tránsito que en el examen para la comprobación de las condiciones requeridas por la ley o reglamentos para el otorgamiento de las licencias de conductores de vehículos, produzcan dictámenes o certificaciones sin que concurran en el examinado todos o alguno de los requisitos correspondientes, y al que expida la licencia a sabiendas de que falta alguno o algunos de esos requisitos.
