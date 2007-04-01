@@ -1,0 +1,1 @@
+Artículo quinto.- Dentro de los ciento ochenta días siguientes a la entrada en vigor de esta Ley, deberá publicarse en el Periódico Oficial, Órgano del Gobierno del Estado, el Programa ambiental para el desarrollo sustentable del Estado. En ese mismo plazo, los Ayuntamientos publicarán en dicha gaceta gubernamental los programas municipales de desarrollo sustentable.

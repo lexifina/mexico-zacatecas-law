@@ -1,0 +1,2 @@
+Artículo séptimo.- Los consejos estatales y municipales, así como los comités previstos en esta Ley, deberán conformarse dentro de los treinta días naturales siguientes a su entrada en vigor.
+Asimismo, en ese plazo deberán ponerse en ejecución el Sistema Estatal de Información Ambiental, el Sistema Estatal de Áreas Naturales Protegidas, el Registro Estatal de Áreas Naturales Protegidas y el Registro de Prestadores de Servicios Ambientales.

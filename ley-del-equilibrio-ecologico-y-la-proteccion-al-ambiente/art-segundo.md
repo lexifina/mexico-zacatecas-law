@@ -1,0 +1,1 @@
+Artículo segundo.- Se abroga la Ley Estatal del Equilibrio Ecológico y la Protección al Ambiente, publicada en Suplemento número 5 del Periódico Oficial, Órgano del Gobierno del Estado, correspondiente al día 27 de Diciembre de 1989.

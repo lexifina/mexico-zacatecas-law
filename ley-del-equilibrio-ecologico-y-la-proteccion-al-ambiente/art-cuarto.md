@@ -1,0 +1,1 @@
+Artículo cuarto.- Dentro de los noventa días naturales siguientes a la entrada en vigor de este ordenamiento, el Ejecutivo del Estado expedirá los Reglamentos de esta ley. En ese mismo término, los Ayuntamientos expedirán las reformas a los Bandos de Policía y Gobierno y los Reglamentos correspondientes.

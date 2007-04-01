@@ -1,0 +1,1 @@
+Artículo sexto.- En un término que no deberá exceder de noventa días naturales siguientes a la entrada en vigor de este ordenamiento, el Consejo Directivo del Instituto deberá expedir el Estatuto Orgánico y los manuales respectivos.
