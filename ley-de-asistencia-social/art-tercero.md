@@ -1,0 +1,1 @@
+Artículo Tercero.- Se abroga el Decreto No. 469 expedido por el Congreso del Estado y publicado en el Periódico Oficial, Órgano del Gobierno del Estado, el día 27 de abril de 1977, que creó un organismo público descentralizado denominado Sistema para el Desarrollo Integral de la Familia.

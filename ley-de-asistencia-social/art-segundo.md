@@ -1,0 +1,1 @@
+Artículo Segundo.- Se abroga la Ley de Asistencia Social del Estado de Zacatecas, contenida en el Decreto No. 6, publicado en el Suplemento al número 93 del Periódico Oficial del Estado, de fecha 21 de noviembre de 1959.

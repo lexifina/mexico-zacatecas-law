@@ -1,0 +1,1 @@
+Artículo Séptimo.- Las Instituciones de Asistencia Social Privada, que se encuentren constituidas mantendrán dicho carácter y deberán adecuar su organización y funcionamiento a las disposiciones de la presente ley, dentro de los 90 días siguientes a la entrada en vigor de este ordenamiento.

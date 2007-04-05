@@ -1,0 +1,1 @@
+Artículo Noveno.- Los acuerdos y decretos que se hayan expedido al amparo de las Leyes que se abrogan por la presente Ley, que otorgan exenciones, prerrogativas, beneficios o estímulos a instituciones de asistencia social privada, seguirán teniendo sus efectos en los términos que fueron emitidos.

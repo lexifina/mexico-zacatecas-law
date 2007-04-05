@@ -1,0 +1,1 @@
+Artículo Quinto.- La Junta de Gobierno del Sistema Estatal para el Desarrollo Integral de la Familia deberá quedar integrada y expedir su Estatuto Orgánico dentro del término de 90 días posteriores a la entrada en vigor de la Ley.

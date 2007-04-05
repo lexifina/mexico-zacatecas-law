@@ -1,0 +1,1 @@
+Artículo Sexto.- La Titular del Ejecutivo del Estado deberá designar a los miembros del Patronato del Sistema Estatal para el Desarrollo Integral de la Familia de Zacatecas dentro del término de 30 días posteriores a la entrada en vigor de esta Ley.
