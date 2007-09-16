@@ -548,48 +548,49 @@ Si el infractor fuere médico, biólogo o farmacéutico, o se dedicare a la vent
 179.- Al que con un fin de lucro por uso inmoderado, o nocturno, o intensidad de volumen de cualquier aparato de sonido, cause molestias a las personas, se le impondrán de tres meses a dos años de prisión y multa de cinco a cincuenta cuotas, sin perjuicio del decomiso del aparato de sonido a juicio de la autoridad judicial.
 180.- Las sanciones a que se refieren los cuatro artículos anteriores se aplicarán cuando no se cause algún daño a la salud de las personas. Si se causare se agregarán las sanciones correspondientes al daño resultante.
 Estas disposiciones sólo serán aplicables cuando no existan otras de la competencia federal.
+(REFORMADA SU DENOMINACION, P.O. 15 DE SEPTIEMBRE DE 2007)
 TITULO SEXTO
-DELITOS CONTRA LA MORAL PUBLICA
+DELITOS CONTRA EL DESARROLLO Y LA DIGNIDAD DE LAS PERSONAS
+(REFORMADA SU DENOMINACION, P.O. 15 DE SEPTIEMBRE DE 2007)
 CAPITULO I
-ULTRAJES A LA MORAL PUBLICA O A LAS BUENAS COSTUMBRES E INCITACION A LA PROSTITUCION
-181.- Se aplicarán de tres a seis meses de prisión o multa de cinco a veinticinco cuotas:
-I.- Al que fabrique, reproduzca o publique libros, escritos, imágenes u objetos obscenos, y al que los exponga, distribuya o haga circular;
-II.- Al que públicamente y por cualquier medio ejecute o haga ejecutar por otros, exhibiciones obscenas; y
-III.- Al que de modo escandaloso invite a otro al comercio carnal.
-(ADICIONADO, P.O. 28 DE MAYO DE 1994)
-Cuando los actos a que se refiere este artículo se realicen en plazas, parques, avenidas, calles y otros espacios considerados como vía pública, donde concurran habitualmente menores de edad o por estar próximos a centros de diversión y esparcimiento para familias o a edificios escolares, sean lugares por donde los propios menores deben transitar, se podrá imponer a los responsables de seis a doce meses más de prisión y multa de veinte a cien cuotas.
-182.- Si los delitos de que habla el artículo anterior fueren cometidos al amparo de una persona jurídica o con medios que ésta proporcione para tal fin a los delincuentes, a juicio del juez, se disolverá la empresa o se suspenderán sus actividades hasta por un año.
+DELITOS CONTRA EL DESARROLLO DE LAS PERSONAS MENORES DE EDAD Y LA PROTECCIÓN INTEGRAL DE PERSONAS QUE NO TIENEN LA CAPACIDAD PARA COMPRENDER EL SIGNIFICADO DEL HECHO
+(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2007)
+181.- A quien por cualquier medio, procure, induzca o facilite a una persona menor de edad o quien no tenga la capacidad para comprender el significado del hecho, al consumo de estupefacientes, substancias psicotrópicas u otras susceptibles de producir dependencia o bebidas embriagantes, para que adquiera los hábitos de la fármacodependencia o el alcoholismo, o a formar parte de una asociación delictuosa o de la delincuencia organizada, se le impondrá pena de seis meses a tres años de prisión y multa de veinte a cincuenta cuotas.
+Cuando de la práctica reiterada del activo, el pasivo del delito adquiera los hábitos de la farmacodependencia o del alcoholismo, o forme parte de una asociación delictuosa o de la delincuencia organizada, las penalidades podrán aumentarse hasta en un tanto más.
+A quien emplee, aún gratuitamente, a personas menores de dieciocho años o que no tengan la capacidad de comprender el significado del hecho, utilizando sus servicios en lugares o establecimientos donde preponderantemente se expendan bebidas alcohólicas para su consumo inmediato o se presenten al público espectáculos sexuales, se le aplicará prisión de seis meses a un año y multa de cinco a veinte cuotas así como el cierre definitivo del establecimiento.
+(ADICIONADO, P.O. 15 DE SEPTIEMBRE DE 2007)
+181 Bis.- A quien permita directa o indirectamente el acceso de una persona menor de edad a escenas, espectáculos, obras gráficas o audiovísuales de carácter pornográfico, se le impondrá prisión de uno a tres años y multa de veinte a cincuenta cuotas.
+Las mismas penas se impondrán al que ejecutare o hiciere ejecutar a otra persona actos de exhibición sexual ante personas menores de edad o que no tengan la capacidad para comprender el significado del hecho.
+El que, por cualquier medio directo, vendiere, difundiere o exhibiere material pornográfico entre personas menores de edad o personas que no tengan la capacidad para comprender el significado del hecho, será castigado con la pena de prisión de seis meses a un año y multa de cinco a veinte cuotas.
+No se actualizará el delito tratándose de programas preventivos, educativos o informativos que diseñen o impartan las instituciones públicas, privadas o sociales, que tengan por objeto la educación sexual, educación sobre la función reproductiva, prevención de infecciones de transmisión sexual y embarazo de adolescentes.
+(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2007)
+182.- A quien pague o prometa pagar con dinero, en especie u otra ventaja de cualquier naturaleza, a una persona menor de dieciocho años o a un tercero para que aquélla sostenga relaciones o actos sexuales o eróticos, se le impondrá una pena de cuatro a ocho años de prisión y multa de treinta a setenta cuotas, sin perjuicio de las penas que correspondan por la comisión de otros delitos.
+(REFORMADA SU DENOMINACION, P.O. 15 DE SEPTIEMBRE DE 2007)
 CAPITULO II
-CORRUPCION DE MENORES
-(REFORMADO, P.O. 5 DE JULIO DE 1997)
-183.- Se aplicarán prisión de seis meses a dos años y multa de cinco a veinte cuotas, al que procure o facilite la corrupción de cualquier naturaleza, de un menor de dieciocho años. Cuando el menor no haya cumplido los doce años, las penas aplicables se podrán aumentar de uno a dos años más de prisión y, del mismo modo, se podrá duplicar la multa.
-(ADICIONADO, P.O. 28 DE MAYO DE 1994)
-183 Bis.- También cometen el delito de corrupción de menores y se harán acreedores a las sanciones previstas:
-I.- Quienes vendan o alquilen a menores de edad, material audiovisual clasificado como exclusivo para adultos;
-(REFORMADA, P.O. 5 DE JULIO DE 1997)
-II.- Quienes propicien o permitan que menores de dieciocho años presencien, por medio de aparatos electrónicos, la exhibición de cintas de video a que se refiere la fracción anterior.
-(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2003)
-III.- Quienes vendan o regalen a los menores de dieciocho años de edad, en la cantidad que fuere, cualquier tipo de droga, enervante o sustancia psicotrópica, cuya producción, transporte, tráfico o comercio estén prohibidos en términos de ley; induzcan a su consumo, o empleen a los menores para tales efectos.
-(REFORMADO, P.O. 5 DE JULIO DE 1997)
-184.- Al que emplee menores de dieciocho años en cantinas, tabernas o expendios de bebidas embriagantes de consumo inmediato, se le sancionará con prisión de tres meses a un año y multa de cinco a veinte cuotas y cierre definitivo del establecimiento. Incurrirán en las mismas sanciones de prisión y multa los padres o tutores que acepten que sus hijos o menores, respectivamente, bajo su guarda, se empleen en los referidos establecimientos.
-Igual sanción se impondrá a quien emplee menores de dieciocho años en lenocinio o establecimientos análogos.
-(REFORMADO, P.O. 28 DE MAYO DE 1994)
-185.- Las sanciones que señalan los tres artículos anteriores, se duplicarán cuando el que corrompa o emplee al menor sea ascendiente, padrastro, madrastra o tutor de aquél, privando al responsable de todo derecho a los bienes del ofendido y de la patria potestad sobre todos sus descendientes.
-186.- Quienes hayan sido sancionados por los delitos de que trata este capítulo quedarán inhabilitados para ser tutores o curadores.
+UTILIZACION DE IMAGENES O VOZ DE PERSONAS MENORES DE EDAD O DE PERSONAS QUE NO TIENEN LA CAPACIDAD PARA COMPRENDER El SIGNIFICADO DEL HECHO PARA LA PORNOGRAFIA
+(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2007)
+183.- Comete este delito:
+I. Quien produzca, fije, grabe, videograbe, fotografíe o filme de cualquier forma imágenes, sonidos o la voz de una persona menor de edad o de una persona que no tenga la capacidad para comprender el significado del hecho, sea en forma directa, informática, audiovisual, virtual o por cualquier otro medio en las que se manifiesten actividades sexuales o eróticas, explícitas o no, reales o simuladas.
+II. Quien reproduzca, publique, ofrezca, publicite, almacene, distribuya, difunda, exponga, envíe, transmita, importe, exporte o comercialice de cualquier forma imágenes, sonidos o la voz de una persona menor de edad o de una persona que no tenga la capacidad para comprender el significado del hecho, sea en forma directa, informática audiovisual, virtual o por cualquier otro medio en las que se manifiesten actividades sexuales o eróticas, explícitas o no, reales o simuladas.
+III. Quien posea intencionalmente para cualquier fin, imágenes, sonidos o la voz de personas menores de edad o de personas que no tengan la capacidad de comprender el significado del hecho, sea en forma directa, informática, audiovisual, virtual o por cualquier otro medio en las que se manifiesten actividades sexuales o eróticas, explícitas o no, reales o simuladas.
+IV. Quien financie, dirija, administre o supervise cualquiera de las actividades anteriores con la finalidad de que se realicen las conductas previstas en las fracciones anteriores.
+Al autor de los delitos previstos en las fracciones I y II se le impondrá la pena de tres a siete años de prisión y multa de diez a treinta cuotas. Al autor de los delitos previstos en la fracción III se le impondrá la pena de uno a tres años de prisión y multa de cinco a veinte cuotas. A quien cometa el delito previsto en la fracción IV, se le impondrá pena de prisión de cuatro a nueve años de prisión y multa de veinte a cincuenta cuotas.
+Las anteriores sanciones se impondrán sin perjuicio de las penas que correspondan por la comisión de los delitos contemplados en los (sic) en el capítulo VI del Titulo Decimoquinto de este Código.
+(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2007)
+183 Bis.- Las penas que resulten aplicables por los delitos previstos en este Título, se aumentarán hasta una tercera parte de acuerdo con lo siguiente:
+I. Si el sujeto activo se valiese de la función pública o privada, la profesión u oficio que desempeña, aprovechándose de los medios o circunstancias que ellos le proporcionan. En este caso, además, se le destituirá del empleo, cargo o comisión públicos e inhabilitará para desempeñar otro, o se le suspenderá del ejercicio de la profesión u oficio por un tiempo igual al de la pena de prisión impuesta.
+II. Si el sujeto activo del delito tiene parentesco por consaguinidad, afinidad o civil hasta en cuarto grado o habite ocasional o permanentemente en el mismo domicilio con la victima, o tenga una relación análoga al parentesco con el sujeto pasivo; además cuando corresponda, perderá la patria potestad, guarda y custodia o régimen de visitas y convivencias, el derecho de alimentos que le correspondiera por su relación con la víctima y el derecho que pudiere tener respecto de los bienes de ésta.
+(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2007)
+184.- Los sujetos activos de los delitos a que se refiere este Titulo quedarán inhabilitados para ser tutores o curadores.
+185.- (DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2007)
+186.- (DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2007)
 CAPITULO III
 LENOCINIO
-187.- Comete el delito de lenocinio:
-I.- Toda persona que explote el cuerpo de otra por medio del comercio carnal, se mantenga de este comercio u obtenga de él un lucro cualquiera;
-II.- El que induzca o solicite a una persona para que con otra comercie sexualmente con su cuerpo o le facilite los medios para que se entregue a la prostitución;
-III.- El que regentee, administre o sostenga prostíbulos, casas de cita o lugares de concurrencia, en donde se explote la prostitución u obtenga cualquier beneficio con sus productos; y
-IV.- (DEROGADA, P.O. 28 DE MAYO DE 1994)
-El lenocinio se sancionará con prisión de seis meses a tres años y multa de diez a setenta y cinco cuotas.
-(REFORMADO, P.O. 5 DE JULIO DE 1997)
-187 Bis.- El que encubra, concierte o permita el comercio carnal de un menor de dieciocho años de edad, será sancionado con prisión de uno a seis años y multa de diez a cien cuotas. Esta penalidad se duplicará cuando el ofendido no haya cumplido los doce años de edad.
-(REFORMADO, P.O. 30 DE DICIEMBRE DE 1989)
-188.- Al que dé en arrendamiento una finca teniendo conocimiento de que será destinada al lenocinio, se le aplicará prisión de tres meses a seis meses, o multa de cinco a quince cuotas o trabajo en favor de la comunidad hasta por quince días.
-(REFORMADO, P.O. 28 DE MAYO DE 1994)
-189.- Si el que cometiere los delitos a que se refiere el artículo 187 y 187 Bis fuere ascendiente, tutor o curador del menor que resultare agraviado, se le impondrá como pena, además de las sanciones corporales y pecuniarias previstas, la pérdida de la patria potestad o, en su caso, de la prerrogativa de ser tutor o curador, privándosele de todo derecho sobre los bienes del ofendido. Si la víctima es mayor de edad, ésta última disposición se aplicará, en lo conducente, cuando el sancionado sea el cónyuge u otra persona que tuviere sobre aquella alguna otra autoridad.
+(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2007)
+187.- Comete el delito de lenocinio quien habitual o reiteradamente obtenga una ventaja económica u otro beneficio procedente de los servicios sexuales de una persona mayor de edad. A quien cometa este delito se le aplicará prisión de tres a cinco años y de veinte a setenta cuotas.
+187 Bis.- (DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2007)
+188.- (DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2007)
+189.- (DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2007)
 CAPITULO IV
 APOLOGIA DEL DELITO O DE ALGUN VICIO
 (REFORMADO, P.O. 30 DE DICIEMBRE DE 1989)
@@ -973,13 +974,14 @@ Si el asalto se efectuare de noche o si fueran varios los asaltantes, se aplicar
 264.- A quienes asalten una población o ranchería, se les sancionará con prisión de veinte a treinta años, si fueren los cabecillas o jefes, y de quince a veinte años a los demás, sin perjuicio de aplicar las reglas del concurso por cualesquiera otros delitos que se cometan.
 CAPITULO IV
 PRIVACION ILEGAL DE LA LIBERTAD O DE OTROS DERECHOS
-265.- Se aplicarán de tres meses a tres años de prisión y multa de cinco a treinta cuotas:
+(REFORMADO PRIMER PARRAFO, P.O. 15 DE SEPTIEMBRE DE 2007)
+265.- Se aplicarán de tres a siete años de prisión y multa de veinte a setenta y cinco cuotas:
 I.- Al que ilegalmente prive a otro de su libertad personal;
-II.- Al que obligue a otro a prestarle trabajos o servicios personales sin la retribución debida ya sea empleando violencia física o moral o valiéndose del engaño o de cualquier otro medio semejante;
+II.- (DEROGADA, P.O. 15 DE SEPTIEMBRE DE 2007)
 III.- Al particular que por medio de la violencia obligue a una persona a tolerar, hacer u omitir alguna cosa; y
 IV.- Al que de alguna manera viole con perjuicio de otro, los derechos establecidos por la Constitución General de la República o por la Constitución del Estado en favor de las personas.
-(ADICIONADO, P.O. 28 DE MAYO DE 1994)
-Cuando los ilícitos tipificados en las cuatro fracciones anteriores se cometan en perjuicio de personas menores de doce años se duplicarán las sanciones aplicables.
+(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2007)
+Cuando los ilícitos tipificados en las fracciones anteriores se cometan en perjuicio de personas menores de dieciocho años se duplicarán las sanciones aplicables.
 (ADICIONADO, P.O. 21 DE MAYO DE 2005)
 265 bis.- Comete el delito de secuestro exprés el que prive o restrinja la libertad de alguna persona, cuando la privación o restricción de la libertad personal tenga una duración inferior a veinticuatro horas y se realice con el propósito de cometer los delitos de robo o extorsión, o para obtener algún beneficio económico.
 Al responsable del delito de secuestro exprés se le impondrán de siete a quince años de prisión y multa de cincuenta a cien cuotas, sin perjuicio de las demás sanciones que conforme a este Código le correspondan por otros delitos que de su conducta resulten.
@@ -997,6 +999,24 @@ RAPTO
 270.- Se aplicará prisión de tres meses a un año y multa de cinco a diez cuotas a la mujer que por cualquiera de los medios señalados en el artículo 268 de este Código, raptare a un varón menor de dieciocho años.
 271.- No se procederá contra el raptor sino por queja de la persona ofendida o de su cónyuge o concubinario, pero si la persona raptada fuere menor de edad, por queja de quien ejerza la patria potestad o la tutela, o en su defecto, del mismo menor.
 Cuando además del delito de rapto se cometa algún otro, se observarán las reglas del concurso.
+(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 15 DE SEPTIEMBRE DE 2007)
+CAPITULO VI
+TRATA DE PERSONAS
+(ADICIONADO, P.O. 15 DE SEPTIEMBRE DE 2007)
+271 Bis.- Comete el delito de trata de personas quien induzca, procure, promueva, facilite, reclute, solicite, mantenga, capte, ofrezca, traslade, entregue o reciba para si o para un tercero a una persona recurriendo a la coacción física o moral, a la privación de la libertad, al engaño, al abuso de poder o de una situación de vulnerabilidad o a la concesión o recepción de pagos o beneficios para someterla a cualquier forma de explotación o para extraer sus órganos, tejidos o sus componentes.
+Para efectos de este artículo se entenderá por explotación, el obtener provecho económico o cualquier otro beneficio para sí o para otra persona, mediante la prostitución ajena u otras formas de explotación sexual, los trabajos o servicios forzados, la esclavitud o las prácticas similares, la servidumbre, la mendicidad ajena o la extracción de órganos, tejidos o sus componentes.
+Cuando las conductas anteriores recaigan en una persona menor de dieciocho años de edad o persona que no tenga la capacidad de comprender el significado del hecho, se considerará como trata de personas incluso cuando no se recurra a ninguno de los medios señalados en el primer párrafo del presente artículo.
+(ADICIONADO, P.O. 15 DE SEPTIEMBRE DE 2007)
+271 Ter.- El consentimiento otorgado por la victima en cualquier modalidad del delito de trata de personas, no constituirá causa que excluye el delito.
+(ADICIONADO, P.O. 15 DE SEPTIEMBRE DE 2007)
+271 Quáter.- A quien cometa el delito de trata de personas se le aplicará:
+l. De seis a doce años de prisión y multa de cincuenta a cien cuotas;
+II. De nueve a dieciocho años de prisión y multa de cincuenta a ciento cincuenta cuotas, si se emplease violencia física o moral, o el agente se valiese de la función pública que tuviere o hubiese ostentado sin tenerla. Además, se impondrá la destitución del empleo, cargo o comisión públicos e inhabilitación para desempeñar otro hasta por veinticinco años, de conformidad al procedimiento establecido por la ley.
+III. Las penas que resulten de las fracciones I y II de este artículo, se incrementarán hasta una mitad, cuando:
+a) El delito es cometido en contra de una persona menor de dieciocho años de edad;
+b) El delito es cometido en contra de una persona mayor de sesenta años de edad;
+c) El delito es cometido en contra de quien no tenga capacidad para comprender el significado del hecho, o
+d) El sujeto activo del delito tenga parentesco por consaguinidad, afinidad o civil, habite en el mismo domicilio con la victima, tenga una relación similar al parentesco o una relación sentimental o de confianza con el sujeto pasivo; además, en los casos que proceda, perderá la patria potestad, guarda o custodia o régimen de visitas y convivencias, el derecho de alimentos que le correspondiera por su relación con la victima y el derecho que pudiere tener respecto de los bienes de ésta.
 TITULO DECIMO SEXTO
 DELITOS CONTRA EL HONOR
 CAPITULO I
