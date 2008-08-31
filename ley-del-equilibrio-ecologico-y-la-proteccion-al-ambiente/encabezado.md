@@ -1,5 +1,5 @@
 LEY DEL EQUILIBRIO ECOLOGICO Y LA PROTECCION AL AMBIENTE DEL ESTADO DE ZACATECAS
-Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 31 de marzo de 2007.
+Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 31 de marzo de 2007.
 AMALIA D. GARCÍA MEDINA, Gobernadora del Estado de Zacatecas, a sus habitantes hago saber:
 Que los DIPUTADOS SECRETARIOS de la Honorable Quincuagésima Octava Legislatura del Estado, se han servido dirigirme el siguiente:
 DECRETO # 422
