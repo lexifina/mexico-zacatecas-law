@@ -3049,7 +3049,9 @@ DISPOSICIONES GENERALES
 1931.- El mandato que implica el ejercicio de una profesión se presume aceptado, cuando es conferido a personas que ofrecen al público ese ejercicio, por el solo hecho de que no lo rehusen dentro de los tres días siguientes.
 1932.- La aceptación puede ser expresa o tácita.
 Hay aceptación tácita en el caso del artículo anterior y también cuando se realiza un acto en ejecución del mandato.
-1933.- Pueden ser objeto de mandato todos los actos lícitos para los que la Ley no exige la intervención personal del interesado.
+(REFORMADO, P.O. 30 DE AGOSTO DE 2008)
+1933.- Pueden ser objeto de mandato todos los actos lícitos para los que la ley no exige la intervención personal del interesado.
+El mandato habrá de subsistir aún cuando el mandante devenga incapaz si éste así lo dispuso en su otorgamiento, asimismo el mandatario podrá tomar decisiones sobre el tratamiento médico y el cuidado de la salud del mandante, aún cuando éste hubiere quedado incapaz, si para ello hubiere sido expresamente autorizado por el mandante. Este poder será revocado por el mandante capaz en todo momento. Igualmente podrá ser revocado por el tutor en caso de que el mandante devenga incapaz, con las formalidades previstas por la ley.
 1934.- Solamente será gratuito el mandato cuando así se haya convenido expresamente.
 1935.- El mandato puede ser escrito o verbal.
 1936.- El mandato escrito puede otorgarse:
@@ -3067,10 +3069,13 @@ Cuando se quisieren limitar; en los tres caso antes mencionados, las facultades 
 Los Notarios insertarán este artículo en los testimonios de los poderes, que expidan.
 1940.- Para que el mandatario pueda hacer donaciones en nombre o por cuenta del mandante, es necesario que éste le dé poder especial, en cada caso.
 1941.- El mandato podrá otorgarse en carta poder firmada ante dos testigos, sin que sea necesario la previa ratificación de las firmas, cuando el interés del negocio para el que se confiera exceda del valor correspondiente a cinco cuotas del salario mínimo vigente y no de cincuenta cuotas, ya que si sobrepasa deberá otorgarse en escritura pública.
-1942.- El mandato debe otorgarse en escritura pública:
+(REFORMADO PRIMER PARRAFO, P.O. 30 DE AGOSTO DE 2008)
+1942.- El mandato debe otorgarse ante Notario Público:
 I.- Cuando el interés del negocio para el que se confiere exceda de cincuenta cuotas del valor del salario mínimo vigente;
-II.- Cuando sea general; y
-III.- Cuando en virtud de él haya de ejecutar el mandatario a nombre del mandante, algún acto que conforme a la ley deba constar en instrumento público.
+II.- Cuando sea general; y (sic)
+III.- Cuando en virtud de él haya de ejecutar el mandatario a nombre del mandante, algún acto que conforme a la ley deba constar en instrumento público;
+(ADICIONADA, P.O. 30 DE AGOSTO DE 2008)
+IV.- En el supuesto del segundo párrafo del artículo 1933.
 1943.- La omisión de los requisitos de forma o de alguno de ellos anula el mandato.
 1944.- En el caso del artículo anterior, podrá el mandante exigir del mandatario, la devolución de las sumas que le haya entregado y respecto de las cuales será considerado el último, como simple depositario.
 1945.- El mandatario, salvo convenio celebrado entre él y el mandante, podrá desempeñar el mandato tratando en su propio nombre o en el del mandante.
@@ -3147,7 +3152,8 @@ DE LOS DIVERSOS MODOS DE TERMINAR EL MANDATO
 I.- Por la revocación;
 II.- Por la renuncia del mandatario;
 III.- Por la muerte del mandante o del mandatario;
-IV.- Por la interdicción de uno u otro;
+(REFORMADA, P.O. 30 DE AGOSTO DE 2008)
+IV.- Por la interdicción de uno u otro; excepto que hubiere sido otorgado en los términos del segundo párrafo del artículo 1933 y cuando el mandato se hubiere otorgado con la mención expresa de que habría de subsistir, aún cuando el mandante se devengue incapaz;
 V.- Por el vencimiento del plazo y por la conclusión del negocio para el que le fue concedido;
 VI.- Por las causas previstas en el Código de la Familia; para los poderes otorgados por el declarado ausente.
 1981.- El mandante puede revocar el mandato cuándo y cómo le parezca.
