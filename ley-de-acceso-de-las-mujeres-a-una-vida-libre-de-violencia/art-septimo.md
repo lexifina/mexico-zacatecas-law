@@ -1,0 +1,1 @@
+Artículo séptimo.- La persona Titular del Ejecutivo expedirá el Reglamento de los centros de atención, refugios y centros reeducativos dentro de los 60 días naturales siguientes a la adecuación o creación de dichos centros o refugios.
