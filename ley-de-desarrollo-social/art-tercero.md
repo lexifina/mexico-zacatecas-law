@@ -1,0 +1,3 @@
+Artículo tercero.- Dentro de los sesenta días naturales siguientes a la entrada en vigor de este ordenamiento, la o el Titular del Ejecutivo deberá publicar el Reglamento de la presente Ley.
+En el mismo plazo deberá reformarse el Reglamento Interior de la Secretaría de Planeación y Desarrollo Regional, para adecuarlo a lo establecido en esta Ley.
+Los manuales de organización, de procedimientos y de servicios al público de la Secretaría, deberán publicarse en la citada Gaceta gubernamental dentro de los noventa días naturales siguientes contados a partir de la publicación del Reglamento de la Ley.

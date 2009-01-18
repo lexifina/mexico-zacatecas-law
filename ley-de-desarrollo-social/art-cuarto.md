@@ -1,0 +1,1 @@
+Artículo cuarto.- El Programa deberá publicarse en el Periódico Oficial, Órgano del Gobierno del Estado, dentro de los ciento ochenta días naturales siguientes a la entrada en vigor de la presente Ley.

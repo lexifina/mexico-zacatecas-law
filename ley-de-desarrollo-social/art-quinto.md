@@ -1,0 +1,1 @@
+Artículo quinto.- Dentro de los sesenta días siguientes a la entrada en vigor de esta Ley, la o el Titular del Ejecutivo del Estado deberá designar al Coordinador del Subcomité Sectorial de Desarrollo Social.

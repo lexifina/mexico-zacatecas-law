@@ -1,0 +1,1 @@
+Artículo segundo.- Se abroga la Ley de Desarrollo Social para el Estado de Zacatecas, publicada en Suplemento al número 56 del Periódico Oficial, Órgano del Gobierno del Estado, correspondiente al día 14 de julio del año 2004.
