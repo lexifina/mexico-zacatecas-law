@@ -1,0 +1,1 @@
+Artículo cuarto.- Los procedimientos que se hayan instaurado con anterioridad a la entrada en vigor de la presente Ley, deberán continuar su trámite atendiendo a. la Ley que se abroga, siempre que sea en beneficio del solicitante.

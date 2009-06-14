@@ -1,0 +1,1 @@
+Artículo tercero.- Se abroga el Reglamento del artículo 7 transitorio de la Ley de Fraccionamientos Rurales, publicado en Suplemento 2 al número 79 del Periódico Oficial del día 1 de octubre del año 2003.
