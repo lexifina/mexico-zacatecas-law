@@ -18,7 +18,12 @@ El sistema de medios de impugnación que se establece, y que será substanciado 
 Por lo anteriormente expuesto y fundado, y con apoyo además en lo dispuesto por los artículos 86, 87, 90 y demás relativos del Reglamento General del Poder Legislativo, en nombre del Pueblo es de decretarse y se:
 DECRETA
 LEY DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN ELECTORAL DEL ESTADO DE ZACATECAS
+(ADICIONADO, P.O. 3 DE OCTUBRE DE 2009)
+LIBRO PRIMERO
+DEL OBJETO DE LA LEY
 TÍTULO PRIMERO
 Disposiciones Preliminares
+(REFORMADA SU DENOMINACION, P.O. 3 DE OCTUBRE DE 2009)
 CAPÍTULO ÚNICO
+Generalidades
 Naturaleza y ámbito de aplicación de la ley
