@@ -2532,7 +2532,8 @@ DE LA MATERIA DE LA COMPRAVENTA
 1619.- La venta de cosa o derechos litigiosos no está prohibida; pero el vendedor que no declare la circunstancia de hallarse la cosa en litigio, es responsable de los daños y perjuicios si el comprador sufre la evicción, quedando, además, sujeto a las penas respectivas.
 CAPITULO TERCERO
 DE LOS QUE PUEDEN VENDER Y COMPRAR
-1620.- Los consortes no pueden celebrar entre sí el contrato de compraventa, si el régimen de su matrimonio es el de sociedad conyugal. Si los cónyuges están casados bajo separación de bienes, sólo pueden realizar entre sí el contrato de compraventa con autorización judicial, siempre y cuando no se realice en fraude de acreedores.
+(REFORMADO, P.O. 19 DE DICIEMBRE DE 2009)
+1620.- Los consortes pueden celebrar entre sí contratos de compraventa, en los términos de lo establecido en el Código Familiar del Estado, siempre y cuando no se realicen en fraude de acreedores.
 1621.- Los extranjeros y las personas morales no pueden comprar bienes raíces, sino sujetándose a lo dispuesto en el artículo 27 de la Constitución Política de los Estados Unidos Mexicanos, y en sus leyes reglamentarias.
 1622.- Los Magistrados, los Jueces, el Ministerio Público, los Defensores Oficiales, los Abogados, los Procuradores, los Peritos y testigos, no pueden comprar los bienes que son objeto de los juicios en que intervengan. Tampoco podrán ser cesionarios de los derechos que se tengan sobre los citados bienes.
 1623.- Se exceptúa de lo dispuesto en el artículo anterior, la venta o cesión de acciones hereditarias cuando sean coheredores(sic) de las personas mencionadas, o de derechos a que estén afectos bienes de su propiedad.
