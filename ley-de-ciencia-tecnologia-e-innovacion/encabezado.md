@@ -1,4 +1,4 @@
-LEY DE CIENCIA Y TECNOLOGIA DEL ESTADO DE ZACATECAS
+LEY DE CIENCIA, TECNOLOGÍA E INNOVACIÓN DEL ESTADO DE ZACATECAS
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 13 de mayo de 2006.
 AMALIA D. GARCÍA MEDINA, Gobernadora del Estado de Zacatecas, a sus habitantes hago saber:
 Que los DIPUTADOS SECRETARIOS de la Honorable Quincuagésima Octava Legislatura del Estado, se han servido dirigirme el siguiente:
@@ -9,7 +9,8 @@ RESULTANDO SEGUNDO.- Por acuerdo del Presidente de la Mesa Directiva y con funda
 .
 Por lo antes expuesto y fundado, y con apoyo además en lo dispuesto por los artículos 65 fracción I de la Constitución Política del Estado de Zacatecas; 14 fracción I de la Ley Orgánica del Poder Legislativo; 86, numeral 1, 88. 90, Y relativos del Reglamento General del Poder Legislativo, en nombre del Pueblo es de Decretarse y se
 DECRETA
-LEY DE CIENCIA Y TECNOLOGÍA DEL ESTADO DE ZACATECAS
+(REFORMADA SU DENOMINACIÓN, P.O. 21 DE AGOSTO DE 2010)
+LEY DE CIENCIA, TECNOLOGÍA E INNOVACIÓN DEL ESTADO DE ZACATECAS
 TÍTULO PRIMERO
 Disposiciones Generales
 CAPÍTULO ÚNICO

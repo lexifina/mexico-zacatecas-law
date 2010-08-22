@@ -6,6 +6,7 @@ Tercero.- En un plazo no mayor de 180 días contados a partir de la entrada en v
 Cuarto.- En un término que no excederá de 60 días posteriores a la entrada en vigor de la presente Ley, la Junta Directiva deberá aprobar el Estatuto Orgánico del COZCYT, el que deberá ser publicado en el Periódico Oficial, Órgano del Gobierno del Estado.
 Quinto.- Dentro del término de 60 días posteriores a la publicación del Estado Orgánico del COZCYT deberán constituirse y reglamentarse, los Sistemas de Investigadores, de Información Científica y Tecnológica y el Registro Estatal de Infraestructura Científica y Tecnológica.
 COMUNÍQUESE AL EJECUTIVO DEL ESTADO PARA SU PROMULGACIÓN Y PUBLICACIÓN.
-DADO en la Sala de Sesiones de la Honorable Quincuagésima Octava Legislatura del Estado a los cuatro días del mes de Abril del año dos mil seos.- Diputado Presidente.- ADÁN GONZÁLEZ ACOSTA, Diputados Secretarios.- MARTINA RODRÍGUEZ GARCÍA Y ROMÁN CARBAJAL BAÑUELOS.- Rubrica.
+DADO en la Sala de Sesiones de la Honorable Quincuagésima Octava Legislatura del Estado a los cuatro días del mes de Abril del año dos mil seis.- Diputado Presidente.- ADÁN GONZÁLEZ ACOSTA, Diputados Secretarios.- MARTINA RODRÍGUEZ GARCÍA Y ROMÁN CARBAJAL BAÑUELOS.- Rubrica.
 Y para que llegue al conocimiento de todos y se le dé el debido cumplimiento, mando se imprima, publique y circule.
 DADO en el Despacho del Poder Ejecutivo del Estado, a los cuatro días del mes de mayo del año dos mil seis, atentamente: "SUFRAGIO EFECTIVO. NO REELECCIÓN". La Gobernadora del Estado de Zacatecas: Amalia D. García Medina; El Secretario General de Gobierno: Luis Gerardo Romo Fonseca. Rúbricas
+N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.
