@@ -1,0 +1,1 @@
+Artículo Cuarto.- Los procedimientos y recursos administrativos que estuvieren en curso al entrar en vigor el presente ordenamiento, se tramitarán y resolverán conforme a las disposiciones vigentes en ese momento.

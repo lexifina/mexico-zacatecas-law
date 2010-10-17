@@ -1,0 +1,1 @@
+Artículo Tercero.- Las autorizaciones o permisos otorgados con anterioridad a la fecha de entrada en vigor de la presente Ley seguirán vigentes; su prórroga o renovación se sujetará a las disposiciones de este ordenamiento.
