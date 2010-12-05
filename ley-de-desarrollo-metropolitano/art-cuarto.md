@@ -1,0 +1,4 @@
+Artículo cuarto.- A partir de la aprobación del presente Instrumento Legislativo, se declara la creación de la Zona Metropolitana "Guadalupe-Fresnillo" que comprenderá el territorio de los municipios de Fresnillo, General Enrique Estrada, Morelos, Vetagrande, Calera, Zacatecas y Guadalupe.
+Dentro de los noventa días naturales siguientes al inicio de la vigencia de la presente Ley, el Ejecutivo del Estado tomará la protesta correspondiente al Presidente, Secretario y demás miembros del Consejo y designará al servidor público que fungirá con el carácter de Secretario Técnico.
+El Fideicomiso a que se refiere el presente Decreto, deberá constituirse en un término no mayor a ciento ochenta días naturales siguientes a la toma de protesta de los miembros a que se refiere el párrafo inmediato anterior.
+Dentro de los ciento ochenta días naturales siguientes a la entrada en vigor de esta Ley, deberá emitirse el Programa de Desarrollo Metropolitano "Guadalupe-Fresnillo".
