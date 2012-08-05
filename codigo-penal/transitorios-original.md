@@ -1,0 +1,9 @@
+TRANSITORIOS
+PRIMERO.- El presente Código entrará en vigor sesenta días después del de su publicación en el Periódico "Oficial" Organo del Gobierno del Estado.
+SEGUNDO.- En la misma fecha a que se refiere el artículo anterior queda abrogado el Código Penal del 19 de Julio de 1967 en cuya fecha fue publicado como suplemento al Periódico Oficial Organo del Gobierno del Estado, número 57 del Tomo LXXVII del 19 de julio de dicho año. Así mismo se abrogan las demás leyes que se opongan al presente; pero el Código abrogado continuará aplicándose a los hechos ejecutados durante su vigencia, a menos que los responsables manifiesten su voluntad de acogerse al ordenamiento que estimen más favorable entre el presente Código y al que regía en el tiempo de la perpetración del delito.
+TERCERO.- Quedan vigentes las disposiciones de carácter penal contenidas en leyes especiales en todo lo que no esté previsto en este Código.
+Comuníquese al Ejecutivo del Estado para su promulgación y publicación.
+D A D O en la Sala de Sesiones de la H. Quincuagésima Primera Legislatura del Estado, a los catorce días del mes de mayo de mil novecientos ochenta y seis:- Diputado Presidente.- Profr. Leobardo Martínez Gallegos.- Diputado Secretario.- Martha Veyna de García.- Diputado Secretario.- Felipe de Jesús Ortiz Herrera.- Rúbricas.
+Y para que llegue a conocimiento de todos y se le dé el debido cumplimiento, mando se imprima, publique y circule.
+Dado en el Despacho del Poder Ejecutivo del Estado, a los quince días del mes de mayo de mil novecientos ochenta y seis.- El Gobernador Constitucional del Estado.- José Guadalupe Cervantes Corona.- Rúbrica.- El Secretario de Gobierno.- Lic. Roberto Almanza Félix.- Rúbrica.
+N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.
