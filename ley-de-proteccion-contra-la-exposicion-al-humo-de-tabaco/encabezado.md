@@ -1,4 +1,4 @@
-LEY DE PROTECCIÓN DE LA SALUD DE LOS NO FUMADORES DEL ESTADO DE ZACATECAS
+LEY DE PROTECCIÓN CONTRA LA EXPOSICIÓN AL HUMO DE TABACO DEL ESTADO DE ZACATECAS
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 5 de octubre del 2011.
 LIC. MIGUEL ALEJANDRO ALONSO REYES, Gobernador del Estado de Zacatecas, a sus habitantes hago saber:
 Que los DIPUTADOS SECRETARIOS de la Honorable Sexagésima Legislatura del Estado, se han servido dirigirme el siguiente:
@@ -7,6 +7,7 @@ LA HONORABLE SEXAGÉSIMA LEGISLATURA DEL ESTADO LIBRE Y SOBERANO DE ZACATECAS, E
 RESULTANDO PRIMERO.-.
 Por lo anteriormente expuesto y fundado, y con apoyo además en lo dispuesto por los artículos 140 y 141 del Reglamento General del Poder Legislativo, en nombre del Pueblo es de Decretarse y se
 DECRETA
-LEY DE PROTECCIÓN DE LA SALUD DE LOS NO FUMADORES DEL ESTADO DE ZACATECAS
+(REFORMADA SU DENOMINACIÓN, P.O. 25 DE AGOSTO DE 2012)
+LEY DE PROTECCIÓN CONTRA LA EXPOSICIÓN AL HUMO DE TABACO DEL ESTADO DE ZACATECAS
 CAPÍTULO PRIMERO
 Del Objeto y Sujetos
