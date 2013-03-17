@@ -1,4 +1,4 @@
-CODIGO FAMILIAR DEL ESTADO DE ZACATECAS
+CÓDIGO FAMILIAR DEL ESTADO DE ZACATECAS
 Código publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 10 de mayo de 1986.
 JOSE GUADALUPE CERVANTES CORONA, Gobernador Constitucional del Estado Libre y Soberano de Zacatecas, a sus habitantes hago saber:
 Que los CC. Diputados Secretarios de la H. Quincuagésima Primera Legislatura del Estado se han servido dirigirme el siguiente

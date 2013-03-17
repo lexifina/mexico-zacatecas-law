@@ -11,4 +11,4 @@ Comuníquese al Ejecutivo del Estado para su promulgación y publicación.
 D A D O en la Sala de Comisiones de la H. Quincuagésima Primera Legislatura del Estado, a los veinticuatro días del mes de abril de mil novecientos ochenta y seis.- Diputado Presidente.- Profr. Leobardo Martínez Gallegos.- Rúbrica.- Diputado Secretario.- Martha Veyna de García.- Rúbrica.- Diputado Secretario .- Felipe de Jesús Ortiz H.- Rúbrica.
 Y para que llegue a conocimiento de todos y se le dé el debido cumplimiento, mando se imprima, publique y circule.
 Dado en el Despacho del Poder Ejecutivo del Estado a los cinco días del mes de Mayo de mil novecientos ochenta y seis.- El Gobernador Constitucional del Estado.- José Guadalupe Cervantes Corona.- Rúbrica.- El Secretario de Gobierno.- Roberto Almanza Félix.- Rúbrica.
-N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.
+N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.
