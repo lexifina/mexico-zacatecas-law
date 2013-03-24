@@ -8,3 +8,4 @@ COMUNÍQUESE AL EJECUTIVO DEL ESTADO PARA SU PROMULGACIÓN Y PUBLICACIÓN.
 DADO en la Sala de Sesiones de la Honorable Quincuagésima Séptima Legislatura del Estado a los ocho días del mes de mayo del año dos mil tres. Diputado Presidente.- DIP. ALFONSO AGUILAR CONTRERAS.- Diputados Secretarios.- DIP. JOEL ARCE PANTOJA.- DIP. JORGE FAJARDO FRIAS.- Rubricas.
 Y para que llegue al conocimiento de todos y se le dé debido cumplimiento, mando se imprima, publique y circule.
 DADO en el Despacho del Poder Ejecutivo del Estado, a los veintiséis días del mes de Mayo del año dos mil tres.
+N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.

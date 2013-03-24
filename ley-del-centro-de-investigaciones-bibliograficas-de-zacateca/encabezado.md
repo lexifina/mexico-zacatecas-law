@@ -1,4 +1,4 @@
-LEY DEL CENTRO DE INVESTIGACIONES BIBLIOGRAFICAS DE ZACATECAS
+LEY DEL CENTRO DE INVESTIGACIONES BIBLIOGRÁFICAS DE ZACATECAS
 Ley publicada en el suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 12 de julio del 2006.
 AMALIA D. GARCÍA MEDINA, Gobernadora del Estado de Zacatecas, a sus habitantes hago saber:
 Que los DIPUTADOS SECRETARIOS de la Honorable Quincuagésima Octava Legislatura del Estado, se han servido dirigirme el siguiente:

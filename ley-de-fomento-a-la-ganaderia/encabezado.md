@@ -1,4 +1,4 @@
-LEY DE FOMENTO A LA GANADERIA DEL ESTADO DE ZACATECAS
+LEY DE FOMENTO A LA GANADERÍA DEL ESTADO DE ZACATECAS
 Ley publicada en el Suplemento No. 2 al Periódico Oficial del Estado de Zacatecas, el sábado 29 de abril del 2006.
 AMALIA D. GARCÍA MEDINA, Gobernadora del Estado de Zacatecas, a sus habitantes hago sabed:
 Que los DIPUTADOS SECRETARIOS de la Honorable Quincuagésima Octava Legislatura del Estado, se han servido dirigirme el siguiente:

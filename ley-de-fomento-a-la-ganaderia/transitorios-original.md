@@ -7,3 +7,4 @@ COMUNIQUESE AL EJECUTIVO DEL ESTADO PARA SU PROMULGACIÓN Y PUBLICACIÓIN (SIC).
 DADO en la Sala de Sesiones de la Honorable Quincuagésima Octava Legislatura del Estado a los cuatro días del mes de Abril del año dos mil seis.- Diputado Presidente.- ADÁN GONZÁLEZ ACOSTA. Diputados Secretarios.- MARTINA RODRÍGUEZ GARCÍA y ROMÁN CABRAL BAÑUELOS.- Rúbricas.
 Y para que se llegue al conoci miento (sic) de todos y se le dé el debido cumplimiento, mando se imprima, publique y circule.
 DADO en el Despacho del Poder Ejecutivo, del Estado, el día veinticuatro del mes de Abril del año dos mil seis. Atentamente- "SUFRAGIO EFECTIVO. NO REELECCION".- La Gobernadora del Estado.- AMALIA D. GARCÍA MEDINA. El Secretario General de Gobierno.- LUIS GERARDO ROMO FONSECA. Rúbricas.
+N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.
