@@ -1,4 +1,4 @@
-CODIGO CIVIL DEL ESTADO DE ZACATECAS
+CÓDIGO CIVIL DEL ESTADO DE ZACATECAS
 Código publicado en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 24 de mayo de 1986.
 LIC. JOSE GUADALUPE CERVANTES CORONA, Gobernador Constitucional del Estado Libre y Soberano de Zacatecas, a sus habitantes hago saber:
 Que los CC. Diputados Secretarios de la H. Quincuagésima Primera Legislatura del Estado se han servido dirigirme el siguiente:
@@ -2634,8 +2634,8 @@ DE LA FORMA DEL CONTRATO DE COMPRAVENTA
 1668.- Si alguno de los contratantes no supiere escribir, firmará a su nombre y a su ruego otra persona con capacidad legal, no pudiendo firmar con ese carácter ninguno de los testigos, sino que lo hará a su ruego otra persona y en el documento se imprimirá la huella digital del interesado que no firmó.
 1669.- De dicho instrumento se formularán cinco tantos para distribuirse entre los interesados, Autoridades Fiscales y Registro Público.
 1670.- Si el valor del inmueble excede del equivalente a cien días del salario mínimo vigente en la época de la celebración del contrato, su venta se otorgará en escritura pública.
-(ADICIONADO, P.O. 4 DE JULIO DE 2001)
-Sin embargo cuando se trate de operaciones o contratos otorgados por la Comisión para la Regularización de la Tenencia de la Tierra o por el Consejo Promotor de la Vivienda Popular, podrán hacerse constar en documento privado celebrado ante dos testigos, que contenga además la constancia a que se refiere el artículo 2475, fracción III de este Código.
+(REFORMADO, P.O. 18 DE MAYO DE 2013)
+Sin embargo cuando se trate de operaciones o contratos otorgados por la Comisión para la Regularización de la Tenencia de la Tierra o por el Organismo Regularizador de la Tenencia de la Tierra en Zacatecas, podrán hacerse constar en documento privado celebrado ante dos testigos, que contenga además, la constancia a que se refiere el artículo 2475, fracción III de este Código.
 1671.- La venta de bienes raíces no producirá efectos contra terceros sino después de registrado en los términos prescritos por este Código.
 CAPITULO NOVENO
 DE LAS VENTAS JUDICIALES

@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 18 DE MAYO DE 2013)
+Artículo 38 Undecies.- Cuando por causas imputables al propietario o poseedor de un inmueble no se puedan realizar en el campo los trabajos catastrales que resulten necesarios para determinar o verificar las características del inmueble respectivo, o determinar el valor catastral correspondiente, la autoridad catastral valuará o revaluará el bien inmueble con base en los elementos de que disponga, sin perjuicio de que se imponga al infractor, las sanciones que resulten procedentes.

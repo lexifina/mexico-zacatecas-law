@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 18 DE MAYO DE 2013)
+Artículo 38 Ter.- Para determinar el valor catastral de cada uno de los bienes inmuebles, se aplicarán los valores unitarios de suelo de acuerdo al sector catastral en que se encuentran situados.
+En caso de inmuebles, situados en sectores catastrales para los que no se hayan fijado valores unitarios o que los existentes ya no sean aplicables, la Secretaria de Finanzas a través de la Dirección de Catastro y Registro Público y los Ayuntamientos por conducto del Presidente Municipal, podrán fijar provisionalmente valores unitarios con base en los fijados para sectores similares. La medida provisional durará por el año calendario correspondiente.
