@@ -428,7 +428,7 @@ III. Las penas que resulten de las fracciones I y II de este artículo, se incre
 a) El delito es cometido en contra de una persona menor de dieciocho años de edad;
 b) El delito es cometido en contra de una persona mayor de sesenta años de edad;
 c) El delito es cometido en contra de quien no tenga capacidad para comprender el significado del hecho, o
-d) El sujeto activo del delito tenga parentesco por consaguinidad, afinidad o civil, habite en el mismo domicilio con la victima, tenga una relación similar al parentesco o una relación sentimental o de confianza con el sujeto pasivo; además, en los casos que proceda, perderá la patria potestad, guarda o custodia o régimen de visitas y convivencias, el derecho de alimentos que le correspondiera por su relación con la victima y el derecho que pudiere tener respecto de los bienes de ésta.
+d) El sujeto activo del delito tenga parentesco por consaguinidad (sic), afinidad o civil, habite en el mismo domicilio con la victima, tenga una relación similar al parentesco o una relación sentimental o de confianza con el sujeto pasivo; además, en los casos que proceda, perderá la patria potestad, guarda o custodia o régimen de visitas y convivencias, el derecho de alimentos que le correspondiera por su relación con la victima y el derecho que pudiere tener respecto de los bienes de ésta.
 TITULO DECIMO SEXTO
 DELITOS CONTRA EL HONOR
 (DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE AGOSTO DE 2012)

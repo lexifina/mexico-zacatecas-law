@@ -107,8 +107,10 @@ XII.- Inhabilitación, destitución o suspensión de funciones o empleos;
 XIII.- Publicación especial de sentencia;
 XIV.- Vigilancia de la policía;
 XV.- Suspensión total o parcial de las operaciones de una persona jurídica o que se ostente como tal, o disolución de la misma;
-XVI.- Trabajo obligatorio a favor de la comunidad, y
-XVII.- Las demás que fijen las leyes.
+XVI.- Trabajo obligatorio a favor de la comunidad, y (sic)
+(ADICIONADA, P.O. 6 DE JULIO DE 2013)
+XVII.- Vigilancia y asistencia familiar, para personas adultas a partir de los 65 años, y
+XVIII.- Las demás que fijen las leyes.
 Las penas y medidas de seguridad se entienden impuestas en los términos y con las modalidades previstas por este Código y ejecutadas por las autoridades competentes conforme a lo dispuesto por la ley de ejecución correspondiente, ajustándose a la resolución judicial respectiva.
 CAPITULO II
 PRISION
@@ -224,6 +226,12 @@ SUSPENSION DE LAS OPERACIONES O DISOLUCION DE LAS PERSONAS JURIDICAS
 50.- Las personas jurídicas que incurran en responsabilidad en términos del artículo 9 de este Código, serán objeto de suspensión o disolución a juicio del juez.
 La suspensión total o parcial de las operaciones de la persona jurídica tendrá una duración de dos meses a dos años.
 La disolución traerá como consecuencia, la publicación de la sentencia y la cancelación de la inscripción del acta constitutiva, en su caso, en el Registro Público respectivo, procediéndose en lo demás conforme a la ley aplicable al caso.
+(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 6 DE JULIO DE 2013)
+CAPITULO XIII
+VIGILANCIA Y ASISTENCIA FAMILIAR.
+(ADICIONADO, P.O. 6 DE JULIO DE 2013)
+50 Bis.- La vigilancia y asistencia familiar para las personas de 65 años o más, consiste en la medida de seguridad alternativa a la sanción de prisión, para que integrantes o miembros de la familia del adulto declarado culpable de delito, provean y actúen bajo su responsabilidad y por sus medios, en la vigilancia, la custodia, la asistencia y el tratamiento, referente a las enfermedades crónicas o incurables que el sentenciado padezca, o la pérdida o involución de sus facultades físicas o mentales.
+La aplicación de esta medida se hará conforme a las disposiciones contenidas en el artículo 76 BIS. del presente Código.
 TITULO TERCERO
 APLICACION DE SANCIONES
 CAPITULO I
@@ -295,6 +303,27 @@ La conmutación de la pena de prisión no podrá aplicarse por el juzgador cuand
 I.- El sentenciado no cumpla las condiciones que le fueren señaladas para tal efecto, salvo que el juzgador estime conveniente apercibirlo de que si incurre en nueva falta, se hará efectiva la pena sustituida, o
 II.- Al sentenciado se le condene por otro delito. Si el nuevo delito es culposo, el juez resolverá si se debe aplicar la pena de prisión sustituida.
 En caso de hacerse efectiva la pena de prisión sustituida, se tomará en cuenta el tiempo durante el cual el reo hubiera cumplido la pena sustitutiva.
+(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 6 DE JULIO DE 2013)
+CAPITULO VIII
+LA VIGILANCIA Y LA ASISTENCIA FAMILIAR ALTERNATIVAS PARA LAS PERSONAS ADULTAS
+(ADICIONADO, P.O. 6 DE JULIO DE 2013)
+76 Bis.- La vigilancia y asistencia familiar a que se refiere el artículo 50 Bis, se aplicará en los casos de personas que al ser declaradas penalmente responsables cuenten con la edad de 65 años o más, siempre y cuando concurran las siguientes condiciones:
+a) Que no se trate de reincidentes;
+b) Que durante el procedimiento haya quedado acreditado el padecimiento de una enfermedad crónica o incurable que requiera tratamiento médico permanente, o denote pérdida de capacidades físicas o mentales;
+c) Que integrantes o miembros de la familia del sentenciado, así identificados y reconocidos judicialmente, se comprometan expresa y formalmente a la vigilancia y la asistencia de aquél; siempre y cuando el compromiso lo expresen hasta antes de los alegatos de clausura del juicio, o de las conclusiones finales de las partes, previas al fallo, y
+d) Que no se trate de las conductas previstas y sancionadas por la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la Fracción XXI del Artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, o de alguno o varios de los siguientes previstos en el Código Penal para el Estado de Zacatecas:
+1. Facilitación delictiva, contenido en el artículo 141 Ter.
+2. Terrorismo, determinado en los artículos 169 y 170.
+3. Corrupción de menores, definido en los artículos 181, 181 Bis y 182.
+4. Pornografía infantil, en los casos de las fracciones I y IV del artículo 183.
+5. Desaparición forzada de personas, referido en el artículo 195 Ter, con excepción de los casos previstos en los párrafos segundo, tercero y cuarto del artículo 195 Quater.
+6. Violación equiparada, conforme las fracciones I y II del artículo 237, y los casos de agravante del delito dispuestos en las cuatro fracciones del artículo 237 Bis.
+7. Trata de personas, establecido en el artículo 271 Bis.
+8. Homicidio doloso calificado, en los términos de los artículos 293 con relación al 299 y al 301.
+9. Parricidio, asentado en el artículo 306.
+10. Feminicidio, previsto en el artículo 309 Bis.
+Si al momento de la sentencia firme el adulto no ha justificado los requisitos de los incisos a), b) y c), podrá justificarlos ante el Juez de Ejecución, a fin de que de manera inmediata se le conmute la pena de prisión observando en lo conducente lo establecido en el Título Tercero, Capítulo Primero de la Ley del Sistema Penitenciario y de Ejecución de Sanciones del Estado de Zacatecas.
+La vigilancia familiar tendrá la misma duración que la sanción de prisión que correspondería o que haya sido impuesta, y en las condiciones que determine el Juez de la Causa o, en su caso, el Juez de Ejecución, sin perjuicio de las modificaciones de tiempo y forma que procedieran conforme lo establecido en el artículo 132 de la Ley del Sistema Penitenciario y de Ejecución de Sanciones del Estado de Zacatecas.
 TITULO CUARTO
 CUMPLIMIENTO DE LAS SANCIONES
 (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE EJECUCIÓN DE SANCIONES PRIVATIVAS Y RESTRICTIVAS DE LA LIBERTAD DEL ESTADO DE ZACATECAS, P.O. 10 DE JULIO DE 1993)
