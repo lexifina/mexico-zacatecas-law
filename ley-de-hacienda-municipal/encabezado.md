@@ -1,5 +1,6 @@
+N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EN EL P.O. DEL 15 DE ENERO DE 2014, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE ZACATECAS
-Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sabado 29 de diciembre de 1984.
+Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 29 de diciembre de 1984.
 LIC. JOSE GUADALUPE CERVANTES CORONA, Gobernador Constitucional del Estado Libre y Soberano de Zacatecas, a sus habitantes hago saber:
 Que los CC. Diputados Secretarios de la H. Quincuagésima Primera Legislatura del Estado, se han servido dirigirme el siguiente.
 DECRETO No. 153
