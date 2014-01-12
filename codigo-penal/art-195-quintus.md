@@ -773,6 +773,9 @@ V.- Montes, bosques, selvas, pastos, mieses o cultivos de cualquier otro género
 (REFORMADO, P.O. 4 DE AGOSTO DE 2012)
 349.- Cuando por cualquier medio se cause daño, destrucción o deterioro de cosa ajena, o de cosa propia en perjuicio de tercero, se aplicarán las sanciones del robo simple y se perseguirá a petición de parte.
 Se exceptúa de la presente disposición, el daño causado a la salud pública, la flora, la fauna o los ecosistemas, en cuyo caso se aplicarán las sanciones establecidas en el Título Vigésimo Segundo del Libro Segundo de este Código.
+(ADICIONADO, P.O. 11 DE ENERO DE 2014)
+349 Bis.- Al que dañe, pinte, grabe o talle, dibujos, signos, mensajes o gráficos de cualquier otro tipo, usando pinturas o cualquier otra sustancia similar, en bienes muebles o inmuebles ajenos, sin el consentimiento de quien tenga la facultad de otorgarlo, se le impondrán una multa de cincuenta a cien cuotas y las jornadas de trabajo necesarias para reparar hasta donde sea posible el daño ocasionado.
+Si las conductas antes previstas recaen en bienes de valor científico, histórico, cultural, edificios públicos, monumentos, equipamiento urbano o bienes de utilidad pública, la sanción antes mencionada se triplicará y deberá realizar de treinta a noventa jornadas de trabajo a favor de la comunidad.
 TITULO DECIMO NOVENO
 DELITOS CONTRA LA ECONOMIA PUBLICA Y CONTRA EL TRABAJO Y LA PREVISION SOCIAL
 CAPITULO I
