@@ -1,4 +1,3 @@
-N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 15 DE FEBRERO DE 2014 EN EL P.O. DEL ESTADO DE ZACATECAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.
 CÓDIGO PENAL PARA EL ESTADO DE ZACATECAS
 Código publicado en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 17 de mayo de 1986.
 JOSE GUADALUPE CERVANTES CORONA, Gobernador Constitucional del Estado Libre y Soberano de Zacatecas a sus habitantes hago saber:
@@ -169,8 +168,8 @@ Se exceptúa de esta regla a la sociedad conyugal, pues en todo caso, cada cóny
 VI.- Los dueños de mecanismos, instrumentos, aparatos, vehículos o substancias peligrosas, por los delitos que, en ocasión de su tenencia, custodia o uso, cometan las personas que los manejan o tienen a su cargo; y
 VII.- El Estado, subsidiariamente, por sus funcionarios y empleados.
 33.- Quien se considere con derecho al pago de la reparación del daño, que no pueda obtener del juez penal, en virtud de no ejercicio de la acción penal por parte del Ministerio Público, sobreseimiento, suspensión del procedimiento o sentencia absolutoria, podrá recurrir a la vía civil en los términos de la legislación correspondiente.
-(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE AGOSTO DE 2012)
-34.- Cuando el daño que se cause al ofendido produzca su muerte, el monto de la indemnización por reparación del daño se fijará aplicando el doble de las cuotas que establece la Ley Federal del Trabajo, según las circunstancias de la víctima y tomando como base la utilidad o salario que hubiese percibido; si la víctima no percibía utilidad o salario o no pudiere determinarse éste, el monto de la indemnización se fijará tomando como base el mencionado salario mínimo.
+(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE ENERO DE 2014)
+34.- Cuando el daño que se cause al ofendido produzca su muerte, el monto de la indemnización por reparación del daño se fijará aplicando las cuotas que establece la Ley Federal del Trabajo, según las circunstancias de la víctima y tomando como base la utilidad o salario que hubiese percibido; si la víctima no percibía utilidad o salario o no pudiere determinarse éste, el monto de la indemnización se fijará tomando como base el mencionado salario mínimo.
 Si el daño produce incapacidad total o parcial, permanente o temporal, el monto de la indemnización se fijará de acuerdo con las tablas que para esta clase de incapacidades establece la Ley Federal del Trabajo, siendo aplicable en lo conducente lo dispuesto en el párrafo anterior.
 (REFORMADO, P.O. 7 DE JUNIO DE 1995)
 35.- La reparación del daño en los casos de los delitos comprendidos en el Título Décimo Segundo de este Código, comprenderá el pago de todo tipo de gastos derivados de tratamientos médicos y psicológicos que requiera el ofendido, por todo el tiempo que éstos sean necesarios a juicio de peritos.
