@@ -1,5 +1,5 @@
 CÓDIGO PENAL PARA EL ESTADO DE ZACATECAS
-N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 15 DE FEBRERO DE 2014.
+N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 15 DE FEBRERO DE 2014 Y REPUBLICADA EN EL SUPLEMENTO 6 DEL P.O. DE 15 DE FEBRERO DE 2014.
 Código publicado en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 17 de mayo de 1986.
 JOSE GUADALUPE CERVANTES CORONA, Gobernador Constitucional del Estado Libre y Soberano de Zacatecas a sus habitantes hago saber:
 Que los CC. Diputados Secretarios de la H. Quincuagésima Primera Legislatura del Estado se han servido dirigirme el siguiente
