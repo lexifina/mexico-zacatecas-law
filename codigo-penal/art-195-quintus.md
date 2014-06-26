@@ -757,6 +757,9 @@ I.- Al que de propia autoridad y haciendo violencia física o moral a las person
 II.- Al que de propia autoridad y haciendo uso de los medios indicados en la fracción anterior, ocupe un inmueble de su propiedad, en los casos en que la ley no se lo permita por hallarse en poder de otra persona, o ejerza actos de dominio que lesionen derechos legítimos del ocupante; y
 III.- Al que en los términos de las fracciones anteriores cometa despojo de aguas. Las sanciones serán aplicables aún cuando la posesión de la cosa usurpada sea dudosa o esté sujeta a litigio.
 A las sanciones que señala este artículo se sumarán las que correspondan por la violencia, la amenaza o por las de cualquier otro delito que resulte cometido.
+(ADICIONADO, P.O. 25 DE JUNIO DE 2014)
+345 bis.- Cuando el despojo se realice por grupo o grupos, que en conjunto sean mayores de cinco personas, además de la pena señalada en el artículo anterior, se aplicará a los autores intelectuales y a quienes dirijan la invasión, de uno a seis años de prisión.
+A quienes se dediquen en forma reiterada a promover el despojo de inmuebles, se les aplicará una sanción de dos a nueve años de prisión. Se considera que se dedican a promover el despojo de inmuebles en forma reiterada, quienes hayan sido anteriormente condenados por esta forma de participación en el despojo, o bien, se les hubiere decretado en más de dos ocasiones auto de formal prisión por este mismo delito, salvo cuando en el proceso correspondiente se hubiese resuelto el desvanecimiento de datos, el sobreseimiento o la absolución del inculpado.
 CAPITULO VIII
 DAÑO EN LAS COSAS
 (REFORMADO PRIMER PÁRRAFO, P.O. 19 DE MAYO DE 1999)
