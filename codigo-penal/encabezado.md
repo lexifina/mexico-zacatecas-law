@@ -107,7 +107,7 @@ XII.- Inhabilitación, destitución o suspensión de funciones o empleos;
 XIII.- Publicación especial de sentencia;
 XIV.- Vigilancia de la policía;
 XV.- Suspensión total o parcial de las operaciones de una persona jurídica o que se ostente como tal, o disolución de la misma;
-XVI.- Trabajo obligatorio a favor de la comunidad, y (sic)
+XVI.- Trabajo obligatorio a favor de la comunidad, y
 (ADICIONADA, P.O. 6 DE JULIO DE 2013)
 XVII.- Vigilancia y asistencia familiar, para personas adultas a partir de los 65 años, y
 XVIII.- Las demás que fijen las leyes.
@@ -129,7 +129,7 @@ CAPITULO V
 SANCION PECUNIARIA
 25.- La sanción pecuniaria comprende: reparación del daño y multa.
 La obligación de pagar la sanción pecuniaria es preferente con respecto a cualesquiera otras contraídas con posterioridad al delito, a excepción de las referentes a alimentos y relaciones laborales.
-En los casos de concurso de personas responsables a que se refiere la fracción II del artículo 11 de este Código, la reparación del daño se considerará responsabilidad solidaria y, en cuanto a la multa, el juez la fijará para cada uno de los intervenientes, según su participación y condiciones económicas.
+En los casos de concurso de personas responsables a que se refiere la fracción II del artículo 11 de este Código, la reparación del daño se considerará responsabilidad solidaria y, en cuanto a la multa, el juez la fijará para cada uno de los intervenientes (sic), según su participación y condiciones económicas.
 26.- La multa consiste en el pago de una suma de dinero al Estado, que fijará el juez por cuotas, las que no podrán exceder de trescientas sesenta y cinco. Cada cuota equivale a un día de salario, cuyo límite inferior será el equivalente al salario mínimo diario vigente en la zona económica en que se cometió el delito, independientemente de que se trate de delito instantáneo, permanente o continuado.
 Cuando se acredite que el sentenciado no puede pagar la multa, o solamente puede cubrir parte de ella, la autoridad judicial podrá substituirla, total o parcialmente, por prestación de trabajo en obras de interés social, en los términos del artículo 39. Cada jornada de trabajo valdrá una cuota.
 27.- El importe de la sanción pecuniaria se distribuirá: entre la parte ofendida y el Estado; a la primera se aplicará el importe de la reparación del daño y al segundo el de la multa.
@@ -457,7 +457,7 @@ IV.- Voluntariamente sirva a un empleo, cargo subalterno o comisión en lugar oc
 123.- Las sanciones a que se refiere este capítulo sólo dejarán de aplicarse en el caso de que, interviniendo el Ejecutivo de la Unión en la forma que prescribe el artículo 122 de la Constitución Política de la República, con motivo de la rebelión, los rebeldes adquieren el carácter de responsables de delitos del orden federal y sean juzgados y sancionados como tales.
 CAPITULO III
 SEDICION Y OTROS DESORDENES PUBLICOS
-124.- Son responsables de sedición los que reunidos tumultariamente pero sin armas, resistan a la autoridad o la ataquen para impedirle el libre ejercicio de sus funciones con alguno de los objetos a que se refiere el artículo 114.
+124.- Son responsables de sedición los que reunidos tumultariamente (sic) pero sin armas, resistan a la autoridad o la ataquen para impedirle el libre ejercicio de sus funciones con alguno de los objetos a que se refiere el artículo 114.
 La sedición se sancionará con tres meses a dos años de prisión.
 En lo que sea aplicable a la sedición, se observarán los artículos 117, 118, 120 parte final y 122.
 125.- Son responsables del delito de asonada o motín los que para hacer uso de un derecho se reúnen tumultuariamente, empleando violencia en las personas o fuerza sobre las cosas. Este delito se sancionará con prisión de tres meses a un año.

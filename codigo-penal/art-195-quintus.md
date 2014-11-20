@@ -182,6 +182,8 @@ IV.- Al intérprete que con dolo traduzca falsamente lo dicho por un inculpado, 
 V.- Al que con cualquier carácter excepto el de testigo, sea examinado por la autoridad y faltare a la verdad en perjuicio de otro, negando ser suya la firma con que hubiere suscrito determinado documento, afirmando un hecho falso o negando o alterando uno verdadero o sus circunstancias sustanciales, ya sea que lo haga en nombre propio o en nombre de otro;
 Lo prevenido en esta fracción no comprende los casos en que la parte sea examinada sobre la cantidad en que estime una cosa, cuando tenga el carácter de inculpado en una averiguación o proceso penal.
 VI.- Al que, siendo autoridad, rinda a otra informe en los que afirme una falsedad o niegue u oculte la verdad, en todo o en parte.
+(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2014)
+225 Bis.- Se equipara a la falsedad en declaraciones judiciales y en informes dados a una autoridad y se sancionará en los términos establecidos en el artículo anterior, a quien al solicitar la intervención de un Notario Público le proporcione información o datos falsos para que se hagan constar en un instrumento público sobre hechos o, actos jurídicos destinados a crear, transmitir, modificar o extinguir derechos u obligaciones.
 226.- El testigo, el perito, el intérprete o el declarante a que se refieren las fracciones II, IV y V del artículo anterior que retracte espontáneamente sus falsas declaraciones u opiniones rendidas en juicio, antes de que se pronuncie sentencia en la instancia en que las diera, sólo pagará una multa de cinco a quince cuotas o trabajo en favor de la comunidad hasta por quince días, a juicio del juzgador.
 Pero si faltare también a la verdad al retractar sus declaraciones, se le aplicará la sanción correspondiente con arreglo a lo prevenido en este capítulo, considerándolos como reincidentes.
 (REFORMADA SU DENOMINACIÓN, P.O. 4 DE AGOSTO DE 2012)
@@ -545,7 +547,7 @@ PARRICIDIO
 CAPITULO VII
 INFANTICIDIO
 (REFORMADO, P.O. 4 DE AGOSTO DE 2012)
-307.- Llámase infanticidio a la muerte causada a un niño o niña por su madre, dentro de las setenta y dos horas de su nacimiento.
+307.- Llámase (sic) infanticidio a la muerte causada a un niño o niña por su madre, dentro de las setenta y dos horas de su nacimiento.
 Al que cometa este delito se le aplicarán de seis a doce años de prisión y multa de cincuenta a cien cuotas.
 308.- (DEROGADO, P.O. 4 DE AGOSTO DE 2012)
 309.- Si en el infanticidio tomare participación un médico, cirujano, comadrona o partera, además de las sanciones privativas de la libertad que les correspondan, se les suspenderá de uno a cinco años en el ejercicio de su profesión.
@@ -590,7 +592,7 @@ CAPITULO I
 ROBO
 317.- Comete el delito de robo, el que se apodera de una cosa mueble, ajena, y sin consentimiento de quien legalmente pueda disponer de ella.
 318.- Se equipararán al robo y se sancionarán como tal:
-I.- La disposición o destrucción de una cosa mueble, ejecutada intencionalmente por el dueño de la cosa si se halla en poder de otro, a título de prenda o de depósito decretado por una autoridad o hecho con su intervención o mediante contrato público o privado; y (sic)
+I.- La disposición o destrucción de una cosa mueble, ejecutada intencionalmente por el dueño de la cosa si se halla en poder de otro, a título de prenda o de depósito decretado por una autoridad o hecho con su intervención o mediante contrato público o privado; y
 II.- El aprovechamiento de energía eléctrica o de cualquier otro fluido, ejecutado sin derecho y sin consentimiento de la persona que legalmente puede disponer de él.
 (ADICIONADA, P.O. 4 DE AGOSTO DE 2012)
 III. Desarmar y comercializar, conjunta o separadamente, las partes de uno o más vehículos automotores robados;
@@ -629,7 +631,7 @@ V.- Se cometa aprovechando la falta de vigilancia, el desorden o confusión que 
 VI.- Se roben tubos, conexiones, tapas de registro o cualesquiera otros implementos de un servicio público u otros objetos que estén bajo la salvaguarda pública, sin perjuicio de lo que proceda por el daño a la propiedad;
 (REFORMADA, P.O. 4 DE AGOSTO DE 2012)
 VII. Se sustraiga material de cobre en forma de cables, tapas, tubos, conectores, conductores, bovinas de motores u objetos similares, aún y cuando no se encuentren bajo la custodia o salvaguarda de un servicio público, adheridos o no a un bien inmueble, sin perjuicio de lo que proceda por el daño a la propiedad;
-VIII.- Se cometa de noche, llevando armas, con fractura o empleo de llaves falsas, horadación, excavación o escalamiento, o sean los ladrones dos o más o fingiéndose funcionarios o empleados públicos o suponiendo una orden de alguna autoridad; y (sic)
+VIII.- Se cometa de noche, llevando armas, con fractura o empleo de llaves falsas, horadación, excavación o escalamiento, o sean los ladrones dos o más o fingiéndose funcionarios o empleados públicos o suponiendo una orden de alguna autoridad; y
 IX.- Recaiga sobre vehículos estacionados en la vía pública, sobre parte de ellos u objetos guardados en su interior.
 (ADICIONADA, P.O. 4 DE AGOSTO DE 2012)
 X. El objeto del robo, sean vales de papel o cualquier dispositivo en forma de tarjeta plástica, emitido por personas morales utilizados para intercambiar o canjear bienes y servicios.
@@ -725,7 +727,7 @@ XI.- Al fabricante, empresario, contratista o constructor de una obra cualquiera
 XII.- Al vendedor de materiales de construcción de cualquiera especie, que habiendo recibido el precio de los mismos, no los entrega en su totalidad o calidad convenidos;
 XIII.- Al que explote la superstición o la ignorancia de una persona por medio de supuesta evocación de espíritus, adivinaciones o curaciones;
 XIV.- Al que habiendo recibido mercancías con subsidio o franquicia para darles un destino determinado, las distrajere de este destino o en cualquier forma desvirtúe los fines perseguidos por el subsidio o la franquicia;
-XV.- Al que aproveche indebidamente energía eléctrica o cualquier fluido, alterando por cualquier medio los medidores destinados a marcar el consumo o las indicaciones registradas por esos aparatos; y (sic)
+XV.- Al que aproveche indebidamente energía eléctrica o cualquier fluido, alterando por cualquier medio los medidores destinados a marcar el consumo o las indicaciones registradas por esos aparatos; y
 XVI.- Al que, con objeto de lucrar en perjuicio del consumidor, altere por cualquier medio los medidores de energía eléctrica o de otro fluido o las indicaciones registradas por esos aparatos.
 (ADICIONADA, P.O. 19 DE MAYO DE 1999)
 XVII.- Al que, con el propósito de no cubrir el precio convenido adquiera cualquier producto agrícola o pecuario para destinarlo para sí, para otro o para su comercialización, independientemente de que la adquisición se pacte verbalmente o por escrito.
@@ -1038,7 +1040,7 @@ VII.- Al que deposite más de una boleta electoral en una urna para la elección
 (REFORMADA, P.O. 22 DE FEBRERO DE 1997)
 VIII.- Sustraiga de una oficina pública, de una casilla, urna o de cualquier sitio en que estos documentos se encuentren en resguardo legal, boletas electorales sufragadas o en blanco.
 (ADICIONADA, P.O. 6 DE MAYO DE 1995)
-IX.- Mediante la violencia física o moral impida a otro votar libremente, viole el secreto del voto u obligue a votar por un partido o candidato determinado; y (sic)
+IX.- Mediante la violencia física o moral impida a otro votar libremente, viole el secreto del voto u obligue a votar por un partido o candidato determinado; y
 (ADICIONADA, P.O. 6 DE MAYO DE 1995)
 X.- Destruya, oculte, altere un expediente, paquete electoral o algún documento contenido en éstos.
 (ADICIONADA, P.O. 4 DE AGOSTO DE 2012)
@@ -1088,7 +1090,7 @@ XIV.- Conociendo la existencia de condiciones o actividades que atenten contra l
 (ADICIONADA, P.O. 6 DE MAYO DE 1995)
 XV.- Impida a otro votar libremente, viole el secreto del voto u obligue a otro a votar por una (sic) partido o candidato determinado;
 (ADICIONADA, P.O. 6 DE MAYO DE 1995)
-XVI.- Retenga algún paquete, expediente electoral y no los entregue oportunamente al organismo electoral respectivo; y (sic)
+XVI.- Retenga algún paquete, expediente electoral y no los entregue oportunamente al organismo electoral respectivo; y
 (ADICIONADA, P.O. 6 DE MAYO DE 1995)
 XVII.- Propale noticias falsas en torno al desarrollo de la jornada electoral o respecto de sus resultados.
 (ADICIONADA, P.O. 4 DE AGOSTO DE 2012)
@@ -1140,7 +1142,7 @@ VIII.- Ejerza presión sobre los electores o los induzca a la abstención o a vo
 (ADICIONADA, P.O. 22 DE FEBRERO DE 1997)
 IX.- Obtenga y utilice a sabiendas fondos provenientes de actividades ilícitas para la campaña electoral;
 (ADICIONADA, P.O. 22 DE FEBRERO DE 1997)
-X.- Incite a la violencia que altere el orden público y afecte cualquiera de las etapas del proceso electoral; y (sic)
+X.- Incite a la violencia que altere el orden público y afecte cualquiera de las etapas del proceso electoral; y
 (ADICIONADA, P.O. 22 DE FEBRERO DE 1997)
 XI.- Simule hechos, circunstancias o actos de campaña electoral para imputarlos a un candidato o partido distinto al que el activo pertenece.
 (ADICIONADA, P.O. 4 DE AGOSTO DE 2012)
@@ -1166,7 +1168,7 @@ CAPITULO OCTAVO
 DE LOS SERVIDORES PUBLICOS
 (REFORMADO PRIMER PÁRRAFO, P.O. 4 DE AGOSTO DE 2012)
 384.- Se impondrá de dos a cuatro años de prisión y multa de cien a trescientas cincuenta cuotas de salario mínimo general vigente en la entidad, así como suspensión de sus derechos políticos hasta por dos años, al servidor público que dolosamente:
-I. Sin causa justificada, se niegue a desempeñar o no cumpla sin renunciar, con la función electoral que le ha sido asignada por los órganos competentes para ello; y (sic)
+I. Sin causa justificada, se niegue a desempeñar o no cumpla sin renunciar, con la función electoral que le ha sido asignada por los órganos competentes para ello; y
 II. Realice funciones electorales que legalmente no le hayan sido encomendadas.
 (ADICIONADA, P.O. 4 DE AGOSTO DE 2012)
 III. Estando obligado a dar aviso al Registro Federal de Electores de los fallecimientos, estados de interdicción, inhabilitaciones y declaratorias de ausencia, omita dolosamente hacerlo dentro de los tiempos previstos por las leyes de la materia;
