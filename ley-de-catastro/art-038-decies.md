@@ -1,2 +1,1 @@
-(ADICIONADO, P.O. 18 DE MAYO DE 2013)
-Artículo 38 Decies.- La valuación y revaluación catastral se sujetarán a lo dispuesto por esta Ley y a las normas, procedimientos técnicos y administrativos que establezca la autoridad catastral.
+Artículo 38 Decies.- (ABROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO NO. 220, P.O. 3 DE DICIEMBRE DE 2014)
