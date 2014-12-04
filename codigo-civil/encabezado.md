@@ -492,7 +492,7 @@ Si las aguas son de propiedad federal, se estará a lo dispuesto en la ley respe
 236.- El que de buena fe empleó materia ajena en todo o en parte, para formar un bien de nueva especie, hará suya la obra, siempre que el mérito artístico de la obra exceda en precio a la materia, cuyo valor indemnizará al dueño.
 237.- Cuando el mérito artístico de la obra sea inferior en precio a la materia, el dueño de ésta hará suya la nueva especie y tendrá derecho, además, para reclamar indemnización de daños y perjuicios, descontándose del monto de éstos el valor de la obra, a tasación de peritos.
 238.- Si la especificación se hizo de mala fe, el dueño de la materia empleada tiene derecho de quedarse con la obra sin pagar nada al que la hizo, o exigir de éste que le pague el valor de la materia y le indemnice de los daños y perjuicios que se le hayan seguido.
-239.- La mala fe en los casos de mezcla o confusión se calificará conforme a Io dispuesto en los artículos 211 y 212.
+239.- La mala fe en los casos de mezcla o confusión se calificará conforme a lo dispuesto en los artículos 211 y 212.
 CAPITULO SEPTIMO
 DE LA COPROPIEDAD
 240.- Hay copropiedad cuando un bien o una universalidad de bienes y obligaciones apreciables en dinero, pertenecen pro indiviso a dos o más personas.
@@ -1236,7 +1236,7 @@ TESTAMENTO PUBLICO CERRADO
 746.- En todo caso, los que comparecieren reconocerán sus firmas.
 747.- Cumplido lo prescrito en los cinco artículos anteriores, el Juez decretará la existencia y validez del testamento.
 748.- El testamento público cerrado quedará sin efecto siempre que se encuentre roto el documento interior o abierto el que forma la cubierta; o borradas, raspadas o enmendadas las firmas que lo autorizan, aunque el contenido no sea vicioso.
-749.- Toda persona que tuviere en su poder un testamento público cerrado y no lo presente, como está prevenido en lo artículos 708 y 709, o lo substraiga dolosamente del lugar donde lo tenían, el testador o la persona que lo conservaba en depósito, incurrirá en la pena, si fuere heredera legítima o testamentaria, de la pérdida del derecho que pudiera tener, sin perjuicio de la que le corresponda conforme al Código Penal. Igual sanción se aplicará a quien lo oculte, rompa, altere o inutilice de cualquier otro modo.
+749.- Toda persona que tuviere en su poder un testamento público cerrado y no lo presente, como está prevenido en los artículos 708 y 709, o lo substraiga dolosamente del lugar donde lo tenían, el testador o la persona que lo conservaba en depósito, incurrirá en la pena, si fuere heredera legítima o testamentaria, de la pérdida del derecho que pudiera tener, sin perjuicio de la que le corresponda conforme al Código Penal. Igual sanción se aplicará a quien lo oculte, rompa, altere o inutilice de cualquier otro modo.
 CAPITULO CUARTO
 DEL TESTAMENTO OLOGRAFO
 750.- Se llama testamento ológrafo al escrito de puño y letra del testador.
@@ -2195,7 +2195,7 @@ DEL PAGO
 1379.- Puede también hacerse por un tercero no interesado en el cumplimiento de la obligación, que obre con consentimiento expreso o presunto del deudor.
 1380.- Puede hacerse igualmente por un tercero ignorándolo el deudor.
 1381.- Puede, por último, hacerse contra la voluntad del deudor.
-1382.- En el caso de pago del un tercero se observarán las disposiciones relativas al mandato.
+1382.- En el caso de pago de un tercero se observarán las disposiciones relativas al mandato.
 1383.- Si el pago se hizo por un tercero ignorándolo el deudor, el que hizo el pago sólo tendrá el derecho de reclamar al deudor la cantidad que hubiere pagado al acreedor, si éste consintió en recibir menor suma que la debida.
 1384.- Si el pago se hace contra la voluntad del deudor, el que lo hizo, solamente tendrá derecho a cobrar del deudor aquello en que le hubiere sido útil el pago.
 1385.- El acreedor está obligado a aceptar el pago hecho por un tercero; fuera de los casos previstos para la subrogación por ministerio de ley, o cuando la deuda fuere pagada por el deudor con dinero de un tercero le prestare con ese objeto y se constituya a su vez en acreedor.
@@ -2634,8 +2634,8 @@ DE LA FORMA DEL CONTRATO DE COMPRAVENTA
 1668.- Si alguno de los contratantes no supiere escribir, firmará a su nombre y a su ruego otra persona con capacidad legal, no pudiendo firmar con ese carácter ninguno de los testigos, sino que lo hará a su ruego otra persona y en el documento se imprimirá la huella digital del interesado que no firmó.
 1669.- De dicho instrumento se formularán cinco tantos para distribuirse entre los interesados, Autoridades Fiscales y Registro Público.
 1670.- Si el valor del inmueble excede del equivalente a cien días del salario mínimo vigente en la época de la celebración del contrato, su venta se otorgará en escritura pública.
-(REFORMADO, P.O. 18 DE MAYO DE 2013)
-Sin embargo cuando se trate de operaciones o contratos otorgados por la Comisión para la Regularización de la Tenencia de la Tierra o por el Organismo Regularizador de la Tenencia de la Tierra en Zacatecas, podrán hacerse constar en documento privado celebrado ante dos testigos, que contenga además, la constancia a que se refiere el artículo 2475, fracción III de este Código.
+(REFORMADO, P.O. 3 DE DICIEMBRE DE 2014)
+Sin embargo cuando se trate de operaciones o contratos otorgados por la Comisión para la Regularización de la Tenencia de la Tierra, por el Consejo Promotor de la Vivienda Popular en liquidación, por el Organismo Regularizador de la Tenencia de la Tierra en Zacatecas o por la Secretaría de Administración, podrán hacerse constar en documento privado celebrado ante dos testigos, que contenga además, la constancia a que se refiere el artículo 2475, fracción III de este Código.
 1671.- La venta de bienes raíces no producirá efectos contra terceros sino después de registrado en los términos prescritos por este Código.
 CAPITULO NOVENO
 DE LAS VENTAS JUDICIALES
@@ -2753,7 +2753,7 @@ DEL MUTUO CON INTERESES
 1749.- Es permitido estipular interés por el préstamo, ya consista en dinero, ya en géneros.
 1750.- El interés es legal o convencional.
 1751.- El interés legal es el veinticuatro por ciento anual.
-1752.- El interés convencional es el que fijen los contratantes, y puede ser mayor o menor que el interés legal; pero cuando el interés sea tan desproporcionado que haga fundadamente creer que se ha abusado del apuro pecuniario, de la inexperiencia, de la ignorancia o de la necesidad del deudor, a petición de este el Juez, tendiendo en cuenta las especiales circunstancias del caso, podrá reducir equitativamente el interés hasta el tipo legal.
+1752.- El interés convencional es el que fijen los contratantes, y puede ser mayor o menor que el interés legal; pero cuando el interés sea tan desproporcionado que haga fundadamente creer que se ha abusado del apuro pecuniario, de la inexperiencia, de la ignorancia o de la necesidad del deudor, a petición de este el Juez, teniendo en cuenta las especiales circunstancias del caso, podrá reducir equitativamente el interés hasta el tipo legal.
 Este artículo sólo es aplicable cuando el interés convencional excede del interés bancario.
 1753.- Si se ha convenido un interés más alto que el bancario, el deudor, en cualquier momento después de la celebración del contrato, puede reembolsar el capital, cualquiera que sea el plazo fijado para ello, dando aviso al acreedor con un mes de anticipación y pagando los intereses vencidos. Este artículo es irrenunciable.
 1754.- Las partes no pueden, bajo pena de nulidad absoluta, convenir que los intereses se capitalicen y que produzcan intereses.
@@ -3070,7 +3070,7 @@ Cuando se quisieren limitar; en los tres caso antes mencionados, las facultades 
 Los Notarios insertarán este artículo en los testimonios de los poderes, que expidan.
 1940.- Para que el mandatario pueda hacer donaciones en nombre o por cuenta del mandante, es necesario que éste le dé poder especial, en cada caso.
 1941.- El mandato podrá otorgarse en carta poder firmada ante dos testigos, sin que sea necesario la previa ratificación de las firmas, cuando el interés del negocio para el que se confiera exceda del valor correspondiente a cinco cuotas del salario mínimo vigente y no de cincuenta cuotas, ya que si sobrepasa deberá otorgarse en escritura pública.
-(REFORMADO PRIMER PARRAFO, P.O. 30 DE AGOSTO DE 2008)
+(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 2008)
 1942.- El mandato debe otorgarse ante Notario Público:
 I.- Cuando el interés del negocio para el que se confiere exceda de cincuenta cuotas del valor del salario mínimo vigente;
 II.- Cuando sea general; y
@@ -3159,7 +3159,7 @@ V.- Por el vencimiento del plazo y por la conclusión del negocio para el que le
 VI.- Por las causas previstas en el Código de la Familia; para los poderes otorgados por el declarado ausente.
 1981.- El mandante puede revocar el mandato cuándo y cómo le parezca.
 Asimismo el mandatario puede renunciar al mandato cuando y como le parezca.
-La parte que revoque o renuncia el mandato en tiempo inoportuno debe indemnizar a lo otra o a un tercero de los daños y perjuicios que le cause la revocación o renuncia.
+La parte que revoque o renuncia el mandato en tiempo inoportuno debe indemnizar a la otra o a un tercero de los daños y perjuicios que le cause la revocación o renuncia.
 1982.- Puede pactarse que el mandato sea irrevocable y, en ese caso no puede el mandatario renunciar a él.
 1983.- El mandato irrevocable sólo puede ser especial y termina cuando se realice el negocio para el que se confirió.
 1984.- Si el mandato irrevocable se estipuló como una condición en un contrato bilateral o como un medio para cumplir una obligación contraída, dicho mandato tiene el carácter de accesorio del contrato bilateral del cual es condición o de la obligación para cuyo cumplimiento se otorgó, salvo que otra cosa convengan las partes.
@@ -3357,7 +3357,7 @@ La mayoría se computará por cantidades; pero cuando una sola persona represent
 2111.- Los compromisos contraídos por los socios administradores en nombre de la sociedad, excediéndose de sus facultades, si no son ratificados por ésta, sólo obligan a la sociedad en razón del beneficio recibido.
 2112.- Las obligaciones que se contraigan por la mayoría de los socios encargados de la administración, sin conocimiento de la minoría, o contra su voluntad expresa, serán validas; pero los que las hayan contraído serán personalmente responsables, a la sociedad, de los perjuicios que por ellas se causen.
 2113.- El socio o socios administradores están obligados a rendir cuentas siempre que lo pida la mayoría de los socios, aún cuando no sea la época fijada en el contrato de sociedad.
-2114.- Cuando la administración no se hubiere limitado a alguno de los socios, todos tendrán derecho de concurrir a la dirección y manejo de los negocios comunes. Las decisiones serán tomadas por mayoría, tendiendo todos derecho de examinar los libros de contabilidad y demás papeles de ésta.
+2114.- Cuando la administración no se hubiere limitado a alguno de los socios, todos tendrán derecho de concurrir a la dirección y manejo de los negocios comunes. Las decisiones serán tomadas por mayoría, teniendo todos derecho de examinar los libros de contabilidad y demás papeles de ésta.
 CAPITULO QUINTO
 DE LA DISOLUCION DE LA SOCIEDAD
 2115.- La sociedad se disuelve:
@@ -3799,9 +3799,9 @@ IX.- La mora en el pago de los intereses respecto a uno de los acreedores produc
 X.- El primer testimonio de la escritura de transmisión parcial o total, una vez inscrito, servirá de título ejecutivo al adquiriente de toda la hipoteca o de parte de ella;
 XI.- En caso de juicio se llamará a todos los acreedores que hubiesen adquirido parte de esa hipoteca;
 XII.- La hipoteca por declaración unilateral de voluntad no puede constituirse en fraude de los acreedores;
-XIII.- La hipoteca por declaración unilateral de voluntad caduca, cuando transcurren seis meses desde que se constituyó sin que el propietario haya ejercitado el derecho que le confiere el párrafo primero de la fracción lV de este artículo. Si la hipoteca se transmitió parcialmente dentro de ese plazo, sólo caducará la parte que no se haya transmitido;
+XIII.- La hipoteca por declaración unilateral de voluntad caduca, cuando transcurren seis meses desde que se constituyó sin que el propietario haya ejercitado el derecho que le confiere el párrafo primero de la fracción IV de este artículo. Si la hipoteca se transmitió parcialmente dentro de ese plazo, sólo caducará la parte que no se haya transmitido;
 XIV.- Transcurrido el plazo de seis de meses a que se refiere la fracción anterior y el establecido por esta ley al Notario para que dé el aviso correspondiente al Registro Público, si no se presentare el testimonio de la cesión o cesiones que haya celebrado el constituyente de la hipoteca por declaración unilateral de la voluntad, perderá la inscripción de ésta la preferencia que le correspondía. Las cesiones en este caso tendrán la preferencia que les corresponda según la fecha de su presentación;
-XV.- Si dentro de un año después de inscrita la hipoteca por declaración unilateral de voluntad, no se presenta para su registro el testimonio de una cesión, hecha por el propietario dentro de los seis meses a que se refiere la fracción XlV de este artículo, deja de surtir efectos, por ministerio de la ley, la inscripción de la hipoteca constituida por declaración unilateral . El Registrador en este caso la cancelará a petición de parte interesada o de oficio cuando advierta que se está en esta situación; pero si el propietario en tiempo cedió parcial o totalmente la hipoteca y el cesionario no inscribió oportunamente la cesión, se considerará al cesionario como acreedor quirografario;
+XV.- Si dentro de un año después de inscrita la hipoteca por declaración unilateral de voluntad, no se presenta para su registro el testimonio de una cesión, hecha por el propietario dentro de los seis meses a que se refiere la fracción XIV de este artículo, deja de surtir efectos, por ministerio de la ley, la inscripción de la hipoteca constituida por declaración unilateral . El Registrador en este caso la cancelará a petición de parte interesada o de oficio cuando advierta que se está en esta situación; pero si el propietario en tiempo cedió parcial o totalmente la hipoteca y el cesionario no inscribió oportunamente la cesión, se considerará al cesionario como acreedor quirografario;
 XVI.- Si la hipoteca por declaración unilateral de voluntad fuere embargada al propietario y caducare la hipoteca misma, el embargo se considerará trabado sobre el bien inmueble.
 2391.- La hipoteca constituida por testamento, puede tener por objeto mejorar un crédito a cargo del testador, para convertirlo de simple en hipotecario, o bien garantizar un legado o un crédito que se reconozca por testamento.
 2392.- Puede otorgarse hipoteca para garantizar obligaciones civiles consignadas en documentos privados o públicos. La hipoteca se otorgará en escritura pública, debiendo hacerse una anotación sobre su constitución y registro en el documento que acredite la deuda.
@@ -3834,7 +3834,7 @@ III.- Los menores y demás incapacitados sobre los bienes de sus tutores, por lo
 IV.- Los legatarios, por el importe de sus legados, si no hubiere hipoteca especial designada por el mismo testador;
 V.- Los acreedores de la herencia por el importe de sus créditos, si en la misma existen bienes inmuebles o derechos reales sobre bienes raíces; y
 VI.- El Estado, los municipios y los establecimientos Públicos, sobre los bienes de sus administradores, para asegurar las rentas de sus respectivos cargos, salvo lo que al respecto dispongan las leyes administrativas.
-2408.- La constitución de la hipoteca, en los casos a que se refieren las fracción ll y lll del artículo anterior, puede ser pedida por el curador del incapacitado por los parientes de éste sin limitación de grado o por el Ministerio Público.
+2408.- La constitución de la hipoteca, en los casos a que se refieren las fracción II y III del artículo anterior, puede ser pedida por el curador del incapacitado por los parientes de éste sin limitación de grado o por el Ministerio Público.
 2409.- Los que tienen derecho de exigir la constitución de hipoteca necesaria, tienen también el de objetar la suficiencia de la que se ofrezca, y el de pedir su ampliación cuando los bienes hipotecados se hagan por cualquier motivo insuficientes para garantizar el crédito; en ambos casos resolverá el Juez.
 2410.- Si el responsable de otorgar la hipoteca necesaria, no tuviere inmuebles, el acreedor será considerado como de segunda clase, salvo disposición legal en contrario.
 CAPITULO CUARTO
@@ -3886,7 +3886,7 @@ DISPOSICIONES GENERALES
 2435.- Procede el concurso de acreedores siempre que el deudor suspenda el pago de sus deudas civiles, líquidas y exigibles. La declaración de concurso será hecha por el Juez competente, mediante los trámites fijados en el Código de Procedimientos Civiles.
 2436.- La declaración de concurso incapacita al deudor para seguir administrando sus bienes, así como para cualquiera otra administración que por la ley le corresponda y hace que se venza el plazo de todas sus deudas.
 Esa declaración produce también el efecto de que dejen de devengar intereses las deudas del concurso, salvo los créditos hipotecarios y pignoraticios, que seguirán devengando los intereses correspondientes hasta donde alcance el valor de los bienes que los garanticen.
-2437.- Los capitales debidos serán pagados en el orden establecido en ese Título, y si después de satisfechas quedaren fondos pertenecientes, al concurso, se pagarán los réditos correspondientes, en el mismo orden en que se pagaron los capitales, pero reducidos los intereses al tipo legal a nos ser que se hubiere pactado un tipo menor. Sólo que hubiere bienes suficientes para que todos los acreedores queden pagados, se cubrirán los réditos al tipo convenido que sea superior al legal.
+2437.- Los capitales debidos serán pagados en el orden establecido en ese Título, y si después de satisfechas quedaren fondos pertenecientes, al concurso, se pagarán los réditos correspondientes, en el mismo orden en que se pagaron los capitales, pero reducidos los intereses al tipo legal a no ser que se hubiere pactado un tipo menor. Sólo que hubiere bienes suficientes para que todos los acreedores queden pagados, se cubrirán los réditos al tipo convenido que sea superior al legal.
 2438.- El deudor puede celebrar con sus acreedores los convenios que estime oportunos, pero esos convenios se harán precisamente en junta de acreedores debidamente constituida.
 Los convenios que autoriza este artículo pueden ser preventivos o anteriores al concurso, para evitar su declaración, o durante el juicio para dar término al mismo, mediante la rehabilitación del deudor.
 También pueden tener por objeto la declaración del concurso voluntario, mediante la dación general en pago de acreedores.
@@ -3920,7 +3920,7 @@ I.- Los gastos del juicio respectivo;
 II.- Los gastos de conservación y administración de los mencionados bienes;
 III.- La deuda de seguros de los propios bienes;
 IV.- Los créditos hipotecarios, comprendiéndose en el pago, los réditos de un año o los créditos pignoraticios según su fecha, así como sus réditos durante los últimos seis meses.
-2456.- Para que se paguen con la preferencia señalada los créditos comprendidos en las fracciones ll y lll del artículo anterior, son requisitos indispensables que los primeros hayan sido necesarios y que los segundos consten auténticamente.
+2456.- Para que se paguen con la preferencia señalada los créditos comprendidos en las fracciones II y III del artículo anterior, son requisitos indispensables que los primeros hayan sido necesarios y que los segundos consten auténticamente.
 2457.- Si el concurso llega al período en que deba pronunciarse sentencia de graduación sin que los acreedores hipotecarios o pignoraticios hagan uso del derecho de no entrar en concurso para cobrar sus créditos, dicho concurso hará vender los bienes y depositará el importe del crédito y de los réditos correspondientes, observándose en su caso, las disposiciones relativas a los ausentes.
 2458.- El concurso tiene derecho para redimir los gravámenes hipotecarios y pignoraticios que pesen sobre los bienes del deudor, o de pagar las deudas de que especialmente responden algunos de éstos y, entonces, esos bienes entrarán a tomar parte del fondo del concurso.
 2459.- Si la elección compete al deudor y alguna de las cosas se pierde por culpa suya o caso fortuito, el acreedor está obligado a recibir la que quede.
