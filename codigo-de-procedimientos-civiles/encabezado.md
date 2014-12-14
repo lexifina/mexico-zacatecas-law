@@ -1016,12 +1016,14 @@ I.- Los testimonios de las escrituras públicas otorgadas con arreglo a derecho 
 II.- Los documentos auténticos expedidos por funcionarios que desempeñen cargos públicos, en lo que se refiere al ejercicio de sus funciones;
 III.- Los documentos auténticos, libros de actas, estatutos, registros y catastros que se hallen en los archivos públicos dependientes del Gobierno Federal, o de los particulares de los Estados, de los Ayuntamientos, del Distrito y Territorios Federales;
 IV.- Los certificados de actas del estado civil expedidas por los Oficiales del Registro Civil, respecto de constancias existentes en los libros correspondientes;
-V.- Las certificaciones de constancias existentes en los archivos públicos expedidas por funcionarios a quienes competa;
-VI.- Las certificaciones de constancias existentes en los archivos parroquiales y que se refieran a actos pasados antes del establecimiento del Registro Civil, siempre que fueren cotejadas por Notario Público o quien haga sus veces, con arreglo a derecho;
-VII.- Las ordenanzas, estatutos, reglamentos y actas de sociedades o asociaciones, y de universidades, siempre que su establecimiento estuviere aprobado por el Gobierno Federal o de los Estados, y las copias certificadas que de ellos se expidieren;
-VIII.- Las actuaciones judiciales de toda especie;
-IX.- Las certificaciones que expidieren las bolsas mercantiles o mineras autorizadas por la ley y las expedidas por corredores públicos titulados con arreglo al Código de Comercio, y
-X.- Los demás a los que se reconozca ese carácter por la ley.
+(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2014)
+V.- Los documentos signados por los funcionarios competentes mediante firma electrónica, respecto del estado civil de las personas, cuando sean emitidos de acuerdo con las disposiciones de la Ley de Firma Electrónica del Estado de Zacatecas. En caso de ser impugnada la firma se procederá de conformidad a lo establecido en el artículo 11 de la Ley mencionada.
+VI.- Las certificaciones de constancias existentes en los archivos públicos expedidas por funcionarios a quienes competa;
+VII.- Las certificaciones de constancias existentes en los archivos parroquiales y que se refieran a actos pasados antes del establecimiento del Registro Civil, siempre que fueren cotejadas por Notario Público o quien haga sus veces, con arreglo a derecho;
+VIII.- Las ordenanzas, estatutos, reglamentos y actas de sociedades o asociaciones, y de universidades, siempre que su establecimiento estuviere aprobado por el Gobierno Federal o de los Estados, y las copias certificadas que de ellos se expidieren;
+IX.- Las actuaciones judiciales de toda especie;
+X.- Las certificaciones que expidieren las bolsas mercantiles o mineras autorizadas por la ley y las expedidas por corredores públicos titulados con arreglo al Código de Comercio, y
+XI.- Los demás a los que se reconozca ese carácter por la ley.
 Los documentos públicos procedentes de los Estados, del Distrito y de los Territorios Federales harán fe sin necesidad de legalización de la firma del funcionario que los autorice.
 Los documentos públicos procedentes del extranjero deberán presentarse legalizados por las autoridades diplomáticas o consulares. En caso de imposibilidad para obtener la legalización ésta se substituirá por cualquier prueba adecuada para garantizar la autenticidad.
 284.- Documento privado es el que carece de los requisitos que se expresan en el artículo anterior. El documento privado será considerado como auténtico cuando la certeza de las firmas se certifique o autorice por funcionarios de la fe pública que tengan competencia para hacer esta certificación.
@@ -1853,7 +1855,7 @@ V.- La calificación de impedimento de matrimonio;
 VI.- Los interdictos, sin perjuicio de lo dispuesto por el artículo 650;
 VII.- Los conflictos sobre derechos de preferencia;
 VIII.- Las cuestiones de naturaleza análoga que se refieran a conflictos entre socios de personas jurídicas, con motivo del funcionamiento de éstas;
-IX.- Los asuntos que conforme a la ley deben ventilarse y decidirse en una sola audiencia y los que requieran celeridad o urgencia especiales; y (sic)
+IX.- Los asuntos que conforme a la ley deben ventilarse y decidirse en una sola audiencia y los que requieran celeridad o urgencia especiales; y
 X.- Los demás en que el juez lo estime conveniente por su naturaleza y siempre que los interesados estén de acuerdo que se siga el procedimiento oral.
 En los casos de los apartados III, IV, V, y VI, se observarán las modalidades a que se refiere el Capítulo Segundo, Título Tercero de este Libro;
 (REFORMADA, P.O. 30 DE DICIEMBRE DE 1989)
