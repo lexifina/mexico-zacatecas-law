@@ -3,5 +3,3 @@ Artículo 24 septies.- El Laboratorio de Software Libre y de Código Abierto, es
 La organización y funcionamiento del Laboratorio serán determinadas en el Reglamento correspondiente.
 El domicilio de este órgano especializado, estará ubicado en la ciudad de Zacatecas, Zacatecas; sin perjuicio de que pueda establecer otras subsedes en las diversas regiones del Estado, que estime necesarias para la realización de sus actividades, previa autorización de la Junta Directiva del COZCYT.
 La Junta Directiva está obligada a prever en el proyecto de Presupuesto de Egresos anual del COZCYT, recursos suficientes para que el Laboratorio cumpla cabalmente con sus atribuciones.
-SECCIÓN SÉPTIMA
-De las Comisiones Técnicas

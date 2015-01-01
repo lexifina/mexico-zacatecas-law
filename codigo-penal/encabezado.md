@@ -431,7 +431,7 @@ TITULO PRIMERO
 DELITOS CONTRA LA SEGURIDAD INTERIOR DEL ESTADO Y SU INTEGRIDAD TERRITORIAL
 CAPITULO I
 CONSPIRACION
-113.- Hay conspiración siempre que dos o más personas resuelven de común acuerdo cometer alguno de los delitos de que se ocupan los capítulos II y III de este título, acordando los medios de llevar a efecto su determinación. La sanción aplicable será de seis meses a dos años de prisión o confinamiento a juicio del juez, y en uno u otro (sic) casos, multa de cinco a cincuenta cuotas.
+113.- Hay conspiración siempre que dos o más personas resuelven de común acuerdo cometer alguno de los delitos de que se ocupan los capítulos II y III de este título, acordando los medios de llevar a efecto su determinación. La sanción aplicable será de seis meses a dos años de prisión o confinamiento a juicio del juez, y en uno u otro casos, multa de cinco a cincuenta cuotas.
 CAPITULO II
 REBELION
 114.- Se impondrá prisión de uno a seis años, multa de diez a cien cuotas y privación de derechos políticos hasta por cinco años, a los que, no siendo militares en ejercicio, se alcen en armas contra el Gobierno del Estado, con el fin de:

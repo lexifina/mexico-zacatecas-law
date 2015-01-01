@@ -364,6 +364,14 @@ CAPITULO I
 AMENAZAS Y EXTORSION
 257.- Comete el delito de amenazas, el que valiéndose de cualquier medio, intimide a otro con causarle un mal en su persona, en su honor, en su prestigio, en sus bienes o en la persona, honor, prestigio o bienes de alguien con quien esté ligado con cualquier vínculo.
 El delito de amenazas se sancionará con prisión de tres meses a un año o multa de cinco a veinte cuotas, o trabajo en favor de la comunidad hasta por quince días, a juicio del juzgador.
+(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2014)
+257 Bis.- Al que con la intención de requerir el pago de una deuda, ya sea propia del deudor o de quien funja como referencia o aval, utilice medios ilícitos e ilegítimos, se valga del engaño, o efectúe actos de hostigamiento, intimidación, violencia, ofensas y amenazas, ya sea de manera personal o utilizando medios telefónicos, electrónicos, correspondencia o computacionales de comunicación, aun cuando sean efectuados por medio de grabaciones o textos, se le impondrá prisión de seis meses a dos años y una multa de ciento cincuenta a trescientos días de cuotas de salario mínimo vigente en el estado. Además de las sanciones que correspondan si para tal efecto se empleó documentación, sellos falsos o se usurparon funciones públicas o de profesión, se aplicarán las reglas del concurso de delitos. Para la reparación del daño cometido se estará a lo dispuesto en el artículo 32 de este Código.
+(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2014)
+257 Ter.- Se aumentarán en una cuarta parte la sanción pecuniaria y privativa a que hace referencia el artículo anterior, si además:
+I. Se hace el requerimiento del pago de forma ilícita o ilegítima por cualquier medio a familiares del deudor o quien funja como referencia o aval;
+II. Si se hace de forma personal o telefónica fuera de días y horas hábiles de atención al público;
+III. Si se hace por vía telefónica desde número privado o no identificable, o
+IV. Si quien hace el requerimiento por cualquier medio, no se identifica en ese momento.
 258.- Al que por medio de amenazas de cualquier género trate de impedir que otro ejecute lo que tiene derecho a hacer, se le aplicarán las mismas sanciones a que se refiere el artículo anterior.
 (ADICIONADO, P.O. 4 DE AGOSTO DE 2012)
 258 Bis.- Se sancionará con prisión de uno a tres años y de doscientas a trescientas cuotas al que amenace con cometer el delito de terrorismo a que se refiere el artículo 169 del presente Código.

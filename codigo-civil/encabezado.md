@@ -2752,7 +2752,8 @@ CAPITULO SEGUNDO
 DEL MUTUO CON INTERESES
 1749.- Es permitido estipular interés por el préstamo, ya consista en dinero, ya en géneros.
 1750.- El interés es legal o convencional.
-1751.- El interés legal es el veinticuatro por ciento anual.
+(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)
+1751.- El interés legal es el nueve por ciento anual.
 1752.- El interés convencional es el que fijen los contratantes, y puede ser mayor o menor que el interés legal; pero cuando el interés sea tan desproporcionado que haga fundadamente creer que se ha abusado del apuro pecuniario, de la inexperiencia, de la ignorancia o de la necesidad del deudor, a petición de este el Juez, teniendo en cuenta las especiales circunstancias del caso, podrá reducir equitativamente el interés hasta el tipo legal.
 Este artículo sólo es aplicable cuando el interés convencional excede del interés bancario.
 1753.- Si se ha convenido un interés más alto que el bancario, el deudor, en cualquier momento después de la celebración del contrato, puede reembolsar el capital, cualquiera que sea el plazo fijado para ello, dando aviso al acreedor con un mes de anticipación y pagando los intereses vencidos. Este artículo es irrenunciable.
