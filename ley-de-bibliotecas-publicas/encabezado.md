@@ -1,4 +1,4 @@
-LEY DE BIBLIOTECAS PUBLICAS DEL ESTADO DE ZACATECAS
+LEY DE BIBLIOTECAS PÚBLICAS DEL ESTADO DE ZACATECAS
 Ley publicada en el suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 11 de marzo de 2006.
 AMALIA D. GARCÍA MEDINA, Gobernadora del Estado de Zacatecas, a sus habitantes hago saber:
 Que los DIPUTADOS SECRETARIOS de la Honorable Quincuagésima Octava Legislatura del Estado, se han servido dirigirme el siguiente:
