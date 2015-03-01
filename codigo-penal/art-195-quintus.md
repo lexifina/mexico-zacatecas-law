@@ -431,24 +431,12 @@ RAPTO
 270.- Se aplicará prisión de tres meses a un año y multa de cinco a diez cuotas a la mujer que por cualquiera de los medios señalados en el artículo 268 de este Código, raptare a un varón menor de dieciocho años.
 271.- No se procederá contra el raptor sino por queja de la persona ofendida o de su cónyuge o concubinario, pero si la persona raptada fuere menor de edad, por queja de quien ejerza la patria potestad o la tutela, o en su defecto, del mismo menor.
 Cuando además del delito de rapto se cometa algún otro, se observarán las reglas del concurso.
-(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE SEPTIEMBRE DE 2007)
+(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR TRANSITORIO QUINTO DE LA LEY PARA PREVENIR, ATENDER, COMBATIR Y ERRADICAR LA TRATA DE PERSONAS EN EL ESTADO DE ZACATECAS, P.O. 28 DE FEBRERO DE 2015)
 CAPITULO VI
 TRATA DE PERSONAS
-(ADICIONADO, P.O. 15 DE SEPTIEMBRE DE 2007)
-271 Bis.- Comete el delito de trata de personas quien induzca, procure, promueva, facilite, reclute, solicite, mantenga, capte, ofrezca, traslade, entregue o reciba para si o para un tercero a una persona recurriendo a la coacción física o moral, a la privación de la libertad, al engaño, al abuso de poder o de una situación de vulnerabilidad o a la concesión o recepción de pagos o beneficios para someterla a cualquier forma de explotación o para extraer sus órganos, tejidos o sus componentes.
-Para efectos de este artículo se entenderá por explotación, el obtener provecho económico o cualquier otro beneficio para sí o para otra persona, mediante la prostitución ajena u otras formas de explotación sexual, los trabajos o servicios forzados, la esclavitud o las prácticas similares, la servidumbre, la mendicidad ajena o la extracción de órganos, tejidos o sus componentes.
-Cuando las conductas anteriores recaigan en una persona menor de dieciocho años de edad o persona que no tenga la capacidad de comprender el significado del hecho, se considerará como trata de personas incluso cuando no se recurra a ninguno de los medios señalados en el primer párrafo del presente artículo.
-(ADICIONADO, P.O. 15 DE SEPTIEMBRE DE 2007)
-271 Ter.- El consentimiento otorgado por la victima en cualquier modalidad del delito de trata de personas, no constituirá causa que excluye el delito.
-(ADICIONADO, P.O. 15 DE SEPTIEMBRE DE 2007)
-271 Quáter.- A quien cometa el delito de trata de personas se le aplicará:
-l. De seis a doce años de prisión y multa de cincuenta a cien cuotas;
-II. De nueve a dieciocho años de prisión y multa de cincuenta a ciento cincuenta cuotas, si se emplease violencia física o moral, o el agente se valiese de la función pública que tuviere o hubiese ostentado sin tenerla. Además, se impondrá la destitución del empleo, cargo o comisión públicos e inhabilitación para desempeñar otro hasta por veinticinco años, de conformidad al procedimiento establecido por la ley.
-III. Las penas que resulten de las fracciones I y II de este artículo, se incrementarán hasta una mitad, cuando:
-a) El delito es cometido en contra de una persona menor de dieciocho años de edad;
-b) El delito es cometido en contra de una persona mayor de sesenta años de edad;
-c) El delito es cometido en contra de quien no tenga capacidad para comprender el significado del hecho, o
-d) El sujeto activo del delito tenga parentesco por consaguinidad (sic), afinidad o civil, habite en el mismo domicilio con la victima, tenga una relación similar al parentesco o una relación sentimental o de confianza con el sujeto pasivo; además, en los casos que proceda, perderá la patria potestad, guarda o custodia o régimen de visitas y convivencias, el derecho de alimentos que le correspondiera por su relación con la victima y el derecho que pudiere tener respecto de los bienes de ésta.
+271 Bis.- (DEROGADO, POR TRANSITORIO QUINTO DE LA LEY PARA PREVENIR, ATENDER, COMBATIR Y ERRADICAR LA TRATA DE PERSONAS EN EL ESTADO DE ZACATECAS, P.O. 28 DE FEBRERO DE 2015)
+271 Ter.- (DEROGADO, POR TRANSITORIO QUINTO DE LA LEY PARA PREVENIR, ATENDER, COMBATIR Y ERRADICAR LA TRATA DE PERSONAS EN EL ESTADO DE ZACATECAS, P.O. 28 DE FEBRERO DE 2015)
+271 Quáter.- (DEROGADO, POR TRANSITORIO QUINTO DE LA LEY PARA PREVENIR, ATENDER, COMBATIR Y ERRADICAR LA TRATA DE PERSONAS EN EL ESTADO DE ZACATECAS, P.O. 28 DE FEBRERO DE 2015)
 TITULO DECIMO SEXTO
 DELITOS CONTRA EL HONOR
 (DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE AGOSTO DE 2012)
