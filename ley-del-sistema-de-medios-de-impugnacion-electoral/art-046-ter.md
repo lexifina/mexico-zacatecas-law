@@ -1,5 +1,5 @@
 (ADICIONADO, P.O. 3 DE OCTUBRE DE 2009)
-ARTÍCULO 46 Ter
+ARTÍCULO 46 TER
 El juicio podrá ser promovido por el ciudadano cuando:
 I. Considere que se violó su derecho político-electoral de ser votado cuando, habiendo sido propuesto por un Partido Político o coalición, le sea negado indebidamente su registro como candidato a un cargo de elección popular. Si también el partido político interpuso recurso de revisión, por la negativa del mismo registro, el Consejo General del Instituto, a solicitud del Tribunal de Justicia Electoral remitirá el expediente para que sea resuelto por éste, a la par del juicio promovido por el ciudadano;
 II. Habiéndose asociado con otros ciudadanos para tomar parte en forma pacífica en asuntos políticos, conforme a las leyes aplicables, consideren que se les negó indebidamente su registro como partido político estatal;

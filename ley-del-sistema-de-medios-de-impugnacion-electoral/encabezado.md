@@ -1,4 +1,4 @@
-LEY DEL SISTEMA DE MEDIOS DE IMPUGNACION ELECTORAL DEL ESTADO DE ZACATECAS
+LEY DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN ELECTORAL DEL ESTADO DE ZACATECAS
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 4 de octubre de 2003.
 DOCTOR RICARDO MONREAL AVILA, Gobernador del Estado de Zacatecas, a sus habitantes hago saber:
 Que los C.C. DIPUTADOS SECRETARIOS de la H. Quincuagésima Séptima Legislatura del Estado, se han servido dirigirme el siguiente:
@@ -23,7 +23,7 @@ LIBRO PRIMERO
 DEL OBJETO DE LA LEY
 TÍTULO PRIMERO
 Disposiciones Preliminares
-(REFORMADA SU DENOMINACION, P.O. 3 DE OCTUBRE DE 2009)
+(REFORMADA SU DENOMINACIÓN, P.O. 3 DE OCTUBRE DE 2009)
 CAPÍTULO ÚNICO
 Generalidades
 Naturaleza y ámbito de aplicación de la ley
