@@ -179,12 +179,8 @@ DECOMISO DE LOS INSTRUMENTOS Y PRODUCTOS DEL DELITO
 (REFORMADO, P.O. 4 DE AGOSTO DE 2012)
 36.- El decomiso consiste en la aplicación a favor del Gobierno del Estado, de los instrumentos, objetos o productos de los delitos no contemplados en la Ley de Extinción de Dominio, en los términos del presente Código.
 Si son de uso lícito, se decomisarán sólo cuando el sujeto haya sido condenado por delito doloso; si pertenecen a un tercero, sólo se decomisarán cuando éste haya tenido conocimiento de su utilización para la comisión del delito y no lo denunció o no hizo cuanto estaba de su parte para impedirlo.
-(REFORMADO, P.O. 4 DE AGOSTO DE 2012)
-37.- La autoridad competente determinará el destino de los bienes que sean instrumento, objeto o producto del delito, y que sean decomisados, al pago de la reparación de los daños y perjuicios causados, al de la multa, y al Fondo de Apoyo a la Procuración de Justicia, respectivamente.
-(REFORMADO, P.O. 4 DE AGOSTO DE 2012)
-38.- Los bienes no decomisados que se encuentren a disposición de la autoridad judicial o la autoridad investigadora y no hayan sido recogidos por quien tenga derecho a ello, en un plazo de sesenta días naturales contados a partir de la notificación al interesado, causarán abandono a favor de la Procuraduría General de Justicia del Estado, y podrán ser enajenados; el producto se aplicará al Fondo de Apoyo a la Procuración de Justicia.
-Respecto a la enajenación referida en el párrafo anterior, deberá contarse con el avalúo respectivo, y para tal efecto, la Procuraduría General de Justicia podrá celebrar convenios con instituciones públicas o privadas.
-El acuerdo por el que se determine que los bienes han causado abandono deberá notificarse personalmente o mediante edictos cuando se desconozca el domicilio del propietario, que se pagarán con recursos del fondo mencionado.
+37.- (DEROGADO POR EL TRANSITORIO SEGUNDO DE LA LEY PARA LA ADMINISTRACIÓN DE BIENES ASEGURADOS, DECOMISADOS O ABANDONADOS PARA EL ESTADO DE ZACATECAS, P.O. 1 DE JULIO DE 2015)
+38.- (DEROGADO POR EL TRANSITORIO SEGUNDO DE LA LEY PARA LA ADMINISTRACIÓN DE BIENES ASEGURADOS, DECOMISADOS O ABANDONADOS PARA EL ESTADO DE ZACATECAS, P.O. 1 DE JULIO DE 2015)
 CAPITULO VII
 TRABAJO A FAVOR DE LA COMUNIDAD
 39.- El trabajo en favor de la comunidad consiste en la prestación de servicios no remunerados, en obras públicas, instituciones públicas educativas o de asistencia social públicas o privadas. Este trabajo se llevará a cabo en jornadas dentro de periodos distintos al horario de las labores que representen la fuente de ingresos para la subsistencia del sujeto y de su familia, sin que pueda exceder de la jornada extraordinaria que determine la ley laboral y bajo la orientación y vigilancia de la autoridad ejecutora. Podrá imponerse como pena única o como sustitutiva de la pena de prisión o de la multa, en su caso.
