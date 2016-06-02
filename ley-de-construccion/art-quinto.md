@@ -1,0 +1,1 @@
+ARTÍCULO QUINTO.- Los procedimientos administrativos iniciados con anterioridad a la vigencia de este ordenamiento, se resolverán observando las normas vigentes respectivas al momento de inicio de los procedimientos.

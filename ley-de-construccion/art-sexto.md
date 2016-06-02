@@ -1,0 +1,1 @@
+ARTÍCULO SEXTO.- Los registros de los Directores Responsables de Obras y Corresponsables de obra, expedidos con anterioridad a la entrada en vigor de esta Ley, conservarán su vigencia por el término por el que les fue concedida, una vez concluido éste, deberá sujetarse a las disposiciones de esta Ley y demás normatividad aplicables.
