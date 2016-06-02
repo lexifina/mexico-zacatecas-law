@@ -117,6 +117,8 @@ PRISION
 (REFORMADO PRIMER PÁRRAFO, P.O. 4 DE AGOSTO DE 2012)
 21.- La prisión consiste en la privación de la libertad, que podrá durar de tres meses a cincuenta años, y se extinguirá en los lugares o establecimientos que al efecto designe el órgano encargado de la ejecución de las sanciones.
 Cuando la ley fije solamente el máximo de una pena de prisión, el término mínimo de esa pena será de tres meses.
+(ADICIONADO, P.O. 1 DE JUNIO DE 2016)
+El Estado organizará el sistema penitenciario, sobre la base del respeto a los derechos humanos, del trabajo, la capacitación para el mismo, la educación, la salud y el deporte como medios para la reinserción social del delincuente.
 22.- Los sujetos a prisión preventiva y los reos políticos, serán recluidos en establecimientos o departamentos especiales.
 CAPITULO III
 CONFINAMIENTO
@@ -152,7 +154,8 @@ Cuando la reparación del daño deba exigirse a tercero, se tramitará en los t�
 La responsabilidad relativa a la reparación del daño, será igual en los delitos culposos que en los intencionales o preterintencionales.
 31.- La reparación del daño comprende:
 I.- La restitución de la cosa obtenida por el delito y sus frutos, o, en su defecto, el pago del precio correspondiente;
-II.- El resarcimiento del daño material y moral causados, así como la indemnización del perjuicio ocasionado; y
+(REFORMADA, P.O. 1 DE JUNIO DE 2016)
+II. El resarcimiento del daño material y moral causados, así como la indemnización del perjuicio ocasionado, será oportuno, pleno, diferenciado, transformador, integral y efectivo de conformidad con la Ley General de Víctimas y la Ley de Atención a Víctimas del Estado de Zacatecas e incluirá atención médica y psicoterapéutica, así como los servicios sociales y de rehabilitación o tratamientos curativos necesarios para la recuperación de la salud, que hubiere requerido o requiera la víctima como consecuencia del delito. En cuanto al daño moral, el juzgador no podrá absolver al sentenciado de su reparación si ha emitido sentencia condenatoria;
 III.- Tratándose de los delitos comprendidos en el Título Octavo del Libro Segundo de este Código, la reparación del daño abarcará la restitución de la cosa o su valor y, además, hasta dos tantos del valor de la cosa o de los bienes obtenidos por el delito.
 (ADICIONADA, P.O. 4 DE AGOSTO DE 2012)
 IV.- Tratándose de los delitos comprendidos en el Título Vigésimo Cuarto del Libro Segundo de este Código, la reparación del daño abarcará la realización de las acciones necesarias para restablecer las condiciones de los elementos naturales que constituyen los ecosistemas afectados, al estado en que se encontraban antes de realizarse el delito.
@@ -171,9 +174,10 @@ VII.- El Estado, subsidiariamente, por sus funcionarios y empleados.
 (REFORMADO PRIMER PÁRRAFO, P.O. 11 DE ENERO DE 2014)
 34.- Cuando el daño que se cause al ofendido produzca su muerte, el monto de la indemnización por reparación del daño se fijará aplicando las cuotas que establece la Ley Federal del Trabajo, según las circunstancias de la víctima y tomando como base la utilidad o salario que hubiese percibido; si la víctima no percibía utilidad o salario o no pudiere determinarse éste, el monto de la indemnización se fijará tomando como base el mencionado salario mínimo.
 Si el daño produce incapacidad total o parcial, permanente o temporal, el monto de la indemnización se fijará de acuerdo con las tablas que para esta clase de incapacidades establece la Ley Federal del Trabajo, siendo aplicable en lo conducente lo dispuesto en el párrafo anterior.
-(REFORMADO, P.O. 7 DE JUNIO DE 1995)
-35.- La reparación del daño en los casos de los delitos comprendidos en el Título Décimo Segundo de este Código, comprenderá el pago de todo tipo de gastos derivados de tratamientos médicos y psicológicos que requiera el ofendido, por todo el tiempo que éstos sean necesarios a juicio de peritos.
-Cuando a consecuencia de la comisión de los delitos de estupro o violación resulten hijos, la reparación del daño comprenderá además, el pago de alimentos para éstos y para la madre, sin que por este concepto el obligado adquiera ningún derecho sobre los mismos. Este último concepto se pagará en la forma y términos que establece el Código Familiar.
+(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JUNIO DE 2016)
+35.- La reparación del daño en los casos de los delitos comprendidos en el Título Décimo Segundo de este Código, comprenderá el pago de todo tipo de gastos derivados de tratamientos médicos y psicológicos que requiera la persona ofendida, por todo el tiempo que éstos sean necesarios a juicio de peritos; sin perjuicio o complementariamente a los previstos en el artículo 31 de este Código.
+(REFORMADO, P.O. 1 DE JUNIO DE 2016)
+Cuando a consecuencia de la comisión del delito de violación resulten hijos, la reparación del daño comprenderá, además, el pago de alimentos para éstos y para la madre, sin que por este concepto el obligado adquiera ningún derecho sobre los mismos. Este último concepto se pagará en la forma y términos que establece el Código Familiar.
 CAPITULO VI
 DECOMISO DE LOS INSTRUMENTOS Y PRODUCTOS DEL DELITO
 (REFORMADO, P.O. 4 DE AGOSTO DE 2012)
@@ -376,6 +380,8 @@ PERDON DEL OFENDIDO O LEGITIMADO PARA OTORGARLO
 89.- El perdón del ofendido o del legitimado para otorgarlo, extingue la acción penal respecto de los delitos que solamente pueden perseguirse por querella, siempre que se conceda antes de pronunciarse sentencia ejecutoria y el reo no se oponga a su otorgamiento.
 Cuando sean varios los ofendidos y cada uno pueda ejercer separadamente la facultad de perdonar al responsable del delito y al encubridor, el perdón sólo surtirá efectos respecto de quien lo otorga.
 El perdón sólo beneficia al inculpado en cuyo favor se otorga, a menos que el ofendido o el legitimado para otorgarlo, hubiesen obtenido la satisfacción de sus intereses o derechos, en cuyo caso beneficiará a todos los inculpados y al encubridor.
+(ADICIONADO, P.O. 1 DE JUNIO DE 2016)
+En los casos de los delitos que sean perseguidos por querella y que impliquen cualquier tipo de violencia hacia las mujeres, menores de edad o incapaces, el perdón legal solo podrá otorgarse cuando se hayan reparado los daños y perjuicios ocasionados por la comisión del delito y además del sometimiento del inculpado al tratamiento psicológico o psiquiátrico previsto en la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Zacatecas.
 CAPITULO IV
 INDULTO
 90.- El indulto extingue las penas impuestas en sentencia ejecutoria, salvo el decomiso y la reparación de los daños y perjuicios.
