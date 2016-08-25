@@ -1,0 +1,2 @@
+Artículo séptimo. En un plazo que no exceda de ciento veinte días naturales contados a partir de la entrada en vigor de esta Ley, la Legislatura del Estado aprobará las reformas correspondientes a la Ley Orgánica de la Administración Pública del Estado, el Código Penal para el Estado y otras disposiciones legales, para armonizarlos a este cuerpo normativo.
+Plazo para constitución (sic) Fondo Estatal

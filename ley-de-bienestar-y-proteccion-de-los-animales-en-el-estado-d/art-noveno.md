@@ -1,0 +1,5 @@
+Artículo noveno. La unidad de medida y actualización a que se refiere el artículo 84 de esta Ley, se establece para el presente ejercicio fiscal, a razón de $73.04 (setenta y tres pesos 04/100 M.N.), y será actualizada de acuerdo con el valor de la unidad de medida y actualización, que para tal efecto publique el Instituto Nacional de Estadística y Geografía en el Diario Oficial de la Federación.
+COMUNÍQUESE AL EJECUTIVO DEL ESTADO PARA SU PROMULGACIÓN Y PUBLICACIÓN.
+DADO en la Sala de Sesiones de la Honorable Sexagésima Primera Legislatura del Estado de Zacatecas, a los dos días del mes de junio del año dos mil dieciséis. Diputado Presidente DIP.SUSANA RODRÍGUEZ MÁRQUEZ. Diputados Secretarios.- DIP. MANUEL NAVARRO GONZÁLEZ Y DIP. ALFREDO FEMAT BAÑUELOS.- Rúbricas.
+Y para que llegue al conocimiento de todos y se le de el debido cumplimiento, mando se imprima, publique y circule
+Dado en el Despacho del Poder Ejecutivo del Estado, a primero de agosto del año dos mil dieciséis. Gobernador del Estado de Zacatecas.- LIC. MIGUEL ALEJANDRO ALONSO REYES Y SECRETARIO GENERAL DE GOBIERNO.- LIC. JAIME SANTOYO CASTRO. Rúbricas
