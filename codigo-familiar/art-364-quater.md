@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 29 DE MARZO DE 2017)
+ARTICULO 364 Quáter.- La adopción plena extingue la filiación preexistente entre el adoptado y sus progenitores y el parentesco con las familias de éstos, salvo para los impedimentos de matrimonio. En el supuesto de que el adoptante esté casado con alguno: de los progenitores del adoptado no se extinguirán los derechos, obligaciones y demás consecuencias jurídicas que resultan de la filiación consanguínea.

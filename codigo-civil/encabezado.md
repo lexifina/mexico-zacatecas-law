@@ -1,3 +1,4 @@
+[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
 CÓDIGO CIVIL DEL ESTADO DE ZACATECAS
 Código publicado en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 24 de mayo de 1986.
 LIC. JOSE GUADALUPE CERVANTES CORONA, Gobernador Constitucional del Estado Libre y Soberano de Zacatecas, a sus habitantes hago saber:
@@ -57,7 +58,7 @@ En el capítulo de las de las obligaciones conjuntivas y alternativas, se introd
 En el capítulo de las obligaciones mancomunadas se añade al concepto "mancomunado" contenido en la definición, el de: "solidaridad".
 En el capítulo de las obligaciones de dar, se determinan los deberes del obligado en cuanto al cuidado y conservación del bien, procurándose sustituir en todos los casos el concepto de "cosa" por el de "bien".
 En la cesión de créditos, se aclara, cuando hay cesión de créditos o derechos personales y sus consecuencias jurídicas.
-En el capítulo de la subrogación se hace referencia a la subrogación convencional y a las acciones del subrogado, así como a las subrogación real.
+En el capítulo de la subrogación se hace referencia a la subrogación convencional y a las acciones del subrogado, así como a las (sic) subrogación real.
 En el capítulo relativo al ofrecimiento de pago y a la consignación, se amplía la redacción de los artículos sin modificar su contenido y se subsana una omisión actual con la adición de un capítulo que se denomina:
 De la repetición de la prestación hecha a título de pago.
 En el capítulo de evicción y saneamiento se estipula: que la sola mención que se haga en el contrato de compraventa de la renuncia al derecho a la evicción se tendrá por no puesta, en atención a que es ordinario que se ponga esta cláusula en los contratos transcribiendo "Machotes", sin que las partes se enteren de su contenido, en consecuencia tal renuncia será válida sólo cuando se haga constar en el contrato, que las partes se enteraron de su trascendencia y así lo aceptaron, contrato que deberá ser redactado ante el notario y testigos, o solamente ante testigos según el caso.
@@ -1298,7 +1299,8 @@ V.- Cuando el testamento no contiene institución de heredero o legatario.
 780.- Cuando siendo válido el testamento no deba sustituir la institución de heredero o legatario, subsistirán sin embargo, las demás disposiciones hechas en él; y la sucesión legítima sólo comprenderá los bienes que debían corresponder al heredero o legatario instituido.
 781.- Si el testador dispone legalmente sólo de una parte de sus bienes, el resto de ellos forma la sucesión legítima.
 782.- Tienen derecho a heredar por sucesión legítima:
-I.- Los descendientes, cónyuge o concubino, ascendientes y parientes colaterales dentro del cuarto grado;
+(REFORMADA, P.O. 29 DE MARZO DE 2017)
+I.- Los descendientes, cónyuges o concubino, adoptados y adoptantes, ascendientes y parientes colaterales dentro del cuarto grado;
 II.- A falta de los anteriores, la Universidad Autónoma de Zacatecas, "Francisco García Salinas";
 III.- El Estado, por conducto de su Secretaría de Educación Pública y Servicio Social.
 783.- El parentesco por afinidad no da derecho a heredar.
@@ -1311,7 +1313,8 @@ DE LA SUCESION DE LOS DESCENDIENTES
 788.- Si quedaren hijos y descendientes de ulterior grado, los primeros heredarán por cabeza y los segundos por estirpe, lo mismo se observará tratándose de descendientes de hijos fallecidos antes que el autor de la herencia, incapaces de heredar o que hubiesen renunciado a la herencia.
 789.- Si sólo quedaren descendientes de ulterior grado, la herencia se dividirá por estirpes; y si en algunas de éstas hubiere varios herederos, la porción que a ella corresponda, se dividirá por partes iguales.
 790.- Concurriendo hijos con ascendientes, éstos sólo tendrán derecho a alimentos, los que se fijarán de acuerdo a lo preceptuado en los artículos 571, 573 y 575 de este Código.
-791.- El adoptado hereda como un hijo, pero no hay derecho de sucesión entre el adoptado y los parientes del adoptante.
+(REFORMADO, P.O. 29 DE MARZO DE 2017)
+791.- El adoptado hereda como un hijo, pero, tratándose de adopción simple, no hay derecho de sucesión entre el adoptado y los parientes del adoptante.
 792.- Concurriendo padres adoptantes y descendientes del adoptado, los primeros sólo tendrán derecho a alimentos, siendo aplicable lo dispuesto en el artículo 790 de este ordenamiento.
 CAPITULO TERCERO
 DE LA SUCESION DE LOS ASCENDIENTES
@@ -1320,8 +1323,10 @@ DE LA SUCESION DE LOS ASCENDIENTES
 795.- Si sólo hubiere ascendientes de ulterior grado por una línea, se dividirán la herencia por partes iguales.
 796.- Si hubiere ascendientes por ambas líneas, se dividirá la herencia en dos partes iguales y se aplicará una a los ascendientes de la línea paterna y otra a los de la materna. Siendo aplicable el artículo 784.
 797.- Los miembros de cada línea y en el mismo grado, en el caso del artículo anterior, dividirán entre ellos por partes iguales, la porción que a la línea corresponda.
-798.- Concurriendo los adoptantes con ascendientes del adoptado, la herencia de éste se dividirá por partes iguales entre los adoptantes y los ascendientes.
-799.- Si concurre el cónyuge del adoptado con los adoptantes, las dos terceras partes de la herencia corresponden al cónyuge y la otra tercera parte a los que hicieron la adopción.
+(REFORMADO, P.O. 29 DE MARZO DE 2017)
+798.- Tratándose de adopción simple, si concurren los adoptantes con ascendientes del adoptado, la herencia de éste se dividirá por partes iguales entre los adoptantes y los ascendientes.
+(REFORMADO, P.O. 29 DE MARZO DE 2017)
+799.- Tratándose de adopción simple, si concurre el cónyuge del adoptado con los adoptantes, las dos terceras partes de la herencia corresponden al cónyuge y la otra tercera parte a los que hicieron la adopción.
 800.- Los ascendientes naturales tienen derecho de heredar a sus descendientes reconocidos en los términos de este Capítulo.
 801.- Si el reconocimiento se hace después de que el descendiente haya adquirido bienes cuya cuantía, teniendo en cuenta las circunstancias personales del que reconoce, haga suponer, fundadamente, que motivó el reconocimiento, ni el que reconoce, ni sus descendientes, tienen derecho a la herencia del reconocido. El que reconoce tiene derecho a alimentos, en el caso de que el reconocimiento lo haya hecho cuando el reconocido tenía derecho a percibir alimentos.
 CAPITULO CUARTO
