@@ -2033,11 +2033,9 @@ V.- No tendrán aplicación las reglas formales de apreciación de las pruebas, 
 CAPITULO II
 Cuestiones matrimoniales
 555.- (DEROGADO, P.O. 3 DE OCTUBRE DE 2007)
-(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)
-556.- Cuando se solicite que el juez supla el consentimiento para que un menor pueda contraer matrimonio, oirá a los interesados en una junta en la que recibirá las pruebas y dictará resolución, levantándose una sola acta con las diligencias. Si la resolución fuere favorable, se expedirá desde luego copia certificada para su representación al Oficial del Registro Civil. Si fuere adversa sin necesidad de apelación se remitirá el expediente al Tribunal Superior de Justicia para que, oyendo a los interesados, confirme o revoque la determinación.
-El menor de edad que, deseando contraer matrimonio, necesite acudir a la autoridad competente para suplir el consentimiento de sus padres, puede solicitar al juez que determine sobre el particular. El juez después de levantar la información correspondiente, oyendo a los padres y sin formalidades especiales, decidirá si la decreta.
+556.- (DEROGADO, P.O. 29 DE MARZO DE 2017)
+(REFORMADO, P.O. 29 DE MARZO DE 2017)
 557.- Recibida del Oficial del Registro Civil el acta levantada con motivo del impedimento, el juez citará al denunciante si lo hubiere, y a los interesados a una audiencia en la que los oirá, recibirá las pruebas y dictará su resolución. Siempre que se declare no haber impedimento, el denunciante será condenado al pago de las costas, daños y perjuicios. El juicio se hará constar en una sola acta cuando termine en un sólo día. La resolución que recaiga será inapelable.
-En los casos en que el actor solicite dispensa para contraer matrimonio con la persona que está bajo su guarda, o se celebrase el matrimonio en contravención a la prohibición legal, el juez, a petición de la autoridad administrativa o de cualquier interesado, nombrará un tutor interino que se encargue de representar al menor, reciba los bienes y los administre mientras se concede la dispensa.
 558.- Se tramitarán conforme a las reglas de este artículo las diferencias que surjan entre marido y mujer:
 (REFORMADA, P.O. 16 DE AGOSTO DE 1975)
 I.- Sobre la obligación de los cónyuges, de vivir en el domicilio conyugal;
@@ -2059,7 +2057,7 @@ CAPITULO III
 Nulidad del matrimonio
 (REFORMADO, P.O. 3 DE OCTUBRE DE 2007)
 562.- Sólo las personas a quienes el Código Familiar del Estado concede este derecho pueden pedir la nulidad del matrimonio. El derecho para pedirla no es transmisible por herencia o de cualquiera otra manera; pero los herederos podrán continuar la acción ya comenzada por el autor de la herencia.
-563.- En los juicios sobre nulidad de matrimonio, los cónyuges menores de edad necesitan de un tutor para litigar. La demanda será suscrita también con la firma del menor y con la huella dígito-pulgar derecha del mismo, quien la ratificará en la presencia judicial.
+563.- (DEROGADO, P.O. 29 DE MARZO DE 2017)
 564.- La nulidad del matrimonio se tramitará de acuerdo con las reglas del juicio ordinario, con las siguientes modalidades:
 (REFORMADA, P.O. 3 DE OCTUBRE DE 2007)
 I.- Al admitirse la demanda se decretarán las medidas provisionales que procedan entre las autorizadas por el artículo 234 del Código Familiar del Estado;
@@ -2108,8 +2106,9 @@ Cuando el convenio no fuere susceptible de aprobación, no podrá decretarse la 
 CAPITULO V
 Del divorcio necesario
 577.- El divorcio necesario sólo puede ser demandado por el cónyuge que no haya dado causa a él. La acción de divorcio sólo podrá ejercitarse por los cónyuges.
-578.- Los cónyuges menores de edad necesitan de un tutor o de representante legítimo para litigar en asuntos de divorcio. La demanda será suscrita también con la firma del menor y con la huella dígito-pulgar derecha del mismo, quien la ratificará en la presencia judicial; pero no se exigirán estos requisitos cuando el cónyuge padezca enajenación mental.
-Los cónyuges pueden hacerse representar por procuradores; pero el poder deberá ser especial y expreso.
+578.- (DEROGADO PRIMER PÁRRAFO, P.O. 29 DE MARZO DE 2017)
+(REFORMADO, P.O. 29 DE MARZO DE 2017)
+En asuntos de divorcio los cónyuges pueden hacerse representar por procuradores; pero el poder deberá ser especial y expreso.
 579.- El Ministerio Público tendrá intervención en los juicios de divorcio necesario; pero la facultad para rendir pruebas quedará limitada a ofrecer sólo las que sirvan para el mantenimiento del vínculo.
 (REFORMADO, P.O. 3 DE OCTUBRE DE 2007)
 580.- Al admitirse la demanda de divorcio se dictarán provisionalmente y mientras dure el juicio, las disposiciones a que se refiere el artículo 234 del Código Familiar del Estado. El señalamiento y aseguramiento de alimentos para el cónyuge acreedor y los hijos, no podrá demorarse por el hecho de no tener el juez datos para hacer la fijación del monto de la pensión, sino que se decretará tan pronto como se pida. El monto de la pensión puede ser modificado durante el juicio cuando cambien las posibilidades económicas y posición de los cónyuges. A petición de los abuelos, tíos o hermanos mayores, el juez, en cualquier tiempo durante el juicio, puede dictar las providencias que se consideren benéficas a los hijos menores. El Juez podrá decretar el alejamiento del agresor, cuando lo considere necesario para la protección de las víctimas de violencia familiar.
@@ -2324,8 +2323,9 @@ La autorización la concederá o denegará el juez, oyendo al menor y al Ministe
 La autorización otorgada en estos casos quedará sin efecto cuando los padres o tutores se apersonen el el (sic) juicio respectivo.
 (REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2007)
 637.- Las demandas de emancipación procederán en los casos previstos en el Capítulo Único, Título Sexto del Libro Segundo del Código Familiar del Estado.
-La emancipación por matrimonio del menor se produce de pleno derecho y sin necesidad de declaración judicial.
-En los demás casos, la demanda de emancipación se tramitará oyendo al menor y a los padres o tutores en una audiencia en la que se recibirán las pruebas que presenten los interesados.
+(DEROGADO SEGUNDO PÁRRAFO, P.O. 29 DE MARZO DE 2017)
+(REFORMADO, P.O. 29 DE MARZO DE 2017)
+La demanda de emancipación se tramitará oyendo al menor y a los padres o tutores en una audiencia en la que se recibirán las pruebas que presenten los interesados.
 La resolución no es apelable, y hecha la emancipación, no puede ser revocada.
 La resolución correspondiente se remitirá al Oficial del Registro Civil para que levante el acta respectiva.
 (REFORMADO, P.O. 3 DE OCTUBRE DE 2007)

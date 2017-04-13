@@ -1,3 +1,4 @@
+[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
 CÓDIGO FAMILIAR DEL ESTADO DE ZACATECAS
 Código publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 10 de mayo de 1986.
 JOSE GUADALUPE CERVANTES CORONA, Gobernador Constitucional del Estado Libre y Soberano de Zacatecas, a sus habitantes hago saber:
