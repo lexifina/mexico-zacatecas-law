@@ -722,11 +722,27 @@ II. Cuando el valor del ganado exceda de cien pero no de trescientas cuotas se i
 III. Cuando el valor del ganado exceda de trescientas pero no de quinientas cuotas se impondrá prisión de tres a seis años y multa de doscientas a trescientas cuotas; y
 (REFORMADA, P.O. 4 DE AGOSTO DE 2012)
 IV. Cuando el valor del ganado exceda de quinientas cuotas la sanción será de cuatro a doce años y multa hasta de trescientas a trescientas cincuenta cuotas.
-331.- Las mismas sanciones que señala el artículo anterior se aplicarán:
-I.- A los que adquieran animales robados, según su valor;
-II.- A las autoridades o quienes intervengan en la legalización de documentos que acrediten la propiedad del semoviente o semovientes, si no tomaron las medidas indispensables para cerciorarse de la procedencia legítima de los animales;
+(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JUNIO DE 2017)
+331. Se equipararán al abigeato y se aplicarán las mismas sanciones:
+(REFORMADA, P.O. 21 DE JUNIO DE 2017)
+I.- A los que adquieran animales sin haberse cerciorado previamente de su legítima procedencia; entendiéndose por ésta la documentación que expidan las instituciones competentes, o bien, las Uniones, Asociaciones y Agrupaciones Ganaderas;
+(REFORMADA, P.O. 21 DE JUNIO DE 2017)
+II.- A quien intervenga por si, o por interpósita persona, en la legalización de documentos que acrediten la propiedad del ganado, si no tomaron las medidas indispensables para cerciorarse conforme a la fracción anterior, respecto de la procedencia legítima de los animales;
 III.- Al que ampare a una o más cabezas de ganado robado con documentación alterada o expedida a otro; y
 IV.- Al que, con perjuicio de otro, disponga para sí o para un tercero, de una o más cabezas de ganado, de las cuales se le haya transmitido la tenencia y no el dominio, o bien se le haya entregado para su custodia.
+(ADICIONADA, P.O. 21 DE JUNIO DE 2017)
+V.- Al que expida ilegalmente Guía de Tránsito para movilizar animales, productos, subproductos o desechos de origen animal para su venta; y
+(ADICIONADA, P.O. 21 DE JUNIO DE 2017)
+VI.- Al que en el lugar diseccione a una o más cabezas de ganado, con la finalidad de apoderarse de todo o parte del mismo.
+(ADICIONADO, P.O. 21 DE JUNIO DE 2017)
+331 bis. Se considerarán calificados el delito de abigeato y sus equiparados, cuando:
+I. Se ejecute con violencia en las personas, o cuando el imputado la realice después de consumado el apoderamiento, para proporcionarse la fuga o defender lo robado;
+II. Sea perpetrado por ganaderos inscritos como tales en cualquier institución, Unión, Asociación o Agrupación;
+III. El imputado sea o haya sido, o simule serlo, miembro de alguna corporación de seguridad pública u otra autoridad, o bien, lo ejecute valiéndose de la supuesta orden de una autoridad;
+IV. Se cometa aprovechando alguna relación de parentesco, vecindad o trabajo;
+V. Se cometa de noche; y
+VI. Se cometa por dos o más personas.
+Para el responsable del delito de abigeato calificado, las sanciones señaladas en el artículo 330 de este Código se aumentarán en una tercera parte en su mínimo y dos terceras partes en su máximo.
 (REFORMADO PRIMER PÁRRAFO, P.O. 4 DE AGOSTO DE 2012)
 332.- Al que transporte ganado de procedencia ilegal sin haber tomado las medidas necesarias para cerciorarse de su procedencia legítima, se le impondrá de dos a seis años de prisión y multa de doscientas a trescientas cuotas.
 Si el transporte se hace a sabiendas de que se trata de ganado robado, se aplicarán las sanciones señaladas en los artículos 330 y 331.
