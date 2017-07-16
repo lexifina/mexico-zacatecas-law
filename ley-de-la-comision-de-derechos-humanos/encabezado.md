@@ -1,4 +1,4 @@
-LEY DE LA COMISION DE DERECHOS HUMANOS DEL ESTADO DE ZACATECAS
+LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE ZACATECAS
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el miércoles 27 de enero de 1993.
 LICENCIADO ARTURO ROMO GUTIERREZ, Gobernador Constitucional del Estado Libre y Soberano de Zacatecas, a sus habitantes hago saber
 Que los CC. DIPUTADOS SECRETARIOS de la H. Quincuagésimo Cuarta Legislatura del Estado han tenido a bien dirigirme el siguiente
