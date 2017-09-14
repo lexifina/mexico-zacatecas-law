@@ -246,6 +246,10 @@ En el caso de que fuere Servidor Público, además se le destituirá de su cargo
 (REFORMADO, P.O. 5 DE JULIO DE 1997)
 Si el ofendido es persona menor de dieciocho años, la pena se duplicará.
 Sólo se procederá en contra del sujeto activo a petición de parte ofendida o de su legítimo representante y dentro de los seis meses siguientes de producido el daño o perjuicio.
+(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2017)
+233 bis. Al que a través de internet, teléfono móvil o cualquier tecnología de la información y comunicación, contacte a un menor de edad para obtener contenido sexual o pornográfico del menor y amenace con difundirlo por cualquier medio o concertar un encuentro sexual con el mismo, se le impondrá una pena de cinco meses a tres años de prisión y multa de diez a cincuenta cuotas.
+Cuando el contacto se haga a través del engaño o la violencia física o moral, o bien, cuando exista una relación de parentesco, trabajo o amistad entre la víctima y el imputado, la pena se aumentará hasta en una mitad más.
+Se sancionarán tales conductas con independencia de que pudiere resultar cualquier otro delito.
 (DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE JUNIO DE 2016)
 CAPITULO III
 ESTUPRO
@@ -270,7 +274,7 @@ Si se ejerciera violencia física o moral, a la pena impuesta se aumentarán has
 (REFORMADA, P.O. 1 DE JUNIO DE 2016)
 III. Al que introduzca por vía vaginal o anal cualquier elemento o instrumento distinto al miembro viril, por medio de la violencia física o moral, excepto en menores de doce años donde no es necesario la violencia, sea cual fuere el sexo del ofendido, se le impondrá una pena de seis a quince años de prisión y multa de veinte a cien cuotas, independientemente de la pena que corresponda por el delito de lesiones que pudiera resultar.
 (ADICIONADA, P.O. 1 DE JUNIO DE 2016)
-IV. A quien tenga cópula con persona mayor de doce años y menor de dieciocho obteniendo su consentimiento por medio del engaño, se le aplicará de tres a seis años de prisión y multa de doscientas a trescientos (sic) sesenta y cinco cuotas.
+IV. A quien tenga cópula con persona mayor de doce años y menor de dieciocho obteniendo su consentimiento por medio del engaño, se le aplicará de tres a seis años de prisión y multa de doscientas a trescientos sesenta y cinco cuotas.
 Para los efectos de los delitos de violación y los equiparables a la violación contemplados en los artículos 236 y 237, no gozarán del beneficio de la libertad provisional bajo caución.
 (ADICIONADO, P.O. 4 DE AGOSTO DE 2012)
 Cuando el sujeto activo de este delito tuviere derechos de tutela, patria potestad o de heredar bienes por sucesión legítima respecto de la víctima, además de la sanción señalada anteriormente, perderá estos derechos.
@@ -585,7 +589,7 @@ PARRICIDIO
 CAPITULO VII
 INFANTICIDIO
 (REFORMADO, P.O. 4 DE AGOSTO DE 2012)
-307.- Llámase (sic) infanticidio a la muerte causada a un niño o niña por su madre, dentro de las setenta y dos horas de su nacimiento.
+307.- Llámase infanticidio a la muerte causada a un niño o niña por su madre, dentro de las setenta y dos horas de su nacimiento.
 Al que cometa este delito se le aplicarán de seis a doce años de prisión y multa de cincuenta a cien cuotas.
 308.- (DEROGADO, P.O. 4 DE AGOSTO DE 2012)
 309.- Si en el infanticidio tomare participación un médico, cirujano, comadrona o partera, además de las sanciones privativas de la libertad que les correspondan, se les suspenderá de uno a cinco años en el ejercicio de su profesión.
