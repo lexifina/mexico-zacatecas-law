@@ -1,6 +1,7 @@
 TRANSITORIOS
 Artículo primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
-Artículo segundo. Dentro de los sesenta días siguientes a la entrada en vigor del presente Decreto, la Legislatura del Estado deberá designar a los integrantes de la Comisión de Selección.
+(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2017)
+Artículo segundo. Dentro de los noventa días siguientes a la entrada en vigor del presente Decreto, la Legislatura del Estado deberá designar a los integrantes de la Comisión de Selección.
 Artículo tercero. La Comisión de Selección, dentro de los sesenta días posteriores a su instalación, nombrará a los integrantes del Comité de Participación Ciudadana en los términos siguientes:
 a) Un integrante que durará en su encargo un año, a quien corresponderá la Presidencia del Comité de Participación Ciudadana ante el Comité Coordinador.
 b) Un integrante que durará en su encargo dos años.
@@ -18,3 +19,4 @@ COMUNÍQUESE AL EJECUTIVO DEL ESTADO PARA SU PROMULGACIÓN Y PUBLICACIÓN.
 DADO en la Sala de Sesiones de la Honorable Sexagésima Segunda Legislatura del Estado, a los veintinueve días del mes de junio del año dos mil diecisiete. DIPUTADA PRESIDENTA. JULIA ARCELIA OLGUÍN SERNA, DIPUTADAS SECRETARIAS.- MA. GUADALUPE GONZÁLEZ MARTÍNEZ E IRIS AGUIRRE BORREGO. Rubricas
 Y para que llegue al conocimiento de todos y se le dé el debido cumplimiento, mando se imprima, publique y circule.
 Dado en el despacho del Poder Ejecutivo del Estado, a los catorce días del mes de julio del año dos mil diecisiete. GOBERNADOR DEL ESTADO DE ZACATECAS.- ALEJANDRO TELLO CRISTERNA. SECRETARIA GENERAL DE GOBIERNO.- FABIOLA GILDA TORRES RODRÍGUEZ. Rubricas.
+[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]
