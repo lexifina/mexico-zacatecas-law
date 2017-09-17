@@ -6,7 +6,7 @@ RESULTANDO PRIMERO.- En sesión del Pleno correspondiente al día 27 de Abril de
 RESULTANDO SEGUNDO.- Por acuerdo del Presidente de la Mesa Directiva y con fundamento en lo dispuesto por los artículos 56 fracción I y 59, párrafo 1, fracción I del Reglamento General vigente en esa fecha, la Iniciativa de referencia fue turnada a través del memorando número 1893 Comisión Legislativa de Puntos Constitucionales, para su estudio y Dictamen.
 CONSIDERANDO ÚNICO. EL presente instrumento legislativo se sustenta en la siguiente:
 "EXPOSICION DE MOTIVOS
-.
+[...]
 Por lo anteriormente expuesto y fundado, y con apoyo además en lo dispuesto por los artículos 140 y 141 del Reglamento General del Poder Legislativo, en nombre del Pueblo es de Decretarse y se:
 DECRETA
 LEY DE ASISTENCIA SOCIAL DEL ESTADO DE ZACATECAS
