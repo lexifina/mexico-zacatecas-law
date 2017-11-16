@@ -1,7 +1,7 @@
 TRANSITORIOS
 Artículo primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
-(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2017)
-Artículo segundo. Dentro de los noventa días siguientes a la entrada en vigor del presente Decreto, la Legislatura del Estado deberá designar a los integrantes de la Comisión de Selección.
+(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2017)
+Artículo segundo. Dentro de los sesenta días siguientes a la entrada en vigor del presente Decreto, la Legislatura del Estado deberá designar a los integrantes de la Comisión de Selección.
 Artículo tercero. La Comisión de Selección, dentro de los sesenta días posteriores a su instalación, nombrará a los integrantes del Comité de Participación Ciudadana en los términos siguientes:
 a) Un integrante que durará en su encargo un año, a quien corresponderá la Presidencia del Comité de Participación Ciudadana ante el Comité Coordinador.
 b) Un integrante que durará en su encargo dos años.
