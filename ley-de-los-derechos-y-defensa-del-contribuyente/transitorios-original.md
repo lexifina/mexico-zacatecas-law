@@ -11,7 +11,8 @@ Sexto. El Comisionado, es el responsable del proceso de constitución de la Comi
 Séptimo. De acuerdo con el segundo párrafo de la fracción XIII del artículo 25 de esta Ley, las personas que al inicio de las operaciones de la Comisión Estatal tengan el carácter de síndicos, podrán solicitar su registro ante ésta a partir del 1 de febrero de 2018.
 Octavo. La Comisión Estatal de la Defensa del Contribuyente realizará una campaña masiva para difundir las nuevas disposiciones contenidas en esta Ley.
 COMUNÍQUESE AL EJECUTIVO DEL ESTADO PARA SU PROMULGACIÓN Y PUBLICACIÓN.
-DADO en la Sala de Sesiones de la Honorable Sexagésima Segunda Legislatura del Estado de Zacatecas, a los 21 días de (sic) mes de diciembre del año dos mil dieciséis. Diputada Presidenta.- DIP. NORMA ANGÉLICA CASTORENA BERRELLEZA. Diputadas Secretarias.- DIP. MA. GUADALUPE GONZÁLEZ MARTÍNEZ y DIP. MARÍA ELENA ORTEGA CORTÉS.- Rúbricas.
+(F. DE E., P.O. 21 DE ENERO DE 2017)
+DADO en la Sala de Sesiones de la Honorable Sexagésima Segunda Legislatura del Estado, a los quince días del mes de diciembre del año dos mil dieciséis. Diputada Presidenta.- DIP. NORMA ANGÉLICA CASTORENA BERRELLEZA. Diputadas Secretarias.- DIP. MA. GUADALUPE GONZÁLEZ MARTÍNEZ y DIP. MARÍA ELENA ORTEGA CORTÉS.- Rúbricas.
 Y para que llegue al conocimiento de todos y se le dé el debido cumplimiento, mando se imprima, publique y circule.
 DADO en el Despecho del Poder Ejecutivo del Estado, a los veintinueve días del mes de diciembre del año dos mil dieciséis.
 A t e n t a m e n t e.
