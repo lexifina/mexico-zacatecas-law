@@ -533,7 +533,8 @@ Cuando el autor de la lesión sea persona de notoria escasa instrucción a crite
 (ADICIONADO, P.O. 1 DE JUNIO DE 2016)
 291 Bis.- Cuando por razones de género se lesione dolosamente a una mujer, se aumentará una tercera parte a la punibilidad que le corresponda por la lesión inferida.
 Deberá entenderse la presencia de razones de género, cuando las lesiones sean producto de la ejecución de alguna o varias de las circunstancias propias de los tipos de violencia en contra de las mujeres descrita en la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia y Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Zacatecas.
-292.- De las lesiones que a una persona cause algún animal bravío, será responsable el que con esa intención lo azuce o lo suelte. Si lo suelta por descuido, la sanción será la correspondiente al delito culposo.
+(REFORMADO, P.O. 13 DE ENERO DE 2018)
+292.- De las lesiones que a una persona cause algún animal, será responsable el que con esa intención lo azuce o lo suelte. Si lo suelta por descuido, la sanción será la correspondiente al delito culposo.
 CAPITULO II
 HOMICIDIO
 293.- Comete el delito de homicidio el que priva de la vida a otro.
