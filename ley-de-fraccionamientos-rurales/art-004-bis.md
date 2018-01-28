@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 27 DE ENERO DE 2018)
+Artículo 4 Bis.- Cuando la Dirección, mediante el procedimiento correspondiente declare la vacancia de un lote y en él se encuentren asentamientos humanos, la Secretaría mediante la declaratoria correspondiente, podrá incluir tales asentamientos al programa de regularización que la misma Dependencia implemente, para otorgarles el dominio pleno respecto de sus posesiones. Lo anterior con apego a los Programas de Regularización de la Tenencia de la Tierra que se expidan.
