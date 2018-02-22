@@ -257,6 +257,10 @@ DE LOS BIENES VACANTES
 85.- Son bienes vacantes los inmuebles que no tienen dueño cierto y conocido.
 86.- El que tuviere noticia de la existencia de bienes vacantes en el Estado de Zacatecas y quisiere adquirir la parte que la ley le da al descubridor hará la denuncia de ellos al Ministerio Público del lugar de la ubicación de tales bienes.
 87.- El Ministerio Público, si estima que procede, deducirá ante el Juez competente, según el valor de los bienes, la acción que corresponda a fin de que, declarados vacantes los bienes, se adjudiquen al Fisco del Estado. Se tendrá al que hizo la denuncia como tercero coadyuvante.
+(ADICIONADO, P.O. 21 DE FEBRERO DE 2018)
+Tratándose de bienes inmuebles destinados a la prestación de servicios públicos, así como a la infraestructura de los Entes Públicos estatales o municipales, éstos serán los únicos legitimados para solicitar la declaratoria judicial a que se refiere el párrafo anterior.
+(ADICIONADO, P.O. 21 DE FEBRERO DE 2018)
+Declarada la vacancia de tales bienes, el Juez ordenará la adjudicación en favor del Ente Público de que se trate y mandará remitir el expediente para su protocolización correspondiente ante la autoridad que corresponda.
 88.- El denunciante recibirá la cuarta parte del valor catastral de los bienes que denuncie, pudiendo recibirla en especie, observándose lo dispuesto en la parte final del artículo 81 de este Ordenamiento.
 89.- El que se apodere de un bien vacante sin cumplir con lo prevenido en este Capítulo, pagará una multa de una a diez cuotas del salario mínimo vigente.
 TITULO TERCERO
@@ -2639,8 +2643,8 @@ DE LA FORMA DEL CONTRATO DE COMPRAVENTA
 1668.- Si alguno de los contratantes no supiere escribir, firmará a su nombre y a su ruego otra persona con capacidad legal, no pudiendo firmar con ese carácter ninguno de los testigos, sino que lo hará a su ruego otra persona y en el documento se imprimirá la huella digital del interesado que no firmó.
 1669.- De dicho instrumento se formularán cinco tantos para distribuirse entre los interesados, Autoridades Fiscales y Registro Público.
 1670.- Si el valor del inmueble excede del equivalente a cien días del salario mínimo vigente en la época de la celebración del contrato, su venta se otorgará en escritura pública.
-(REFORMADO, P.O. 3 DE DICIEMBRE DE 2014)
-Sin embargo cuando se trate de operaciones o contratos otorgados por la Comisión para la Regularización de la Tenencia de la Tierra, por el Consejo Promotor de la Vivienda Popular en liquidación, por el Organismo Regularizador de la Tenencia de la Tierra en Zacatecas o por la Secretaría de Administración, podrán hacerse constar en documento privado celebrado ante dos testigos, que contenga además, la constancia a que se refiere el artículo 2475, fracción III de este Código.
+(REFORMADO, P.O. 21 DE FEBRERO DE 2018)
+Cuando se trate de operaciones o contratos otorgados por la Secretaría de Desarrollo Urbano, Vivienda y Ordenamiento Territorial del Gobierno del Estado, independientemente del valor del inmueble, se hará constar en escritura pública, en ejercicio de sus atribuciones legales y reglamentarias.
 1671.- La venta de bienes raíces no producirá efectos contra terceros sino después de registrado en los términos prescritos por este Código.
 CAPITULO NOVENO
 DE LAS VENTAS JUDICIALES
@@ -4130,7 +4134,8 @@ La información se recibirá con citación del Ministerio Público, al cual se l
 A la información se le acompañarán los siguientes documentos:
 I.- Certificado del Registro Público que demuestre que los bienes no están inscritos;
 II.- Certificados del estado actual del inmueble en los registros fiscales de las oficinas rentísticas del Estado;
-III.- Dictamen de la oficina competente de la Secretaría de Obras Públicas del Gobierno del Estado, declarando procedente la solicitud en lo que a ella corresponda;
+(REFORMADA, P.O. 21 DE FEBRERO DE 2018)
+III.- Dictamen de la Secretaría de Desarrollo Urbano, Vivienda y Ordenamiento Territorial del Gobierno del Estado, declarando procedente la solicitud en lo que a ésta le corresponda;
 IV.- Un plano de ubicación y localización del bien expedido y aprobado por las autoridades catastrales estatales y municipales;
 V.- Opinión del H. Ayuntamiento Municipal de la ubicación del inmueble; y
 VI.- Si se trata de predios rústicos, se acompañarán además, certificados del Registro Agrario Nacional y de la Dirección de Fraccionamientos Rurales del Gobierno del Estado, en las que se acredite que él o los inmuebles no se encuentran sujetos a las leyes correspondientes.
@@ -4143,6 +4148,8 @@ A la solicitud acompañará los documentos que se mencionan en el Artículo ante
 Las declaraciones de los testigos versarán sobre el hecho de la posesión, sobre los requisitos que deben tener para servir de base a la prescripción adquisitiva y sobre el origen de la posesión.
 El efecto de la inscripción será tener la posesión inscrita como apta para producir la prescripción al concluir el plazo de cinco años contados desde la misma inscripción.
 Las inscripciones de posesión expresarán las circunstancias exigidas para las inscripciones en general y además las siguientes: los nombres de los testigos que hayan declarado, el resultado de las declaraciones y la resolución judicial que ordene la inscripción.
+(ADICIONADO, P.O. 21 DE FEBRERO DE 2018)
+2517 Bis. Cuando se trate de bienes inmuebles destinados a la prestación de servicios públicos, así como a la infraestructura de los Entes Públicos estatales o municipales no inscritos en el registro en favor de persona alguna, no será necesario registrar la posesión como apta para producir la prescripción.
 2518.- Cualquiera que se crea con derecho a los bienes cuya inscripción se solicita mediante información de dominio o de posesión, podrá alegarlo ante la autoridad judicial competente.
 La presentación del escrito de oposición en la forma que establece el Código de Procedimientos Civiles, suspenderá el curso del expediente de información; si éste estuviere ya concluido y aprobado, deberá el Juez poner la demanda en conocimiento del Registrador para que suspenda la inscripción, y si ya estuviere hecha, para que anote dicha demanda.
 Si el opositor deja transcurrir seis meses sin promover en el procedimiento de oposición, quedará éste sin efecto, haciéndose en su caso la cancelación que proceda.
