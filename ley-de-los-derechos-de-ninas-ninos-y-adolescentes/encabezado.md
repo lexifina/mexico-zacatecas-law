@@ -1,5 +1,4 @@
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE ZACATECAS
-N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO, EL PRESENTE ORDENAMIENTO ENTRARÁ EN VIGOR A LOS NOVENTA DÍAS SIGUIENTES AL DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO DE ZACATECAS.
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 1 de julio de 2015.
 LIC. MIGUEL ALEJANDO ALONSO REYES, Gobernador del Estado de Zacatecas, a sus habitantes hago saber:
 Que los DIPUTADOS SECRETARIOS de la Honorable Sexagésima Primera Legislatura del Estado, se han servido dirigirme el siguiente.

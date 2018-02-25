@@ -28,7 +28,7 @@ q) Ley del Sistema Estatal de Seguridad Pública de Zacatecas.
 r) Ley Orgánica de la Procuraduría General de Justicia del Estado de Zacatecas.
 s) Ley de Transparencia y Acceso a la Información Pública del Estado de Zacatecas.
 t) Ley de la Comisión de los Derechos Humanos del Estado de Zacatecas.
-Artículo Séptimo. Los Centros de Asistencia que se encuentren operando con antelación a la entrada en vigor del presente Decreto, contarán con un plazo ,no mayor a ciento veinte días naturales siguientes a su entrada en vigor, para realizar las adecuaciones conducentes en términos de lo previsto por esta Ley.
+Artículo Séptimo. Los Centros de Asistencia que se encuentren operando con antelación a la entrada en vigor del presente Decreto, contarán con un plazo, no mayor a ciento veinte días naturales siguientes a su entrada en vigor, para realizar las adecuaciones conducentes en términos de lo previsto por esta Ley.
 Artículo Octavo. Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, con el objetivo de dar cumplimiento a lo previsto en esta Ley, deberán implementar las políticas y acciones correspondientes conforme los programas aplicables y los que se deriven de la misma.
 COMUNÍQUESE AL EJECUTIVO DEL ESTADO PARA SU PROMULGACIÓN Y PUBLICACIÓN.
 DADO en la Sala de Sesiones de la Honorable Sexagésima Primera Legislatura del Estado de Zacatecas, a los seis días del mes de mayo del año dos mil quince. Diputado Presidente.- DIP. EUGENIA FLORES HERNÁNDEZ. Diputados Secretarios.- DIP. ELISA LOERA DE ÁVILA y DIP. JAIME MANUEL ESQUIVEL HURTADO.- Rúbricas.
@@ -40,3 +40,4 @@ EL GOBERNADOR DEL ESTADO DE ZACATECAS
 LIC. MIGUEL ALEJANDRO ALONSO REYES.
 EL SECRETARIO GENERAL DE GOBIERNO
 LIC. JAIME SANTOYO CASTRO.
+[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]

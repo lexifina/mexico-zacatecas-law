@@ -748,7 +748,7 @@ Para los efectos de este artículo la indemnización comprende el pago de los da
 CAPITULO QUINTO
 DE LAS SERVIDUMBRES VOLUNTARIAS
 416.- El propietario o poseedor que reúna el requisito del artículo 458, puede establecer en el inmueble cuantas servidumbres tenga por conveniente y en el modo y forma que mejor le parezca, siempre que no contravenga las leyes ni perjudique derecho de terceros.
-417.- Sólo pueden constituir servidumbres las personas que tienen derecho de enajenar; las que no pueden enajenar inmuebles sino con ciertos requisitos, no pueden, sin ellos, imponer servidumbre sobre los mismos .
+417.- Sólo pueden constituir servidumbres las personas que tienen derecho de enajenar; las que no pueden enajenar inmuebles sino con ciertos requisitos, no pueden, sin ellos, imponer servidumbre sobre los mismos.
 418.- Si fueren varios los propietarios o poseedores de un predio, no se podrá imponer servidumbres sino con consentimiento de todos.
 419.- Si siendo varios los propietarios o poseedores, uno solo de ellos adquiere una servidumbre sobre otro predio, a favor del común, de ella podrán aprovecharse todos los copartícipes, quedando obligados a los gravámenes naturales que traiga consigo.
 CAPITULO SEXTO
@@ -888,7 +888,7 @@ DE LAS SUCESIONES
 TITULO PRIMERO
 DISPOSICIONES PRELIMINARES
 486.- Sucesión es la trasmisión de todos los bienes, derechos y obligaciones de una persona por causa de su muerte.
-La herencia es el conjunto de bienes, derechos y obligaciones que no se extinguen con la muerte de su titular; constituye una universalidad jurídica y una copropiedad en favor de todos los herederos a partir del día y la hora de la muerte del autor de la sucesión, hasta la partición y adjudicación .
+La herencia es el conjunto de bienes, derechos y obligaciones que no se extinguen con la muerte de su titular; constituye una universalidad jurídica y una copropiedad en favor de todos los herederos a partir del día y la hora de la muerte del autor de la sucesión, hasta la partición y adjudicación.
 Legado es la trasmisión de uno o varios bienes determinados o determinables que hace en su testamento el testador en favor de una o varias personas.
 487.- La herencia se trasmite por voluntad expresa del testador o por disposición de la Ley. La primera se llama testamentaria y la segunda legítima. Los legados sólo se trasmiten por voluntad del testador.
 488.- El testador es libre para disponer del todo o de parte de sus bienes en la forma y con las limitaciones que se establecen en este Código. La parte de que no disponga quedará regida por los preceptos de la sucesión legítima.
@@ -1347,7 +1347,8 @@ DE LA SUCESION DE LOS COLATERALES
 809.- A falta de los llamados en los artículos anteriores sucederán los parientes más próximos dentro del cuarto grado y heredarán por partes iguales.
 CAPITULO SEXTO
 DE LA SUCESION DE LOS CONCUBINOS
-810.- La persona con quien el autor de la herencia vivió como si fuera su cónyuge dentro de los cinco años que precedieron inmediatamente a su muerte o con la que tuvo hijos, siempre que ambos hayan permanecido libres de matrimonio durante el concubinato, tiene derecho a heredar conforme a las reglas establecidas en el Capítulo IV de este Título.
+(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 24 DE FEBRERO DE 2018)
+810.- La persona con quien el autor de la herencia vivió como si fuera su cónyuge dentro de los dos años que precedieron inmediatamente a su muerte o con la que tuvo hijos, siempre que ambos hayan permanecido libres de matrimonio durante el concubinato, tiene derecho a heredar conforme a las reglas establecidas en el Capítulo IV de este Título.
 Si al morir el autor de la herencia hacía vida marital con varias personas en las condiciones mencionadas en el artículo precedente, ninguna de ellas heredará.
 CAPITULO SEPTIMO
 DE LA SUCESION DE LA UNIVERSIDAD AUTONOMA DE ZACATECAS Y DEL ESTADO
@@ -1732,7 +1733,7 @@ Los derechos personalísimos no son transmisibles ni por contrato ni por sucesi�
 1072.- Es contrato oneroso aquél en que se estipulan provechos y gravámenes recíprocos; y gratuito aquél en que el provecho es solamente para una de las partes.
 1073.- El contrato oneroso es conmutativo cuando las prestaciones que se deben las partes son ciertas, en cuanto a su existencia y cuantía, desde que se celebra el contrato. Es aleatorio cuando las partes o una de ellas desconocen la existencia o cuantía de las prestaciones que deben, por depender tales prestaciones de un acontecimiento futuro.
 1074.- Son contratos consensuales aquéllos que se perfeccionan por el mero consentimiento de las partes y la ley no exige que se prueben por escrito ni que se entregue el bien objeto del contrato para la constitución de éste.
-Se llaman formales los contratos que, perfeccionándose por el mero consentimiento de las partes, deben probarse mediante prueba documental , sea pública o privada, según determine la ley.
+Se llaman formales los contratos que, perfeccionándose por el mero consentimiento de las partes, deben probarse mediante prueba documental, sea pública o privada, según determine la ley.
 El contrato será real cuando la ley exija, para su constitución, que al celebrarse se entregue el bien o bienes que sean objeto de las obligaciones creadas por el contrato.
 1075.- Se llaman contratos de tracto sucesivo aquéllos cuya vigencia tiene una cierta duración, de tal manera que ambas partes o una de ellas van cumpliendo sus obligaciones o ejercitando sus derechos a través de cierto tiempo.
 Los contratos son instantáneos cuando las prestaciones se realizan inmediatamente.
