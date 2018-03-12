@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2017)
+ARTICULO 240 OCTIES.- Para el caso que los solicitantes del divorcio administrativo no hayan celebrado su matrimonio ante el Oficial del Registro Civil que conozca del asunto, éste, una vez declarado el divorcio, remitirá copia de ella al Oficial del Registro Civil ante quien se celebró el matrimonio, para que levante el acta correspondiente y, además, para que publique un extracto de la resolución durante quince días, en las tablas destinadas a este efecto.

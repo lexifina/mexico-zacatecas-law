@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2017)
+ARTICULO 240 SEXIES.- El Oficial del Registro Civil levantará un acta en que hará constar la solicitud de divorcio y citará a los cónyuges para que se presenten a ratificarla a los 15 días, si los cónyuges la ratifican, el Oficial del Registro Civil los declarará divorciados, levantando el acta respectiva y haciendo la anotación correspondiente en el acta de matrimonio.
