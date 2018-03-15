@@ -1,0 +1,1 @@
+Artículo tercero. El titular del Ejecutivo del Estado, dentro de los ciento ochenta días naturales siguientes a la entrada en vigor de esta Ley, deberá publicar en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas el Reglamento de esta Ley, así como las modificaciones al Reglamento Interior de la Secretaría General de Gobierno.

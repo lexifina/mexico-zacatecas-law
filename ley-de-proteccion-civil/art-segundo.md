@@ -1,0 +1,1 @@
+Artículo segundo. Se abroga la Ley de Protección Civil para el Estado de Zacatecas, publicada en Suplemento al número 67 del Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas, correspondiente al día 20 de agosto de 2011.

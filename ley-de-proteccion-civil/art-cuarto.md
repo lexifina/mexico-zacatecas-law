@@ -1,0 +1,5 @@
+Artículo cuarto. El titular del Ejecutivo del Estado, por conducto de la Secretaría General de Gobierno, deberá llevar a cabo los procesos administrativos necesarios para la conversión de la Dirección Estatal de Protección Civil a Coordinación de Protección Civil del Estado de Zacatecas, con la naturaleza de órgano desconcentrado de dicha dependencia.
+COMUNÍQUESE AL EJECUTIVO DEL ESTADO PARA SU PROMULGACIÓN Y PUBLICACIÓN.
+DADO en la Sala de Sesiones de la Honorable Legislatura del Estado, a los treinta días del mes de noviembre del año dos mil diecisiete. DIPUTADA PRESIDENTA.- MARÍA ISAURA CRUZ DE LIRA. DIPUTADOS SECRETARIOS.- CARLOS ALBERTO SANDOVAL CARDONA Y SANTIAGO DOMÍNGUEZ LUNA. Rúbricas.
+Y para que llegue al conocimiento de todos y se le dé el debido cumplimiento, mando se imprima, publique y circule.
+Dado en el despacho del Poder Ejecutivo del Estado, a los veintidós días del mes de febrero del año dos mil dieciocho. GOBERNADOR DEL ESTADO DE ZACATECAS.- ALEJANDRO TELLO CRISTERNA. SECRETARIA GENERAL DE GOBIERNO.- FABIOLA GILDA TORRES RODRÍGUEZ. Rúbricas.
