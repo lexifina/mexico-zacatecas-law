@@ -8,4 +8,5 @@ VI. Divulgar información falsa relativa a las funciones políticas, con el obje
 VII. Obligar mediante la fuerza o intimidación, a quienes desempeñen cargo de autoridad electa o designada, en el ejercicio de sus funciones políticas, a suscribir todo tipo de documento o a avalar decisiones, en contra de su voluntad y contrarios al interés público;
 VIII. Discriminar a quien tenga la calidad de autoridad electa o designada, por cuestión de su género o por encontrarse en etapa de embarazo, y
 IX. Cualquier otra forma análoga que lesione o sea susceptible de dañar la integridad de las mujeres en el ejercicio de un espacio de poder o de decisión.
-Violencia Feminicida
+(ADICIONADO, P.O. 23 DE JUNIO DE 2018)
+Violencia Digital
