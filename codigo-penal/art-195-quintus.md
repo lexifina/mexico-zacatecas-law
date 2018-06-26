@@ -1077,8 +1077,8 @@ DE LOS SERVIDORES PUBLICOS
 385.- (DEROGADO, P.O. 6 DE JUNIO DE 2015)
 (ADICIONADO CON CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE AGOSTO DE 2012)
 TITULO VIGESIMO SEGUNDO
-(ADICIONADO CON ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE AGOSTO DE 2012)
-CAPITULO UNICO
+(REFORMADO EN SU NUMERACIÓN, P.O. 23 DE JUNIO DE 2018)
+CAPITULO PRIMERO
 DELITOS CONTRA EL MEDIO AMBIENTE Y LA GESTION AMBIENTAL
 (ADICIONADO, P.O. 4 DE AGOSTO DE 2012)
 386.- Se impondrá pena de uno a nueve años de prisión y multa de cien a trescientas cuotas, al que sin contar con la autorización de Impacto Ambiental de competencia estatal, o teniendo dicha autorización, ordene o realice obras o actividades que ocasionen daños o riesgos graves a la salud pública, la flora, la fauna o los ecosistemas.
@@ -1102,3 +1102,16 @@ V. Después de haber sido sancionado administrativamente en dos ocasiones por la
 392.- Además de las penas señaladas en el presente Título, el Juez podrá imponer las siguientes:
 I. La suspensión, modificación o demolición de las construcciones, obras o actividades, según corresponda, que hubieren dado lugar al delito ambiental respectivo; y
 II. La inhabilitación para desempeñar cualquier empleo, cargo o comisión con el carácter de autoridad pública, cuando el autor o partícipe del delito tenga la calidad de servidor público, hasta por un tiempo igual al que se le hubiera fijado como pena privativa de libertad, la cual deberá correr al momento en que el sentenciado haya cumplido con la prisión o ésta se hubiera tenido por cumplida.
+(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE JUNIO DE 2018)
+CAPITULO SEGUNDO
+DELITOS COMETIDOS POR ACTOS DE MALTRATO O CRUELDAD EN CONTRA DE ANIMALES NO HUMANOS
+(ADICIONADO, P.O. 23 DE JUNIO DE 2018)
+393. Al que cometa actos de maltrato o crueldad injustificados en contra de cualquier especie animal que no constituyan plaga, provocando o no lesiones evidentes, se le impondrá de seis meses a dos años de prisión y de cien a doscientas veces la unidad de medida y actualización, así como el aseguramiento de todos los animales que pudiera tener bajo su cuidado o resguardo.
+En caso de que las lesiones pongan en peligro la vida del animal, se aumentará en una mitad la pena señalada.
+(ADICIONADO, P.O. 23 DE JUNIO DE 2018)
+394. A todo aquel que cometa actos de maltrato o crueldad injustificada en contra de cualquier especie animal que no constituyan plaga, provocándole la muerte, se le impondrá de uno a tres años de prisión y de doscientas a cuatrocientas veces la unidad de medida y actualización, así como el aseguramiento de todos los animales que pudiera tener bajo su cuidado o resguardo.
+En el caso de que se haga uso de métodos que provoquen un grave sufrimiento al animal previo a su muerte, las penas se aumentarán en una mitad.
+Se entenderá por métodos que provocan un grave sufrimiento, todos aquellos que ocasionen una muerte no inmediata y por el contrario prolonguen la agonía del animal, ya sea por las lesiones en el detrimento de la salud del animal.
+(ADICIONADO, P.O. 23 DE JUNIO DE 2018)
+395. Por actos de maltrato y crueldad, se estará a lo dispuesto en la Ley para el Bienestar y Protección de los Animales en el Estado de Zacatecas.
+Quedan exceptuadas de las disposiciones establecidas en el presente capítulo las corridas de toros, novillos y becerros, así como las peleas de gallos, jaripeos, charreadas, carreras de caballos, las que habrán de sujetarse a lo dispuesto en los ordenamientos jurídicos aplicables.
