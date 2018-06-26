@@ -457,6 +457,9 @@ Cuando los ilícitos tipificados en las fracciones anteriores se cometan en perj
 265 Bis.- (DEROGADO, P.O. 4 DE AGOSTO DE 2012)
 266.- (DEROGADO, P.O. 4 DE AGOSTO DE 2012)
 267.- (DEROGADO, P.O. 4 DE AGOSTO DE 2012)
+(ADICIONADO, P.O. 23 DE JUNIO DE 2018)
+267 bis.- Comete el delito de violencia política por razones de género, quien realice por sí o a través de terceros cualquier acción u omisión que impida, limite o restrinja los derechos político-electorales de las mujeres y el acceso a un cargo público o a las prerrogativas inherentes al mismo.
+A quien cometa este delito, se le impondrá una pena de dos a seis años de prisión y multa de cien a doscientas veces la Unidad de Medida y Actualización diaria en el momento de la comisión del delito.
 (DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE JUNIO DE 2016)
 CAPITULO V
 RAPTO
