@@ -237,19 +237,22 @@ Si se hiciere uso de la violencia física o moral, la pena corporal se duplicar�
 En los casos considerados por este artículo, se procederá de oficio contra el sujeto activo.
 (REFORMADO, P.O. 4 DE AGOSTO DE 2012)
 232 Bis.- La conducta a que se refiere el artículo 231, se sancionará a petición del ofendido o de sus representantes.
-(REFORMADA SU DENOMINACIÓN, P.O. 7 DE JUNIO DE 1995)
+(REFORMADA SU DENOMINACIÓN, P.O. 15 DE AGOSTO DE 2018)
 CAPITULO II
-HOSTIGAMIENTO SEXUAL
-(REFORMADO, P.O. 7 DE JUNIO DE 1995)
-233.- A quien con fines lascivos asedie reiteradamente a persona de cualquier sexo, valiéndose de su posición jerárquica derivada de sus relaciones laborales, docentes, domésticas o cualquiera otra que implique subordinación, se le impondrá pena de dos meses a un año de prisión y multa de tres a ocho cuotas.
-En el caso de que fuere Servidor Público, además se le destituirá de su cargo.
-(REFORMADO, P.O. 5 DE JULIO DE 1997)
-Si el ofendido es persona menor de dieciocho años, la pena se duplicará.
-Sólo se procederá en contra del sujeto activo a petición de parte ofendida o de su legítimo representante y dentro de los seis meses siguientes de producido el daño o perjuicio.
+ACOSO Y HOSTIGAMIENTO SEXUAL
+(REFORMADO, P.O. 15 DE AGOSTO DE 2018)
+233.- Comete el delito de acoso sexual, quien lleve a cabo conductas verbales, no verbales, físicas o varias de ellas, de carácter sexual y que sean indeseables para quien las recibe, con independencia de que se cause o no un daño a su integridad física o psicológica; se le sancionará con seis meses a dos años de prisión y de cincuenta a trescientas veces la Unidad de Medida y Actualización diaria en el momento de la comisión del delito.
+Este delito se perseguirá por querella; cuando el sujeto activo sea reincidente se perseguirá de oficio.
+Si la víctima del delito de acoso sexual fuera menor de edad o, incapaz o no tenga la capacidad de comprender el significado del hecho o posibilidad para resistir la conducta delictuosa, se aplicará de dos a cinco años de prisión y de cien a seiscientas veces la Unidad de Medida y Actualización diaria.
 (ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2017)
 233 bis. Al que a través de internet, teléfono móvil o cualquier tecnología de la información y comunicación, contacte a un menor de edad para obtener contenido sexual o pornográfico del menor y amenace con difundirlo por cualquier medio o concertar un encuentro sexual con el mismo, se le impondrá una pena de cinco meses a tres años de prisión y multa de diez a cincuenta cuotas.
 Cuando el contacto se haga a través del engaño o la violencia física o moral, o bien, cuando exista una relación de parentesco, trabajo o amistad entre la víctima y el imputado, la pena se aumentará hasta en una mitad más.
 Se sancionarán tales conductas con independencia de que pudiere resultar cualquier otro delito.
+(ADICIONADO, P.O. 15 DE AGOSTO DE 2018)
+233 ter.- Comete el delito de hostigamiento sexual quien con fines lascivos asedie a persona de cualquier sexo, valiéndose de su posición jerárquica derivada de sus relaciones laborales, docentes, domésticas o cualquiera otra que implique subordinación, se le impondrá pena de uno a cuatro años de prisión y multa de cien a seiscientas veces la Unidad de Medida y Actualización diaria en el momento de la comisión del delito.
+En el caso de que fuere Servidor Público, además se le sancionará con la destitución e inhabilitación por un periodo al de la pena de prisión impuesta para desempeñar cargo o comisión pública.
+Se aplicará de tres a siete años de prisión y de doscientos a ochocientas veces la Unidad de Medida y Actualización diaria, cuando la víctima del hostigamiento sexual sea menor de edad o incapaz o no tenga la capacidad de comprender el significado del hecho o posibilidad para resistir la conducta delictuosa.
+Sólo se procederá en contra del sujeto activo a petición de parte ofendida o de su legítimo representante.
 (DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE JUNIO DE 2016)
 CAPITULO III
 ESTUPRO
