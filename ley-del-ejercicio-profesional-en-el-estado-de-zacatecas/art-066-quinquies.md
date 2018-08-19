@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 18 DE AGOSTO DE 2018)
+Artículo 66 Quinquies.- El cumplimiento del servicio social de los estudiantes de las instituciones de educación superior se sujetará a sus planes y programas de estudio, normatividad institucional, objetivos señalados en esta Ley y otras disposiciones aplicables. Dichas instituciones diseñarán programas y modalidades del servicio social los cuales se registrarán en la Secretaria.
