@@ -1,0 +1,4 @@
+ARTÍCULO 62 Bis. (DEROGADO, P.O. 31 DE DICIEMBRE DE 2018)
+CAPÍTULO QUINTO
+Impuesto Sobre Adquisición de Bienes Muebles
+DEL OBJETO

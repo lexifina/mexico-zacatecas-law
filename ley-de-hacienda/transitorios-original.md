@@ -1,9 +1,29 @@
 TRANSITORIOS
-PRIMERO. El presente Código de Ética del Consejo Estatal Electoral y de Participación Ciudadana, entrará en vigor al siguiente día de su aprobación.
-SEGUNDO. Se abroga el Acuerdo del Órgano Interno de Control del Consejo Estatal Electoral y de Participación Ciudadana de San Luis Potosí, por medio del cual se emitió el Código de Ética, de fecha 28 veintiocho de marzo de 2023.
-TERCERO. Dese máxima publicidad al presente acuerdo en la página oficial de este Consejo Estatal Electoral y de Participación Ciudadana, y póngase en conocimiento de las personas servidoras públicas adscritas al Consejo, para su cumplimiento.
-CUARTO. Publíquese en el Periódico Oficial del Estado para los efectos legales correspondientes.
-ASÍ lo acordó en la Ciudad de San Luis Potosí, S.L.P., a los 20 veinte días del mes de marzo del año 2025 dos mil veinticinco, la LIC. VIVIANA MARGARITA HERNÁNDEZ CARRERA, Titular del Órgano Interno de Control del Consejo Estatal Electoral y de Participación Ciudadana.
-LIC. VIVIANA MARGARITA HERNÁNDEZ CARRERA
-TITULAR DEL ÓRGANO INTERNO DE CONTROL
-(RÚBRICA)
+PRIMERO. La presente Ley entrará en vigor en todo el Estado de Zacatecas a partir del 1 de enero de 2017, previa publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+SEGUNDO. A la entrada en vigor de la presente Ley queda abrogada la Ley de Hacienda del Estado de Zacatecas publicada en el Suplemento número 3 al 105 del Periódico Oficial del Gobierno del Estado, correspondiente al día 30 de diciembre de 2000 que contiene el Decreto No. 228, así como todas aquellas disposiciones emitidas con posterioridad al citado Decreto y que se opongan al presente.
+TERCERO. Los contribuyentes sujetos al pago del Impuesto Adicional para la Infraestructura quedarán inscritos automáticamente con base en el cumplimiento de los artículos 98 y 99 de esta Ley.
+CUARTO. Los ingresos que se obtengan de la recaudación del Impuesto establecido en el Capítulo Séptimo Sección I del Título Segundo de esta Ley, se destinarán prioritariamente a:
+I. La inversión en infraestructura física, incluyendo la construcción, reconstrucción, ampliación, mantenimiento y conservación de infraestructura; así como la adquisición de bienes para el equipamiento de las obras generadas o adquiridas; infraestructura hidroagrícola, y hasta un 3 por ciento del costo del programa o proyecto programado en el ejercicio fiscal correspondiente, para gastos indirectos por concepto de realización de estudios, elaboración y evaluación de proyectos, supervisión y control de estas obras de infraestructura; entendiéndose como tal la establecida en el artículo 2 fracción XXI de la Ley de Obligaciones y Empréstitos y Deuda Pública;
+II. Como fuente de financiamiento para su aportación en convenios de coordinación, reasignación o pari passu con el Gobierno Federal, siempre y cuando su destino sea lo establecido en la fracción anterior;
+III. Al saneamiento financiero, a través de la amortización de la deuda pública, expresada como una reducción al saldo registrado al 31 de diciembre del año inmediato anterior, siempre y cuando su contratación provenga de conceptos establecidos en la fracción I de este artículo.
+QUINTO. En tanto no sea publicado el Código de Biodiversidad para el Estado de Zacatecas, será aplicable de manera supletoria lo dispuesto en la Ley de Equilibrio Ecológico y la Protección al Ambiente del Estado de Zacatecas, la Ley del Cambio Climático para el Estado de Zacatecas y sus Municipios y la Ley de Residuos Sólidos para el Estado de Zacatecas.
+SEXTO. En tanto los organismos a que hacen referencia los artículos 124 y 132 de esta Ley, no realicen la publicación de los servicios por los que procede el cobro de derechos, se continuarán aplicando las tarifas o cuotas del ejercicio inmediato anterior.
+SÉPTIMO. Las referencias que se hagan y las atribuciones que se otorgan en la presente Ley, a las dependencias o unidades administrativas que desaparezcan o cambien de denominación por virtud de la entrada en vigor de la nueva Ley Orgánica de la Administración Pública del Estado de Zacatecas, se entenderán hechas o conferidas a las dependencias o unidades administrativas que resulten competentes conforme a la misma, de acuerdo con sus atribuciones y su denominación.
+OCTAVO. Los recursos obtenidos por el importe que represente el incremento en la recaudación del Impuesto para la Universidad Autónoma de Zacatecas establecido en el Capítulo Séptimo, Sección II del Título Segundo de esta Ley, se destinará al saneamiento financiero de la citada Universidad.
+Para los efectos del presente artículo, se entenderá lo siguiente:
+I. Incremento de la recaudación será la diferencia de los ingresos observados del ejercicio 2017 con relación a 2016, del citado impuesto.
+II. Saneamiento Financiero serán los recursos que se destinen a la disminución de pasivos, considerándose entre otros los establecidos en el artículo 90 de esta Ley, los de carácter fiscal, instituciones de seguridad social, proveedores, entre otros, expresada como una reducción al saldo registrado al 31 de diciembre del año inmediato anterior, asimismo, podrán realizarse otras acciones de saneamiento financiero, siempre y cuando se acredite un impacto favorable en la fortaleza de las finanzas de la Universidad Autónoma de Zacatecas.
+COMUNÍQUESE AL EJECUTIVO DEL ESTADO PARA SU PROMULGACIÓN Y PUBLICACIÓN.
+DADO en la Sala de Sesiones de la Honorable Sexagésima Segunda Legislatura del Estado de Zacatecas, a los 15 días de mes de diciembre del año dos mil dieciséis. Diputada Presidenta.- DIP. NORMA ANGÉLICA CASTORENA BERRELLEZA. Diputadas Secretarias.-DIP. MA. GUADALUPE GONZÁLEZ MARTÍNEZ y DIP. MARÍA ELENA ORTEGA CORTÉS.- Rúbricas.
+Y para que llegue al conocimiento de todos y se le dé el debido cumplimiento, mando se imprima, publique y circule.
+DADO en el Despacho del Poder Ejecutivo del Estado, a los veintinueve días del mes de diciembre del año dos mil dieciséis.
+A t e n t a m e n t e.
+"SUFRAGIO EFECTIVO. NO REELECCIÓN"
+EL GOBERNADOR DEL ESTADO DE ZACATECAS
+ALEJANDRO TELLO CRISTERNA.
+LA SECRETARÍA GENERAL DE GOBIERNO
+FABIOLA GILDA TORRES RODRÍGUEZ.
+EL SECRETARIO DE FINANZAS
+JORGE MIRANDA CASTRO
+[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]
+[N. DE E. MEDIANTE DECRETO 112 PUBLICADO EN EL P.O. DE 31 DE DICIEMBRE DE 2018, LA H. LEGISLATURA DEL ESTADO SOMETIÓ DE NUEVA CUENTA LAS REFORMAS DEL DECRETO 273 EN ACATAMIENTO A LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, POR LO QUE SE SUGIERE CONSULTAR EL APARTADO CORRESPONDIENTE DENTRO DE LA CRONOLOGÍA LEGISLATIVA DE ESTE ORDENAMIENTO.]
