@@ -1,5 +1,0 @@
-P.O. 20 DE DICIEMBRE DE 2017.
-[N. DE E. "DISPOSICIONES TRANSITORIAS DE LA LEY DE HACIENDA DEL ESTADO DE ZACATECAS".]
-Artículo Único.- Las presentes reformas, adiciones y derogaciones a esta Ley de Hacienda del Estado de Zacatecas, entrarán en vigor el primero de enero del año dos mil dieciocho, previa publicación en el Periódico Oficial, Órgano del Gobierno del Estado Libre y Soberano de Zacatecas.
-[N. DE E. TRANSITORIO DEL "DECRETO NO. 273.- SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS, DE LA LEY DE HACIENDA DEL ESTADO DE ZACATECAS, DE LA LEY DE COORDINACIÓN Y COLABORACIÓN FINANCIERA PARA EL ESTADO DE ZACATECAS Y SUS MUNICIPIOS, DE LA LEY DE LOS DERECHOS Y DEFENSA DEL CONTRIBUYENTE DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS, DE LA LEY DE DISCIPLINA FINANCIERA Y RESPONSABILIDAD HACENDARIA DEL ESTADO DE ZACATECAS Y DE LA LEY DE OBLIGACIONES, EMPRÉSTITOS Y DEUDA PÚBLICA DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS".]
-ÚNICO.- El presente Decreto entrará en vigor el 1ro. de enero del 2018, previa publicación en el Periódico Oficial, Órgano del Gobierno del Estado Libre y Soberano de Zacatecas.
