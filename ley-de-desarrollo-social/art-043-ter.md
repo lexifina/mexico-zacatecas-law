@@ -1,0 +1,7 @@
+(ADICIONADO, P.O. 26 DE OCTUBRE DE 2019)
+Artículo 43 Ter.- La política estatal y municipal de desarrollo social deberá integrar entre sus estrategias el fomento al sector social de la economía y para tal efecto deberá:
+I. Impulsar el desarrollo de formas asociativas entre la ciudadanía, así como a sus formas de organización, para lo cual, establecerá políticas públicas específicas para promover su integración y desarrollo;
+II. Promover proyectos de apoyo a las actividades productivas del sector social de la economía que generen empleos e ingresos que beneficien a la comunidad, destinando recursos públicos para brindarles capacitación, asistencia técnica y asesoría legal;
+III. Integrar programas que cuenten con recursos para dar viabilidad a las empresas sociales y solidarias en apoyo de personas, familias y organizaciones cuyo objeto sea el financiamiento de proyectos de desarrollo social;
+IV. Generar proyectos para impulsar la cooperación, entre las organizaciones, asociaciones o empresas sindicales o cooperativas del sector social de la economía, a fin de establecer redes de colaboración entre ellas y, con ello, crear circuitos y polos productivos, y
+V. Establecer campañas de difusión para dar a conocer entre un mayor número de personas, la existencia de iniciativas y proyectos productivos de las organizaciones y entidades que integran al sector social de la economía, a efecto de que puedan participar, formar parte de ellas y promoverlas.
