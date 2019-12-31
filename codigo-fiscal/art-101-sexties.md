@@ -1,0 +1,4 @@
+(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2019)
+ARTÍCULO 101 SEXTIES. El aviso a que se refiere el artículo anterior, deberá ser suscrito por el contribuyente o por su representante legal y por el contador público que vaya a emitir el dictamen, y sólo será válido por el periodo y las contribuciones que se indiquen.
+Los contribuyentes podrán modificar el aviso originalmente presentado, cuando se incluyan o modifiquen las contribuciones a dictaminar; se sustituya al dictaminador designado, siempre y cuando lo comunique a las autoridades fiscales a más tardar treinta días antes de que concluya el plazo para la presentación del dictamen, justificando los motivos que tuviere.
+Cuando el contador público señalado en el aviso no pueda formular el dictamen por incapacidad física o impedimento legal debidamente probado, el aviso para sustituirlo se podrá presentar en cualquier tiempo hasta antes de que concluya el plazo para la presentación del dictamen.

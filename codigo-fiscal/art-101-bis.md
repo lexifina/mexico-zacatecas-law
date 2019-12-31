@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2019)
+ARTÍCULO 101 BIS. Las personas físicas, morales y las unidades económicas presentarán dictamen del cumplimiento de sus obligaciones fiscales, en los términos de este Código y de las reglas de carácter general que para esos efectos emita la Secretaría de Finanzas, respecto de las contribuciones a las que se encuentre sujeto, cuando se ubiquen en alguno de los supuestos que señala el artículo 101 Ter de este ordenamiento.

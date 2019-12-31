@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2019)
+ARTÍCULO 101 DUODECIES. El dictamen deberá contener la opinión sobre el cumplimiento de las disposiciones fiscales establecidas en este Código, y de las contribuciones sujetas a dictamen, el cual se formulará de acuerdo con las reglas de carácter general que emita la Secretaría de Finanzas y las normas de auditoría que regulan la capacidad, independencia e imparcialidad profesional del contador público, el trabajo que desempeña y la información que rinda como resultado de los mismos.

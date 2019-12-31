@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2019)
+ARTÍCULO 101 DECIES. Las declaraciones, que en los términos de este Código presenten los contribuyentes, podrán ser modificadas por ellos, mediante declaraciones complementarias, siempre que no se haya iniciado el procedimiento de comprobación por parte de la autoridad fiscal, sin que lo anterior limite a las autoridades en el ejercicio de sus facultades de comprobación.

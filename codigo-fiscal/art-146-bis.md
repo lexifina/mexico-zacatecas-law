@@ -3,5 +3,6 @@ ARTÍCULO 146 BIS. Las autoridades fiscales deberán emitir las resoluciones que
 El plazo señalado en el párrafo anterior se suspenderá si durante el plazo para concluir la visita domiciliaria o la revisión de la contabilidad en las oficinas de las propias autoridades, si se actualiza alguna de las hipótesis establecidas en las fracciones I, II y III del artículo 143 de este Código y cuando el contribuyente durante el plazo para emitir la resolución interponga algún medio de defensa, desde la fecha de su interposición y hasta que quede firme la resolución que al mismo hubiere recaído.
 Cuando las autoridades no notifiquen la resolución correspondiente en cualquiera de las formas establecidas en este Código dentro del plazo antes señalado, quedarán sin efecto la orden y las actuaciones que deriven de la visita o de la revisión de que se trate.
 La nulidad de las actuaciones del procedimiento de fiscalización no afectará o invalidará la información obtenida en el desarrollo del procedimiento anulado.
-SECCIÓN IV
-De los procedimientos para la determinación presuntiva de la Base Gravable y de los Ingresos Presuntos
+(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 28 DE DICIEMBRE DE 2019)
+SECCIÓN III BIS
+De la Revisión del Dictamen Formulado por Contador Público

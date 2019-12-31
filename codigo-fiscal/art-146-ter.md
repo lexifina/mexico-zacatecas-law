@@ -1,0 +1,8 @@
+(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2019)
+ARTÍCULO 146 TER. Se presumirán ciertos, salvo prueba en contrario, los hechos afirmados en los dictámenes formulados por los contadores públicos sobre el cumplimiento de sus obligaciones fiscales establecidas en este Código; o bien, en las aclaraciones que dichos contadores formulen respecto de sus dictámenes, siempre que se reúnan los requisitos siguientes:
+I. Que el contador público que dictamine obtenga su inscripción ante la Secretaría de Finanzas, en los términos de lo señalado en el artículo 101 Quaterdecies de este Código;
+II. Que el dictamen se formule de acuerdo a lo establecido en el artículo 101 Duodecies;
+III. Que el contador público emita, conjuntamente con su dictamen, un informe, bajo protesta de decir verdad, sobre la revisión de la situación fiscal del contribuyente;
+IV. Que el dictamen se presente a través de los medios que establezca la Secretaría de Finanzas de conformidad con las reglas de carácter general que al efecto emita, y
+V. Que el contador público esté, en el mes de presentación del dictamen, al corriente en el cumplimiento de sus obligaciones fiscales en los términos del artículo 68 de este Código, para lo cual deberán exhibir a los particulares el documento vigente expedido por la Secretaría de Finanzas, en el que se emita la opinión del cumplimiento de obligaciones fiscales.
+Las opiniones o interpretaciones contenidas en los dictámenes, no obligan a las autoridades fiscales. La revisión de los dictámenes y demás documentos relativos a los mismos se podrá efectuar en forma previa o simultánea al ejercicio de las otras facultades de comprobación respecto de los contribuyentes o responsables solidarios.
