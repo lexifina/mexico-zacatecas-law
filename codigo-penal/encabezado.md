@@ -1,5 +1,5 @@
+[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
 CÓDIGO PENAL PARA EL ESTADO DE ZACATECAS
-[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 29 DE SEPTIEMBRE DE 2018.]
 Código publicado en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 17 de mayo de 1986.
 JOSE GUADALUPE CERVANTES CORONA, Gobernador Constitucional del Estado Libre y Soberano de Zacatecas a sus habitantes hago saber:
 Que los CC. Diputados Secretarios de la H. Quincuagésima Primera Legislatura del Estado se han servido dirigirme el siguiente
@@ -13,20 +13,35 @@ DE LA APLICACION DE ESTE CODIGO
 1.- Este Código se aplicará en todo el Estado Libre y Soberano de Zacatecas por los delitos de la competencia de los tribunales comunes perpetrados en su territorio, cualesquiera que sean la residencia o nacionalidad de los responsables.
 2.- Se aplicará asimismo: por los delitos que se inicien, preparen o cometan fuera del Estado, cuando se produzcan o se pretenda que tengan efectos en el territorio de Zacatecas, si los hechos delictuosos tienen ese carácter en la Entidad en que se ejecuten y en el Estado de Zacatecas, y siempre que no se haya sentenciado definitivamente por ellos al responsable en la localidad en que delinquió o en otro lugar.
 3.- Los delitos continuados y los permanentes, iniciados fuera del Estado y que se sigan cometiendo en éste, se perseguirán con arreglo a las leyes del mismo.
-4.- Cuando se cometa algún delito no previsto en este Código, pero sí en otra ley propia del Estado, se aplicará ésta, observando supletoriamente las disposiciones de este Código en lo no prevenido por aquélla.
+(REFORMADO, P.O. 31 DE AGOSTO DE 2019)
+4.- Cuando se cometa algún delito no previsto en este Código, pero sí en otra ley, se aplicará ésta, observando supletoriamente las disposiciones de este Código en lo no prevenido por aquélla.
 TITULO PRIMERO
 CAPITULO I
 REGLAS GENERALES SOBRE DELITOS Y RESPONSABILIDADES DE LOS PARTICIPES
 5.- Delito es el acto u omisión que sancionan las leyes penales.
+(ADICIONADO, P.O. 31 DE AGOSTO DE 2019)
+5 Bis.- En los delitos de resultado material será atribuible el resultado típico producido a quien omita impedirlo, si éste tenía el deber jurídico de evitarlo, si:
+I. Es garante del bien jurídico;
+II. De acuerdo con las circunstancias podía evitarlo, y
+III. Su omisión es, en su eficacia, equivalente a la actividad prohibida en el tipo.
+Es garante del bien jurídico el que:
+a) Aceptó efectivamente su custodia;
+b) Voluntariamente formaba parte de una comunidad que afronta peligros de la naturaleza;
+c) Con una actividad precedente dolosa o culposa, generó el peligro para el bien jurídico, o
+d) Se halla en una efectiva y concreta posición de custodia de la vida, la salud o integridad corporal de algún miembro de su familia o de su pupilo.
 6.- Los delitos pueden ser:
-I.- Intencionales;
+(REFORMADA, P.O. 31 DE AGOSTO DE 2019)
+I.- Intencionales o dolosos, y
 II.- No intencionales o culposos; y
-III.- Preterintencionales.
-Obra intencionalmente el que, conociendo las circunstancias del hecho típico, quiera o acepte el resultado definido por la ley como delito.
-Obra culposamente el que realiza el hecho típico que no previó siendo previsible o previó confiando en poder evitarlo, infringiendo un deber de cuidado que debía y podía observar según las circunstancias y condiciones personales.
-Obra preterintencionalmente el que causa un daño mayor que el que se quiso causar, habiendo dolo directo respecto del daño querido y culpa con relación al daño causado.
+III.- (DEROGADA, P.O. 31 DE AGOSTO DE 2019)
+(REFORMADO, P.O. 31 DE AGOSTO DE 2019)
+Actúa intencionalmente o con dolo, la persona que al momento de la realización del hecho, se representa el resultado típico y quiere o acepta su realización.
+(REFORMADO, P.O. 31 DE AGOSTO DE 2019)
+Actúa no intencional o culposamente, el que realiza el hecho típico que no previó siendo previsible o previó confiando en poder evitarlo, infringiendo un deber de cuidado que debía y podía observar según las circunstancias y condiciones personales.
+(DEROGADO CUARTO PÁRRAFO, P.O. 31 DE AGOSTO DE 2019)
 7.- El delito es:
-I.- Instantáneo, cuando la consumación se agotó en el mismo momento en que se han realizado todos sus elementos constitutivos;
+(REFORMADA, P.O. 31 DE AGOSTO DE 2019)
+I.- Instantáneo, cuando la consumación se agota en el mismo momento en que se han realizado todos sus elementos;
 II.- Permanente o continuo, cuando la consumación se prolonga en el tiempo; y
 III.- Continuado, cuando con unidad de propósito delictivo y pluralidad de conductas se viola el mismo precepto legal, en perjuicio de la misma persona.
 8.- La responsabilidad penal no pasa de la persona y bienes de los delincuentes, excepto en los casos especificados por la ley.
@@ -35,15 +50,19 @@ CAPITULO II
 TENTATIVA
 10.- La tentativa es punible cuando la resolución de cometer un delito se exterioriza ejecutando u omitiendo, en parte o totalmente, los actos que deberían producir o evitar el resultado, si aquéllos se interrumpen o éste no acontece por causas ajenas a la voluntad del agente.
 Si el sujeto desistiere espontáneamente de la ejecución o impidiere la consumación del delito, no se impondrá pena o medida de seguridad alguna, a no ser que los actos ejecutados u omitidos constituyan por sí mismos delito.
+(ADICIONADO, P.O. 31 DE AGOSTO DE 2019)
+El desistimiento del autor no beneficia a los partícipes. Para que sea válido el desistimiento de los partícipes o coautores, se requerirá que hayan neutralizado el sentido de su aportación al hecho.
 CAPITULO III
 PERSONAS RESPONSABLES DE LOS DELITOS
-11.- Son responsables de los delitos:
-I.- Los que lo realicen por sí;
-II.- Los que lo realicen conjuntamente;
-III.- Los que lo lleven a cabo sirviéndose de otro;
-IV.- Los que determinen intencionalmente a otro a cometerlo;
-V.- Los que intencionalmente presten ayuda o auxilien a otro para su comisión; y
-VI.- Los que con posterioridad a su ejecución auxilien al delincuente, en cumplimiento de un acuerdo anterior a la comisión del delito.
+(REFORMADO, P.O. 31 DE AGOSTO DE 2019)
+11.- Son responsables de los delitos, las personas cuya intervención sea conforme a las siguientes disposiciones:
+I. Es autor directo: quien lo realice por sí;
+II. Es coautor: quien lo realice conjuntamente con otro u otros autores;
+III. Es autor mediato: quien lo lleve a cabo sirviéndose de otro como instrumento;
+IV. Es partícipe inductor: quien determine dolosamente al autor a cometerlo;
+V. Es partícipe cómplice: quien dolosamente preste ayuda o auxilio al autor para su comisión, y
+VI. Es partícipe encubridor: quien con posterioridad a su ejecución, auxilie al autor por acuerdo anterior al delito.
+La inducción y la complicidad solamente serán admisibles en los delitos dolosos.
 12.- Si varios sujetos toman parte en la realización de un delito determinado, y alguno de ellos comete un delito distinto, sin previo acuerdo con los otros, todos serán responsables de la comisión del nuevo delito, salvo que concurran los requisitos siguientes:
 I.- Que el nuevo delito no sirva de medio adecuado para cometer el principal;
 II.- Que aquél no sea una consecuencia necesaria o natural de éste o de los medios concertados;
@@ -51,31 +70,39 @@ III.- Que no hayan sabido antes que se iba a cometer el nuevo delito; y
 IV.- Que no hayan estado presentes en la ejecución del nuevo delito; o que habiendo estado, hayan hecho cuanto estaba de su parte para impedirlo.
 CAPITULO IV
 CIRCUNSTANCIAS EXCLUYENTES DE RESPONSABILIDAD
-(F. DE E., P.O. 17 DE MAYO DE 1986)
-13.- Son circunstancias excluyentes de responsabilidad:
-I.- Incurrir el agente en actividad o inactividad involuntarias;
-II.- Padecer el inculpado, al cometer la infracción, trastorno mental o desarrollo intelectual retardado que le impidan comprender el carácter ilícito del hecho o conducirse de acuerdo con esa comprensión, excepto en los casos en que el propio sujeto activo haya provocado esa incapacidad para cometer el delito;
-III.- Obrar el acusado en defensa de su persona, de su honor o de sus derechos o bienes, o de la persona, honor, derechos o bienes de otro, repeliendo una agresión actual, violenta, injusta y de la cual resulte un peligro inminente, a no ser que se pruebe que intervino alguna de las siguientes circunstancias:
-PRIMERA.- Que el agredido provocó la agresión, dando causa inmediata y suficiente para ella;
-SEGUNDA.- Que previó la agresión y pudo fácilmente evitarla por otros medios legales;
-TERCERA.- Que no hubo necesidad racional del medio empleado en la defensa, y
-CUARTA.- Que el daño que iba a causar el agresor era fácilmente reparable después por medios legales, o era notoriamente de poca importancia, comparado con el que causó la defensa.
-Se presumirá, salvo prueba en contrario, que concurren los requisitos de la legítima defensa respecto de aquel que rechazare el escalamiento o fractura de los cercados, paredes o entradas de su casa o departamento habitado o de sus dependencias, cualquiera que sea el daño causado al agresor.
-Igual presunción favorecerá, salvo prueba en contrario, al que causare cualquier daño a un intruso a quien sorprendiere en la habitación y hogar propios, de su familia, o de cualquiera otra persona a quien tenga la misma obligación de defender, o en el local donde se encuentren bienes propios o respecto de los que tengan la misma obligación, siempre que la presencia del extraño ocurra en circunstancias tales que revelen la posibilidad de una agresión.
-IV.- Obrar por la necesidad de salvaguardar un bien jurídico propio o ajeno, de un peligro real, actual o inminente, no ocasionado por el agente o por la persona a la que trata de salvar, lesionando otro bien de igual o menor valor que el salvaguardado, a no ser que tenga el deber jurídico de afrontar el peligro y siempre que no exista otro medio practicable y menos perjudicial a su alcance;
-V.- Obrar en virtud de miedo grave o temor fundado e irresistible de un mal inminente y grave en bienes propios o ajenos, siempre que no exista otro medio practicable y menos perjudicial al alcance del agente;
-VI.- Obrar en cumplimiento de un deber o en el ejercicio de un derecho consignados en la ley;
-VII.- Obedecer a un superior legítimo en el orden jerárquico, cuando su orden no constituya notoriamente un delito, o la misma orden esté respaldada por una disposición legal;
-VIII.- Contravenir lo dispuesto en una ley penal, dejando de hacer lo que manda por un impedimento legítimo o insuperable;
-IX.- Causar un daño accidentalmente sin intención ni culpa, y
-X.- Realizar la acción o la omisión bajo un error insuperable respecto de alguno de los elementos esenciales que integran la tipificación legal, o que por error, igualmente insuperable, estime el sujeto activo que su conducta está amparada por una causa de licitud. Asimismo se excluye la responsabilidad, cuando la acción o la omisión se realicen por error insuperable sobre la existencia de la ley penal o del alcance de ésta.
-14.- Al que se exceda en los casos de legítima defensa, estado de necesidad, cumplimiento de un deber, ejercicio de un derecho u obediencia jerárquica, a que se refieren respectivamente las fracciones III, IV, VI y VII del artículo 13, será sancionado hasta con la mitad de la pena correspondiente al delito cometido.
-Igual sanción se aplicará en caso de error superable a que se refiere la segunda parte de la fracción X del artículo 13.
+(REFORMADO, P.O. 31 DE AGOSTO DE 2019)
+13.- Son circunstancias excluyentes de responsabilidad, las siguientes:
+A. Causas de atipicidad:
+I. Ausencia de conducta: La actividad o la inactividad se realice sin intervención de la voluntad del sujeto activo;
+II. Falte alguno de los elementos que integran la descripción legal del delito de que se trate;
+III. Consentimiento de la persona titular del bien jurídico tutelado o legitimada legalmente para otorgarlo, siempre y cuando se cumplan los siguientes requisitos:
+a) Que se trate de un bien jurídico disponible;
+b) Que tenga la capacidad jurídica para disponer libremente del bien, y
+c) Que el consentimiento sea expreso o tácito y no medie algún vicio sobre él;
+IV. Error de tipo vencible que recaiga sobre algún tipo penal que no sea susceptible de configurarse culposamente, y
+V. Error de tipo invencible;
+B. Causas de justificación:
+I. Consentimiento presunto: Se presume que hay consentimiento, cuando el hecho se realiza en circunstancias tales que permitan suponer fundadamente que, de haberse consultado al titular del bien o a quien esté legitimado para consentir, éstos hubiesen otorgado el consentimiento;
+II. Legítima defensa: Se repela una agresión real, actual o inminente y sin derecho, en defensa de bienes jurídicos propios o ajenos, siempre que exista necesidad de la defensa empleada y no medie provocación dolosa suficiente e inmediata por parte del agredido o de su defensor.
+Se presumirá que concurren los requisitos de la legítima defensa, respecto de aquél que cause un daño, a quien a través de la violencia, del escalamiento o por cualquier otro medio trate de penetrar sin derecho, a su hogar o sus dependencias, a los de su familia o los de cualquier persona que tenga el mismo deber de defender o al sitio donde se encuentren bienes jurídicos propios o ajenos de los que tenga la misma obligación; o bien, cuando lo encuentre en alguno de esos lugares, en circunstancias tales que revelen la posibilidad de una agresión;
+III. Estado de necesidad justificante: Se obre por la necesidad de salvaguardar un bien jurídico propio o ajeno, de un peligro real, actual o inminente, no ocasionado dolosamente por el sujeto, lesionando otro bien de menor valor que el salvaguardado, siempre que el peligro no sea evitable por otros medios y el sujeto activo no tuviere el deber jurídico de afrontarlo, y
+IV. Ejercicio de un derecho o cumplimiento de un deber: La acción o la omisión se realicen en cumplimiento de un deber jurídico o en ejercicio de un derecho, siempre que exista necesidad racional de la conducta empleada para cumplirlo o ejercerlo, y
+C. Causas de inculpabilidad:
+I. Error de prohibición invencible: Se realice la acción o la omisión bajo un error invencible, respecto de la ilicitud de la conducta, ya sea porque el sujeto desconozca la existencia de la ley o el alcance de la misma o porque crea que está justificada su conducta;
+II. Estado de necesidad disculpante: Se obre por la necesidad de salvaguardar un bien jurídico propio o ajeno, de un peligro real, actual o inminente, no ocasionado dolosamente por el sujeto, lesionando otro bien de igual valor que el salvaguardado, siempre que el peligro no sea evitable por otros medios y el sujeto activo no tuviere el deber jurídico de afrontarlo;
+III. Inimputabilidad y acción libre en su causa: Al momento de realizar el hecho típico, el agente no tenga la capacidad de comprender el carácter ilícito de aquél o de conducirse de acuerdo con esa comprensión, en virtud de padecer trastorno mental o desarrollo intelectual retardado, a no ser que el sujeto hubiese provocado su trastorno mental para, en ese estado, cometer el hecho, en cuyo caso responderá por el resultado típico producido en tal situación. Las acciones libres en su causa culposamente cometidas se resolverán conforme a las reglas generales de los delitos culposos.
+Cuando la capacidad a que se refiere el párrafo anterior se encuentre considerablemente disminuida, se estará a lo dispuesto en el artículo 68, párrafo tercero de este Código, y
+IV. Inexigibilidad de otra conducta: En atención a las circunstancias que concurren en la realización de una conducta ilícita, no sea racionalmente exigible al sujeto una conducta diversa a la que realizó, en virtud de no haberse podido conducir conforme a derecho.
+(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE AGOSTO DE 2019)
+14.- Al que incurra en exceso en alguna de las causas de justificación se le impondrá la sanción correspondiente al error de prohibición vencible.
+(DEROGADO SEGUNDO PÁRRAFO, P.O. 31 DE AGOSTO DE 2019)
 15.- Las causas que excluyen la responsabilidad penal se investigarán y se harán valer, en cualquier estado del procedimiento, de oficio o a petición de parte interesada.
 CAPITULO V
 CONCURSO DE DELITOS
-16.- Existe concurso real o material cuando con pluralidad de acciones u omisiones se cometen varios delitos, siempre que no se haya pronunciado antes sentencia irrevocable y la acción para perseguirlos no esté prescrita.
-Existe concurso ideal cuando con una sola acción u omisión se cometen varios delitos.
+(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE AGOSTO DE 2019)
+16.- Existe concurso real cuando con pluralidad de conductas se cometen varios delitos.
+(REFORMADO, P.O. 31 DE AGOSTO DE 2019)
+Existe concurso ideal cuando con una sola conducta se cometen varios delitos.
 No hay concurso cuando las acciones u omisiones constituyen un delito continuado.
 CAPITULO VI
 REINCIDENCIA
@@ -133,8 +160,9 @@ SANCION PECUNIARIA
 25.- La sanción pecuniaria comprende: reparación del daño y multa.
 La obligación de pagar la sanción pecuniaria es preferente con respecto a cualesquiera otras contraídas con posterioridad al delito, a excepción de las referentes a alimentos y relaciones laborales.
 En los casos de concurso de personas responsables a que se refiere la fracción II del artículo 11 de este Código, la reparación del daño se considerará responsabilidad solidaria y, en cuanto a la multa, el juez la fijará para cada uno de los intervenientes (sic), según su participación y condiciones económicas.
-26.- La multa consiste en el pago de una suma de dinero al Estado, que fijará el juez por cuotas, las que no podrán exceder de trescientas sesenta y cinco. Cada cuota equivale a un día de salario, cuyo límite inferior será el equivalente al salario mínimo diario vigente en la zona económica en que se cometió el delito, independientemente de que se trate de delito instantáneo, permanente o continuado.
-Cuando se acredite que el sentenciado no puede pagar la multa, o solamente puede cubrir parte de ella, la autoridad judicial podrá substituirla, total o parcialmente, por prestación de trabajo en obras de interés social, en los términos del artículo 39. Cada jornada de trabajo valdrá una cuota.
+(REFORMADO, P.O. 31 DE AGOSTO DE 2019)
+26.- La multa consiste en el pago de una suma de dinero al Estado, la cual será fijada por el juez de acuerdo con el valor diario de la Unidad de Medida y Actualización vigente en el momento en que se cometió el delito, y no podrá exceder de trescientas sesenta y cinco, independientemente de que se trate de delito instantáneo, permanente o continuado.
+Cuando se acredite que el sentenciado no puede pagar la multa, o solamente puede cubrir parte de ella, la autoridad judicial podrá substituirla, total o parcialmente, por prestación de trabajo en obras de interés social, en los términos del artículo 39.
 27.- El importe de la sanción pecuniaria se distribuirá: entre la parte ofendida y el Estado; a la primera se aplicará el importe de la reparación del daño y al segundo el de la multa.
 (F. DE E., P.O. 17 DE MAYO DE 1986)
 Si no se logra hacer efectivo todo el importe de la sanción pecuniaria, se cubrirá de preferencia la reparación del daño.
@@ -152,7 +180,8 @@ Si no alcanza a cubrirse la responsabilidad pecuniaria con los bienes del senten
 El monto de la reparación del daño será fijado por el juez según el daño que sea preciso reparar, de acuerdo con las pruebas obtenidas durante el proceso o en ejecución de sentencia.
 (REFORMADO, P.O. 4 DE AGOSTO DE 2012)
 Cuando la reparación del daño deba exigirse a tercero, se tramitará en los términos que fije el Código Adjetivo Penal aplicable.
-La responsabilidad relativa a la reparación del daño, será igual en los delitos culposos que en los intencionales o preterintencionales.
+(REFORMADO, P.O. 31 DE AGOSTO DE 2019)
+La responsabilidad relativa a la reparación del daño, será igual en los delitos culposos que en los intencionales.
 31.- La reparación del daño comprende:
 I.- La restitución de la cosa obtenida por el delito y sus frutos, o, en su defecto, el pago del precio correspondiente;
 (REFORMADA, P.O. 1 DE JUNIO DE 2016)
@@ -172,8 +201,8 @@ Se exceptúa de esta regla a la sociedad conyugal, pues en todo caso, cada cóny
 VI.- Los dueños de mecanismos, instrumentos, aparatos, vehículos o substancias peligrosas, por los delitos que, en ocasión de su tenencia, custodia o uso, cometan las personas que los manejan o tienen a su cargo; y
 VII.- El Estado, subsidiariamente, por sus funcionarios y empleados.
 33.- Quien se considere con derecho al pago de la reparación del daño, que no pueda obtener del juez penal, en virtud de no ejercicio de la acción penal por parte del Ministerio Público, sobreseimiento, suspensión del procedimiento o sentencia absolutoria, podrá recurrir a la vía civil en los términos de la legislación correspondiente.
-(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE ENERO DE 2014)
-34.- Cuando el daño que se cause al ofendido produzca su muerte, el monto de la indemnización por reparación del daño se fijará aplicando las cuotas que establece la Ley Federal del Trabajo, según las circunstancias de la víctima y tomando como base la utilidad o salario que hubiese percibido; si la víctima no percibía utilidad o salario o no pudiere determinarse éste, el monto de la indemnización se fijará tomando como base el mencionado salario mínimo.
+(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE AGOSTO DE 2019)
+34.- Cuando el daño que se cause al ofendido produzca su muerte, el monto de la indemnización por reparación del daño se fijará aplicando las cuotas que establece la Ley Federal del Trabajo, según las circunstancias de la víctima y tomando como base la utilidad o salario que hubiese percibido; si la víctima no percibía utilidad o salario o no pudiere determinarse éste, el monto de la indemnización se fijará tomando como base el valor diario de la unidad de medida y actualización.
 Si el daño produce incapacidad total o parcial, permanente o temporal, el monto de la indemnización se fijará de acuerdo con las tablas que para esta clase de incapacidades establece la Ley Federal del Trabajo, siendo aplicable en lo conducente lo dispuesto en el párrafo anterior.
 (REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JUNIO DE 2016)
 35.- La reparación del daño en los casos de los delitos comprendidos en el Título Décimo Segundo de este Código, comprenderá el pago de todo tipo de gastos derivados de tratamientos médicos y psicológicos que requiera la persona ofendida, por todo el tiempo que éstos sean necesarios a juicio de peritos; sin perjuicio o complementariamente a los previstos en el artículo 31 de este Código.
@@ -251,14 +280,34 @@ El juez deberá tomar conocimiento directo del sujeto, de la víctima, y de las 
 Cuando pronunciada una sentencia irrevocable en que se hubiera impuesto una sanción privativa de la libertad, se pusiere en vigor una ley que, dejando subsistente la sanción señalada al delito, sólo disminuya su duración, si el reo lo pidiere y se hallare en el caso de la nueva ley, el Juez de Ejecución reducirá la sanción impuesta en la misma proporción en que estén el mínimo y el máximo de la señalada en la ley anterior y de la señalada en la posterior.
 57.- Cuando una ley quite a un hecho u omisión el carácter de delito que otra ley le daba, se pondrá en absoluta libertad a quienes se esté procesando o juzgando, y a los condenados que se hallen cumpliendo o vayan a cumplir sus condenas, y cesarán de derecho todos los efectos que éstas y los procesos debieran producir en lo futuro.
 58.- Cuando un mismo hecho aparezca regulado por diversas disposiciones, la especial prevalecerá sobre la general, la de mayor alcance absorberá a la de menor amplitud y la principal excluirá a la secundaria.
+(ADICIONADO, P.O. 31 DE AGOSTO DE 2019)
+58 Bis.- Para el partícipe cómplice y partícipe encubridor, a que se refieren las fracciones V y VI del artículo 11 de este Código, la penalidad será de las tres cuartas partes del mínimo y del máximo de las penas o medidas de seguridad previstas para el delito cometido, de acuerdo con la modalidad respectiva.
+(ADICIONADO, P.O. 31 DE AGOSTO DE 2019)
+58 Ter.- En caso de que sea vencible el error de tipo, a que se refiere el artículo 13 de este Código, la penalidad será la del delito culposo, si el hecho de que se trata admite dicha forma de realización.
+En caso de que sea vencible el error de prohibición, a que se refiere el artículo señalado en el párrafo anterior, la penalidad será de una tercera parte del mínimo y del máximo del delito que se trate.
+(REFORMADA SU DENOMINACIÓN, P.O. 31 DE AGOSTO DE 2019)
 CAPITULO II
-SANCIONES APLICABLES A LOS DELITOS CULPOSOS Y PRETERINTENCIONALES
-(REFORMADO, P.O. 4 DE AGOSTO DE 2012)
-59.- Los delitos de culpa, se sancionarán con prisión de seis meses a ocho años, multa de cien a doscientas cuotas. Las demás penas o medidas de seguridad se aplicarán hasta en la mitad de las correspondientes al delito intencional en cuantía y duración.
-En caso de culpa grave, las sanciones tanto pecuniarias como privativas de libertad previstas en este artículo se aumentarán en una cuarta parte más.
-Cuando a consecuencia de actos u omisiones culposas y con motivo del tránsito de vehículos que presten un servicio público, al público o escolar, se causen homicidio o lesiones, las sanciones tanto pecuniarias como privativas de libertad se incrementarán en una mitad más.
-60.- Los delitos preterintencionales se sancionarán hasta con las tres cuartas partes de las penas señaladas para el delito intencional.
-Siempre que al delito intencional corresponda sanción alternativa que incluya una no privativa de libertad, aprovechará esta situación al responsable por culpa o preterintención.
+SANCIONES APLICABLES A LOS DELITOS CULPOSOS
+(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE AGOSTO DE 2019)
+59.- Los delitos de culpa, se sancionarán con prisión de seis meses a ocho años, multa de cien a doscientas veces el valor diario de la unidad de medida y actualización, sin exceder de la mitad en su mínimo y máximo de la que correspondería si el delito hubiera sido intencional. Las demás penas o medidas de seguridad se aplicarán hasta en la mitad en su mínimo y máximo de las correspondientes al delito intencional en cuantía y duración.
+(DEROGADO SEGUNDO PÁRRAFO, P.O. 31 DE AGOSTO DE 2019)
+(REFORMADO, P.O. 31 DE AGOSTO DE 2019)
+Cuando a consecuencia de actos u omisiones culposas y con motivo del tránsito de vehículos que presten un servicio público, al público o escolar, se causen homicidios o lesiones, se perseguirán de oficio. Además, el juez al momento de dictar sentencia en caso de culpa grave, podrá aumentar hasta en una cuarta parte más en su mínimo y máximo las sanciones previstas en este artículo.
+60.- (DEROGADO PRIMER PÁRRAFO, P.O. 31 DE AGOSTO DE 2019)
+(REFORMADO, P.O. 31 DE AGOSTO DE 2019)
+Siempre que al delito intencional corresponda sanción alternativa que incluya una no privativa de libertad, aprovechará esta situación al responsable por culpa.
+(ADICIONADO, P.O. 31 DE AGOSTO DE 2019)
+60 Bis.- Los delitos culposos solamente serán punibles en los casos expresamente determinados por la ley.
+Sólo se sancionarán como delitos culposos los siguientes:
+I. Homicidio, a que se refiere el artículo 293;
+II. Lesiones, a que se refiere el artículo 285;
+III. Aborto, a que se refiere el artículo 310;
+IV. Peligro de contagio, a que se refiere el artículo 173;
+V. Daños, a que se refiere el artículo 349;
+VI. Ejercicio indebido o abandono de funciones públicas, a que se se (sic) refiere el artículo 193 fracción V;
+VII. Evasión de presos, a que se refiere el artículo 133;
+VIII. Responsabilidad médica, a que se refiere el artículo 212, y
+IX. Los demás casos contemplados específicamente en el presente Código y otras disposiciones legales.
 61.- (DEROGADO, P.O. 30 DE DICIEMBRE DE 1989)
 62.- Para la calificación de la gravedad de la culpa, el juez deberá tomar en consideración las circunstancias generales señaladas en el artículo 52 y las especiales siguientes:
 I.- La mayor o menor facilidad de prever y evitar el daño que resultó;
@@ -266,22 +315,28 @@ II.- Si para ello bastaban una reflexión o atención ordinarias y conocimientos
 III.- Si el inculpado ha delinquido anteriormente en circunstancias semejantes;
 IV.- Si tuvo tiempo para obrar con la reflexión y cuidado necesarios;
 V.- Tratándose de delitos cometidos con motivo del tránsito de vehículos y del manejo de motores o maquinaria, el estado del equipo, vías de comunicación, autorizaciones para su manejo y demás condiciones de funcionamiento mecánico.
-63.- Cuando por culpa se origine únicamente daño en las cosas, se perseguirá por querella necesaria, cualquiera que sea su valor y sea o no con motivo de tránsito de vehículos; sólo se sancionará con multa de cinco hasta cien cuotas o trabajo en favor de la comunidad de hasta la cuarta parte de la que correspondería al delito si fuere doloso, además de la reparación del daño.
-(DEROGADO SEGUNDO PÁRRAFO, P.O. 30 DE DICIEMBRE DE 1989)
-64.- No se impondrá pena alguna al que cause homicidio, lesiones o daño en las cosas, por actos u omisiones culposas con motivo del tránsito de vehículos, a un ascendiente o descendiente en línea recta de cualquier grado, o a un cónyuge o concubino, que viajaban con el responsable, excepto si el conductor se encontraba en estado de ebriedad, o bajo el influjo de estupefacientes o sustancias psicotrópicas. En este último caso, se estará a lo dispuesto por el artículo 59. Se perseguirá sólo por querella necesaria.
+(REFORMADO, P.O. 31 DE AGOSTO DE 2019)
+63.- Cuando por culpa se origine únicamente daño en las cosas, se perseguirá por querella necesaria, cualquiera que sea su valor, sea o no con motivo de tránsito de vehículos y se sancionará con prisión de tres meses a un año y multa de cincuenta a cien veces el valor diario de la unidad de medida y actualización, además de la reparación del daño.
+(REFORMADO, P.O. 31 DE AGOSTO DE 2019)
+64.- No se impondrá pena alguna al que cause homicidio, lesiones o daño en las cosas, por actos u omisiones culposas, a un ascendiente o descendiente consanguíneo en línea recta, hermano, adoptante o adoptado, cónyuge, concubina, concubinario o cuando entre el agente y el pasivo exista relación de pareja permanente, salvo que el agente se encuentre bajo el efecto de bebidas embriagantes, de estupefacientes o psicotrópicos, sin que medie prescripción médica, o bien, que se diere a la fuga y no auxilie a la víctima.
 CAPITULO III
 SANCION PARA LA TENTATIVA
-65.- Al responsable de tentativa se le aplicarán hasta las dos terceras partes de la sanción señalada en la ley al delito que se pretendió consumar.
+(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE AGOSTO DE 2019)
+65.- Al responsable de tentativa se le aplicará de una tercera parte del mínimo a dos terceras partes del máximo de la sanción señalada en la ley al delito que se pretendió consumar.
 Para imponer la sanción de la tentativa, los jueces tendrán en cuenta la culpabilidad del autor y el grado a que se hubiere llegado en la ejecución del delito.
 CAPITULO IV
 SANCIONES EN LOS CASOS DE CONCURSO DE DELITOS
 (REFORMADO, P.O. 4 DE AGOSTO DE 2012)
 66.- En caso de concurso real se impondrá la sanción correspondiente al delito que merezca pena mayor, la que podrá aumentarse hasta la suma de las sanciones de los demás delitos, sin que pueda exceder de cincuenta años si es la de prisión. Por lo que se refiere a las otras sanciones, dicha suma no podrá exceder de los máximos establecidos para cada una de ellas.
-67.- En caso de concurso ideal, se aplicará la sanción correspondiente al delito que merezca pena mayor, la que podrá ser aumentada hasta la mitad más del máximo de su duración, sin que pueda exceder de los máximos señalados en el Título Segundo del Libro Primero.
+(REFORMADO, P.O. 31 DE AGOSTO DE 2019)
+67.- En caso de concurso ideal, se impondrán las sanciones correspondientes al delito que merezca la mayor penalidad, las cuales podrán aumentarse sin rebasar la mitad del máximo de la duración de las penas correspondientes de los delitos restantes, siempre que las sanciones aplicables sean de la misma naturaleza; cuando sean de diversa naturaleza, podrán imponerse las consecuencias jurídicas señaladas para los restantes delitos, sin que pueda exceder de los máximos señalados en el Título Segundo del Libro Primero del presente Código.
 CAPITULO V
 TRATAMIENTO DE INIMPUTABLES EN INTERNAMIENTO O EN LIBERTAD
-68.- En el caso de los inimputables a que se refiere el artículo 13, fracción II, que contravengan los preceptos de una ley penal y requieran de tratamiento, el juzgador dispondrá la medida de tratamiento aplicable en internamiento o en libertad, previo el procedimiento correspondiente.
+(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE AGOSTO DE 2019)
+68.- En el caso de que los inimputables, a que se refiere el artículo 13 de este Código, requieran de tratamiento, el juzgador dispondrá la medida de tratamiento aplicable en internamiento o en libertad, previo el procedimiento correspondiente.
 Si se trata de internamiento, el sujeto inimputable será internado en la institución correspondiente para su tratamiento, durante el tiempo necesario para su curación.
+(ADICIONADO, P.O. 31 DE AGOSTO DE 2019)
+En los casos de imputabilidad disminuida, se le impondrá al sujeto activo, de una a dos terceras partes de la sanción correspondiente.
 69.- En ningún caso la medida de tratamiento impuesta por el juez penal excederá de la duración que corresponda al máximo de la pena aplicable al delito. Si concluido este tiempo, la autoridad ejecutora considera que el sujeto continúa necesitando el tratamiento, lo pondrá a disposición de las autoridades para que procedan conforme a las leyes aplicables.
 70.- Las personas inimputables a que se refiere el artículo 68, podrán ser entregadas por la autoridad judicial o ejecutora, en su caso a quienes legalmente corresponda hacerse cargo de ellas, siempre que se obliguen a tomar las medidas adecuadas para su tratamiento y vigilancia, garantizando por cualquier medio y a satisfacción de las mencionadas autoridades, el cumplimiento de las obligaciones contraídas.
 La autoridad ejecutora podrá resolver sobre la modificación o conclusión de la medida, en forma provisional o definitiva, considerando las necesidades del tratamiento, las que se acreditarán mediante revisiones periódicas, con la frecuencia y características que el caso requiera.
@@ -312,14 +367,15 @@ LA VIGILANCIA Y LA ASISTENCIA FAMILIAR ALTERNATIVAS PARA LAS PERSONAS ADULTAS
 a) Que no se trate de reincidentes;
 b) Que durante el procedimiento haya quedado acreditado el padecimiento de una enfermedad crónica o incurable que requiera tratamiento médico permanente, o denote pérdida de capacidades físicas o mentales;
 c) Que integrantes o miembros de la familia del sentenciado, así identificados y reconocidos judicialmente, se comprometan expresa y formalmente a la vigilancia y la asistencia de aquél; siempre y cuando el compromiso lo expresen hasta antes de los alegatos de clausura del juicio, o de las conclusiones finales de las partes, previas al fallo, y
-d) Que no se trate de las conductas previstas y sancionadas por la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la Fracción XXI del Artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, o de alguno o varios de los siguientes previstos en el Código Penal para el Estado de Zacatecas:
+(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE AGOSTO DE 2019)
+d) Que no se trate de las conductas previstas y sancionadas por la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas y la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de éstos Delitos, reglamentarias de la Fracción XXI del Artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, o de alguno o varios de los siguientes previstos en el presente Código:
 1. Facilitación delictiva, contenido en el artículo 141 Ter.
 2. Terrorismo, determinado en los artículos 169 y 170.
 3. Corrupción de menores, definido en los artículos 181, 181 Bis y 182.
 4. Pornografía infantil, en los casos de las fracciones I y IV del artículo 183.
-5. Desaparición forzada de personas, referido en el artículo 195 Ter, con excepción de los casos previstos en los párrafos segundo, tercero y cuarto del artículo 195 Quater.
+5. (DEROGADO, P.O. 31 DE AGOSTO DE 2019)
 6. Violación equiparada, conforme las fracciones I y II del artículo 237, y los casos de agravante del delito dispuestos en las cuatro fracciones del artículo 237 Bis.
-7. Trata de personas, establecido en el artículo 271 Bis.
+7. (DEROGADO, P.O. 31 DE AGOSTO DE 2019)
 8. Homicidio doloso calificado, en los términos de los artículos 293 con relación al 299 y al 301.
 9. Parricidio, asentado en el artículo 306.
 10. Feminicidio, previsto en el artículo 309 Bis.
@@ -410,9 +466,14 @@ PRESCRIPCION DE LA ACCION PENAL
 98.- La acción penal prescribirá en un plazo igual al término medio aritmético de la sanción privativa de la libertad que corresponda al delito, pero en ningún caso bajará de tres años.
 La acción para exigir la reparación del daño prescribirá en tres años.
 99.- Si el delito sólo mereciere destitución, suspensión, privación de derechos o inhabilitación, la prescripción se consumará en el término de dos años. En los demás casos, la acción prescribirá en dos años.
-100.- Cuando haya concurso de delitos, las acciones penales que de ellos resulten prescribirán separadamente en el término señalado a cada una.
+(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE AGOSTO DE 2019)
+100.- En los casos de concurso ideal de delitos, las acciones penales prescribirán conforme a las reglas para el delito que merezca la pena mayor.
+(ADICIONADO, P.O. 31 DE AGOSTO DE 2019)
+En los casos de concurso real de delitos, los plazos para la prescripción punitiva empezarán a correr simultáneamente y prescribirán separadamente para cada uno de los delitos.
 101.- Cuando para deducir una acción penal sea necesario que termine un juicio diverso, civil o criminal, no comenzará a correr la prescripción sino hasta que en el juicio previo se haya pronunciado sentencia irrevocable.
 102.- La prescripción de las acciones se interrumpirá por las actuaciones que se practiquen por el Ministerio Público o por el juez, en la averiguación acerca del delito y sus autores aunque, por ignorarse quienes sean éstos, no se encaminen las diligencias contra persona determinada.
+(ADICIONADO, P.O. 31 DE AGOSTO DE 2019)
+La prescripción se interrumpirá, también, por el requerimiento de auxilio en la investigación del delito o del delincuente, por las diligencias que se practiquen para obtener la extradición internacional, y por el requerimiento de entrega del inculpado que formalmente haga el Ministerio Público o el juez al de otra entidad federativa, donde aquél se refugie, se localice o se encuentre detenido por el mismo delito o por otro. En el primer caso, también se interrumpirá con las actuaciones que practique la autoridad requerida; en el segundo, subsistirá la interrupción, hasta en tanto ésta niegue la entrega o desaparezca la situación legal del detenido que dé motivo al aplazamiento de su entrega.
 Si se dejare de actuar, la prescripción comenzará a correr de nuevo desde el día siguiente al de la última diligencia.
 103.- Lo prevenido en la primera parte del artículo anterior no comprende el caso en que las diligencias comiencen a practicarse después de que hubiere transcurrido ya la tercera parte del término de la prescripción, computado en la forma prevista en el artículo 96; entonces la prescripción continuará corriendo y ya no podrá interrumpirse, sino por la aprehensión del inculpado.
 Lo dispuesto en la parte final del mismo artículo anterior, tampoco comprende el caso en que las actuaciones quedaren interrumpidas por un tiempo igual a la cuarta parte del término de la prescripción. Entonces ésta no podrá ser interrumpida sino por la aprehensión del inculpado.
@@ -486,16 +547,13 @@ EVASION DE PRESOS
 133.- Si la evasión se efectuare exclusivamente por descuido o negligencia del custodio o conductor, éste será sancionado como autor de un delito de culpa. Esta sanción cesará al momento en que se logre la reaprehensión del prófugo, si ésta se consiguiere por las gestiones del custodio o conductor responsable y antes de que pasen cuatro meses contados desde la evasión.
 (REFORMADO, P.O. 4 DE AGOSTO DE 2012)
 134.- A los servidores públicos que ilegalmente permitan la salida a detenidos, procesado o condenados, para que por cualquier tiempo permanezcan fuera de las prisiones, se les impondrán de dos a seis años de prisión y multa de cien a trescientas cuotas.
+(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE AGOSTO DE 2019)
 CAPITULO II
 QUEBRANTAMIENTO DE SANCION
-135.- Al reo que se fugue estando bajo alguna de las sanciones privativas de libertad, o en detención o prisión preventiva, no se le contará el tiempo fuera del lugar en que deba hacerla efectiva, ni se tendrá en cuenta la buena conducta que haya tenido antes de la fuga.
-136.- Al sentenciado a confinamiento que antes de extinguirlo salga del lugar que se le haya fijado para residir, se le aplicará prisión por el tiempo que falte para extinguir dicho confinamiento.
-(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 1989)
-137.- Se impondrán de tres a seis meses de prisión o multa de diez cuotas:
-I.- Al reo sometido a vigilancia de la policía que no ministre a ésta los informes que se le pidan sobre su conducta; y,
-II.- A aquél a quien se hubiere prohibido ir a determinado lugar o residir en él, si violare la prohibición.
-(REFORMADO, P.O. 4 DE AGOSTO DE 2012)
-138.- El reo suspenso en su profesión u oficio o inhabilitado para ejercerlos, o el que lo está en el manejo de vehículos, motores o maquinaria, que quebrante su condena, pagará una multa de cien a trescientas cuotas o realizará trabajo a favor de la comunidad de cinco a treinta días, a juicio del juzgador.
+135.- (DEROGADO, P.O. 31 DE AGOSTO DE 2019)
+136.- (DEROGADO, P.O. 31 DE AGOSTO DE 2019)
+137.- (DEROGADO, P.O. 31 DE AGOSTO DE 2019)
+138.- (DEROGADO, P.O. 31 DE AGOSTO DE 2019)
 CAPITULO III
 ARMAS PROHIBIDAS
 139.- Al que ilegalmente porte, fabrique, introduzca al Estado o acopie sin un fin lícito instrumentos que sólo puedan ser utilizados para agredir y que no tengan aplicación en actividades laborales o recreativas, se le impondrá prisión de tres meses a tres años, multa hasta de cien cuotas y decomiso.
@@ -522,15 +580,33 @@ Las penas señaladas en este artículo se aumentarán hasta la mitad más y se i
 CAPITULO V
 DELITOS DE TRANSITO EJECUTADOS POR MANEJADORES DE VEHICULOS O AUTORIDADES DE TRANSITO
 142.- Se impondrá prisión de tres meses a dos años y multa de cinco a veinticinco cuotas, al funcionario, empleado o perito de tránsito que en el examen para la comprobación de las condiciones requeridas por la ley o reglamentos para el otorgamiento de las licencias de conductores de vehículos, produzcan dictámenes o certificaciones sin que concurran en el examinado todos o alguno de los requisitos correspondientes, y al que expida la licencia a sabiendas de que falta alguno o algunos de esos requisitos.
-(REFORMADO, P.O. 30 DE DICIEMBRE DE 1989)
-143.- Se sancionará con prisión de tres meses a seis meses o multa de cinco a veinticinco cuotas y suspensión de la licencia respectiva de uno a cinco años, el hecho de conducir dentro de las poblaciones del Estado un vehículo a una velocidad que exceda en más de diez kilómetros por hora el límite máximo fijado por las autoridades de tránsito. Si la conducción se ejecuta en un camino, las mismas sanciones se impondrán cuando se exceda en veinte kilómetros o más el límite máximo señalado.
+(REFORMADO, P.O. 31 DE AGOSTO DE 2019)
+143.- Incurre en responsabilidad penal el propietario o conductor de un vehículo automotor que transite con placas sobrepuestas.
+Se entiende por placas sobrepuestas en vehículos automotores, las láminas de identificación para circular, emitidas por autoridad competente, que no les correspondan portar legalmente.
+Al responsable se le sancionará con prisión de dos a cinco años y multa de cien a trescientas cincuenta y cinco veces la Unidad de Medida y Actualización vigente.
 144.- Al que en estado de ebriedad o bajo la influencia de drogas enervantes plenamente comprobados conduzca un vehículo, se impondrá prisión de tres meses a un año o multa de cinco a cincuenta cuotas y suspensión de la licencia para manejar de uno a dos años, si no provoca un accidente punible.
 145.- Al manejador de un vehículo, que en camino público o privado rebase o trate de rebasar a otro vehículo, invadiendo el carril contrario, en curva, pendiente, columpio, elevación del terreno, lugar prohibido o en cualquier otro en que no haya visibilidad suficiente, se le impondrá por este sólo hecho sanción de tres a seis meses de prisión o multa de cinco a veinte cuotas y suspensión para manejar vehículos de uno a dos años, si no causare daños a tercero.
 Si se causaren daños a las personas o a las cosas o a ambas, estos daños se sancionarán como delitos de culpa, salvo prueba en contrario.
 Iguales sanciones se impondrán por el sólo hecho de estacionar un vehículo en carretera o camino en la noche, sin las luces de protección perfectamente visibles, aún en los tramos comprendidos dentro de un poblado que no esté iluminado; o por estacionarlo sin el abanderamiento adecuado en curva o en un columpio, cualquiera que sea la hora del día, en tal forma que no pueda verse a distancia suficiente para evitar una colisión. Si se causan daños se sancionarán como delitos de culpa, salvo prueba en contrario.
 146.- En caso de reincidencia en alguno de los delitos a que se refieren los tres artículos anteriores, la inhabilitación para manejar podrá ser definitiva y el juez dispondrá la cancelación de la licencia correspondiente.
-147.- Se sancionarán como encubridores a los inspectores, cobradores y ayudantes en los vehículos de transporte de servicio público o al público que no tomen las medidas tendientes a impedir los delitos a que se refieren los artículos 143, 144 y 145, o que no los participen a la autoridad.
-148.- Las sanciones en los casos de los artículos 143 y 144, se impondrán independientemente de las que correspondan si resultaren daños a las personas o a las cosas.
+(REFORMADO, P.O. 31 DE AGOSTO DE 2019)
+147.- A los operadores de transporte público o cualquier otro que preste servicio similar que incurran en alguna de las conductas previstas en los artículos 143 y 144, se le impondrán hasta una mitad más de las sanciones previstas en los artículos señalados.
+(REFORMADO, P.O. 31 DE AGOSTO DE 2019)
+148.- Las sanciones en los casos del artículo 144, se impondrán independientemente de las que correspondan si resultaren daños a las personas o a las cosas.
+(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 31 DE AGOSTO DE 2019)
+CAPITULO VI
+ATENTADOS A LA SEGURIDAD DE LA COMUNIDAD
+(ADICIONADO, P.O. 31 DE AGOSTO DE 2019)
+148 Bis.- Comete el delito de atentados contra la seguridad de la comunidad y se le aplicará una sanción de cuatro a ocho años de prisión y multa de doscientas a trescientas cincuenta y cinco veces el valor diario de la Unidad de Medida y Actualización, a quien sin causa justificada incurra en cualquiera de las siguientes fracciones:
+I. Utilice uno o más instrumentos en forma de abrojos, cuchillas, erizos, estrellas, púas o picos ponchallantas, fabricados de cualquier material que por su resistencia o contundencia, dañe o impida el paso de vehículos particulares u oficiales.
+Cuando la conducta se cometa en contra de elementos de las fuerzas armadas o de seguridad pública o de sus equipos motores, muebles o inmuebles, se aumentará la penalidad dos terceras partes en su mínimo y en su máximo;
+II. Posea o porte, en su persona, en su domicilio, en el vehículo en el que se encuentre o se le relacione con éste, en su negocio o en el lugar donde se le capture, uno o más aparatos o equipos de comunicación de cualquier tipo y se utilicen con fines ilícitos, que hubieren sido contratados con documentación falsa, alterada o con cualquier otro medio ilícito, o de terceros sin su conocimiento o utilizados sin la autorización de éstos o que por su origen, a la autoridad le resulte imposible conocer la identidad real del usuario del aparato o equipo de comunicación;
+III. Posea o porte, en su persona, en su domicilio, en el vehículo en el que se encuentre o se le relacione con éste, o en el lugar donde se le capture, uno o varios equipos o artefactos que permitan la intervención, escucha o transmisión de datos con respecto a canales de comunicación oficiales o de comunicaciones privadas.
+También comete el delito quien proporcione el servicio de instalar, programar, reprogramar para otra u otras personas equipo de radiocomunicación fijo, o móvil sobre un vehículo usando las bandas de frecuencia del espectro radioeléctrico, contando o no con el permiso para su operación, lo haga fuera de las especificaciones técnicas autorizadas por la ley o autoridad competente, y esto se relacione con fines ilícitos;
+IV. Posea o porte, en su persona, en el vehículo en que se encuentre o se le relacione con éste, en su domicilio o en el lugar donde se le capture, una o varias identificaciones alteradas o falsas;
+V. Posea o porte, en su persona o en su domicilio o en el vehículo en que se encuentre o se le relacione con éste o en el lugar donde se le capture, uno o más de los siguientes objetos: prendas de vestir, insignias, distintivos, equipos o condecoraciones correspondientes a instituciones policiales o militares de cualquier índole o que simulen la apariencia de los oficiales;
+VI. Posea o porte, en su persona, en el vehículo en que se encuentre o se le relacione con éste, en su domicilio o en el lugar donde se le capture, uno o varios escritos o mensajes producidos por cualquier medio que tengan relación con grupos o actividades delictivas, y
+VII. Posea o porte, en el vehículo en que se encuentre o se le relacione con éste, en su domicilio o en el lugar donde se le capture, uno o varios accesorios u objetos que se utilizan en los vehículos oficiales de instituciones policiales, de tránsito, militares de cualquier índole o utilice en aquéllos los colores, insignias, diseño o particularidades para igualar la apariencia de los vehículos oficiales.
 TITULO TERCERO
 ATAQUES A LAS VIAS DE COMUNICACION Y VIOLACION O RETENCION DE CORRESPONDENCIA
 CAPITULO I
@@ -540,7 +616,8 @@ Se llaman caminos públicos las vías de tránsito habitualmente destinadas al u
 150.- Al que quite, corte o destruya las ataduras que detengan una embarcación u otro vehículo, o quite el obstáculo que impida o modere su movimiento, se le aplicará prisión de tres meses a dos años si no resultare daño alguno; si se causare, se aplicará además la sanción correspondiente por el delito que resulte.
 151.- Se impondrán de tres meses a cuatro años de prisión y multa de cinco a veinticinco cuotas, al que por cualquier medio destruya, deteriore u obstruya las vías de comunicación y medios de transporte de uso público que no sean de jurisdicción federal, siempre que no se cause daño a personas o cosas.
 Cuando resulten daños, o se cometa algún otro delito, se aplicarán las reglas del concurso.
-152.- Se impondrá de diez a quince años de prisión, al que incendiare una embarcación u otro vehículo si se encontraren ocupados por una o más personas. Si no se hallare persona alguna la sanción será de dos a seis años de prisión.
+(REFORMADO, P.O. 31 DE AGOSTO DE 2019)
+152.- Se impondrá de diez a quince años de prisión, al que incendiare una embarcación u otro vehículo si se encontraren ocupados por una o más personas. Si no se hallare persona alguna la sanción será de dos a seis años de prisión, con independencia de algún otro delito que pudiese configurarse.
 153.- Al que para la ejecución de los hechos de que hablan los artículos anteriores, se valga de explosivos, la pena se aumentará hasta en una mitad más.
 154.- Al que dolosamente ponga en movimiento un carro, camión o vehículo similar y lo abandone o de cualquier otro modo haga imposible el control de su velocidad y pueda causar daño, se le impondrá de uno a seis años de prisión, sin perjuicio de las sanciones correspondientes a los daños que se causen a las personas o a las cosas.
 CAPITULO II
