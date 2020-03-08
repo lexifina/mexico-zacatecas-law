@@ -10,3 +10,4 @@ COMUNÍQUESE AL EJECUTIVO DEL ESTADO PARA SU PROMULGACIÓN Y PUBLICACIÓN.
 DADO en la Sala de Sesiones de la Honorable Legislatura del Estado, a los quince días del mes de diciembre del año dos mil diecisiete. DIPUTADA PRESIDENTA.- JULIA ARCELIA OLGUÍN SERNA. DIPUTADOS SECRETARIOS.- CARLOS ALBERTO SANDOVAL CARDONA Y CAROLINA DÁVILA RAMÍREZ. Rúbricas.
 Y para que llegue al conocimiento de todos y se le dé el debido cumplimiento, mando se imprima, publique y circule.
 Dado en el despacho del Poder Ejecutivo del Estado, a los dieciocho días del mes de enero del año dos mil dieciocho. GOBERNADOR DEL ESTADO DE ZACATECAS.- ALEJANDRO TELLO CRISTERNA. SECRETARIA GENERAL DE GOBIERNO.- FABIOLA GILDA TORRES RODRÍGUEZ. Rúbricas.
+[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]
