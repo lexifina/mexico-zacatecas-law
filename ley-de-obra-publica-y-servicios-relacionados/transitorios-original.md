@@ -1,0 +1,13 @@
+TRANSITORIOS
+Artículo Primero. La presente Ley entrará en vigor a los noventa días siguientes de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+Artículo Segundo. Se abroga la Ley de Obras Públicas y Servicios Relacionados con las mismas para el Estado de Zacatecas, publicada en el Suplemento número 2 al 93 del Periódico Oficial, Órgano del Gobierno del Estado, correspondiente al 19 de noviembre de 2005.
+Artículo Tercero. Se derogan las disposiciones que contravengan la presente Ley.
+Artículo Cuarto. Dentro de los ciento ochenta días siguientes a la entrada en vigor de la presente Ley, el Ejecutivo Estatal deberá expedir el Reglamento General de esta Ley y otras disposiciones reglamentarias.
+Las disposiciones administrativas expedidas en esta materia, vigentes al momento de la publicación de este ordenamiento, se seguirán aplicando en todo lo que no se opongan a la presente Ley, en tanto se expiden las que deban sustituirlas.
+Artículo Quinto. Los registros de las personas físicas y jurídicas en el Registro Único, inscritas a la fecha de entrada en vigor de esta Ley, son válidos y deberán sujetarse, en lo sucesivo, a lo dispuesto en este ordenamiento.
+Artículo Sexto. Los procedimientos de contratación; de aplicación de sanciones y de inconformidades, así como los demás asuntos que se encuentren en trámite o pendiente de resolución se tramitarán y resolverán conforme a las disposiciones vigentes al momento en que se iniciaron. Los contratos de obras públicas y de servicios relacionados con las mismas que se encuentren vigentes al entrar en vigor esta Ley, continuarán rigiéndose por las disposiciones vigentes en el momento en que se celebraron.
+Artículo Séptimo. Los Entes Públicos actualizarán o expedirán los reglamentos y demás disposiciones normativas o administrativas necesarias para el cumplimiento de la presente Ley, en un plazo que no exceda de ciento ochenta días, contados a partir de la entrada en vigor de la presente Ley.
+COMUNÍQUESE AL EJECUTIVO DEL ESTADO PARA SU PROMULGACIÓN Y PUBLICACIÓN.
+DADO en la Sala de Sesiones de la Honorable Sexagésima Tercera Legislatura del Estado de Zacatecas, a los diecinueve días del mes de diciembre del año dos mil diecinueve. DIPUTADO PRESIDENTE.- PEDRO MARTÍNEZ FLORES. DIPUTADAS SECRETARIAS.- MA. ISABEL TRUJILLO MEZA Y KARLA DEJANIRA VALDEZ ESPINOZA. Rúbricas.
+Y para que llegue al conocimiento de todos y se le dé el debido cumplimiento, mando se imprima, publique y circule.
+Dado en el Despacho del Poder Ejecutivo del Estado, a los once días del mes de febrero del año dos mil veinte. GOBERNADOR DEL ESTADO.- ALEJANDRO TELLO CRISTERNA. SECRETARIO GENERAL DE GOBIERNO.- JEHÚ EDUÍ SALAS DÁVILA. Rúbricas.
