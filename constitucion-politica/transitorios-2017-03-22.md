@@ -1,5 +1,5 @@
 P.O. 22 DE MARZO DE 2017.
-[N. DE E. TRANSITORIOS DEL "DECRETO NO. 128.- SE REFORMAN, ADICIONAN Y DEROGAN, DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE ZACATECAS EN MATERIA DE SISTEMA ESTATAL ANTICORRUPCIÓN".]
+[N. DE E. TRANSITORIOS DEL "DECRETO NO. 128.- SE REFORMAN, ADICIONAN Y DEROGAN, DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE ZACATECAS EN MATERIA DE SISTEMA ESTATAL ANTICORRUCPIÓN".]
 Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado, sin perjuicio de lo previsto en los transitorios siguientes.
 (REFORMADO, P.O. 7 DE JULIO DE 2018)
 Artículo segundo. La Legislatura del Estado deberá expedir las leyes que instruyan la organización y funcionamiento del Sistema Estatal Anticorrupción, de la Fiscalía General de Justicia del Estado de Zacatecas, del Tribunal de Justicia Administrativa del Estado de Zacatecas; así como las reformas a la legislación derivada de los artículos 65 fracción XV, 71, 112, 113, 118 y 122 de este Decreto, en un plazo que no exceda de ciento ochenta días, contados a partir de la entrada en vigor del mismo.
