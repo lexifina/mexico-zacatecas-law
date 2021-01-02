@@ -1,5 +1,5 @@
-(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)
-ARTÍCULO 107 QUÁTER. Consulta en la base de datos electrónica, realizada vía remota, por cada inscripción $220.00
+(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)
+ARTÍCULO 107 QUÁTER. Consulta en la base de datos electrónica, realizada vía remota, por cada inscripción: $ 229.00
 (REFORMADA, P.O. 20 DE DICIEMBRE DE 2017)
 CAPÍTULO SEXTO
 (REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2018)

@@ -8,7 +8,8 @@ c) Reposición de Gafetes $250.00;
 (REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)
 d) Certificación de documentos de una a cinco fojas. $203.00, y por cada foja excedente $4.00.
 II. La Dirección de Concesiones, Inspección y Vigilancia de Transporte:
-a) Expedición de concesiones del Servicio Público de Transporte por unidad:
+(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE DICIEMBRE DE 2020)
+a) Expedición de concesiones del Servicio Público de Transporte por unidad, en la modalidad de:
 1. Colectivo urbano y suburbano. $ 90,000.00
 2. Colectivo Foráneo. $ 90,000.00
 3. Taxi. $ 150,000.00
@@ -26,7 +27,12 @@ Por cada unidad excedente de las 10 primeras. $ 5,000.00
 11. Escolar $50,000.00
 (ADICIONADO, P.O. 28 DE DICIEMBRE DE 2019)
 12. De personal de empresas $70,000.00.
-b) Refrendo anual de concesión. $ 1,500.00
+(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE DICIEMBRE DE 2020)
+b) Refrendo anual de concesión:
+(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2020)
+1. Personas Físicas. $ 600.00
+(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2020)
+2. Personas Morales. $ 950.00
 c) Reposición de concesión. $ 2,500.00
 d) Transferencia de derechos de concesión por:
 (REFORMADO [N. DE E. CON SUS FRACCIONES], P.O. 28 DE DICIEMBRE DE 2019)
