@@ -1,0 +1,4 @@
+(ADICIONADO, P.O. 9 DE ENERO DE 2021)
+Artículo 48 Bis. Todas las autoridades de los Poderes Públicos de Zacatecas, en su respectivo marco competencial, tienen la obligación de proteger y promover los derechos culturales de niñas, niños y adolescentes. Para lo cual, deberán:
+a) Ejecutar acciones afirmativas para garantizar el derecho a la cultura de niñas, niños y adolescentes de grupos y regiones con mayor rezago educativo en la Entidad o que viven en condición de vulnerabilidad o marginación social por cualquier causa, y
+b) Proporcionar bienes y servicios públicos con suficiencia de recursos humanos, materiales y presupuestarios, a fin de propiciar su acceso al goce de los bienes culturales y generar las condiciones socio-económicas y logísticas que les permitan a niños y jóvenes de cualquier estrato social, contribuir al enriquecimiento de la diversidad y el patrimonio cultural en la Entidad.
