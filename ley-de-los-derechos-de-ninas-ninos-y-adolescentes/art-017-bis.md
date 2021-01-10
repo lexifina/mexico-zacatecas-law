@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 9 DE ENERO DE 2021)
+Artículo 17 Bis. Las niñas, niños y adolescentes tienen derecho a vivir en familia ya sea Familia de Origen, Familia Extensa o Ampliada, de Acogida o de Acogimiento Pre-Adoptivo o a las que se haya asignado un menor en adopción, las cuales por igual tendrán la misma responsabilidad al cuidado de los menores quienes deberán crecer en un ambiente de afecto, seguridad física, moral, intelectual y material siempre bajo el principio del interés superior del niño.
