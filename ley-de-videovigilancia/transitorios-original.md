@@ -7,3 +7,4 @@ COMUNÍQUESE AL EJECUTIVO DEL ESTADO PARA SU PROMULGACIÓN Y PUBLICACIÓN.
 DADO en la Sala de Sesiones de la Honorable Sexagésima Segunda Legislatura del Estado, a los veintinueve días del mes de mayo del año dos mil dieciocho. DIPUTADA PRESIDENTA.- MA. GUADALUPE GONZÁLEZ MARTÍNEZ. DIPUTADOS SECRETARIOS.- SANTIAGO DOMÍNGUEZ LUNA Y ALFREDO SANDOVAL ROMERO. Rúbricas.
 Y para que llegue al conocimiento de todos y se le dé el debido cumplimiento, mando se imprima, publique y circule.
 Dado en el despacho del Poder Ejecutivo del Estado, a los doce días del mes de julio del año dos mil dieciocho. GOBERNADOR DEL ESTADO DE ZACATECAS.- ALEJANDRO TELLO CRISTERNA. SECRETARIA GENERAL DE GOBIERNO.- FABIOLA GILDA TORRES RODRÍGUEZ. Rúbricas.
+[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]
