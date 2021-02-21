@@ -7,7 +7,7 @@ LA HONORABLE QUINCUAGÉSIMA OCTAVA LEGISLATURA DEL ESTADO LIBRE Y SOBERANO DE ZA
 RESULTANDO PRIMERO.- En fecha 11 de Octubre de 2005, se dio lectura en el Pleno a la Iniciativa de Ley de Fomento a la Ganadería del Estado que presentaron los Diputados JOSÉ DE JESÚS DEL REAL SÁNCHEZ, CARLOS ALVARADO CAMPA, JUAN CARLOS LOZANO MARTÍNEZ, JUAN ANTONIO GÓMEZ LÓPEZ, ROMÁN CABRAL BAÑUELOS Y VICENTE MÁRQUEZ SÁNCHEZ, en su carácter de integrantes de la LVIII Legislatura del Estado de Zacatecas.
 RESULTANDO SEGUNDO.- Por acuerdo del Presidente de la Mesa Directiva, mediante el memorándum 1228, de fecha 11 de Octubre de 2005, y con fundamento en lo dispuesto por los artículos 56 fracción I y 59, párrafo 1, fracción I, del Reglamento General, la Iniciativa de referencia fue turnada a las Comisiones Legislativas de Puntos Constitucionales y de Desarrollo Agropecuario, para su estudio y dictamen.
 CONSIDERANDO PRIMERO.- La Iniciativa se sustentó en la siguiente:
-.
+[...]
 DECRETA
 LEY DE FOMENTO A LA GANADERÍA DEL ESTADO DE ZACATECAS
 TÍTULO PRIMERO
