@@ -1,0 +1,4 @@
+P.O. 24 DE FEBRERO DE 2021.
+[N. DE E. TRANSITORIOS DEL "DECRETO NO. 569.- SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE ZACATECAS, DE LA LEY PARA LA INVERSIÓN Y EL EMPLEO DE ZACATECAS Y DE LA LEY DE FOMENTO PARA EL DESARROLLO ECONÓMICO DEL ESTADO DE ZACATECAS".]
+Artículo primero. Publíquese el presente Decreto en el Periódico Oficial, Órgano del Gobierno del Estado.
+Artículo segundo. Se derogan las disposiciones que contravengan el presente decreto.
