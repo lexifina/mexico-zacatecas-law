@@ -1,7 +1,9 @@
 (ADICIONADO, P.O. 21 DE AGOSTO DE 2010)
 Artículo 24 quáter.- Respecto al Centro, el Director o Directora General del COZCYT tendrá las siguientes facultades:
-I. Nombrar y remover libremente a su Director o Directora Adjunto;
-II. Establecer los lineamientos administrativos que deba seguir el Director Adjunto en la aplicación de los recursos asignados al Centro;
+(REFORMADA, P.O. 7 DE JULIO DE 2021)
+I. Nombrar y remover libremente a su Director o Directora;
+(REFORMADA, P.O. 7 DE JULIO DE 2021)
+II. Establecer los lineamientos administrativos que deba seguir el Director en la aplicación de los recursos asignados al Centro;
 III. Determinar y obtener recursos adicionales necesarios para el financiamiento del Centro;
 IV. Autorizar la adquisición de bienes necesarios para la realización de las actividades del Centro con cargo a los recursos asignados;
 V. Formular proyectos anuales de ingresos adicionales;
