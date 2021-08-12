@@ -5,7 +5,7 @@ Que los DIPUTADOS SECRETARIOS de la Honorable Sexagésima Primera Legislatura de
 DECRETO # 602
 LA HONORABLE SEXAGÉSIMA PRIMERA LEGISLATURA DEL ESTADO LIBRE Y SOBERANO DE ZACATECAS, EN NOMBRE DEL PUEBLO, DECRETA
 RESULTANDOS
-[…]
+[...]
 Por lo anteriormente expuesto y fundado y con apoyo además en lo dispuesto en los artículos 140 y 141 del Reglamento General del Poder Legislativo, en nombre del Pueblo es de Decretarse y se
 DECRETA
 LEY PARA EL BIENESTAR Y PROTECCIÓN DE LOS ANIMALES EN EL ESTADO DE ZACATECAS
