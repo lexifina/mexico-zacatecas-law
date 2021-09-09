@@ -3124,8 +3124,8 @@ IV.- En escrito ante el Juez del conocimiento de una causa.
 1937.- El mandato verbal es el otorgado de palabra entre presentes, hayan o no intervenido testigos.
 Cuando el mandato haya sido verbal debe ratificarse por escrito antes de que concluya el negocio para el que se dio.
 1938.- El mandato puede ser general o especial: son generales los contenidos en los tres primeros párrafos del artículo siguiente; cualquiera otro mandato tendrá el carácter de especial.
-(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2017)
-Ningún poder se otorgará por una duración mayor a tres años, salvo que antes de que se cumpla ese tiempo, el mandante lo revoque, con excepción de los que se otorguen para actos de dominio sobre bienes inmuebles, cuya vigencia no podrá exceder del término de un año.
+(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2021)
+Ningún poder se otorgará por una duración mayor a tres años, salvo que antes de que se cumpla ese tiempo, el mandante lo revoque.
 1939.- En todos los poderes generales para pleitos y cobranzas bastará que se diga que se otorga con todas las facultades generales y especiales que requieran cláusulas especiales conforme a la ley para que se entiendan conferidos sin limitación alguna.
 En los poderes generales para administrar bienes bastará expresar que se dan con ese carácter, para que el apoderado tenga toda clase de facultades administrativas.
 En los poderes generales, para ejercer actos de dominio, bastará que se den con ese carácter para que el apoderado tenga todas las facultades de dueño, tanto en lo relativo a los bienes, como para hacer toda clase de gestiones a fin de defenderlos.
