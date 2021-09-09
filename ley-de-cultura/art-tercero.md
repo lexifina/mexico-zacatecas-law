@@ -1,0 +1,1 @@
+Artículo tercero. Se abroga la Ley de Desarrollo Cultural para el Estado y Municipios de Zacatecas, aprobada mediante Decreto # 293, publicado en el Suplemento número 2 al número 66 del Periódico Oficial, Órgano del Gobierno del Estado, de fecha 16 de agosto de 2003.

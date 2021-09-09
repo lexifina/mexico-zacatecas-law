@@ -1,0 +1,3 @@
+Artículo quinto. Los recursos humanos, materiales y financieros de la Banda Sinfónica, la Orquesta de Cámara y el Coro del Estado de Zacatecas deberán transferirse al Instituto para constituir parte de su patrimonio y cumplir con su objeto, de conformidad con los procedimientos previstos en las leyes de la materia y bajo la supervisión de la Secretaría de la Función Pública.
+Los derechos de autor relativos a las grabaciones de la Banda Sinfónica, la Orquesta de Cámara y el Coro del Estado de Zacatecas se transferirán al Instituto en los términos de las Leyes en la materia.
+Los derechos laborales de los servidores públicos que sean transferidos al Instituto serán respetados y garantizados.

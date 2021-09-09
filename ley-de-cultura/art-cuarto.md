@@ -1,0 +1,1 @@
+Artículo cuarto. Dentro de los ciento veinte días siguientes a la entrada en vigor de esta Ley, el Director General deberá someter a la aprobación de la Junta de Gobierno los proyectos de Estatuto Orgánico, Reglamento y la demás normatividad interna a que se hace referencia en esta Ley.

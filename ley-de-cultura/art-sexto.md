@@ -1,0 +1,1 @@
+Artículo sexto. El Instituto Zacatecano de Cultura "Ramón López Velarde" deberá implementar medidas de disciplina financiera y racionalidad de gasto para garantizar la operatividad de la presente Ley.

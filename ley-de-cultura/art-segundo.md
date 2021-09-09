@@ -1,0 +1,1 @@
+Artículo segundo. Se abroga la Ley que Crea el Instituto Zacatecano de Cultura "Ramón López Velarde", aprobada mediante Decreto #16, publicado en el Suplemento al número 105 del Periódico Oficial, Órgano del Gobierno del Estado, de fecha 31 de diciembre de 1986.
