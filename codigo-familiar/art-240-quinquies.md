@@ -3,7 +3,7 @@ CAPITULO DECIMO TERCERO TER
 DIVORCIO ADMINISTRATIVO
 (ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2017)
 ARTICULO 240 QUINQUIES.- Se entiende por divorcio administrativo, cuando ambos cónyuges convengan en divorciarse, y cubran todos los siguientes requisitos:
-I. Sean mayores de edad;
+I. (DEROGADA, P.O. 11 DE SEPTIEMBRE DE 2021)
 (REFORMADA, P.O. 24 DE AGOSTO DE 2019)
 II. No tengan hijos, o teniéndolos sean mayores de edad, salvo que se encuentren en estado de interdicción;
 III. La mujer demuestre que no está embarazada, y

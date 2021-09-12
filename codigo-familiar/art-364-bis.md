@@ -10,3 +10,5 @@ IV. Teniendo en cuenta la edad, desarrollo evolutivo, cognoscitivo y el grado de
 a) Ha sido convenientemente asesorado y debidamente informado sobre las consecuencias de la adopción y de su consentimiento a la adopción, cuando éste sea necesario;
 b) Se han tomado en consideración los deseos y opiniones del menor o incapacitado, y
 c) El consentimiento del menor o incapacitado a la adopción, cuando sea necesario, ha sido dado libremente y por escrito, sin que medie pago o compensación de clase alguna.
+(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2021)
+V. Que ninguno de los adoptantes se encuentre inscrito en el Registro de Deudores Alimentarios Morosos.
