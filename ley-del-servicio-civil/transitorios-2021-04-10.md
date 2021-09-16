@@ -1,0 +1,4 @@
+P.O. 10 DE ABRIL DE 2021.
+[N. DE E. TRANSITORIOS DEL "DECRETO No. 649.- SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL INSTITUTO ELECTORAL DEL ESTADO DE ZACATECAS, LA LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE ZACATECAS, LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE ZACATECAS Y LA LEY DEL SERVICIO CIVIL DEL ESTADO DE ZACATECAS".]
+Artículo primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+Artículo segundo. Se derogan las disposiciones que se opongan a este Decreto.
