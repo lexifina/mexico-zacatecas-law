@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 23 DE ENERO DE 2021)
+Artículo 168 Decies.- En los términos de la Ley General del Sistema Nacional Anticorrupción, la Ley del Sistema Estatal Anticorrupción de Zacatecas y demás ordenamientos aplicables, el Órgano Interno de Control mantendrá una coordinación permanente con la Auditoría Superior del Estado.

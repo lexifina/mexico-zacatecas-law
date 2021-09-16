@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 23 DE ENERO DE 2021)
+Artículo 168 Quáter.- El Tribunal remitirá a la Secretaría de Finanzas del Gobierno del Estado, la información financiera necesaria a efecto de consolidar la Cuenta Pública del Estado, incluyendo los registros anuales que muestren los avances presupuestarios y contables, en términos de la legislación en materia de disciplina financiera, responsabilidad hacendaria y fiscalización.
