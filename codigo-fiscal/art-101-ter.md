@@ -3,7 +3,8 @@ ARTÍCULO 101 TER. Los contribuyentes a que se refiere el artículo anterior de 
 I. Para efectos del Impuesto Sobre Nóminas:
 a) Que en el año calendario anterior a aquel que se dictamina, hayan contado con un promedio mensual de cien o más trabajadores;
 b) Que en el año calendario anterior a aquel que se dictamina, hayan tenido una base promedio mensual del Impuesto Sobre Nóminas de setecientos cincuenta mil pesos o mayor a dicha cantidad, o
-c) Que en el año calendario anterior a aquel que se dictamina, hayan obtenido ingresos acumulables anuales en los términos del Impuesto Sobre la Renta de igual o superior a diez millones de pesos.
+(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021)
+c) Que en el año calendario anterior a aquel que se dictamina, hayan obtenido ingresos acumulables anuales en los términos del Impuesto Sobre la Renta de igual o superior a veinte millones de pesos.
 II. Para efectos de Impuesto Sobre Servicios de Hospedaje:
 a) Que se encuentre en alguno de los supuestos establecidos en la fracción anterior, o
 b) Que en el año calendario anterior a aquel que se dictamina, hayan enterado un promedio mensual del Impuesto Sobre Servicios de Hospedaje de cincuenta mil pesos o mayor a dicha cantidad.
