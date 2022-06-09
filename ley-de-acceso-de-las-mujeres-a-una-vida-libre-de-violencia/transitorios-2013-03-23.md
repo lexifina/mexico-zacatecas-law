@@ -65,8 +65,9 @@ Artículo 99.- Las multas constituyen crédito fiscal que se hará efectivo por 
 El monto de las sanciones se destinará a la ejecución del Programa Estatal, así como a la operación de los centros de atención y refugios públicos.
 Medios de impugnación
 Artículo 100.- Las resoluciones emitidas por las autoridades administrativas competentes en materia de esta Ley, excepto las determinaciones de trámite del procedimiento a que se refieren el artículo 96, podrán ser impugnadas ante el Tribunal de lo Contencioso Administrativo del Estado y Municipios de Zacatecas.
+(REFORMADO, P.O. 8 DE JUNIO DE 2022)
 Sanciones a servidores públicos
-Artículo 101.- A las o los servidores públicos que incurran en hechos constitutivos de Violencia Institucional definida en el artículo 14 de la presente Ley, se les impondrán además de las sanciones establecidas en el artículo 97 de esta Ley, las dispuestas en la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Zacatecas y demás disposiciones civiles, penales y administrativas aplicables.
+Artículo 101.- A las o los servidores públicos que incurran en hechos constitutivos de Violencia Institucional definida en el artículo 14 de la presente Ley, se les impondrán además de las sanciones establecidas en el artículo 97 de esta Ley, las dispuestas en la Ley General de Responsabilidades Administrativas y demás disposiciones civiles, penales y administrativas aplicables.
 T R A N S I T O R I O S
 Artículo primero.- La presente Ley entrará en vigor al día siguiente al de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 Artículo segundo.- El Sistema Estatal deberá quedar integrado dentro de los 60 días naturales siguientes a la entrada en vigor de esta Ley.
