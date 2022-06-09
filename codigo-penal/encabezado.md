@@ -190,6 +190,8 @@ III.- Tratándose de los delitos comprendidos en el Título Octavo del Libro Seg
 (ADICIONADA, P.O. 4 DE AGOSTO DE 2012)
 IV.- Tratándose de los delitos comprendidos en el Título Vigésimo Cuarto del Libro Segundo de este Código, la reparación del daño abarcará la realización de las acciones necesarias para restablecer las condiciones de los elementos naturales que constituyen los ecosistemas afectados, al estado en que se encontraban antes de realizarse el delito.
 Si la cosa o productos se hallaren en poder de terceros, se observará lo dispuesto por el Código Civil sobre posesión de buena o mala fe.
+(ADICIONADO, P.O. 8 DE JUNIO DE 2022)
+En aquellos delitos cometidos en contra de la integridad sexual de las personas y la familia, el Juez no podrá absolver al pago de la reparación del daño.
 32.- Los terceros están obligados a reparar el daño, si son:
 I.- Los ascendientes, por los delitos de sus descendientes que se hallen bajo su patria potestad;
 II.- Los tutores o los custodios por los delitos de los incapacitados que se hallen bajo su autoridad;
@@ -321,8 +323,8 @@ V.- Tratándose de delitos cometidos con motivo del tránsito de vehículos y de
 64.- No se impondrá pena alguna al que cause homicidio, lesiones o daño en las cosas, por actos u omisiones culposas, a un ascendiente o descendiente consanguíneo en línea recta, hermano, adoptante o adoptado, cónyuge, concubina, concubinario o cuando entre el agente y el pasivo exista relación de pareja permanente, salvo que el agente se encuentre bajo el efecto de bebidas embriagantes, de estupefacientes o psicotrópicos, sin que medie prescripción médica, o bien, que se diere a la fuga y no auxilie a la víctima.
 CAPITULO III
 SANCION PARA LA TENTATIVA
-(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE AGOSTO DE 2019)
-65.- Al responsable de tentativa se le aplicará de una tercera parte del mínimo a dos terceras partes del máximo de la sanción señalada en la ley al delito que se pretendió consumar.
+(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JUNIO DE 2022)
+65.- Al responsable de tentativa se le aplicará de dos terceras partes del mínimo a dos terceras partes del máximo de la sanción señalada en la ley al delito que se pretendió consumar.
 Para imponer la sanción de la tentativa, los jueces tendrán en cuenta la culpabilidad del autor y el grado a que se hubiere llegado en la ejecución del delito.
 CAPITULO IV
 SANCIONES EN LOS CASOS DE CONCURSO DE DELITOS
@@ -462,6 +464,8 @@ PRESCRIPCION DEL DERECHO DE QUERELLA
 CAPITULO IX
 PRESCRIPCION DE LA ACCION PENAL
 96.- Los términos para la prescripción de la acción penal serán continuos y se contarán desde el día en que se cometió el delito, si fuere consumado; desde que cesó si fuere continuado o permanente, o desde el día en que se hubiere realizado el último acto de ejecución, si se tratare de tentativa o de delito imposible.
+(ADICIONADO, P.O. 8 DE JUNIO DE 2022)
+Cuando se trate de delitos sexuales, si el sujeto pasivo es un niño, niña o adolescente o no tuviere la capacidad de comprender el significado del hecho, la acción penal será imprescriptible.
 97.- La acción penal prescribe en un año, si el delito sólo merece multa. Si merece, además de esa sanción, la privativa de libertad, o fuere alternativa, se atenderá a lo dispuesto en el artículo siguiente. Lo mismo se observará cuando concurra alguna otra sanción accesoria.
 98.- La acción penal prescribirá en un plazo igual al término medio aritmético de la sanción privativa de la libertad que corresponda al delito, pero en ningún caso bajará de tres años.
 La acción para exigir la reparación del daño prescribirá en tres años.
@@ -485,8 +489,12 @@ PRESCRIPCION DE LA FACULTAD DE EJECUTAR LAS SANCIONES
 106.- La facultad para ejecutar la pena privativa de libertad prescribirá por el transcurso de un término igual al que debería durar y una cuarta parte más, pero nunca excederá de cincuenta años.
 107.- Cuando el reo hubiere extinguido ya una parte de su sanción, se necesitará para la prescripción tanto tiempo como el que falte de la condena y una cuarta parte más de ese tiempo.
 108.- La prescripción de las sanciones privativas de libertad, sólo se interrumpe por la aprehensión del sentenciado, aunque ésta se ejecute por delito diverso.
-109.- La sanción pecuniaria prescribirá en tres años. Las demás sanciones prescribirán por el transcurso de un término igual al de su duración y una cuarta parte más, pero nunca excederá de quince años. Las que no tengan temporalidad, prescribirán en tres años, contados a partir de la fecha en que cause ejecutoria la resolución.
-110.- La prescripción de la sanción pecuniaria, o de las demás señaladas en el artículo anterior, se interrumpirá por cualquier acto de autoridad tendiente a hacerlas efectivas y comenzará a correr nuevamente al día siguiente del último acto realizado.
+(REFORMADO, P.O. 8 DE JUNIO DE 2022)
+109.- La sanción pecuniaria de multa prescribirá en tres años, la privativa de libertad prescribirá por el transcurso de un término igual al de su duración y una cuarta parte más, pero nunca excederá de quince años. Las que no tengan temporalidad, prescribirán en tres años, contados a partir de la fecha en que cause ejecutoria la resolución.
+La reparación de daños y perjuicios derivada de un delito, prescribirá en diez años y no correrá el plazo mientras el responsable esté privado de su libertad.
+Las causas de extinción de la acción penal no se extienden a la reparación del daño.
+(REFORMADO, P.O. 8 DE JUNIO DE 2022)
+110.- La prescripción de la sanción pecuniaria, o de las demás señaladas en el artículo anterior, se interrumpirá por cualquier acto de autoridad tendiente a hacerlas efectivas y comenzará a correr nuevamente al día siguiente del último acto realizado. Por lo que respecta a la prescripción de la pena de la reparación del daño integral o de otras de carácter pecuniario, también se interrumpirán por las promociones que el ofendido o persona a cuyo favor se haya decretado dicha reparación haga ante la autoridad correspondiente y por las actuaciones que esa autoridad realice para ejecutarlas, así como por el inicio del juicio ante autoridad civil.
 111.- La sanción consistente en privación de derechos civiles o políticos prescribirá en diez años, si se ha impuesto como sanción principal, pero variará en los términos señalados en el artículo 44, cuando sea consecuencia de la pena de prisión. La inhabilitación temporal y la suspensión de cualquier otro derecho, prescribirán en un término igual al señalado por el artículo 106.
 112.- Los reos de homicidio intencional, o los de lesiones a quienes se hubiere impuesto la prohibición de ir a determinado lugar, y cuya sanción privativa de libertad haya prescrito, no podrán residir en el lugar donde vive el ofendido o sus ascendientes, descendientes, cónyuge o hermanos, sino transcurrido, después de consumada la prescripción, un tiempo igual al que debió durar la sanción.
 LIBRO SEGUNDO
@@ -537,8 +545,9 @@ TITULO SEGUNDO
 DELITOS CONTRA LA SEGURIDAD PUBLICA
 CAPITULO I
 EVASION DE PRESOS
-(REFORMADO, P.O. 4 DE AGOSTO DE 2012)
-128.- Se aplicará de uno a nueve años de prisión al que ponga en libertad o favorezca la evasión de quien se encuentre legalmente detenido por falta o delito, procesado o condenado. Si el delincuente fuere el encargado de conducir o custodiar al prófugo, será además destituido de su empleo.
+(REFORMADO, P.O. 8 DE JUNIO DE 2022)
+128.- Se aplicará de dos a nueve años de prisión al que ponga en libertad o favorezca la evasión de quien se encuentre legalmente detenido por delito, procesado o condenado.
+Si el delincuente fuere el servidor público encargado de conducir o custodiar al prófugo, será además destituido de su empleo y se le inhabilitará para obtener otro por un periodo igual al de la pena de prisión impuesta.
 129.- (DEROGADO, P.O. 4 DE AGOSTO DE 2012)
 (REFORMADO, P.O. 4 DE AGOSTO DE 2012)
 130.- Se le impondrá hasta la mitad más de la sanciones privativas de libertad señaladas en el artículo 128, según corresponda, al que proporcione al mismo tiempo o en un solo acto, la evasión de dos o más personas legalmente privadas de libertad. Si el responsable prestare sus servicios en el establecimiento, quedará además destituido de su empleo y se le inhabilitará para obtener otro de esa especie durante un periodo de ocho a doce años.
