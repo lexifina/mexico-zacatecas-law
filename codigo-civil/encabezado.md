@@ -161,7 +161,9 @@ TITULO SEGUNDO
 DE LAS PERSONAS JURIDICAS INDIVIDUALES
 42.- La capacidad de goce de las personas jurídicas individuales se adquiere por el nacimiento y se pierde con la muerte; pero entran bajo la protección del derecho desde el momento en que los individuos son concebidos y si nacen viables, también desde ese momento se les tiene por nacidos para los efectos declarados en el presente Código.
 43.- La capacidad de ejercicio para celebrar actos jurídicos, cumplir obligaciones y hacer valer derechos, se reconoce por este Código a los mayores de edad en pleno uso de sus facultades mentales y a los menores emancipados, en los casos declarados expresamente.
-44.- La minoría de edad, el estado de interdicción y las demás incapacidades establecidas por esta ley, son restricciones a la personalidad jurídica; pero los incapaces pueden ejercitar sus derechos o contraer obligaciones por medio de sus representantes.
+(NOTA: EL 4 DE JUNIO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 136/2022, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 6 DE JUNIO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+(REFORMADO, P.O. 27 DE AGOSTO DE 2022)
+44.- El estado de interdicción y las demás condiciones de discapacidad establecidas por este Código, deberán ser valoradas en cada caso para decidir qué tipo de ajustes razonables se requieren a fin de que las decisiones que tengan relevancia jurídica y afecten la vida de las personas en tal situación puedan ser válidas y acordes con sus derechos humanos; las personas con discapacidad pueden ejercitar sus derechos o contraer obligaciones mediante el apoyo de sus representantes, sin que las decisiones que, en su caso, tomen estos sean contrarias a su voluntad, atenten contra su dignidad humana o socaven sus derechos.
 45.- No pueden crearse incapacidades por contrato, aquéllas sólo emanan de la naturaleza de las personas o de esta ley.
 46.- El mayor de edad tiene la facultad de disponer libremente de su persona y de sus bienes, salvo las limitaciones que establece esta ley.
 47.- El domicilio de una persona jurídica individual es el lugar donde reside con el propósito de establecerse en él; a falta de éste, el lugar en que tiene el principal asiento de sus negocios, y a falta de uno y otro, el lugar en que se halle.
@@ -3125,8 +3127,8 @@ IV.- En escrito ante el Juez del conocimiento de una causa.
 1937.- El mandato verbal es el otorgado de palabra entre presentes, hayan o no intervenido testigos.
 Cuando el mandato haya sido verbal debe ratificarse por escrito antes de que concluya el negocio para el que se dio.
 1938.- El mandato puede ser general o especial: son generales los contenidos en los tres primeros párrafos del artículo siguiente; cualquiera otro mandato tendrá el carácter de especial.
-(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2021)
-Ningún poder se otorgará por una duración mayor a tres años, salvo que antes de que se cumpla ese tiempo, el mandante lo revoque.
+(REFORMADO, P.O. 27 DE AGOSTO DE 2022)
+El mandato deberá contener el plazo por el que se confiere, de no hacerlo se presume que ha sido otorgado por tres años, salvo que antes de que se cumpla ese tiempo, el mandante lo revoque.
 1939.- En todos los poderes generales para pleitos y cobranzas bastará que se diga que se otorga con todas las facultades generales y especiales que requieran cláusulas especiales conforme a la ley para que se entiendan conferidos sin limitación alguna.
 En los poderes generales para administrar bienes bastará expresar que se dan con ese carácter, para que el apoderado tenga toda clase de facultades administrativas.
 En los poderes generales, para ejercer actos de dominio, bastará que se den con ese carácter para que el apoderado tenga todas las facultades de dueño, tanto en lo relativo a los bienes, como para hacer toda clase de gestiones a fin de defenderlos.
