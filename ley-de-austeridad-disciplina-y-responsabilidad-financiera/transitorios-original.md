@@ -15,3 +15,4 @@ COMUNÍQUESE AL EJECUTIVO DEL ESTADO PARA SU PROMULGACIÓN Y PUBLICACIÓN.
 DADO en la Sala de Sesiones de la Honorable Sexagésima Cuarta Legislatura del Estado de Zacatecas, a los nueve días del mes de diciembre del año dos mil veintiuno. DIPUTADA PRESIDENTA.- SUSANA ANDREA BARRAGÁN ESPINOSA. DIPUTADAS SECRETARIAS.- KARLA DEJANIRA VALDEZ ESPINOZA Y MA. DEL REFUGIO ÁVALOS MÁRQUEZ. Rúbricas.
 Y para que llegue al conocimiento de todos y se le dé el debido cumplimiento, mando se imprima, publique y circule.
 Dado en el Despacho del Poder Ejecutivo del Estado, a los veintisiete días del mes de diciembre del año dos mil veintiuno. GOBERNADOR DEL ESTADO.- DAVID MONREAL AVILA. SECRETARIA GENERAL DE GOBIERNO.- GABRIELA EVANGELINA PINEDO MORALES. Rúbricas.
+N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.
