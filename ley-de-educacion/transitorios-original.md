@@ -12,3 +12,4 @@ COMUNÍQUESE AL EJECUTIVO DEL ESTADO PARA SU PROMULGACIÓN Y PUBLICACIÓN.
 DADO en la Sala de Sesiones de la Honorable Legislatura del Estado de Zacatecas, a los quince días del mes de mayo del año dos mil veinte. DIPUTADO PRESIDENTE.- EDUARDO RODRÍGUEZ FERRER. DIPUTADO SECRETARIO.- EDGAR VIRAMONTES CÁRDENAS, DIPUTADA SECRETARIA.- AIDA RUÍZ FLORES DELGADILLO. Rúbricas.
 Y para que llegue al conocimiento de todos y se le dé el debido cumplimiento, mando se imprima, publique y circule.
 Dado en el Despacho del Poder Ejecutivo del Estado, a los dos días del mes de junio del año dos mil veinte. GOBERNADOR DEL ESTADO.- ALEJANDRO TELLO CRISTERNA. SECRETARIO GENERAL DE GOBIERNO.- JEHÚ EDUÍ SALAS DÁVILA. Rúbricas.
+[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]
