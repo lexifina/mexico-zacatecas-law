@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 8 DE MARZO DE 2023)
+ARTÍCULO 96 TER. En la implementación de los programas de salud bucodental, la Secretaría de Salud deberá procurar un trabajo multidisciplinario y la participación de las instituciones y dependencias de los gobiernos estatal y municipales, la academia, así como de los sectores sociales y privados, con la finalidad de propiciar una cultura de prevención y atención de las enfermedades en la población.
+Para efectos del cumplimiento del presente Capítulo, la Secretaría de Salud contará con una Comisión Interinstitucional de Salud Bucal, cuyos objetivos, programas, metas y conformación se precisarán en el reglamento correspondiente.
