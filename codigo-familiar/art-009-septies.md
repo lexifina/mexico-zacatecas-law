@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 25 DE ENERO DE 2023)
+ARTICULO 9 SEPTIES.- Lo establecido en los artículos 9 Quintus y 9 Sexies, también podrá realizarse en la Dirección de Registro Civil del Estado, dependiente de la Coordinación General Jurídica y, posteriormente, lo remitirá a la Oficialía del Registro Civil del Municipio de que se trate, en el cual se procederá de inmediato a hacer la anotación y la reserva correspondiente, así como a cumplir con las disposiciones previstas en este Código.
