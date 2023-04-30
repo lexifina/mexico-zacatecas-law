@@ -1,0 +1,2 @@
+Artículo cuarto. Los Entes Públicos, con excepción del Poder Ejecutivo del Estado, deberán crear, en un plazo que no exceda de 60 días contados a partir de la publicación del presente Decreto, su Registro de Indemnizaciones por Responsabilidad Patrimonial.
+En el caso del Poder Ejecutivo del Estado, la Secretaría de la Función Pública contará con un plazo de 120 días, contados a partir de la publicación del presente, para crear el Registro de las dependencias de la administración centralizada y paraestatal.

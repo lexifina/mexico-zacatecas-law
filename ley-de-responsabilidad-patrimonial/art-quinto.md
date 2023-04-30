@@ -1,0 +1,4 @@
+Artículo quinto. Se derogan las disposiciones que se opongan a este Decreto.
+COMUNÍQUESE AL EJECUTIVO DEL ESTADO PARA SU PROMULGACIÓN Y PUBLICACIÓN. DADO en la Sala de Sesiones de la Honorable Sexagésima Cuarta Legislatura del Estado de Zacatecas, a los veintidós días del mes de diciembre del año dos mil veintidós. DIPUTADA PRESIDENTA.- KARLA DEJANIRA VALDEZ ESPINOZA. DUPUTADAS SECRETARIAS.- ZULEMA YUNUÉN SANTACRUZ MÁRQUEZ Y ANA LUISA DEL MURO GARCÍA. Rúbricas.
+Y para que llegue al conocimiento de todos y se le dé el debido cumplimiento, mando se imprima, publique y circule.
+Dado en el Despacho del Poder Ejecutivo del Estado, a los doce días del mes de enero del año dos mil veintitrés. GOBERNADOR DEL ESTADO.- DAVID MONREAL ÁVILA. SECRETARIA GENERAL DE GOBIERNO.- GABRIELA EVANGELINA PINEDO MORALES. Rúbricas.
