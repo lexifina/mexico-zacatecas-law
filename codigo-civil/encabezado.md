@@ -1305,8 +1305,8 @@ V.- Cuando el testamento no contiene institución de heredero o legatario.
 780.- Cuando siendo válido el testamento no deba sustituir la institución de heredero o legatario, subsistirán sin embargo, las demás disposiciones hechas en él; y la sucesión legítima sólo comprenderá los bienes que debían corresponder al heredero o legatario instituido.
 781.- Si el testador dispone legalmente sólo de una parte de sus bienes, el resto de ellos forma la sucesión legítima.
 782.- Tienen derecho a heredar por sucesión legítima:
-(REFORMADA, P.O. 29 DE MARZO DE 2017)
-I.- Los descendientes, cónyuges o concubino, adoptados y adoptantes, ascendientes y parientes colaterales dentro del cuarto grado;
+(REFORMADA, P.O. 8 DE JULIO DE 2023)
+I.- Los descendientes, cónyuges o concubinarios, adoptados y adoptantes, ascendientes y parientes colaterales dentro del cuarto grado;
 II.- A falta de los anteriores, la Universidad Autónoma de Zacatecas, "Francisco García Salinas";
 III.- El Estado, por conducto de su Secretaría de Educación Pública y Servicio Social.
 783.- El parentesco por afinidad no da derecho a heredar.
