@@ -13,7 +13,8 @@ RESULTANDO SEGUNDO.- En cumplimiento a lo señalado en el artículo 107, fracci�
 4. Iniciativa de Punto de Acuerdo presentada en Sesión del Pleno correspondiente al día 14 de abril de 2015, por el Senador Luis Sánchez Jiménez, Vicepresidente de la Cámara de Senadores del Congreso de la Unión, mediante el cual exhorta a los Congresos Locales a armonizar su legislación con la Ley General de los Derechos de Niñas, Niños y Adolescentes, con la finalidad de diseñar y fortalecer los mecanismos necesarios para cumplir cabalmente con sus objetivos. La Iniciativa de referencia fue turnada mediante memorándum número 1204.
 5. Iniciativa de Punto de Acuerdo presentada en Sesión del Pleno correspondiente al día 4 de febrero de 2015, por la Senadora Blanca María del Socorro Alcalá Ruiz, Vicepresidenta de la Cámara de Senadores del Congreso de la Unión, con un exhorto a los Congresos de las Entidades Federativas para que, en uso de sus atribuciones, armonicen sus leyes en materia de derechos de niñas, niños y adolescentes con la Ley General de los Derechos de Niñas, Niños y Adolescentes. La Iniciativa de referencia fue turnada mediante memorándum número 1068.
 RESULTANDO TERCERO.- La Diputada Araceli Guerrero Esquivel justificó su Iniciativa de Ley en la siguiente:
-"EXPOSICIÓN DE MOTIVOS…
+"EXPOSICIÓN DE MOTIVOS
+[...]
 Por lo anteriormente expuesto y fundado y con apoyo además en lo dispuesto en los artículos 140 y 141 del Reglamento General del Poder Legislativo, en nombre del Pueblo es de Decretarse y se
 DECRETA
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE ZACATECAS
