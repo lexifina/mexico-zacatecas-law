@@ -1,0 +1,1 @@
+Artículo 100 BIS. En las revisiones del Programa Estatal se estará a lo dispuesto en el Sistema de Evaluación establecido en el mismo, y los ajustes que deban realizarse a programas y acciones en ningún caso se harán en menoscabo de los objetivos y metas planteadas.
