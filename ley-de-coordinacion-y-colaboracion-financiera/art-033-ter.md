@@ -5,5 +5,6 @@ Donde:
 FEi, es la participación del FP del Municipio i en el año t.
 FPt es el Fondo de Participación por Colaboración Administrativa en Materia de Recaudación del Impuesto Predial a distribuir en el año t para el que se efectúa el cálculo.
 Ci es el Coeficiente de distribución del Fondo por Colaboración Administrativa en Materia de Recaudación del Impuesto Predial del Municipio i en el año t en el que se efectúa el cálculo.
-Rci,t es el monto de la recaudación del Impuesto Predial del Municipio i en el ejercicio fiscal anterior al que se realiza el cálculo y que registre un flujo de efectivo, reportado en la última cuenta pública presentada a la Legislatura del Estado.
+(REFORMADO, P.O. 30 DE DICIEMBRE DE 2023)
+Rci, t es el monto de la recaudación del Impuesto Predial del Municipio i en el ejercicio fiscal anterior al que se realiza el cálculo y que registre un flujo de efectivo, reportado en los formatos que para tal efecto emita la Secretaría, dentro de la segunda quincena del mes de enero de cada ejercicio fiscal.
 --- (sic). Es la suma sobre todos los Municipios de la variable que le sigue.

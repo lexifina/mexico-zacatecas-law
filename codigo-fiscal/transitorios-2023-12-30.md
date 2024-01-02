@@ -1,0 +1,4 @@
+P.O. 30 DE DICIEMBRE DE 2023.
+[N. DE E. TRANSITORIOS DEL "DECRETO NO. 497.- SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS, DE LA LEY DE HACIENDA DEL ESTADO DE ZACATECAS Y DE LA LEY DE COORDINACIÓN Y COLABORACIÓN FINANCIERA PARA EL ESTADO DE ZACATECAS Y SUS MUNICIPIOS".]
+ARTÍCULO PRIMERO. El presente Decreto entrará en vigor el primero de enero del año dos mil veinticuatro, previa publicación en el Periódico Oficial, Órgano del Gobierno del Estado Libre y Soberano de Zacatecas.
+ARTÍCULO SEGUNDO. Se derogan todas las disposiciones legales, reglamentarias, administrativas de igual o menor jerarquía y contractuales del marco jurídico estatal, en lo que se opongan al presente Decreto.

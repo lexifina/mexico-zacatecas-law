@@ -1,3 +1,2 @@
-(DEROGADO ÚLTIMO PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2020)
 (ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)
 Artículo 34 Bis. Para la distribución del Fondo establecido en artículo 33 fracción II de esta Ley, se aplicará el 70% con base en el número de habitantes publicado en la última información oficial por municipio del Instituto Nacional de Estadística y Geografía. El 30% restante se distribuirá aplicando el coeficiente efectivo al monto a distribuir, en los términos establecidos en el artículo 34-Ter del presente ordenamiento.

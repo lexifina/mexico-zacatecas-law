@@ -1,0 +1,6 @@
+P.O. 30 DE DICIEMBRE DE 2023.
+[N. DE E. TRANSITORIOS DEL "DECRETO NO. 497.- SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS, DE LA LEY DE HACIENDA DEL ESTADO DE ZACATECAS Y DE LA LEY DE COORDINACIÓN Y COLABORACIÓN FINANCIERA PARA EL ESTADO DE ZACATECAS Y SUS MUNICIPIOS".]
+ARTÍCULO PRIMERO. El presente Decreto entrará en vigor el primero de enero del año dos mil veinticuatro, previa publicación en el Periódico Oficial, Órgano del Gobierno del Estado Libre y Soberano de Zacatecas.
+ARTÍCULO SEGUNDO. Respecto al Impuesto Sobre Tenencia o Uso de Vehículos contenido en el Capítulo Cuarto del Título Segundo de la Ley de Hacienda del Estado de Zacatecas, continúa en suspensión de cobro para el ejercicio fiscal 2024.
+Las obligaciones derivadas de la Ley de Hacienda del Estado de Zacatecas respecto a este Impuesto se suspenden conforme a este Decreto, con excepción de las que hubieran nacido durante su vigencia por la realización de las situaciones jurídicas previstas en dichos ordenamientos, mismas que deberán ser cumplidas en las formas y plazos establecidos en las disposiciones aplicables.
+ARTÍCULO TERCERO. Se derogan todas las disposiciones legales, reglamentarias, administrativas de igual o menor jerarquía y contractuales del marco jurídico estatal, en lo que se opongan al presente Decreto.
