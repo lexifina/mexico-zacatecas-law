@@ -30,3 +30,4 @@ COMUNÍQUESE AL EJECUTIVO DEL ESTADO PARA SU PROMULGACIÓN Y PUBLICACIÓN.
 DADO en la Sala de Sesiones de la Honorable Sexagésima Tercera Legislatura del Estado de Zacatecas, a los diez días del mes de junio del año dos mil veintiuno. DIPUTADA PRESIDENTA.- MA. NAVIDAD DE JESÚS RAYAS OCHOA. DIPUTADAS SECRETARIS (SIC).- MA. ISABEL TRUJILLO MEZA Y MÓNICA LETICIA FLORES MENDOZA. Rúbricas.
 Y para que llegue al conocimiento de todos y se le dé el debido cumplimiento, mando se imprima, publique y circule.
 DADO en el Despacho del Poder Ejecutivo del Estado, a los veintiocho días del mes de junio del año dos mil veintiuno. EL GOBERNADOR DEL ESTADO DE ZACATECAS.- ALEJANDRO TELLO CRISTERNA. EL SECRETARIO GENERAL DE GOBIERNO.- ERIK FABIÁN MUÑOZ ROMÁN.- Rúbricas.
+[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]
