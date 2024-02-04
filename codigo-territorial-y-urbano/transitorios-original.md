@@ -19,3 +19,4 @@ COMUNÍQUESE AL EJECUTIVO DEL ESTADO PARA SU PROMULGACIÓN Y PUBLICACIÓN.
 Dado en la Sala de Sesiones de la Honorable Legislatura del Estado de Zacatecas, a los treinta días del mes de junio del año dos mil diecinueve. DIPUTADA PRESIDENTA.- SUSANA RODRÍGUEZ MÁRQUEZ. DIPUTADAS SECRETARIAS.- ÁIDA RUIZ FLORES DELGADILLO Y ROXANA DEL REFUGIO MUÑOZ GONZÁLEZ. Rúbricas.
 Y para que llegue al conocimiento de todos y se le dé el debido cumplimiento, mando se imprima, publique y circule.
 Dado en el Despacho del Poder Ejecutivo del Estado, a los treinta días del mes de julio del año dos mil diecinueve. GOBERNADOR DEL ESTADO.- ALEJANDRO TELLO CRISTERNA. SECRETARIO GENERAL DE GOBIERNO.- JEHÚ EDUI SALAS DÁVILA. Rúbricas.
+N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.
