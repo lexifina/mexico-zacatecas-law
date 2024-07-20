@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 17 DE JULIO DE 2024)
+Artículo 196 Bis.- Cuando se requiera la citación o emplazamiento de personas, físicas o jurídicas, fuera del lugar de residencia del Tribunal o del Centro de Conciliación, éstos deberán ampliar el término de que se trate en función de la distancia, a razón de tres días más por cada 100 kilómetros o fracción que exceda de la mitad, tomando en cuenta los medios de transporte y las vías generales de comunicación existentes.
