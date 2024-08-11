@@ -1,0 +1,4 @@
+(ADICIONADO, P.O. 10 DE AGOSTO DE 2024)
+ARTÍCULO 125 QUÁTER.- Cuando el resultado de la prueba de alcoholemia aplicada a la persona conductora, muestre resultados de ingesta de alcohol superiores a 0.40 mg/L en aire espirado o de 0.08 g/Dl en sangre, o se compruebe bajo otras formas el influjo de alguna droga, procederá el arresto, mismo que podrá ser conmutable en términos de lo previsto por esta Ley, en su caso, el resguardo del vehículo y alguna otra medida que la autoridad considere procedente conforme a esta Ley y su Reglamento General.
+A quienes conduzcan vehículos destinados al transporte público, la misma sanción se les aplicará, al acreditarse cualquier cantidad de consumo de alcohol.
+El arresto se determinará para salvaguardar la integridad de las personas y la seguridad vial, sin perjuicio de la imposición de otras medidas conforme a esta Ley y su Reglamento General.

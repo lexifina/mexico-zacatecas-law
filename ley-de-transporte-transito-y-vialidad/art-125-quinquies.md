@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 10 DE AGOSTO DE 2024)
+ARTÍCULO 125 QUINQUIES.- El Centro de Sanciones Administrativas será operado por la Dirección de Policía Vial Preventiva, contará con oficiales calificadores y con el personal complementario para la substanciación de procedimientos administrativos de los que pueda resultar una sanción proveniente de la conducción de vehículos por personas con ingesta de alcohol, en las cantidades establecidas en esta Ley o bajo el influjo de alguna otra droga.
+Los oficiales calificadores y su personal serán nombrados por el titular de la Secretaría de Seguridad y deberán reunir los requisitos previstos en el Reglamento General.

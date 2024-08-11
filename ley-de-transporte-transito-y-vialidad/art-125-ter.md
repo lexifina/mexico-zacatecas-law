@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 10 DE AGOSTO DE 2024)
+ARTÍCULO 125 TER.- A la persona conductora que presente el grado de alcoholemia de 0.26 a 0.39 mg/L en aire espirado o de 0.052 a 0.079 g/Dl en sangre, se le impondrá una multa de 60 a 120 UMA, en su caso, el resguardo del vehículo y alguna otra medida que la autoridad considere procedente conforme a esta Ley y su Reglamento General.
+La Secretaría de Seguridad a través de la Dirección de Policía Vial Preventiva, en su caso, en coordinación con otras dependencias, realizará el control de alcoholimetría mediante los métodos aprobados por la Secretaría de Salud Federal.

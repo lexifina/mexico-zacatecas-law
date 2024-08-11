@@ -1,0 +1,6 @@
+(ADICIONADO, P.O. 10 DE AGOSTO DE 2024)
+ARTÍCULO 125 OCTIES.- El personal de la Policía Vial Preventiva que participe en el operativo deberá portar cámaras corporales y grabar la ejecución del mismo.
+Los contenidos de la grabación serán entregados al Oficial Calificador para evidenciar el desarrollo del operativo y deberán resguardarse hasta por 30 días naturales, posteriores a la conclusión del procedimiento administrativo.
+Cuando no exista grabación de la detención y del examen de alcoholemia realizado al conductor detenido, se le pondrá en libertad sin ser sometido al procedimiento administrativo y sin recibir sanción alguna.
+Los datos personales estarán a salvo en todo momento, lo contrario será causa de responsabilidad.
+Cuando el personal de la Policía Vial Preventiva intencionalmente apague o desactive su cámara corporal, omita o simule hacer la grabación, dañe la cámara, altere sus contenidos o se niegue a entregarlos, el oficial calificador deberá informar al Órgano Interno de Control de la Secretaría de Seguridad para que investigue la posible falta administrativa que haya cometido el agente y conforme al régimen disciplinario policial, deberá dar vista a la Unidad de Asuntos Internos de la Secretaría de Seguridad.
