@@ -1,0 +1,6 @@
+(NOTA: EL 30 DE SEPTIEMBRE DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 189/2024, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 1 DE DICIEMBRE DE 2024, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 016, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2024)
+Artículo 311 Bis. Comete el delito de aborto forzado el que, sin el consentimiento de la mujer o persona con capacidad de gestar, la haga interrumpir el embarazo en cualquier momento de éste, CON O SIN EL CONOCIMIENTO DE LA VÍCTIMA.
+Al que cometa el delito de aborto forzado se le aplicarán de tres a seis años de prisión, sea cual fuere el medio que empleare. Si además mediare violencia física o moral, la pena será de seis a diez años de prisión.
+Si el aborto lo causare un médico, comadrona o partera, además de las sanciones que le correspondan, se le suspenderá de dos a cinco años en el ejercicio de su profesión.
+312. (DEROGADO, P.O. 30 DE NOVIEMBRE DE 2024)

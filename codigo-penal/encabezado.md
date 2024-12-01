@@ -303,7 +303,7 @@ Siempre que al delito intencional corresponda sanción alternativa que incluya u
 Sólo se sancionarán como delitos culposos los siguientes:
 I. Homicidio, a que se refiere el artículo 293;
 II. Lesiones, a que se refiere el artículo 285;
-III. Aborto, a que se refiere el artículo 310;
+III. (DEROGADA, P.O. 30 DE NOVIEMBRE DE 2024)
 IV. Peligro de contagio, a que se refiere el artículo 173;
 V. Daños, a que se refiere el artículo 349;
 VI. Ejercicio indebido o abandono de funciones públicas, a que se se (sic) refiere el artículo 193 fracción V;
