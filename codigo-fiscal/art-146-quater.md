@@ -1,5 +1,5 @@
 (REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2020)
-ARTÍCULO 146 Quáter. Cuando las autoridades fiscales en el ejercicio de sus facultades de comprobación a que se refiere la fracción XI del artículo 120 de este Código, revisen el dictamen y demás información a que se refiere este artículo y las reglas de carácter general emitidas por la Secretaría de Finanzas, estarán a lo que enseguida se dispone:
+ARTÍCULO 146 QUÁTER. Cuando las autoridades fiscales en el ejercicio de sus facultades de comprobación a que se refiere la fracción XI del artículo 120 de este Código, revisen el dictamen y demás información a que se refiere este artículo y las reglas de carácter general emitidas por la Secretaría de Finanzas, estarán a lo que enseguida se dispone:
 (ADICIONADA, P.O. 28 DE DICIEMBRE DE 2019)
 I. Se requerirá al contador público que haya formulado el dictamen, lo siguiente:
 (ADICIONADO, P.O. 28 DE DICIEMBRE DE 2019)
@@ -29,7 +29,8 @@ Las facultades de comprobación a que se refiere este artículo, se podrán ejer
 (ADICIONADO, P.O. 28 DE DICIEMBRE DE 2019)
 Para el ejercicio de las facultades de comprobación de las autoridades fiscales, no se deberá observar el orden establecido en este artículo, cuando:
 a) En el dictamen exista abstención de opinión, opinión negativa o salvedades que tengan implicaciones fiscales;
-b) En el caso de que se determinen diferencias de impuestos a pagar y estos no se enteren de conformidad con lo dispuesto en esta sección;
+(REFORMADO, P.O. 28 DE DICIEMBRE DE 2024)
+b) En el caso de que se determinen diferencias de impuestos a pagar y estos no se enteren de conformidad con lo dispuesto en este Código o en las Reglas de Carácter General que emita la autoridad fiscal;
 c) El dictamen no surta efectos fiscales, en términos de lo establecido en el artículo 101 Septies de este Código;
 d) El contador público que formule el dictamen no esté autorizado o su inscripción esté suspendida o cancelada;
 e) El contador público que formule el dictamen desocupe el local donde tenga su domicilio fiscal, sin presentar el aviso de cambio de domicilio en los términos señalados en el presente Código;

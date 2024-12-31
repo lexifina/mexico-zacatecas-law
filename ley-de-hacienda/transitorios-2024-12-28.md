@@ -1,0 +1,6 @@
+P.O. 28 DE DICIEMBRE DE 2024.
+[N. DE. E. TRANSITORIOS DEL "DECRETO NÚMERO 22.- SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS, DE LA LEY DE HACIENDA DEL ESTADO DE ZACATECAS Y DE LA LEY DE FIRMA ELECTRÓNICA DEL ESTADO DE ZACATECAS".]
+ARTÍCULO PRIMERO. El presente Decreto entrará en vigor el primero de enero del año dos mil veinticinco, previa publicación en el Periódico Oficial, Órgano del Gobierno del Estado Libre y Soberano de Zacatecas.
+ARTÍCULO SEGUNDO. Respecto al Impuesto Sobre la Tenencia o Uso de Vehículos contenido en el Capítulo Cuarto del Título Segundo de la Ley de Hacienda del Estado de Zacatecas, entrará en suspensión de cobro en el ejercicio fiscal 2025.
+Las obligaciones derivadas de la Ley de Hacienda del Estado de Zacatecas respecto este Impuesto se suspenden conforme a este Decreto, con excepción de las que hubieran nacido durante su vigencia por la realización de las situaciones jurídicas previstas en dichos ordenamientos, mismas que deberán ser cumplidas en las formas y plazos establecidos en las disposiciones aplicables.
+ARTÍCULO TERCERO. Se derogan todas las disposiciones legales, reglamentarias, administrativas de igual o menor jerarquía y contractuales del marco jurídico estatal, en lo que se opongan al presente Decreto.

@@ -1,0 +1,5 @@
+P.O. 28 DE DICIEMBRE DE 2024.
+[N. DE E. TRANSITORIOS DEL "DECRETO NO. 22.- SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS, DE LA LEY DE HACIENDA DEL ESTADO DE ZACATECAS Y DE LA LEY DE FIRMA ELECTRÓNICA DEL ESTADO DE ZACATECAS".]
+ARTÍCULO PRIMERO. El presente Decreto entrará en vigor el primero de enero del año dos mil veinticinco, previa publicación en el Periódico Oficial, Órgano del Gobierno del Estado Libre y Soberano de Zacatecas.
+ARTÍCULO SEGUNDO. Se abrogan las "REGLAS.- Para la cancelación y depuración de Créditos Fiscales a favor del Estado de Zacatecas" publicadas en el Suplemento 6 al No. 48 del Periódico Oficial Órgano del Gobierno del Estado Libre y Soberano de Zacatecas, de fecha 17 de junio de 2023, del Tomo CXXXIII No. 48.
+ARTÍCULO TERCERO. Se derogan todas las disposiciones legales, reglamentarias, administrativas de igual o menor jerarquía y contractuales del marco jurídico estatal, en lo que se opongan al presente Decreto.
