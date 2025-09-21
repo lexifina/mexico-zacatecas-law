@@ -1,5 +1,0 @@
-Artículo 64 Bis.- Cuando una mujer o una niña víctima de violencia soliciten una orden de protección a la autoridad administrativa, ministerial o judicial, se le deberá brindar toda la información disponible sobre el procedimiento relacionado con la propia orden.
-La autoridad deberá informar con un lenguaje claro, sencillo y empático a la mujer víctima de violencia sobre su derecho a solicitar las órdenes de protección, y evitará cualquier información tendiente a inhibir o desincentivar la solicitud.
-La autoridad deberá realizar la medición y valoración del riesgo, brindar atención integral a las víctimas, incluyendo valoración médica y psicológica.
-Las autoridades competentes de los tres órdenes de gobierno, que reciban denuncias anónimas de mujeres y niñas víctimas de violencia, decretarán las órdenes de protección correspondientes. La persona que denuncie de manera anónima deberá proporcionar los datos de identificación o localización de la víctima.
-Órdenes emergentes

@@ -1,3 +1,0 @@
-Articulo 14 Ter.- Cualquier acto doloso que se presenta a través de las tecnologías de la información y comunicación, u otro medio, por el cual se lleva a cabo la acción de divulgar, compartir, distribuir, comercializar, solicitar, amenazar con publicar o publicar sin consentimiento, imágenes, textos, audios, videos u otras impresiones gráficas de una persona desnuda parcial o totalmente de contenido erótico o sexual, verdaderas o alteradas, ya sean propias o de otra persona, que cause daño o perjuicio y que atenta contra la integridad y dignidad de las mujeres.
-(ADICIONADO, P.O. 23 DE JUNIO DE 2018)
-Violencia Obstétrica
