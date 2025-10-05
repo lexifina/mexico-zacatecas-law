@@ -436,16 +436,41 @@ Al que no otorgare la caución de no ofender, se le impondrá multa de cinco a d
 I.- Si lo que exigió y recibió fue dinero o algún documento o cosa estimable en dinero, se le aplicará la sanción del robo con violencia;
 II.- Si exigió que el amenazado cometiera un delito, la sanción de la amenaza y la que le corresponda por su participación en el que resulte, se sujetarán a las reglas del concurso; y
 III.- Si lo que exigió fue que dejara de ejecutar un acto lícito, se le impondrá prisión de tres meses a dos años y multa de diez a veinticinco cuotas.
+(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE OCTUBRE DE 2025)
+261.- Comete el delito de extorsión a quien obligue a otra persona, por cualquier medio, incluida la violencia física o psicológica a dar, hacer, dejar de hacer algo, tolerar algo o amenace con causar daño en su persona, familia, posesiones, actividades económicas o laborales, o a un tercero con el que tenga cualquier vínculo afectivo, laboral, económico, con el propósito de obtener un lucro o provecho para sí o para una tercera persona, independientemente de que se logre o no el fin propuesto.
+(ADICIONADO, P.O. 4 DE OCTUBRE DE 2025)
+La conducta a la que se refiere el párrafo anterior podrá ser realizada de manera personal, vía telefónica o a través de cualquier medio que resulte de la aplicación de las nuevas tecnologías, incluyendo cualquier red social.
+(ADICIONADO, P.O. 4 DE OCTUBRE DE 2025)
+El delito de extorsión se perseguirá de oficio cuando el Ministerio Público tenga noticia por cualquier medio de su ejecución en perjuicio de cualquiera de las actividades económicas o productivas del estado.
+(ADICIONADO, P.O. 4 DE OCTUBRE DE 2025)
+Se concede acción pública para denunciar este delito.
+(ADICIONADO, P.O. 4 DE OCTUBRE DE 2025)
+Los servidores públicos de las dependencias y entidades, que en el ejercicio de sus facultades tengan conocimiento de la probable existencia de un hecho constitutivo del presente delito hacia alguno de los sectores económicos o productivos con los que se encuentren relacionados, están obligados a denunciarlo inmediatamente al Ministerio Público, proporcionándole los datos con que cuenten.
+(REFORMADO, P.O. 4 DE OCTUBRE DE 2025)
+Al que comete el delito de extorsión se le impondrá de ocho a dieciséis años de prisión y multa de cien a doscientas veces el valor diario de la Unidad de Medida y Actualización vigente en el momento en que se cometió el delito.
+(DEROGADO SÉPTIMO PÁRRAFO [N. DE E. ANTES TERCER PÁRRAFO], P.O. 4 DE OCTUBRE DE 2025)
+(DEROGADO OCTAVO PÁRRAFO, P.O. 4 DE OCTUBRE DE 2025)
+(DEROGADO NOVENO PÁRRAFO, P.O. 4 DE OCTUBRE DE 2025)
 (REFORMADO, P.O. 4 DE AGOSTO DE 2012)
-261.- Comete el delito de extorsión aquél que, con el ánimo de alcanzar un lucro o provecho, para sí o para otro, exija de otro dar, hacer, dejar de hacer o tolerar algo, utilizando para ello la amenaza de causarle un daño moral, físico o patrimonial en su persona o en la persona de otro.
-(REFORMADO, P.O. 8 DE JUNIO DE 2022)
-Al que comete el delito de extorsión se le impondrá de tres a catorce años de prisión y multa de cien a doscientas veces el valor diario de la Unidad de Medida y Actualización vigente en el momento en que se cometió el delito.
-(DEROGADO TERCER PÁRRAFO, P.O. 8 DE JUNIO DE 2022)
-(REFORMADO, P.O. 8 DE JUNIO DE 2022)
-Las penas se aumentaran en dos terceras partes cuando el delito se realice por una persona que se encuentre privada de su libertad en un centro de reinserción social, un servidor público, integrante o exintegrante de una corporación de seguridad pública o privada.
-(ADICIONADO, P.O. 8 DE JUNIO DE 2022)
-En el caso del servidor público o integrante de una corporación de seguridad pública, se le impondrá, además, la destitución del empleo o cargo público y se le inhabilitara de cinco a diez años para desempeñar cargo o comisión públicos.
 Las penas contenidas en este artículo se aplicarán con independencia de las que correspondan por otros delitos que resulten.
+(ADICIONADO, P.O. 4 DE OCTUBRE DE 2025)
+261 Bis.- Las penas establecidas en el artículo anterior, se agravarán hasta una mitad más en su mínimo y en su máximo, cuando:
+I. La víctima sea una persona menor de dieciocho años o mayor de setenta años de edad; cuando no tenga la capacidad para comprender el significado del hecho; padezca alguna enfermedad grave o terminal; se trate de mujer embarazada, y
+II. Teniendo parentesco con la víctima por consanguinidad en línea recta o colateral hasta el cuarto grado, sean cónyuges o concubinarios, ejecute el hecho o proporcione información para consumar la acción en contra del sujeto pasivo.
+(ADICIONADO, P.O. 4 DE OCTUBRE DE 2025)
+261 Ter.- Las penas establecidas en el artículo 261 de este Código, se agravarán hasta en dos terceras partes más en su mínimo y en su máximo, cuando:
+I. Intervengan dos o más personas, en cualquier grado de participación;
+II. El delito se realice por personas privadas de la libertad o el delito se realice desde el interior de un centro penitenciario, centro de reinserción social o centro de internamiento.
+Igual sanción se impondrá a los servidores públicos que, por acción u omisión, faciliten los medios para que el delito se cometa por parte de personas privadas de la libertad, bajo su custodia o vigilancia; asimismo, se le impondrá la destitución del empleo, cargo o comisión y se le inhabilitará hasta por un tiempo igual al término de la pena de prisión que se le imponga. Además, se le suspenderá por el mismo término el derecho para ejercer actividades en corporaciones de seguridad privada;
+III. El delito se realice por servidores públicos, miembros o exmiembros de alguna corporación de seguridad pública o privada.
+En el caso de servidores públicos, miembros o exmiembros de alguna corporación de seguridad pública o privada o del sistema penitenciario, se impondrá, en su caso, la destitución del empleo, cargo o comisión y se le inhabilitará hasta por un tiempo igual del término de la pena de prisión que se imponga. Además, se le suspenderá por el mismo término el derecho para ejercer actividades en corporaciones de seguridad privada;
+IV. En la comisión del delito intervengan una o más personas armadas o que simulen estarlo;
+V. El sujeto pasivo o un tercero, entregue al activo o a persona que actúe en representación de éste, alguna cantidad de dinero o bienes de cualquier índole, en más de una ocasión;
+VI. La víctima se dedique al comercio o al desarrollo de actividades económicas, y la extorsión implique el cobro de cuotas o el otorgamiento de protección de cualquier tipo, sea cierto o no;
+VII. Por cualquier medio documental, electrónico, telefónico, amenace o intimide la persona, familia o bienes del sujeto pasivo, requiera el pago de una deuda simulada o solicite de otro la suscripción o destrucción de documentos que contengan obligaciones o créditos;
+VIII. Se refiera a la víctima u ofendido que en el hecho interviene algún grupo de la delincuencia organizada, sea cierto o no, aun cuando el propósito perseguido con ello sea solo el que no denuncie el hecho;
+IX. Se provoque o simule una colisión, impacto o cualquier percance vehicular, a fin de convencer al sujeto pasivo de ser responsable del mismo y con ello obtener un lucro o beneficio personal, y
+X. Se amenace o provoque incendio en los bienes muebles e inmuebles de la víctima u ofendido.
 CAPITULO II
 ALLANAMIENTO DE MORADA
 (REFORMADO, P.O. 4 DE AGOSTO DE 2012)
