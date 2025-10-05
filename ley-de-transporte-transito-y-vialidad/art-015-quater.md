@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 4 DE OCTUBRE DE 2025)
+ARTÍCULO 15 Quater. Las autoridades deben establecer las bases para la coordinación entre el estado y los municipios a través de los planes de desarrollo, la política de movilidad y seguridad vial con un enfoque integral a la política de desarrollo urbano y ordenamiento territorial, que sea transversal con las políticas sectoriales aplicables en todo el territorio estatal, además de cumplir en todo momento, con los principios establecidos en la Ley General de Movilidad y Seguridad Vial.
