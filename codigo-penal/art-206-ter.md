@@ -563,6 +563,13 @@ IV.- Con prisión de dos a cinco años y multa de diez a treinta cuotas, cuando 
 V.- Con prisión de cuatro a ocho años y multa de veinte a cincuenta cuotas, cuando las lesiones produzcan la pérdida de cualquier función orgánica o de un miembro, de un ojo, o que causen una enfermedad segura o probablemente incurable, deformidad incorregible e incapacidad permanente para trabajar, o cuando el ofendido quede sordo, ciego o impotente, o pierda sus facultades mentales.
 (REFORMADO, P.O. 4 DE AGOSTO DE 2012)
 El delito de lesiones previsto en las fracciones I, II, III y IV de este artículo, sólo se perseguirá por querella.
+(ADICIONADO, P.O. 4 DE OCTUBRE DE 2025)
+286 Bis.- A quien cause daño a otra persona en su salud física o mental, utilizando para ello cualquier tipo de gas, compuestos químicos, ácido, álcalis, sustancias químicas corrosivas, cáusticas, irritantes, tóxicas, inflamables, explosivas, reactivas, líquidos a altas temperaturas o cualquier otra sustancia que por sí misma o en las condiciones utilizadas, provoque lesiones ya sean internas, externas o ambas, se le impondrá una pena de cinco a diez años de prisión y multa de cien a ciento cincuenta veces la Unidad de Medida y Actualización vigente al momento en que se cometió el delito.
+La pena y multa previstas en el párrafo anterior, se aumentarán en una mitad en su mínimo y máximo cuando:
+I. Las lesiones afecten, o produzcan la pérdida de cualquier función orgánica, dañen, debiliten u ocasionen la pérdida de una extremidad;
+II. Causen deformidad en el rostro;
+III. Pérdida parcial o total del oído, vista, olfato o habla, o
+IV. Causen alteración o daño en el órgano genital externo e interno, en las funciones del ejercicio de la sexualidad o en las glándulas mamarias de la víctima.
 287.- Las sanciones previstas en el artículo anterior se aumentarán hasta en un tanto más, cuando las lesiones, por su situación u órganos interesados, hayan puesto u ordinariamente pongan en peligro la vida.
 288.- Si las lesiones fueren inferidas en riña o duelo, se impondrá al responsable hasta la mitad o hasta cinco sextos de las sanciones señaladas en los artículos que anteceden, según se trate del provocado o del provocador.
 Si en la riña intervienen tres o más personas, se observarán las reglas siguientes:
@@ -575,8 +582,9 @@ III.- Cuando las lesiones causadas sean de naturaleza y consecuencias diversas y
 291.- Las lesiones inferidas por quienes ejerzan la patria potestad o la tutela son punibles y a la sanción que corresponda conforme a los artículos que preceden, se le aumentará de tres meses a dos años de prisión. En todo caso se perseguirán de oficio.
 Además, el delincuente podrá ser privado del ejercicio de la patria potestad si la conducta se considera como grave.
 Cuando el autor de la lesión sea persona de notoria escasa instrucción a criterio del juez y tratándose de la primera ocasión, únicamente se le impondrá la obligación de asistir a una o varias terapias al sistema DIF, quedando a disposición de esta institución, siempre y cuando la lesión, o lesiones, sean de las comprendidas en la fracción I del artículo 286.
+(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE OCTUBRE DE 2025)
+291 Bis.- Cuando por razones de género se lesione dolosamente a una mujer, se aumentará hasta en una mitad en su mínimo y su máximo la punibilidad que le corresponda por la lesión inferida.
 (ADICIONADO, P.O. 1 DE JUNIO DE 2016)
-291 Bis.- Cuando por razones de género se lesione dolosamente a una mujer, se aumentará una tercera parte a la punibilidad que le corresponda por la lesión inferida.
 Deberá entenderse la presencia de razones de género, cuando las lesiones sean producto de la ejecución de alguna o varias de las circunstancias propias de los tipos de violencia en contra de las mujeres descrita en la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia y Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Zacatecas.
 (REFORMADO, P.O. 13 DE ENERO DE 2018)
 292.- De las lesiones que a una persona cause algún animal, será responsable el que con esa intención lo azuce o lo suelte. Si lo suelta por descuido, la sanción será la correspondiente al delito culposo.
