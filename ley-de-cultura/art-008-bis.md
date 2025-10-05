@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 4 DE OCTUBRE DE 2025)
+Artículo 8 Bis. El establecimiento del programa estatal se hará en los términos de esta Ley y de la Ley de Planeación para el Estado de Zacatecas, tomando en cuenta la opinión de los individuos, grupos y organizaciones sociales, dedicadas a la preservación, promoción, fomento, difusión e investigación de la cultura del estado, mediante la Reunión Estatal de Cultura.
