@@ -1,0 +1,4 @@
+(ADICIONADO, P.O. 4 DE OCTUBRE DE 2025)
+ARTICULO 51 BIS.- Una vez que la Comisión haya acreditado la existencia de violaciones a derechos humanos, procederá a la identificación de las víctimas de éstas, a fin de determinar, analizar y determinar los daños sufridos para así, establecer la reparación integral del daño que les corresponda.
+Dicha reparación deberá contemplar las afectaciones materiales, entre las que se encuentran las afectaciones psicológicas, morales, físicas, al proyecto de vida, así como las inmateriales, tales como el daño emergente, lucro cesante y daño al patrimonio.
+La Comisión asegurará que, una vez definidos los daños específicos, se establezcan puntualmente las medidas de reparación integral para el caso en concreto. Entre las que se destacan las medidas de restitución, rehabilitación, satisfacción y garantías de no repetición.

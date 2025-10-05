@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 4 DE OCTUBRE DE 2025)
+ARTICULO 38 BIS.- Las notificaciones, citatorios o requerimientos que se realicen a las personas peticionarias o presuntas víctimas, autoridades o personas servidoras públicas que intervengan en el procedimiento, podrán realizarse en forma personal, por correo certificado o por cualquier medio de comunicación electrónica autorizado por las partes, siempre que pueda comprobarse fehacientemente la recepción del mismo.
+Con el fin de cumplir con el principio de idoneidad, las notificaciones se realizarán tomando en cuenta las condiciones de las personas peticionarias o presuntas víctimas.

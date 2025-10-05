@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 4 DE OCTUBRE DE 2025)
+ARTICULO 39 BIS.- Cuando la queja sea inadmisible por ser manifiestamente improcedente o infundada, será desechada, a través de un acuerdo debidamente fundado y motivado, dentro de un plazo de tres días, a partir de la presentación de la misma.
+Cuando la competencia no corresponda de manera ostensible a la Comisión, la queja se turnará a las autoridades que correspondan, informando de ello a la parte quejosa; asimismo, se le deberá proporcionar orientación, a fin de que acuda ante las debidas instancias para que conozcan o resuelvan los hechos por ella planteados.
