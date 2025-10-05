@@ -59,6 +59,8 @@ RESPONSABILIDAD MEDICA
 (REFORMADA, P.O. 31 DE AGOSTO DE 2019)
 I.- Además de las sanciones fijadas para los delitos que resulten consumados, según sean intencionales o culposos, se les aplicará suspensión de un mes a dos años en el ejercicio de la profesión o inhabilitación definitiva en caso de reincidencia;
 II.- Estarán obligados a la reparación del daño, no solamente por sus actos propios, sino también solidariamente por los de sus ayudantes, enfermeros o practicantes, cuando éstos obren de acuerdo con las instrucciones de aquéllos.
+(ADICIONADO, P.O. 4 DE OCTUBRE DE 2025)
+No existirá delito, ni se entenderá doloso o culposo, cuando el paciente presente efectos secundarios, complicaciones propias, de los tratamientos indicados o cuando se realice todo lo necesario e idóneo para salvaguardar la integridad física o la vida del paciente.
 213.- El artículo anterior se aplicará a los profesionales, similares y auxiliares que habiendo otorgado responsiva para hacerse cargo de la atención de un lesionado o enfermo, lo abandonen en su tratamiento sin causa justificada, y no den aviso inmediato a la autoridad correspondiente.
 (REFORMADO PRIMER PÁRRAFO, P.O. 4 DE AGOSTO DE 2012)
 214.- Quienes ejerzan la medicina y sin causa justificada se nieguen a prestar sus servicios a un enfermo que lo requiera por notoria urgencia, o dicha negativa haya puesto u ordinariamente ponga en peligro la vida, por exigir que se les paguen o garanticen anticipadamente sus honorarios, serán sancionados con la pena de uno a tres años de prisión, multa de cincuenta a cien cuotas y prestación obligatoria de servicio a favor de la comunidad de hasta tres meses.
