@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 8 DE OCTUBRE DE 2025)
+ARTÍCULO 39 QUÁTER. El médico y personal de enfermería a quien corresponda practicar la interrupción legal del embarazo y cuyas creencias religiosas o convicciones personales sean contrarias a tal procedimiento, podrá ser objetor de conciencia y, por tal razón, excusarse de realizarla, teniendo la obligación de referir de inmediato y por escrito a la mujer con un médico no objetor.
