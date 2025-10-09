@@ -22,5 +22,7 @@ XX. Limitar o negar arbitrariamente el uso del cualquier recurso o atribución i
 XXI. Imponer sanciones injustificadas o abusivas, impidiendo o restringiendo el ejercicio de sus derechos políticos en condiciones de igualdad, o
 XXII. Cualesquiera otras formas análogas que: lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres en el ejercicio de un cargo político, público, de poder o de decisión, que afecte sus derechos políticos electorales.
 La violencia política contra las mujeres en razón de género se sancionará en los términos establecidos en la legislación electoral, penal y de responsabilidades administrativas.
+(ADICIONADO, P.O. 8 DE OCTUBRE DE 2025)
+Las autoridades competentes incluirán, con carácter obligatorio, el trabajo reeducativo de agresores como parte de las medidas de prevención.
 (REFORMADO, P.O. 8 DE JUNIO DE 2022)
 Violencia Digital

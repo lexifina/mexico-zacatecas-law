@@ -1,0 +1,1 @@
+Artículo noveno.- Los recursos para llevar a cabo los programas y la implementación de las acciones que se deriven de la presente Ley, se cubrirán con cargo al presupuesto autorizado a las dependencias, entidades y órganos desconcentrados del Poder Ejecutivo Estatal, Poderes Legislativo y Judicial, los órganos autónomos y los municipios.

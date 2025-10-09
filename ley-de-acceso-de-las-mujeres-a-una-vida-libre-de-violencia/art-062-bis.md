@@ -6,5 +6,7 @@ a) La aceptación del Estado de su responsabilidad ante el daño causado y su co
 b) La investigación y sanción de los actos de autoridades omisas o negligentes que llevaron la violación de los derechos humanos de las Victimas a la impunidad;
 c) El diseño e instrumentación de políticas públicas que eviten la comisión de delitos contra las mujeres, y
 d) La verificación de los hechos y la publicidad de la verdad.
+(ADICIONADO, P.O. 8 DE OCTUBRE DE 2025)
+e) La garantía de no repetición, debiendo incluir el trabajo reeducativo de los agresores.
 (ADICIONADO, P.O. 8 DE JUNIO DE 2022)
 Sanción
