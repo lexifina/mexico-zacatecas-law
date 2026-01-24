@@ -1,0 +1,11 @@
+(ADICIONADO, P.O. 24 DE ENERO DE 2026)
+Artículo 44 Bis. La labor de promoción turística se realizará bajo la concepción y criterios del Turismo Sustentable en la práctica de todas sus modalidades, como un eje de desarrollo en la Entidad. Para lo cual, la Secretaría conjuntamente con los Ayuntamientos seguirán en todo momento los siguientes principios, pautas y directrices:
+I. Tener como fin último el alcance de un equilibrio entre las necesidades económicas, sociales, culturales y recreativas del ser humano con el ambiente;
+II. Concebir al turismo como eje de desarrollo para promover las capacidades productivas de las regiones del Estado, buscando satisfacer las necesidades sociales y coadyuvar a generar paz y seguridad en las comunidades;
+III. Respetar y preservar de la biodiversidad, mediante la planificación y gestión turística que fortalezca la vinculación entre el patrimonio natural y cultural en todas las modalidades turísticas;
+IV. Establecer servicios acordes con las necesidades, tanto de turistas como pobladores locales, identificando los componentes de la oferta turística y manteniendo un elevado nivel de satisfacción de los visitantes para preservar el prestigio de los centros y marcas turísticas de la Entidad;
+V. Promover la educación ambiental como eje del Turismo Sustentable en todos los procesos formativos y de capacitación del personal involucrado en el desarrollo del sector turístico;
+VI. Coadyuvar al establecimiento de la movilidad urbana sustentable y la construcción de infraestructura vial y carretera que promueva los servicios de transporte turístico ecológicos, cumpliendo con los requisitos para la accesibilidad, conectividad, inclusión y seguridad de turistas y pobladores locales;
+VII. Impulsar el modelo de ciudad compacta con usos de suelo mixtos y compatibles, en los centros históricos de la capital y de los pueblos mágicos del estado, como un medio para favorecer la accesibilidad y movilidad de las personas, así como la actividad comercial de los servicios turísticos;
+VIII. Fomentar la apertura y desarrollo de Zonas de Desarrollo Turístico Sustentable en los Municipios de la Entidad, y
+IX. Propiciar una amplia repartición de los beneficios del turismo entre todos los sectores sociales y en las comunidades locales para lograr una revalorización de sus propios recursos, bajo un marco de sustentabilidad.
