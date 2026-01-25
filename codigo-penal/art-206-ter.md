@@ -66,7 +66,7 @@ No existirá delito, ni se entenderá doloso o culposo, cuando el paciente prese
 214.- Quienes ejerzan la medicina y sin causa justificada se nieguen a prestar sus servicios a un enfermo que lo requiera por notoria urgencia, o dicha negativa haya puesto u ordinariamente ponga en peligro la vida, por exigir que se les paguen o garanticen anticipadamente sus honorarios, serán sancionados con la pena de uno a tres años de prisión, multa de cincuenta a cien cuotas y prestación obligatoria de servicio a favor de la comunidad de hasta tres meses.
 (REFORMADO, P.O. 4 DE AGOSTO DE 2012)
 Si se produjere daño por la falta de intervención, las penas anteriores se duplicarán y, además, se impondrá inhabilitación para el ejercicio profesional por un término de tres meses a dos años. Cuando la falta de intervención y el daño consiguiente sean imputables a los directores, administradores o encargados del sanatorio, hospital o establecimiento de salud en donde el médico preste sus servicios, serán aquellos y no éste quienes incurran en responsabilidad penal y deban ser sancionados con las penas previstas en este párrafo y el anterior.
-Cuando una persona de las mencionadas en el artículo 212 efectúe una exploración ginecológica por motivos deshonestos o que no sea necesaria, se le sancionará con prisión de tres meses a un año y multa de diez a cincuenta cuotas. Si con la exploración se causa el desfloramiento, las sanciones se duplicarán, sin perjuicio de las que deban aplicarse por los otros delitos que por el mismo acto se cometan.
+(DEROGADO TERCER PÁRRAFO, P.O. 24 DE ENERO DE 2026)
 215.- Se impondrá prisión de tres meses a dos años, multa hasta de cien cuotas y suspensión de tres meses a un año, a los directores, administradores o encargados de cualquier sanatorio, hospital, clínica, maternidad o cualquier otro establecimiento similar, cuando incurran en alguno de los casos siguientes:
 I.- Impedir la salida de un paciente o de un recién nacido, cuando aquél o sus familiares lo soliciten, aduciendo adeudos de cualquier índole;
 II.- Retardar o negar por cualquier motivo la entrega de un cadáver, excepto cuando se requiera orden de la autoridad competente.
@@ -183,14 +183,24 @@ DELITOS CONTRA LA LIBERTAD SEXUAL E INTEGRIDAD DE LAS PERSONAS
 (REFORMADA SU DENOMINACIÓN, P.O. 1 DE JUNIO DE 2016)
 CAPITULO I
 ABUSO SEXUAL
-(REFORMADO, P.O. 31 DE AGOSTO DE 2019)
-231.- A quien sin consentimiento de una persona y sin el propósito de llegar a la cópula, ejecute en ella un acto sexual o la obligue a ejecutarlo, se le impondrá sanción de dos a cinco años de prisión y multa de cincuenta a cien veces la Unidad de Medida y Actualización.
-Si se hiciere uso de la violencia física o moral, la sanción será de tres a seis años de prisión y multa de cien a doscientas veces la Unidad de Medida y Actualización. Existe la presunción legal de que la violencia fue el medio utilizado para la comisión del delito, cuando la víctima tuviere menos de doce años cumplidos.
-(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE AGOSTO DE 2019)
-232.- A quien sin el propósito de llegar a la cópula ejecute un acto sexual en persona menor de doce años de edad o en persona que no tenga la capacidad de comprender el significado del hecho o por cualquier causa no pueda resistirlo, o la obligue a ejecutarlo o, en su caso, la haga observar, se le aplicará una pena de cuatro a siete años de prisión y multa de ciento cincuenta a doscientas veces la unidad de medida y actualización.
-(REFORMADO, P.O. 4 DE AGOSTO DE 2012)
-Si se hiciere uso de la violencia física o moral, la pena corporal se duplicará.
-(REFORMADO, P.O. 4 DE AGOSTO DE 2012)
+(REFORMADO, P.O. 24 DE ENERO DE 2026)
+231. A quien sin consentimiento de una persona y sin el propósito de llegar a la cópula, ejecute en ella un acto sexual, la obligue a verlo, a ejecutarlo o la induzca a hacerlo mediante manipulación, seducción o engaño o la coaccione a exhibir su cuerpo sin su consentimiento, se le impondrá sanción de seis a diez años de prisión y multa de cien a doscientas veces la Unidad de Medida y Actualización al momento de la comisión del delito.
+Para efectos de este capítulo se entiende por acto sexual cualquier acción dolosa con sentido lascivo que se ejerza en el sujeto pasivo, tales como tocamientos o manoseos corporales, o los que representen actos explícitamente sexuales u obliguen a la víctima a representarlos.
+La pena de prisión se aumentará hasta en una mitad más en su mínimo y máximo, con multa de doscientas a trescientas veces la Unidad de Medida y Actualización, en los supuestos siguientes:
+I. Cuando se hiciere uso de la violencia física, moral o psicológica;
+II. Cuando el abuso se cometa aprovechándose de una relación de confianza, autoridad, laboral, parentesco, educación, salud, religiosa, custodia o tutela, o
+III. Cuando la víctima se encuentre en situación de vulnerabilidad.
+(REFORMADO, P.O. 24 DE ENERO DE 2026)
+232. De la misma forma, comete el delito de abusos (sic) sexual:
+I. La persona que sin el propósito de llegar a la cópula ejecute un acto sexual en persona menor de edad o en persona que no tenga la capacidad de comprender el significado del hecho o la capacidad para resistirlo, o la obligue a ejecutarlo o, en su caso, la haga observar;
+II. La persona que permita, directa o indirectamente, el acceso de niños, niñas o adolescentes o de quien no tenga la capacidad de comprender el significado del hecho o la capacidad para resistirlo, a escenas, espectáculos, obras gráficas o audiovisuales de carácter pornográfico, o
+III. La persona que ejecutare o hiciere ejecutar a otra persona, actos de exhibición sexual ante niños, niñas o adolescentes o ante quien no tenga la capacidad para comprender el significado del hecho o la capacidad para resistirlo.
+Tales conductas se sancionarán conforme a lo siguiente:
+De ocho a doce años de prisión y multa de ciento treinta a doscientas cuarenta veces la Unidad de Medida y Actualización, cuando la víctima tuviere entre doce y menos de dieciocho años de edad.
+De nueve a quince años de prisión y multa de ciento cincuenta a trescientas veces la Unidad de Medida y Actualización, cuando la víctima tuviere menos de doce años de edad, que no tenga la capacidad de comprender el significado del hecho o por cualquier causa no pueda resistirlo.
+Se equipará al delito de abuso sexual, vender, difundir o exhibir material pornográfico, por cualquier medio directo, entre niños, niñas, adolescentes, personas que no tengan la capacidad para comprender el significado del hecho o la capacidad para resistirlo y será castigado con la pena de prisión de cuatro a ocho años y multa de cincuenta a cien veces la Unidad de Medida y Actualización al momento de la comisión del delito.
+No se actualizará el delito previsto en el párrafo anterior, tratándose de programas preventivos, educativos o informativos que diseñen o impartan las instituciones públicas, privadas o sociales, que tengan por objeto la educación sexual, educación sobre la función reproductiva, prevención de infecciones de transmisión sexual y embarazo de adolescentes.
+En los supuestos previstos en el presente artículo, existe la presunción legal de que la violencia fue el medio utilizado para la comisión del delito.
 En los casos considerados por este artículo, se procederá de oficio contra el sujeto activo.
 (REFORMADO, P.O. 4 DE AGOSTO DE 2012)
 232 Bis.- La conducta a que se refiere el artículo 231, se sancionará a petición del ofendido o de sus representantes.
