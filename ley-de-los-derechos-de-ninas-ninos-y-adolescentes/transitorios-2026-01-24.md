@@ -1,0 +1,8 @@
+P.O. 24 DE ENERO DE 2026.
+[N. DE E. TRANSITORIOS DEL "DECRETO NO. 140.- SE ADICIONA UN CAPÍTULO III BIS AL TÍTULO SEGUNDO DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE ZACATECAS".]
+ARTÍCULO PRIMERO. El presente Decreto entrará en vigor el primero de enero del año dos mil veintiséis, previa su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+ARTÍCULO SEGUNDO. Previo a la entrada en vigor del presente Decreto, la Procuraduría de Protección, deberá crear el área administrativa responsable de realizar los procedimientos previstos en el presente instrumento legislativo, para tales efectos deberá llevar a cabo procedimientos de selección, contratación y capacitación del personal destinado a estas tareas.
+ARTÍCULO TERCERO. La Procuraduría de Protección deberá implementar los procedimientos y protocolos necesarios para llevar a cabo el sistema de familias de acogida, incluyendo la capacitación de las familias y la asignación de recursos, de acuerdo con la suficiencia presupuestal.
+ARTÍCULO CUARTO. La Procuraduría de protección tendrá un plazo de hasta noventa días naturales, a partir de la publicación del presente Decreto para emitir la normatividad indispensable para la implementación del mismo.
+ARTÍCULO QUINTO. En el proyecto de Presupuesto de Egresos del Estado de Zacatecas para el Ejercicio Fiscal 2026, el Ejecutivo del Estado deberá destinar los recursos financieros suficientes para la implementación de este Decreto, toda vez que el Importe Anual ordinario estimado que implica el Proyecto es de $1,879,285.00.
+ARTÍCULO SEXTO. Se derogan todas aquellas disposiciones que contravengan el presente decreto.

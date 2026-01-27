@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 24 DE ENERO DE 2026)
+Artículo 29 Quáter. La selección de las familias de acogida, así como el otorgamiento, la temporalidad, la modalidad, las medidas preventivas y de convivencia, la vigilancia y la revocación serán realizadas por el Sistema Estatal para el Desarrollo Integral de la Familia, a través de la Procuraduría de Protección, conforme a la Ley General y su normatividad interna.
+La Procuraduría de Protección contará con el plazo de hasta cuarenta y cinco días naturales pudiendo ser prorrogados hasta otro (sic) treinta, a consideración de la Procuraduría de Protección para la emisión del certificado de idoneidad, contados a partir de la solicitud que se presente.

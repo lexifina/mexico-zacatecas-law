@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 24 DE ENERO DE 2026)
+Artículo 29 Ter. La asignación de niñas, niños y adolescentes sólo podrá realizarse a una familia de acogida que cuente con certificado de idoneidad; incluso si se tratare de una familia binacional o que esté integrada con una persona de carácter binacional. Para tal efecto, se observará en lo conducente lo establecido en los artículos 27 de la Ley General y 23 de la presente Ley, y en la normatividad interna que para ello emita la Procuraduría de Protección.

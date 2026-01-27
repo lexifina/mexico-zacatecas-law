@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 24 DE ENERO DE 2026)
+Artículo 29 Sexies. El Sistema Estatal para el Desarrollo Integral de la Familia, a través de la Procuraduría de Protección, llevará a cabo un régimen de supervisión y seguimiento constante de las niñas, niños y adolescentes en familias de acogida, para asegurar que sus derechos sean respetados y que se cumplan las condiciones de cuidado acordadas, conforme a la normatividad interna que para tal efecto se emita.
