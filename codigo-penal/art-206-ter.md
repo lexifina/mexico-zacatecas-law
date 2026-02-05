@@ -254,8 +254,8 @@ II.- Al que sin violencia realice cópula con persona que no tenga la capacidad 
 Si se ejerciera violencia física o moral, a la pena impuesta se aumentarán hasta dos años.
 (REFORMADA, P.O. 1 DE JUNIO DE 2016)
 III. Al que introduzca por vía vaginal o anal cualquier elemento o instrumento distinto al miembro viril, por medio de la violencia física o moral, excepto en menores de doce años donde no es necesario la violencia, sea cual fuere el sexo del ofendido, se le impondrá una pena de seis a quince años de prisión y multa de veinte a cien cuotas, independientemente de la pena que corresponda por el delito de lesiones que pudiera resultar.
-(REFORMADA, P.O. 8 DE JUNIO DE 2022)
-IV. A quien tenga cópula con persona mayor de dieciséis años y menor de dieciocho obteniendo su consentimiento por medio del engaño, se le aplicará de tres a seis años de prisión y multa de doscientas a trescientos sesenta y cinco cuotas.
+(REFORMADA, P.O. 4 DE FEBRERO DE 2026)
+IV. A quien tenga cópula con persona mayor de quince años y menor de dieciocho obteniendo su consentimiento por medio del engaño, se le aplicará de tres a seis años de prisión y multa de doscientas a trescientos sesenta y cinco cuotas.
 Para los efectos de los delitos de violación y los equiparables a la violación contemplados en los artículos 236 y 237, no gozarán del beneficio de la libertad provisional bajo caución.
 (ADICIONADO, P.O. 4 DE AGOSTO DE 2012)
 Cuando el sujeto activo de este delito tuviere derechos de tutela, patria potestad o de heredar bienes por sucesión legítima respecto de la víctima, además de la sanción señalada anteriormente, perderá estos derechos.
