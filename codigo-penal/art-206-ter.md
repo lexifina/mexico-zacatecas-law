@@ -207,6 +207,7 @@ En los casos considerados por este artículo, se procederá de oficio contra el 
 (ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 31 DE AGOSTO DE 2019)
 CAPITULO I BIS
 DELITOS CONTRA LA INTIMIDAD SEXUAL
+[N. DE E. EL PRESENTE ARTÍCULO FUE REFORMADO POR EL PUNTO ÚNICO DEL DECRETO 798 DE 8 DE JUNIO DE 2022; POSTERIORMENTE EL 4 DE FEBRERO DE 2026 FUE REFORMADO ESTE ARTÍCULO MEDIANTE DECRETO 247 QUEDANDO DE ESTA MANERA: "Artículo 232 Ter. Comete el delito de violación a la intimidad sexual, quien por cualquier medio incluyendo el uso de la inteligencia artificial u otras tecnologías emergentes, produzca, genere, altere, reproduzca, divulgue, comparta, distribuya, compile, comercialice, solicite, publique o amenace con publicar, imágenes, audios o videos de una persona parcial o totalmente desnuda; de contenido erótico o sexual, ya sea impreso, grabado o digital, sin el consentimiento, aprobación o autorización de la víctima. Para efectos de este artículo, se entenderá por contenido erótico o sexual, toda imagen, texto, audio, video, representación gráfica, render, animación o cualquier otro formato físico, impreso, electrónico, digital, sintético, informático o sucedáneo, con independencia de si fue creado con inteligencia artificial u otras tecnologías emergentes, en el que se expongan partes íntimas o se represente actividad sexual de una persona. A la persona responsable de este delito se le sancionará con prisión de cuatro a ocho años y multa de cien a doscientas veces el valor diario de la Unidad de Medida y Actualización, además, se le impondrá la obligación de eliminar el contenido de todas las plataformas a su alcance, si es que no lo hubiere hecho el prestador de servicios digitales. … … I. Haya existido entre el activo y la víctima una relación sentimental, afectiva, de confianza, de parentesco por consanguinidad o afinidad, de tutela o curatela; de matrimonio; de concubinato; noviazgo, de práctica o jerarquía religiosa o docente, o cualquier otra relación de hecho o amistad; II. A la V. VI. Se amenace con la publicación o se ofrezca el bloqueo de la difusión del contenido a cambio de una prestación sexual o económica; VII. Un medio de comunicación impreso, digital o electrónico, o algún operador de plataforma o servicios digitales incurra en las conductas previstas en el primer párrafo de este artículo; VIII. El contenido erótico o sexual se difunda en plataformas de acceso masivo, redes sociales, en servicios de mensajería con grupos múltiples o sitios diseñados para intercambio de ese tipo de contenido, o se utilicen cuentas falsas, bots, redes organizadas o infraestructura tecnológica destinada a maximizar el daño, y IX. El delito sea cometido por una persona servidora pública o integrante de cualquier corporación de seguridad pública en ejercicio de sus funciones. …": POR LO QUE, SE SUGIERE CONSULTAR LAS PUBLICACIONES OFICIALES DE ESAS FECHAS.]
 (REFORMADO, P.O. 8 DE JUNIO DE 2022)
 232 Ter.- Comete el delito de violación a la intimidad sexual, quien por cualquier medio produzca, divulgue, comparta, distribuya, compile, comercialice, solicite, publique o amenace con publicar, imágenes, audios o videos de una persona parcial o totalmente desnuda; de contenido erótico o sexual, ya sea impreso, grabado o digital, sin el consentimiento, aprobación o autorización de la víctima.
 (REFORMADA SU DENOMINACIÓN, P.O. 15 DE AGOSTO DE 2018)
@@ -419,9 +420,9 @@ I.- Al que viole un túmulo, un sepulcro o un féretro; y
 II.- Al que profane un cadáver o restos humanos con actos de vilipendio, mutilación, brutalidad o necrofilia. Si los actos de necrofilia consisten en la realización del coito, la pena de prisión podrá duplicarse o, en su caso, se aplicará la medida de tratamiento que corresponda.
 TITULO DECIMO QUINTO
 DELITOS CONTRA LA PAZ, LIBERTAD Y SEGURIDAD DE LAS PERSONAS
-(REFORMADA SU DENOMINACIÓN, P.O. 4 DE AGOSTO DE 2012)
+(REFORMADA SU DENOMINACIÓN, P.O. 4 DE FEBRERO DE 2026)
 CAPITULO I
-AMENAZAS Y EXTORSION
+AMENAZAS
 257.- Comete el delito de amenazas, el que valiéndose de cualquier medio, intimide a otro con causarle un mal en su persona, en su honor, en su prestigio, en sus bienes o en la persona, honor, prestigio o bienes de alguien con quien esté ligado con cualquier vínculo.
 (REFORMADO, P.O. 31 DE AGOSTO DE 2019)
 El delito de amenazas se sancionará con prisión de tres meses a un año y multa de cincuenta a cien veces el valor diario de la Unidad de Medida y actualización.
@@ -448,41 +449,9 @@ Al que no otorgare la caución de no ofender, se le impondrá multa de cinco a d
 I.- Si lo que exigió y recibió fue dinero o algún documento o cosa estimable en dinero, se le aplicará la sanción del robo con violencia;
 II.- Si exigió que el amenazado cometiera un delito, la sanción de la amenaza y la que le corresponda por su participación en el que resulte, se sujetarán a las reglas del concurso; y
 III.- Si lo que exigió fue que dejara de ejecutar un acto lícito, se le impondrá prisión de tres meses a dos años y multa de diez a veinticinco cuotas.
-(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE OCTUBRE DE 2025)
-261.- Comete el delito de extorsión a quien obligue a otra persona, por cualquier medio, incluida la violencia física o psicológica a dar, hacer, dejar de hacer algo, tolerar algo o amenace con causar daño en su persona, familia, posesiones, actividades económicas o laborales, o a un tercero con el que tenga cualquier vínculo afectivo, laboral, económico, con el propósito de obtener un lucro o provecho para sí o para una tercera persona, independientemente de que se logre o no el fin propuesto.
-(ADICIONADO, P.O. 4 DE OCTUBRE DE 2025)
-La conducta a la que se refiere el párrafo anterior podrá ser realizada de manera personal, vía telefónica o a través de cualquier medio que resulte de la aplicación de las nuevas tecnologías, incluyendo cualquier red social.
-(ADICIONADO, P.O. 4 DE OCTUBRE DE 2025)
-El delito de extorsión se perseguirá de oficio cuando el Ministerio Público tenga noticia por cualquier medio de su ejecución en perjuicio de cualquiera de las actividades económicas o productivas del estado.
-(ADICIONADO, P.O. 4 DE OCTUBRE DE 2025)
-Se concede acción pública para denunciar este delito.
-(ADICIONADO, P.O. 4 DE OCTUBRE DE 2025)
-Los servidores públicos de las dependencias y entidades, que en el ejercicio de sus facultades tengan conocimiento de la probable existencia de un hecho constitutivo del presente delito hacia alguno de los sectores económicos o productivos con los que se encuentren relacionados, están obligados a denunciarlo inmediatamente al Ministerio Público, proporcionándole los datos con que cuenten.
-(REFORMADO, P.O. 4 DE OCTUBRE DE 2025)
-Al que comete el delito de extorsión se le impondrá de ocho a dieciséis años de prisión y multa de cien a doscientas veces el valor diario de la Unidad de Medida y Actualización vigente en el momento en que se cometió el delito.
-(DEROGADO SÉPTIMO PÁRRAFO [N. DE E. ANTES TERCER PÁRRAFO], P.O. 4 DE OCTUBRE DE 2025)
-(DEROGADO OCTAVO PÁRRAFO, P.O. 4 DE OCTUBRE DE 2025)
-(DEROGADO NOVENO PÁRRAFO, P.O. 4 DE OCTUBRE DE 2025)
-(REFORMADO, P.O. 4 DE AGOSTO DE 2012)
-Las penas contenidas en este artículo se aplicarán con independencia de las que correspondan por otros delitos que resulten.
-(ADICIONADO, P.O. 4 DE OCTUBRE DE 2025)
-261 Bis.- Las penas establecidas en el artículo anterior, se agravarán hasta una mitad más en su mínimo y en su máximo, cuando:
-I. La víctima sea una persona menor de dieciocho años o mayor de setenta años de edad; cuando no tenga la capacidad para comprender el significado del hecho; padezca alguna enfermedad grave o terminal; se trate de mujer embarazada, y
-II. Teniendo parentesco con la víctima por consanguinidad en línea recta o colateral hasta el cuarto grado, sean cónyuges o concubinarios, ejecute el hecho o proporcione información para consumar la acción en contra del sujeto pasivo.
-(ADICIONADO, P.O. 4 DE OCTUBRE DE 2025)
-261 Ter.- Las penas establecidas en el artículo 261 de este Código, se agravarán hasta en dos terceras partes más en su mínimo y en su máximo, cuando:
-I. Intervengan dos o más personas, en cualquier grado de participación;
-II. El delito se realice por personas privadas de la libertad o el delito se realice desde el interior de un centro penitenciario, centro de reinserción social o centro de internamiento.
-Igual sanción se impondrá a los servidores públicos que, por acción u omisión, faciliten los medios para que el delito se cometa por parte de personas privadas de la libertad, bajo su custodia o vigilancia; asimismo, se le impondrá la destitución del empleo, cargo o comisión y se le inhabilitará hasta por un tiempo igual al término de la pena de prisión que se le imponga. Además, se le suspenderá por el mismo término el derecho para ejercer actividades en corporaciones de seguridad privada;
-III. El delito se realice por servidores públicos, miembros o exmiembros de alguna corporación de seguridad pública o privada.
-En el caso de servidores públicos, miembros o exmiembros de alguna corporación de seguridad pública o privada o del sistema penitenciario, se impondrá, en su caso, la destitución del empleo, cargo o comisión y se le inhabilitará hasta por un tiempo igual del término de la pena de prisión que se imponga. Además, se le suspenderá por el mismo término el derecho para ejercer actividades en corporaciones de seguridad privada;
-IV. En la comisión del delito intervengan una o más personas armadas o que simulen estarlo;
-V. El sujeto pasivo o un tercero, entregue al activo o a persona que actúe en representación de éste, alguna cantidad de dinero o bienes de cualquier índole, en más de una ocasión;
-VI. La víctima se dedique al comercio o al desarrollo de actividades económicas, y la extorsión implique el cobro de cuotas o el otorgamiento de protección de cualquier tipo, sea cierto o no;
-VII. Por cualquier medio documental, electrónico, telefónico, amenace o intimide la persona, familia o bienes del sujeto pasivo, requiera el pago de una deuda simulada o solicite de otro la suscripción o destrucción de documentos que contengan obligaciones o créditos;
-VIII. Se refiera a la víctima u ofendido que en el hecho interviene algún grupo de la delincuencia organizada, sea cierto o no, aun cuando el propósito perseguido con ello sea solo el que no denuncie el hecho;
-IX. Se provoque o simule una colisión, impacto o cualquier percance vehicular, a fin de convencer al sujeto pasivo de ser responsable del mismo y con ello obtener un lucro o beneficio personal, y
-X. Se amenace o provoque incendio en los bienes muebles e inmuebles de la víctima u ofendido.
+261.- (DEROGADO, P.O. 4 DE FEBRERO DE 2026)
+261 Bis.- (DEROGADO, P.O. 4 DE FEBRERO DE 2026)
+261 Ter.- (DEROGADO, P.O. 4 DE FEBRERO DE 2026)
 CAPITULO II
 ALLANAMIENTO DE MORADA
 (REFORMADO, P.O. 4 DE AGOSTO DE 2012)
@@ -505,13 +474,25 @@ IV.- Al que de alguna manera viole con perjuicio de otro, los derechos estableci
 (REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2007)
 Cuando los ilícitos tipificados en las fracciones anteriores se cometan en perjuicio de personas menores de dieciocho años se duplicarán las sanciones aplicables.
 265 Bis.- (DEROGADO, P.O. 4 DE AGOSTO DE 2012)
-(ADICIONADO, P.O. 31 DE AGOSTO DE 2019)
-265 Ter.- Se aplicará de cinco a diez años de prisión y multa de cincuenta a cien veces el valor de la Unidad de Medida y Actualización, al que con la finalidad de extorsionar en los términos del artículo 261 logre que una persona se prive de su libertad deambulatoria, con la finalidad de exigirle a la víctima, familiares o cualquier persona, la entrega directa o indirecta de dinero, bienes, o derechos, a cambio de liberar a la víctima del sometimiento que le impide desplazarse con libertad física o psíquica de un lugar a otro.
+265 Ter.- (DEROGADO, P.O. 4 DE FEBRERO DE 2026)
 266.- (DEROGADO, P.O. 4 DE AGOSTO DE 2012)
 267.- (DEROGADO, P.O. 4 DE AGOSTO DE 2012)
 (ADICIONADO, P.O. 23 DE JUNIO DE 2018)
 267 bis.- Comete el delito de violencia política por razones de género, quien realice por sí o a través de terceros cualquier acción u omisión que impida, limite o restrinja los derechos político-electorales de las mujeres y el acceso a un cargo público o a las prerrogativas inherentes al mismo.
-A quien cometa este delito, se le impondrá una pena de dos a seis años de prisión y multa de cien a doscientas veces la Unidad de Medida y Actualización diaria en el momento de la comisión del delito.
+(REFORMADO, P.O. 4 DE FEBRERO DE 2026)
+A quien cometa este delito, se le impondrá una pena de tres a seis años de prisión y multa de ciento cincuenta a doscientas veces la Unidad de Medida y Actualización.
+(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 4 DE FEBRERO DE 2026)
+Se equiparán al delito de violencia política por razones de género y se aplicarán las penas previstas en el párrafo anterior, cuando:
+I. Por medio de amenaza, acoso o ejerciendo cualquier tipo o modalidad de violencia, en términos de la legislación en materia de acceso de las mujeres a una vida libre de violencia contra una mujer, se limite, anule o menoscabe el ejercicio de sus derechos políticos y electorales o el desempeño de un cargo público;
+II. Exista un trato diferenciado que limite, anule o menoscabe el ejercicio de sus derechos políticos y electorales o el desempeño de un cargo público;
+III. Se lleve a cabo cualquier acción u omisión de las contempladas en el primer párrafo de este artículo y exista una relación de jerarquía o de subordinación entre el sujeto activo y la víctima, y
+IV. Se emita propaganda política o electoral en contra de una precandidata, candidata o de una mujer que ocupe un cargo público, o de algún tercero con quien guarden aquellas una relación de parentesco consanguíneo, de matrimonio o concubinato, cuyo contenido implique violencia conforme a la legislación en materia de acceso de las mujeres a una vida libre de violencia.
+(ADICIONADO, P.O. 4 DE FEBRERO DE 2026)
+Cuando este delito se cometa por personas servidoras públicas, personas funcionarias partidistas, personas precandidatas o candidatas, las penas impuestas se incrementarán hasta en un tercio, en su mínimo y máximo, respecto de las contempladas en el primer párrafo de este artículo, además, a la persona servidora pública se le podrá suspender, destituir o inhabilitar para el desempeño de cualquier cargo, empleo o comisión públicos, hasta por el mismo lapso de privación de la libertad impuesta.
+(ADICIONADO, P.O. 4 DE FEBRERO DE 2026)
+Cuando las conductas contempladas en las fracciones del primer párrafo de este artículo fueren cometidas contra una mujer perteneciente a un pueblo o comunidad indígena, o afrodescendiente, la pena se incrementará en una mitad en su mínimo y máximo, respecto de las contempladas por el mismo párrafo.
+(ADICIONADO, P.O. 4 DE FEBRERO DE 2026)
+Las penas se aplicarán con independencia de la sanción establecida para los tipos penales que concurren en la comisión de los delitos previstos en este Código y otros ordenamientos.
 (DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE JUNIO DE 2016)
 CAPITULO V
 RAPTO

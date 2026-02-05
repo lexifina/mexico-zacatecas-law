@@ -287,6 +287,9 @@ Cuando pronunciada una sentencia irrevocable en que se hubiera impuesto una sanc
 (ADICIONADO, P.O. 31 DE AGOSTO DE 2019)
 58 Ter.- En caso de que sea vencible el error de tipo, a que se refiere el artículo 13 de este Código, la penalidad será la del delito culposo, si el hecho de que se trata admite dicha forma de realización.
 En caso de que sea vencible el error de prohibición, a que se refiere el artículo señalado en el párrafo anterior, la penalidad será de una tercera parte del mínimo y del máximo del delito que se trate.
+(ADICIONADO, P.O. 4 DE FEBRERO DE 2026)
+58 Quáter.- A quien haga uso de la inteligencia artificial u otras tecnologías emergentes, deepfakes, clonación de voz o el uso de imagen, destinadas a crear apariencia de veracidad para la comisión de alguno o algunos de los delitos contemplados en este Código Penal, se le aumentarán las penas previstas en el delito ejecutado, hasta en una quinta parte más en su mínimo y máximo.
+Para efectos de este artículo, se entenderá por inteligencia artificial, a los sistemas, modelos o algoritmos capaces de generar, procesar información visual, textos, imágenes, audios, o vídeos de manera automatizada o semiautomatizada, funciones de aprendizaje, análisis, predicción, clasificación, generación de contenidos, orientación y toma de decisiones, cuya operación pueda producir efectos jurídicos que dañen derechos de alguna persona.
 (REFORMADA SU DENOMINACIÓN, P.O. 31 DE AGOSTO DE 2019)
 CAPITULO II
 SANCIONES APLICABLES A LOS DELITOS CULPOSOS
