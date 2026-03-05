@@ -596,15 +596,12 @@ DELITOS DE TRANSITO EJECUTADOS POR MANEJADORES DE VEHICULOS O AUTORIDADES DE TRA
 143.- Incurre en responsabilidad penal el propietario o conductor de un vehículo automotor que transite con placas sobrepuestas.
 Se entiende por placas sobrepuestas en vehículos automotores, las láminas de identificación para circular, emitidas por autoridad competente, que no les correspondan portar legalmente.
 Al responsable se le sancionará con prisión de dos a cinco años y multa de cien a trescientas cincuenta y cinco veces la Unidad de Medida y Actualización vigente.
-144.- Al que en estado de ebriedad o bajo la influencia de drogas enervantes plenamente comprobados conduzca un vehículo, se impondrá prisión de tres meses a un año o multa de cinco a cincuenta cuotas y suspensión de la licencia para manejar de uno a dos años, si no provoca un accidente punible.
-145.- Al manejador de un vehículo, que en camino público o privado rebase o trate de rebasar a otro vehículo, invadiendo el carril contrario, en curva, pendiente, columpio, elevación del terreno, lugar prohibido o en cualquier otro en que no haya visibilidad suficiente, se le impondrá por este sólo hecho sanción de tres a seis meses de prisión o multa de cinco a veinte cuotas y suspensión para manejar vehículos de uno a dos años, si no causare daños a tercero.
-Si se causaren daños a las personas o a las cosas o a ambas, estos daños se sancionarán como delitos de culpa, salvo prueba en contrario.
-Iguales sanciones se impondrán por el sólo hecho de estacionar un vehículo en carretera o camino en la noche, sin las luces de protección perfectamente visibles, aún en los tramos comprendidos dentro de un poblado que no esté iluminado; o por estacionarlo sin el abanderamiento adecuado en curva o en un columpio, cualquiera que sea la hora del día, en tal forma que no pueda verse a distancia suficiente para evitar una colisión. Si se causan daños se sancionarán como delitos de culpa, salvo prueba en contrario.
+144.- (DEROGADO, P.O. 4 DE MARZO DE 2026)
+145.- (DEROGADO, P.O. 4 DE MARZO DE 2026)
 146.- En caso de reincidencia en alguno de los delitos a que se refieren los tres artículos anteriores, la inhabilitación para manejar podrá ser definitiva y el juez dispondrá la cancelación de la licencia correspondiente.
-(REFORMADO, P.O. 31 DE AGOSTO DE 2019)
-147.- A los operadores de transporte público o cualquier otro que preste servicio similar que incurran en alguna de las conductas previstas en los artículos 143 y 144, se le impondrán hasta una mitad más de las sanciones previstas en los artículos señalados.
-(REFORMADO, P.O. 31 DE AGOSTO DE 2019)
-148.- Las sanciones en los casos del artículo 144, se impondrán independientemente de las que correspondan si resultaren daños a las personas o a las cosas.
+(REFORMADO, P.O. 4 DE MARZO DE 2026)
+147.- A los operadores de transporte público o cualquier otro que preste servicio similar que incurran en la conducta prevista en el artículo 143, se le impondrán hasta una mitad más de las sanciones previstas en el artículo señalado.
+148.- (DEROGADO, P.O. 4 DE MARZO DE 2026)
 (ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 31 DE AGOSTO DE 2019)
 CAPITULO VI
 ATENTADOS A LA SEGURIDAD DE LA COMUNIDAD

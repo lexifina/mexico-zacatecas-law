@@ -628,7 +628,25 @@ DISPARO DE ARMA DE FUEGO Y ATAQUE PELIGROSO
 304.- Se impondrá prisión de tres meses a dos años y multa de cinco a quince cuotas, al que dispare sobre alguna persona un arma de fuego, o la ataque de tal manera que, en razón del arma empleada, de la fuerza o destreza del agresor o de cualquiera otra circunstancia semejante, pueda producir como resultado del disparo o del ataque, la muerte. Si con uno u otro se causa algún daño, se aplicarán las sanciones correspondientes a éste.
 CAPITULO V
 INSTIGACION O AYUDA AL SUICIDIO
-305.- Al que instigue o ayude a otro al suicidio, se le impondrá sanción de tres a diez años de prisión si el suicidio se consuma. Si la ayuda se prestare hasta el punto de ejecutar el responsable la muerte, la prisión será de cinco a doce años. Si el suicidio no se lleva a efecto, pero su intento produce lesiones, la sanción será de tres meses a tres años. En todos los casos de este artículo se impondrá multa de cinco a quince cuotas.
+(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE MARZO DE 2026)
+305.- Al que instigue o ayude a otra persona al suicidio, se le impondrá sanción de tres a diez años de prisión si el suicidio se consuma.
+(ADICIONADO, P.O. 4 DE MARZO DE 2026)
+Si la ayuda se prestare hasta el punto de ejecutar el responsable la muerte, la sanción será la que corresponda al homicidio, parricidio o feminicidio, según las circunstancias y modos de ejecución.
+(ADICIONADO, P.O. 4 DE MARZO DE 2026)
+Si el suicidio no se lleva a efecto, pero su intento produce lesiones, la sanción será de tres meses a tres años. En todos los casos de este artículo se impondrá multa de quince a cuarenta y cinco veces la Unidad de Medida y Actualización.
+(ADICIONADO, P.O. 4 DE MARZO DE 2026)
+Se aumentará la pena de prisión prevista en el segundo párrafo de este artículo en una cuarta parte, en su mínimo y máximo, cuando el instigador haga uso de plataformas digitales, redes sociales o cualquier otro medio virtual para interactuar con juegos o retos y de esta forma materialice la conducta sancionable.
+(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 4 DE MARZO DE 2026)
+Al responsable de este delito se le aplicará la misma pena que se prevé para el homicidio calificado o lesiones calificadas, según sea el caso, cuando:
+I. El suicida sea menor de doce años o padeciera alguna enfermedad mental o no tenga la capacidad de comprender el significado del hecho;
+II. El instigador tenga vínculos de parentesco, gratitud, amistad, trabajo, educación, salud, religiosos o de cualquier otro tipo que inspiren autoridad moral o confianza para la víctima, o
+III. El instigador, obtenga o pudiese obtener un provecho económico o de cualquier índole con la consumación del delito.
+(ADICIONADO, P.O. 4 DE MARZO DE 2026)
+305 Bis.- A quien instigue, ayude u obligue a una mujer al suicidio o le prestare ayuda para cometerlo, si el suicidio se consuma, se le sancionará con la pena prevista en el segundo párrafo del artículo anterior aumentada en un tercio en su mínimo y máximo, cuando:
+I. El suicidio tenga como antecedente cualquier forma de violencia de género del instigador contra la víctima, o
+II. El instigador se haya aprovechado de la superioridad generada por las relaciones preexistentes o existentes entre él y la víctima, ya sea de parentesco, gratitud, amistad, trabajo, educación, salud, religión o de cualquier otro tipo que inspiren autoridad moral o confianza para la víctima.
+Si el suicidio no se consuma pero su intento produce lesiones, éstas serán consideradas como lesiones calificadas.
+Si la ayuda se prestare hasta el punto de que el instigador ejecute la muerte, la sanción será la que corresponda al delito de feminicidio, según las circunstancias y modos de ejecución.
 CAPITULO VI
 PARRICIDIO
 (REFORMADO, P.O. 4 DE AGOSTO DE 2012)
@@ -643,8 +661,8 @@ Al que cometa este delito se le aplicarán de seis a doce años de prisión y mu
 (ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 4 DE AGOSTO DE 2012)
 CAPITULO VII BIS
 FEMINICIDIO
-(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JUNIO DE 2022)
-309 Bis.- Comete el delito de feminicidio quien prive de la vida a una mujer por razones de género. A quien cometa el delito de feminicidio se le impondrán de treinta a cincuenta años de prisión y multa de trescientas a trescientas sesenta y cinco veces el valor diario de la Unidad de Medida y Actualización vigente en el momento en que se cometió el delito.
+(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE MARZO DE 2026)
+309 Bis.- Comete el delito de feminicidio quien prive de la vida a una mujer por razones de género. A quien cometa el delito de feminicidio se le impondrán de treinta a cincuenta años de prisión y multa de trescientas a trescientas sesenta y cinco veces el valor diario de la Unidad de Medida y Actualización. La pena de prisión establecida para este delito aumentará hasta en un tercio en su mínimo, tratándose de víctima con edad de 6 a 18 años, embarazada, adulta mayor, con discapacidad, cuando el delito se ejecute en presencia de hijas o hijos de la víctima que sean menores de edad o cuando el sujeto activo sea persona servidora pública y haya incurrido en esa conducta aprovechando tal carácter.
 (REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JUNIO DE 2016)
 Se considera que existen razones de género cuando concurra alguna de las siguientes circunstancias:
 (ADICIONADA, P.O. 4 DE AGOSTO DE 2012)
@@ -663,9 +681,11 @@ VI. Existan datos que establezcan que hubo amenazas relacionadas con el hecho de
 VII. La víctima haya sido incomunicada, cualquiera que sea el tiempo previo a la privación de la vida;
 (REFORMADA, P.O. 1 DE JUNIO DE 2016)
 VIII. El cuerpo de la víctima sea expuesto o exhibido en un lugar público.
+(ADICIONADA, P.O. 4 DE MARZO DE 2026)
+IX. El sujeto activo haya obligado a la víctima a realizar una actividad o trabajo o haya ejercido sobre ella cualquier forma de explotación.
 (DEROGADO TERCER PÁRRAFO, P.O. 1 DE JUNIO DE 2016)
-(ADICIONADO, P.O. 1 DE JUNIO DE 2016)
-Además de las sanciones descritas en el presente artículo, el sujeto activo perderá todos los derechos con relación a la víctima, incluidos los de carácter sucesorio.
+(REFORMADO, P.O. 4 DE MARZO DE 2026)
+Además de las sanciones descritas en el presente artículo, el sujeto activo perderá todos los derechos con relación a la víctima, incluidos los de carácter sucesorio, así como la patria potestad, custodia, tutela o curatela de los hijos de la víctima; para ello, la autoridad competente ponderará siempre el interés superior de la niñez, en términos de la legislación aplicable.
 (REFORMADO, P.O. 1 DE JUNIO DE 2016)
 La reparación del daño a la que alude el artículo 34 del presente código, en los casos de feminicidio deberá determinarse conforme al principio de integralidad contenido en la Ley General de Víctimas, así como atendiendo los parámetros de dicha norma.
 (ADICIONADO, P.O. 1 DE JUNIO DE 2016)
