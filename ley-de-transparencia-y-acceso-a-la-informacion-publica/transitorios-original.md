@@ -15,3 +15,4 @@ COMUNÍQUESE AL EJECUTIVO DEL ESTADO PARA SU PROMULGACIÓN Y PUBLICACIÓN.
 DADO en la Sala de Sesiones de la Honorable Sexagésima Quinta Legislatura del Estado de Zacatecas, a los diecinueve días del mes de junio del año dos mil veinticinco. DIPUTADO PRESIDENTE.- JOSÉ DAVID GONZÁLEZ HERNÁNDEZ. DIPUTADOS SECRETARIOS.- MARTÍN ÁLVAREZ CASIO y MARCO VINICIO FLORES GUERRERO. Rúbricas
 Y para que llegue al conocimiento de todos y se le dé el debido cumplimiento, mando se imprima, publique y circule.
 DADO en el Despacho del Poder Ejecutivo, a los diez días del mes de julio del año dos mil veinticinco. GOBERNADOR DEL ESTADO.- DAVID MONREAL ÁVILA. SECRETARIO GENERAL DE GOBIERNO.- RODRIGO REYES MUGÜERZA. Rúbricas.
+[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]
