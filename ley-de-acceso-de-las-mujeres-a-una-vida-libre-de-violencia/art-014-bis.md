@@ -1,4 +1,7 @@
-Artículo 14 Bis. La violencia política contra las mujeres puede expresarse, entre otras, a través de las siguientes conductas:
+Artículo 14 Bis.- La violencia política contra las mujeres en razón de género es toda acción u omisión, incluida la tolerancia, basada en elementos de género y ejercida dentro de la esfera pública o privada, que tenga por objeto o resultado limitar, anular o menoscabar el ejercicio efectivo de los derechos políticos y electorales de una o varias mujeres, el acceso al pleno ejercicio de las atribuciones inherentes a su cargo, labor o actividad, el libre desarrollo de la función pública, la toma de decisiones, la libertad de organización, así como el acceso y ejercicio a las prerrogativas, tratándose de precandidaturas, candidaturas, funciones o cargos públicos del mismo tipo.
+A. Se entenderá que las acciones u omisiones se basan en elementos de género, cuando se dirijan a una mujer por su condición de mujer, le afecten desproporcionadamente o tengan un impacto diferenciado en ella.
+Puede manifestarse en cualquiera de los tipos de violencia reconocidos en esta Ley y puede ser perpetrada indistintamente por agentes estatales, por superiores jerárquicos, colegas de trabajo, personas dirigentes de partidos políticos, militantes, simpatizantes, precandidatas, precandidatos, candidatas o candidatos postulados por los partidos políticos o representantes de los mismos; medios de comunicación y sus integrantes, por un particular o por un grupo de personas particulares.
+B. La violencia política contra las mujeres puede expresarse, entre otras, a través de las siguientes conductas:
 I. Incumplir las disposiciones jurídicas nacionales e internacionales que reconocen el ejercicio pleno de los derechos políticos de las mujeres;
 II. Restringir o anular el derecho al voto libre y secreto de las mujeres, u obstaculizar sus derechos de asociación y afiliación a todo tipo de organizaciones políticas y civiles, en razón de género;
 III. Ocultar información u omitir la convocatoria para el registro de candidaturas o para cualquier otra actividad que implique la toma de decisiones en el desarrollo de sus funciones y actividades;
@@ -18,11 +21,10 @@ XVI. Ejercer violencia física, sexual, simbólica, psicológica, económica o p
 XVII. Limitar o negar arbitrariamente el uso de cualquier recurso o atribución inherente al cargo que ocupe la mujer, incluido el pago de salarios, dietas u otras prestaciones asociadas al ejercicio del cargo, en condiciones de igualdad;
 XVIII. Obligar a una mujer, mediante fuerza, presión o intimidación, a suscribir documentos o avalar decisiones contrarias a su voluntad o a la ley;
 XIX. Obstaculizar o impedir el acceso a la justicia de las mujeres para proteger sus derechos políticos;
-XX. Limitar o negar arbitrariamente el uso del cualquier recurso o atribución inherente al cargo político que ocupa la mujer, impidiendo el ejercicio del cargo en condiciones de igualdad;
+XX. Limitar o negar arbitrariamente el uso de cualquier recurso o atribución inherente al cargo político que ocupa la mujer, impidiendo el ejercicio del cargo en condiciones de igualdad;
 XXI. Imponer sanciones injustificadas o abusivas, impidiendo o restringiendo el ejercicio de sus derechos políticos en condiciones de igualdad, o
-XXII. Cualesquiera otras formas análogas que: lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres en el ejercicio de un cargo político, público, de poder o de decisión, que afecte sus derechos políticos electorales.
+XXII. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres en el ejercicio de un cargo político, público, de poder o de decisión, que afecte sus derechos políticos electorales.
 La violencia política contra las mujeres en razón de género se sancionará en los términos establecidos en la legislación electoral, penal y de responsabilidades administrativas.
-(ADICIONADO, P.O. 8 DE OCTUBRE DE 2025)
 Las autoridades competentes incluirán, con carácter obligatorio, el trabajo reeducativo de agresores como parte de las medidas de prevención.
 (REFORMADO, P.O. 8 DE JUNIO DE 2022)
 Violencia Digital

@@ -10,6 +10,7 @@ d) Dirección de Desarrollo Social, y
 e) Dos representantes de las organizaciones de la sociedad civil o de la academia, con participación destacada en el tema.
 El cargo de integrante del Sistema Municipal es de carácter honorario y si se trata de servidoras o servidores públicos, es inherente al empleo que desempeñe.
 Las y los representantes de las organizaciones de la sociedad civil o de la academia que integren el Sistema Municipal serán electos previa convocatoria pública, con la aprobación de la mayoría de sus integrantes.
+(REFORMADA SU DENOMINACIÓN, P.O. 18 DE JULIO DE 2026)
 Capítulo III
-Programa Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia Contra las Mujeres
+Programa Estatal para Prevenir, Atender, Sancionar y Erradicar las Violencias Contra las Mujeres
 Naturaleza jurídica
