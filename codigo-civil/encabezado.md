@@ -1319,8 +1319,7 @@ DE LA SUCESION DE LOS DESCENDIENTES
 788.- Si quedaren hijos y descendientes de ulterior grado, los primeros heredarán por cabeza y los segundos por estirpe, lo mismo se observará tratándose de descendientes de hijos fallecidos antes que el autor de la herencia, incapaces de heredar o que hubiesen renunciado a la herencia.
 789.- Si sólo quedaren descendientes de ulterior grado, la herencia se dividirá por estirpes; y si en algunas de éstas hubiere varios herederos, la porción que a ella corresponda, se dividirá por partes iguales.
 790.- Concurriendo hijos con ascendientes, éstos sólo tendrán derecho a alimentos, los que se fijarán de acuerdo a lo preceptuado en los artículos 571, 573 y 575 de este Código.
-(REFORMADO, P.O. 29 DE MARZO DE 2017)
-791.- El adoptado hereda como un hijo, pero, tratándose de adopción simple, no hay derecho de sucesión entre el adoptado y los parientes del adoptante.
+791. (DEROGADO, P.O. 18 DE JULIO DE 2026)
 792.- Concurriendo padres adoptantes y descendientes del adoptado, los primeros sólo tendrán derecho a alimentos, siendo aplicable lo dispuesto en el artículo 790 de este ordenamiento.
 CAPITULO TERCERO
 DE LA SUCESION DE LOS ASCENDIENTES
@@ -1329,10 +1328,8 @@ DE LA SUCESION DE LOS ASCENDIENTES
 795.- Si sólo hubiere ascendientes de ulterior grado por una línea, se dividirán la herencia por partes iguales.
 796.- Si hubiere ascendientes por ambas líneas, se dividirá la herencia en dos partes iguales y se aplicará una a los ascendientes de la línea paterna y otra a los de la materna. Siendo aplicable el artículo 784.
 797.- Los miembros de cada línea y en el mismo grado, en el caso del artículo anterior, dividirán entre ellos por partes iguales, la porción que a la línea corresponda.
-(REFORMADO, P.O. 29 DE MARZO DE 2017)
-798.- Tratándose de adopción simple, si concurren los adoptantes con ascendientes del adoptado, la herencia de éste se dividirá por partes iguales entre los adoptantes y los ascendientes.
-(REFORMADO, P.O. 29 DE MARZO DE 2017)
-799.- Tratándose de adopción simple, si concurre el cónyuge del adoptado con los adoptantes, las dos terceras partes de la herencia corresponden al cónyuge y la otra tercera parte a los que hicieron la adopción.
+798. (DEROGADO, P.O. 18 DE JULIO DE 2026)
+799. (DEROGADO, P.O. 18 DE JULIO DE 2026)
 800.- Los ascendientes naturales tienen derecho de heredar a sus descendientes reconocidos en los términos de este Capítulo.
 801.- Si el reconocimiento se hace después de que el descendiente haya adquirido bienes cuya cuantía, teniendo en cuenta las circunstancias personales del que reconoce, haga suponer, fundadamente, que motivó el reconocimiento, ni el que reconoce, ni sus descendientes, tienen derecho a la herencia del reconocido. El que reconoce tiene derecho a alimentos, en el caso de que el reconocimiento lo haya hecho cuando el reconocido tenía derecho a percibir alimentos.
 CAPITULO CUARTO
