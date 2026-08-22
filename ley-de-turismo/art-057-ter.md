@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 22 DE AGOSTO DE 2026)
+Artículo 57 Ter. Para efectos de la presente Ley, se entenderá por servicio de hospedaje o estancia turística eventual, ofertados mediante plataformas digitales, al servicio de alojamiento que se ofrezca al público en general, a cambio de una contraprestación económica, a través de aplicaciones, sitios web o herramientas tecnológicas de intermediación digital, en inmuebles ubicados dentro del Estado de Zacatecas.
+Las plataformas digitales se entenderán solo como un medio para facilitar la promoción, intermediación, pago o contratación de dichos servicios, por lo que no se considerarán prestadores de servicios turísticos, de alojamiento o de estancia turística eventual, y la responsabilidad del servicio recaerá sobre el anfitrión.

@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 22 DE AGOSTO DE 2026)
+Artículo 57 Quater. Las personas físicas o morales que ofrezcan servicios de hospedaje o estancia turística eventual mediante plataformas digitales, deberán inscribirse previamente en el Registro Estatal de Turismo, señalando cada inmueble o espacio que destinen a la actividad. Su registro previo será requisito indispensable para operar en el territorio estatal.
