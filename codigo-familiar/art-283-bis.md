@@ -16,8 +16,8 @@ IV. Violencia contra los derechos sexuales y reproductivos: Cualquier tipo de ac
 V. Violencia económica: Privación intencionada y no justificada legalmente de los recursos financieros para el bienestar físico y psicológico de los receptores de la violencia familiar o de algún miembro de la familia, cuyas formas de expresión pueden representar el incumplimiento de las responsabilidades alimentarias, para el sostenimiento familiar, o las limitaciones encaminadas a controlar el ingreso de las percepciones económicas o la discriminación en la disposición de los recursos compartidos;
 (REFORMADA, P.O. 3 DE OCTUBRE DE 2007)
 VI. Violencia patrimonial: Acto u omisión encaminado a apropiarse o destruir el patrimonio de la pareja o de cualquier miembro de la familia sin autorización, mismos que pueden consistir en el abuso de los ingresos, el apoderamiento, despojo, transformación, sustracción, destrucción, desaparición retención o distracción de objetos, documentos personales, bienes y valores, derechos patrimoniales o recursos económicos, y
-(ADICIONADA, P.O. 4 DE MAYO DE 2022)
-VII. Violencia vicaria, consistente en cualquier acto u omisión, por parte de la pareja o ex pareja sentimental de una mujer que inflija a personas con las que ésta tenga lazos de parentesco civil, por consanguinidad hasta el cuarto grado o por afinidad hasta el segundo grado, un daño, menoscabo o sufrimiento de cualquier naturaleza con el propósito de causar perjuicio o daño psicológico, patrimonial, físico o de cualquier otra índole a la mujer;
+(REFORMADA, P.O. 22 DE AGOSTO DE 2026)
+VII. Violencia a través de interpósita persona. Para efectos de lo previsto en el presente Capítulo, este tipo de violencia se entenderá conforme a la definición establecida en la Ley de Acceso de las Mujeres a una Vida Libre de Violencias para el Estado de Zacatecas;
 (REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2023)
 VIII. Cualesquiera otras formas análogas que lesionen o sea (sic) susceptibles de dañar la libertad, dignidad o integridad de la familiar (sic);
 (ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2023)

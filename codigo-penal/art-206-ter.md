@@ -350,6 +350,8 @@ VIOLENCIA FAMILIAR
 Para los efectos de lo dispuesto en este Capítulo, se entenderá por violencia en todas sus modalidades, lo dispuesto por la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia y Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Zacatecas.
 (REFORMADO, P.O. 8 DE JUNIO DE 2022)
 254 Ter.- Comete el delito de violencia familiar, el cónyuge, concubina o concubinario; pariente consanguíneo en línea recta ascendente o descendente sin limitación de grado; o en línea trasversal hasta el cuarto grado; pariente por afinidad hasta el segundo grado; el adoptante o el adoptado, por personas que ejerzan la tutela, curatela, o bien, que tengan o hayan tenido alguna relación afectiva o sentimental de hecho, independientemente que habiten o no en el mismo domicilio.
+(ADICIONADO, P.O. 22 DE AGOSTO DE 2026)
+Para efectos de lo previsto en este Capítulo, la violencia a través de interpósita persona se entenderá conforme a la definición establecida en la Ley de Acceso de las Mujeres a una Vida Libre de Violencias para el Estado de Zacatecas.
 (REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JUNIO DE 2022)
 254 Quáter.- A quien cometa el delito de violencia familiar se le impondrá de dos a seis años de prisión, multa de cincuenta a cien veces el valor diario de la Unidad de Medida y Actualización vigente en el momento en que se cometió el delito.
 (DEROGADO SEGUNDO PÁRRAFO, P.O. 1 DE JUNIO DE 2016)
@@ -373,8 +375,8 @@ V. Se cometa con el uso de armas de fuego o punzocortantes;
 VI. Se deje cicatriz permanente en alguna parte del cuerpo;
 (ADICIONADA, P.O. 1 DE JUNIO DE 2016)
 VII. Se tengan documentados antecedentes o denuncia de violencia familiar cometidos por el mismo agresor contra la víctima; o
-(REFORMADA, P.O. 4 DE MAYO DE 2022)
-VIII. Exista imposibilidad material de la víctima de denunciar o se cometa violencia vicaria.
+(REFORMADA, P.O. 22 DE AGOSTO DE 2026)
+VIII. Exista imposibilidad material de la víctima de denunciar o se cometa violencia a través de interpósita persona, mediante las conductas por las que puede actualizarse conforme lo establece la Ley de Acceso de las Mujeres a una Vida Libre de Violencias para el Estado de Zacatecas;
 (ADICIONADA, P.O. 8 DE JUNIO DE 2022)
 IX. La persona agresora viva con sus padres y la agresión se dirija a uno de ellos;
 (ADICIONADA, P.O. 8 DE JUNIO DE 2022)
