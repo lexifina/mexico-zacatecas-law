@@ -154,9 +154,20 @@ IV.- Al que por cualquier medio manifieste ante la autoridad una nacionalidad fa
 (ADICIONADO, P.O. 4 DE AGOSTO DE 2012)
 227 Bis.- Se sancionará con prisión de uno a cuatro años y multa de doscientas a trescientas cuotas, a quien ejerza ilícitamente un derecho o use cualquier tipo de datos, informaciones o documentos que legítimamente pertenezcan a otro, que lo individualiza ante la sociedad y que le permite a una persona física o jurídica colectiva ser identificada o identificable, para hacerse pasar por él.
 Se equiparan a la usurpación de identidad y se impondrán las mismas penas previstas en el párrafo anterior a quienes otorguen el consentimiento para llevar a cabo la usurpación de identidad o se valgan de la homonimia, parecido físico o similitud de la voz para cometer algún ilícito.
-Las sanciones previstas en este artículo se impondrán con independencia de las que correspondan por la comisión de otro u otros delitos.
+(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2026)
+Las sanciones previstas en este capítulo se impondrán con independencia de las que correspondan por la comisión de otro u otros delitos.
 (ADICIONADO, P.O. 4 DE AGOSTO DE 2012)
 227 Ter.- Las penas señaladas en el artículo anterior se incrementarán hasta en una mitad, cuando la usurpación sea cometida por un servidor público aprovechándose de sus funciones, o por quien sin serlo, se valga de su profesión o empleo para ello.
+(ADICIONADO, P.O. 16 DE SEPTIEMBRE DE 2026)
+227 Quáter.- Se sancionará con prisión de uno a cuatro años y multa de doscientas a trescientas veces la Unidad de Medida y Actualización vigente a quien, sin consentimiento de su titular o sin autorización legal y mediante el uso de medios electrónicos, consiga o disponga para sí o para otra persona de cualquier dato o elemento del patrimonio digital que facilite la identificación de otra persona, con el fin de hacerse pasar por ella y obtener para sí o para otras cualquier lucro o beneficio económico.
+Se entenderá por medios electrónicos a las tecnologías de la información y la comunicación, sistemas informáticos y plataformas digitales.
+Así mismo, se entenderá por patrimonio digital: la contraseña, firma electrónica, credencial de acceso a cuentas digitales, huellas, identificadores electrónicos, datos biométricos u otros elementos de acreditación personal en el espectro radioeléctrico.
+(ADICIONADO, P.O. 16 DE SEPTIEMBRE DE 2026)
+227 Quintus.- La pena de prisión prevista en el artículo anterior se aumentarán hasta en una mitad cuando:
+I. El responsable, para identificarse, utilice algún documento apócrifo, homonimia o parecido físico para suplantar la identidad de la víctima;
+II. La víctima sea persona menor de edad, persona adulta mayor o con discapacidad o persona que no pueda comprender el significado del hecho o quien por cualquier razón no pueda resistirlo;
+III. La persona responsable sea servidor o servidora pública o utilice información a la que tenga acceso con motivo de su empleo, cargo o comisión, o
+IV. La persona responsable se aproveche de la relación de parentesco, laboral, de confianza o el vínculo afectivo de pareja o noviazgo con la víctima.
 CAPITULO VII
 USURPACION DE FUNCIONES PUBLICAS O DE PROFESION
 228.- Se sancionará con prisión de tres meses a tres años y multa de cinco a veinticinco cuotas:
@@ -443,6 +454,8 @@ IV. Si quien hace el requerimiento por cualquier medio, no se identifica en ese 
 258.- Al que por medio de amenazas de cualquier género trate de impedir que otro ejecute lo que tiene derecho a hacer, se le aplicarán las mismas sanciones a que se refiere el artículo anterior.
 (ADICIONADO, P.O. 4 DE AGOSTO DE 2012)
 258 Bis.- Se sancionará con prisión de uno a tres años y de doscientas a trescientas cuotas al que amenace con cometer el delito de terrorismo a que se refiere el artículo 169 del presente Código.
+(ADICIONADO, P.O. 16 DE SEPTIEMBRE DE 2026)
+258 Ter.- La pena de prisión a que se refiere el artículo anterior se aumentará en una mitad más, en su mínimo y en su máximo, para quien, por cualquier medio, amenace a integrantes de cualquiera de las corporaciones de seguridad pública, a personas juzgadoras o quienes formen parte del Ministerio Público, todas del ámbito local, con causarles un mal en su persona, en su honor, en su prestigio o en sus bienes, siempre que el delito se actualice como consecuencia del ejercicio de la función pública de la víctima.
 259.- Se exigirá solamente caución de no ofender:
 I.- Si los daños con que se amenaza son leves o evitables;
 II.- Si la amenaza tiene por condición que el amenazado no ejecute un hecho ilícito en sí. En este caso también se exigirá caución al amenazado, si el juez lo estima necesario.
@@ -465,6 +478,24 @@ ASALTO
 263.- Se aplicará prisión de tres a nueve años y multa de cien a trescientas cuotas al que por cualquier medio, en despoblado o en paraje solitario, haga uso de violencia sobre una persona con el propósito de causarle un daño, obtener un lucro o beneficio o de exigir su asentimiento para cualquier fin.
 La conducta a que se refiere este artículo dará lugar a la sanción independientemente del propósito que llevó al asaltante a ejecutarla y se acumulará a la que corresponda por otros delitos que resulten.
 264.- A quienes asalten una población o ranchería, se les sancionará con prisión de veinte a treinta años, si fueren los cabecillas o jefes, y de quince a veinte años a los demás, sin perjuicio de aplicar las reglas del concurso por cualesquiera otros delitos que se cometan.
+(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 16 DE SEPTIEMBRE DE 2026)
+Capítulo III Bis
+Rastreo Ilícito de Personas
+(ADICIONADO, P.O. 16 DE SEPTIEMBRE DE 2026)
+264 Bis.- Comete el delito de rastreo ilícito de personas quien, sin el consentimiento expreso de la víctima y mediante cualquier acción realizada a través de medios electrónicos, de telecomunicación o digitales, coloque o active en el cuerpo, vehículo o en cualquier otro bien en posesión de una persona, dispositivos, mecanismos o cualquier sistema o herramienta tecnológica que permitan rastrear, monitorear, deducir, transmitir o publicar su desplazamiento o su ubicación.
+A la persona responsable de este delito se le impondrán de uno a dos años de prisión y multa de cien a ciento cincuenta veces el valor diario de la Unidad de Medida y Actualización.
+(ADICIONADO, P.O. 16 DE SEPTIEMBRE DE 2026)
+264 Ter.- Las penas previstas en el artículo anterior se aumentarán hasta en una mitad más, en su mínimo y máximo, cuando:
+I. La víctima sea un niño, niña o adolescente, una persona con discapacidad, persona adulta mayor o persona que por cualquier circunstancia no pudiera resistirse o no tenga la capacidad de comprender el significado del hecho;
+II. La persona responsable del delito sea o haya sido cónyuge, concubino, concubina o tenga o haya tenido relación afectiva de pareja o noviazgo con la víctima;
+III. El rastreo se lleve a cabo sobre mujer embarazada o con el fin de ejercer violencia de género;
+IV. El rastreo se realice para facilitar la comisión de otro delito, o
+V. La persona responsable sea servidora pública y que en el ejercicio de su empleo, cargo o comisión, haga uso indebido de sus atribuciones, recursos o información de que disponga para actualizar la conducta.
+(ADICIONADO, P.O. 16 DE SEPTIEMBRE DE 2026)
+264 Quater.- No se sancionará la colocación de localizadores o dispositivos de rastreo, cuando:
+I. Se ordene por una autoridad competente;
+II. Se realice sobre personas menores de edad y la haga o autorice quien ejerza la patria potestad, tutela o guarda sobre ellas, o
+III. Se lleve a cabo en persona con alguna discapacidad, siempre que ella exprese su conformidad de manera libre e informada o, en su caso, mediante el sistema de apoyos adecuado. Lo que se hará, de conformidad con la legislación en materia de derechos de personas con discapacidad.
 CAPITULO IV
 PRIVACION ILEGAL DE LA LIBERTAD O DE OTROS DERECHOS
 (REFORMADO PRIMER PÁRRAFO, P.O. 15 DE SEPTIEMBRE DE 2007)
@@ -517,30 +548,20 @@ DIFAMACION
 273.- (DEROGADO, P.O. 4 DE AGOSTO DE 2012)
 CAPITULO II
 CALUMNIA
-274.- Se aplicará prisión de tres meses a cinco años y multa de cinco a quince cuotas al que impute a otro un delito, ya sea porque el hecho sea falso o porque la persona a quien se impute sea inocente.
-Igual sanción se aplicará al que para hacer que un inocente aparezca como culpable de un delito, ponga en las vestiduras del calumniado, en su casa, en su automóvil, o en cualquier lugar adecuado para ese fin, una cosa que pueda dar indicios de responsabilidad.
-Si se condena al calumniado se impondrá al calumniador la misma sanción.
-275.- No se admitirán pruebas de la imputación al inculpado de calumnia cuando exista sentencia ejecutoriada que haya absuelto al calumniador del mismo delito que aquél le imputó.
-276.- Cuando haya pendiente un proceso o averiguación de un delito imputado a alguien calumniosamente, se suspenderá el ejercicio de la acción de calumnia hasta que en dicho proceso se dicte sentencia ejecutoria. En este caso, la prescripción comenzará a correr cuando termine el proceso.
+274.- (DEROGADO, P.O. 16 DE SEPTIEMBRE DE 2026)
+275.- (DEROGADO, P.O. 16 DE SEPTIEMBRE DE 2026)
+276.- (DEROGADO, P.O. 16 DE SEPTIEMBRE DE 2026)
 (REFORMADA SU DENOMINACIÓN, P.O. 4 DE AGOSTO DE 2012)
 CAPITULO III
 DISPOSICIONES GENERALES AL DELITO DE CALUMNIA
-(REFORMADO, P.O. 4 DE AGOSTO DE 2012)
-277.- No se procederá contra los autores de calumnia, sino por querella de los ofendidos o de sus legítimos representantes.
-Si la calumnia es posterior al fallecimiento del ofendido, sólo se procederá en virtud de querella de sus familiares o representantes legítimos.
-Si el delito se cometió con anterioridad al fallecimiento del ofendido y éste hubiere perdonado la ofensa, o sabiendo que se le había inferido no hubiere presentado su querella, pudiendo hacerlo, ni manifestado que lo hicieran sus herederos, se extinguirá la acción penal del delito.
-(REFORMADO, P.O. 4 DE AGOSTO DE 2012)
-278.- La calumnia hecha a la Legislatura, al Tribunal Superior de Justicia, o a un Cuerpo colegiado de la administración de justicia o a cualquier institución pública, se sancionará con sujeción a las reglas de este título, sin perjuicio de las sanciones que señala el artículo 168 de este Código.
-(REFORMADO, P.O. 4 DE AGOSTO DE 2012)
-279.- Cualquier objeto que hubiere servido de medio para cometer el delito de calumnia, se inutilizará, a menos que se trate de algún documento público o privado que importe obligación, liberación o transmisión de derechos. En este caso se anotará en el documento un resumen de la sentencia pronunciada contra el acusado o en hoja anexa si no cupiere.
+277.- (DEROGADO, P.O. 16 DE SEPTIEMBRE DE 2026)
+278.- (DEROGADO, P.O. 16 DE SEPTIEMBRE DE 2026)
+279.- (DEROGADO, P.O. 16 DE SEPTIEMBRE DE 2026)
 280.- (DEROGADO, P.O. 4 DE AGOSTO DE 2012)
-(REFORMADO, P.O. 4 DE AGOSTO DE 2012)
-281.- A las personas jurídicas responsables del delito de calumnia, se les suspenderá en sus actividades de uno a dos meses.
+281.- (DEROGADO, P.O. 16 DE SEPTIEMBRE DE 2026)
 282.- (DEROGADO, P.O. 4 DE AGOSTO DE 2012)
-(REFORMADO, P.O. 4 DE AGOSTO DE 2012)
-283.- Se permitirán al inculpado pruebas de su imputación y si ésta quedare probada se librará a aquél de toda sanción, excepto en el caso del artículo 275.
-(REFORMADO, P.O. 4 DE AGOSTO DE 2012)
-284.- No será excluyente de responsabilidad penal de la calumnia, que el hecho imputado sea notorio, o que el responsable no haya hecho más que reproducir lo ya publicado en la República o en otro país.
+283.- (DEROGADO, P.O. 16 DE SEPTIEMBRE DE 2026)
+284.- (DEROGADO, P.O. 16 DE SEPTIEMBRE DE 2026)
 TITULO DECIMOSEPTIMO
 DELITOS CONTRA LA VIDA Y LA INTEGRIDAD CORPORAL
 CAPITULO I
@@ -616,10 +637,14 @@ III.- Cuando se causen por motivos depravados;
 IV.- Cuando se infieran con brutal ferocidad;
 V.- Cuando se causen por inundación, incendio, minas, bombas o explosivos;
 VI.- Cuando se dé tormento al ofendido o se obre con saña o crueldad;
-VII.- Cuando dolosamente se ejecuten por envenenamiento, contagio, asfixia o estupefaciente; y
-VIII.- Cuando se cometan en lugar concurrido por personas ajenas a los hechos y que pudieren resultar muertas o lesionadas.
-(ADICIONADA, P.O. 8 DE JUNIO DE 2022)
-IX.- Cuando se cometan con odio.
+(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2026)
+VII.- Cuando dolosamente se ejecuten por envenenamiento, contagio, asfixia o estupefaciente;
+(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2026)
+VIII.- Cuando se cometan en lugar concurrido por personas ajenas a los hechos y que pudieren resultar muertas o lesionadas;
+(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2026)
+IX.- Cuando se cometan con odio, y
+(ADICIONADA, P.O. 16 DE SEPTIEMBRE DE 2026)
+X.- Cuando sea cometan en perjuicio de integrantes de cualquiera de las corporaciones de seguridad pública, de personas juzgadoras o de quienes formen parte del Ministerio Público, todas del ámbito local, siempre que el delito se actualice como consecuencia del ejercicio de la función pública de la víctima.
 (REFORMADO, P.O. 4 DE AGOSTO DE 2012)
 302.- Se impondrá prisión de seis a doce años y multa de cien a doscientas cuotas, al que cometa homicidio por encontrarse en un estado transitorio de grave conmoción emocional, motivado por alguna agresión a sus sentimientos afectivos o al honor de sus padres, hijos, cónyuge o al suyo propio. Exceptuándose al delito de feminicidio.
 303.- Además de las sanciones que señalan los dos capítulos anteriores, el juez podrá, si lo creyere conveniente:
@@ -634,8 +659,8 @@ INSTIGACION O AYUDA AL SUICIDIO
 305.- Al que instigue o ayude a otra persona al suicidio, se le impondrá sanción de tres a diez años de prisión si el suicidio se consuma.
 (ADICIONADO, P.O. 4 DE MARZO DE 2026)
 Si la ayuda se prestare hasta el punto de ejecutar el responsable la muerte, la sanción será la que corresponda al homicidio, parricidio o feminicidio, según las circunstancias y modos de ejecución.
-(ADICIONADO, P.O. 4 DE MARZO DE 2026)
-Si el suicidio no se lleva a efecto, pero su intento produce lesiones, la sanción será de tres meses a tres años. En todos los casos de este artículo se impondrá multa de quince a cuarenta y cinco veces la Unidad de Medida y Actualización.
+(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2026)
+Si el suicidio no se lleva a efecto, pero su intento produce lesiones, la sanción será de tres meses a tres años de prisión. En todos los casos de este artículo se impondrá multa de quince a cuarenta y cinco veces la Unidad de Medida y Actualización.
 (ADICIONADO, P.O. 4 DE MARZO DE 2026)
 Se aumentará la pena de prisión prevista en el segundo párrafo de este artículo en una cuarta parte, en su mínimo y máximo, cuando el instigador haga uso de plataformas digitales, redes sociales o cualquier otro medio virtual para interactuar con juegos o retos y de esta forma materialice la conducta sancionable.
 (ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 4 DE MARZO DE 2026)
@@ -704,3 +729,10 @@ Para los efectos de este Código, el embarazo es la parte del proceso de la repr
 311. Se impondrán de tres a seis meses de prisión, o de 100 a 300 jornadas de trabajo en favor de la comunidad, a la mujer o persona con capacidad de gestar que voluntariamente procure su aborto o consienta en que otro la haga abortar, después de las primeras doce semanas de embarazo.
 La misma pena se aplicará al que haga abortar a una mujer o persona con capacidad de gestar, a solicitud de esta, en los términos del párrafo anterior.
 En este caso, el delito de aborto se sancionará, únicamente, cuando se haya consumado.
+(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE SEPTIEMBRE DE 2026)
+311 Bis. Comete el delito de aborto forzado el que, sin el consentimiento de la mujer o persona con capacidad de gestar, la haga interrumpir el embarazo en cualquier momento de éste.
+(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2024)
+Al que cometa el delito de aborto forzado se le aplicarán de tres a seis años de prisión, sea cual fuere el medio que empleare. Si además mediare violencia física o moral, la pena será de seis a diez años de prisión.
+(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2024)
+Si el aborto lo causare un médico, comadrona o partera, además de las sanciones que le correspondan, se le suspenderá de dos a cinco años en el ejercicio de su profesión.
+312. (DEROGADO, P.O. 30 DE NOVIEMBRE DE 2024)

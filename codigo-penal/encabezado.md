@@ -307,7 +307,7 @@ Sólo se sancionarán como delitos culposos los siguientes:
 I. Homicidio, a que se refiere el artículo 293;
 II. Lesiones, a que se refiere el artículo 285;
 III. (DEROGADA, P.O. 30 DE NOVIEMBRE DE 2024)
-IV. Peligro de contagio, a que se refiere el artículo 173;
+IV. (DEROGADA, P.O. 16 DE SEPTIEMBRE DE 2026)
 V. Daños, a que se refiere el artículo 349;
 VI. Ejercicio indebido o abandono de funciones públicas, a que se se (sic) refiere el artículo 193 fracción V;
 VII. Evasión de presos, a que se refiere el artículo 133;
@@ -580,8 +580,8 @@ V.- Las que otras leyes o reglamentos señalen como tales.
 (REFORMADA SU DENOMINACIÓN, P.O. 4 DE AGOSTO DE 2012)
 CAPITULO IV
 ASOCIACION DELICTUOSA Y FACILITACION DELICTIVA
-(REFORMADO, P.O. 4 DE AGOSTO DE 2012)
-141.- Se impondrá prisión de dos a ocho años y multa de cien a trescientas cuotas, al que forme parte de una asociación o banda de tres o más personas, organizada para delinquir, independientemente de la sanción que le corresponda por el delito que cometa.
+(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2026)
+141.- Se impondrá prisión de tres a doce años y multa de doscientas a trescientas cincuenta veces la Unidad de Medida y Actualización vigente, al que forme parte de una asociación o banda de tres o más personas, organizada para delinquir, independientemente de la sanción que le corresponda por el delito que cometa.
 (ADICIONADO, P.O. 25 DE OCTUBRE DE 2006)
 141 Bis.- Cuando se cometa algún delito por pandilla, se aplicará a los que intervengan en su comisión, hasta una mitad más de las penas que les correspondan por el o los delitos cometidos.
 Se entiende por pandilla, para los efectos de esta disposición, la reunión habitual de tres o más personas que sin estar organizadas con fines delictuosos, cometen en común algún delito con violencia sobre la víctima.
@@ -607,8 +607,10 @@ CAPITULO VI
 ATENTADOS A LA SEGURIDAD DE LA COMUNIDAD
 (ADICIONADO, P.O. 31 DE AGOSTO DE 2019)
 148 Bis.- Comete el delito de atentados contra la seguridad de la comunidad y se le aplicará una sanción de cuatro a ocho años de prisión y multa de doscientas a trescientas cincuenta y cinco veces el valor diario de la Unidad de Medida y Actualización, a quien sin causa justificada incurra en cualquiera de las siguientes fracciones:
-(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 4 DE OCTUBRE DE 2025)
-I. Utilice uno o más instrumentos en forma de abrojos, cuchillas, erizos, estrellas metálicas o de cualquier material, púas, picos, clavos, ponchallantas, chacos, cadenas, varillas, fabricados de cualquier material que por su resistencia, contundencia o naturaleza, dañe o impida el paso de vehículos particulares u oficiales.
+(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE SEPTIEMBRE DE 2026)
+I. Fabrique, posea o porte uno o más instrumentos en forma de abrojos, cuchillas, erizos, estrellas, púas o picos ponchallantas, fabricados de cualquier material que por su resistencia o contundencia, dañe o impida el paso de vehículos particulares u oficiales.
+(ADICIONADO, P.O. 16 DE SEPTIEMBRE DE 2026)
+Cuando los instrumentos descritos en el párrafo anterior sean usados para cometer algún delito, la pena de prisión prevista en este artículo se incrementará en una cuarta parte en su mínimo y en su máximo.
 Cuando la conducta se cometa en contra de elementos de las fuerzas armadas o de seguridad pública o de sus equipos motores, muebles o inmuebles, se aumentará la penalidad dos terceras partes en su mínimo y en su máximo;
 II. Posea o porte, en su persona, en su domicilio, en el vehículo en el que se encuentre o se le relacione con éste, en su negocio o en el lugar donde se le capture, uno o más aparatos o equipos de comunicación de cualquier tipo y se utilicen con fines ilícitos, que hubieren sido contratados con documentación falsa, alterada o con cualquier otro medio ilícito, o de terceros sin su conocimiento o utilizados sin la autorización de éstos o que por su origen, a la autoridad le resulte imposible conocer la identidad real del usuario del aparato o equipo de comunicación;
 III. Posea o porte, en su persona, en su domicilio, en el vehículo en el que se encuentre o se le relacione con éste, o en el lugar donde se le capture, uno o varios equipos o artefactos que permitan la intervención, escucha o transmisión de datos con respecto a canales de comunicación oficiales o de comunicaciones privadas.
