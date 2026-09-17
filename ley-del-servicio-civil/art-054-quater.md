@@ -1,0 +1,4 @@
+(ADICIONADO, P.O. 16 DE SEPTIEMBRE DE 2026)
+Artículo 54 Quater.- Todas las personas que padezcan enfermedades autoinmunes crónicas, progresivas o que generen limitaciones funcionales permanentes o intermitentes diagnosticadas por institución de salud pública o por especialistas acreditados, tendrán derecho a licencias de discapacidad parcial, las cuales podrán otorgarse por periodos de hasta treinta días y podrán renovarse conforme a lo establecido en el Artículo 56 de la presente Ley.
+Durante el periodo de licencia, el trabajador conservará íntegros sus derechos laborales, antigüedad, prestaciones y seguridad social, sin que pueda ser despedido, sancionado o afectado por su estado de salud.
+Se prohíbe todo acto de discriminación, despido, hostigamiento o represalia laboral en contra de las personas trabajadoras que padezcan enfermedades autoinmunes o que se encuentren bajo incapacidad o licencia médica derivada de las mismas.
