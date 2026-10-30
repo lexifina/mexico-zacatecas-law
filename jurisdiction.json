@@ -1,0 +1,11 @@
+{
+  "path": "mx-zac",
+  "code": "MX-ZAC",
+  "name": "Zacatecas",
+  "level": "state",
+  "parent": "mx",
+  "repo": "https://github.com/lexifina/mexico-zacatecas-law",
+  "build": "built: constitution, codes and laws (99 ordenamientos, 628 versions) from SCJN Legislación",
+  "language": "es",
+  "sources": 1
+}
